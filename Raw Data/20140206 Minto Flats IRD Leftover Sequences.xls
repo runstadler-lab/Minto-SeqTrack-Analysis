@@ -1,0 +1,108 @@
+Segment	Protein Name	Sequence Accession	Complete Genome	Segment Length	Subtype	Collection Date	Host Species	Country	State/Province	Flu Season	Strain Name	
+6	NA	CY080148*	No	1437	H8N4	06/16/2009	IRD:Mallard/Avian	USA	Alaska	08-09	A/mallard/Interior Alaska/9BM1358/2009(H8N4)	
+1	PB2	CY080153*	No	2316	H8N4	06/16/2009	IRD:Mallard/Avian	USA	Alaska	08-09	A/mallard/Interior Alaska/9BM1358/2009(H8N4)	
+2	PB1,PB1-F2	CY080152*	No	2284	H8N4	06/16/2009	IRD:Mallard/Avian	USA	Alaska	08-09	A/mallard/Interior Alaska/9BM1358/2009(H8N4)	
+8	NS1,NS2	CY080150*	No	855	H8N4	06/16/2009	IRD:Mallard/Avian	USA	Alaska	08-09	A/mallard/Interior Alaska/9BM1358/2009(H8N4)	
+7	M1,M2	CY080147*	No	1002	H8N4	06/16/2009	IRD:Mallard/Avian	USA	Alaska	08-09	A/mallard/Interior Alaska/9BM1358/2009(H8N4)	
+3	PA,PA-X protein(+61)	CY080151*	No	2208	H8N4	06/16/2009	IRD:Mallard/Avian	USA	Alaska	08-09	A/mallard/Interior Alaska/9BM1358/2009(H8N4)	
+5	NP	CY080149*	No	1533	H8N4	06/16/2009	IRD:Mallard/Avian	USA	Alaska	08-09	A/mallard/Interior Alaska/9BM1358/2009(H8N4)	
+4	NL	CY080146*	No	1718	H8N4	06/16/2009	IRD:Mallard/Avian	USA	Alaska	08-09	A/mallard/Interior Alaska/9BM1358/2009(H8N4)	
+7	M1,M2	CY079801	No	1002	H4N6	07/01/2009	IRD:Mallard/Avian	USA	Alaska	08-09	A/mallard/Interior Alaska/9BM1870/2009	
+2	NL	CY079806	No	2318	H4N6	07/01/2009	IRD:Mallard/Avian	USA	Alaska	08-09	A/mallard/Interior Alaska/9BM1870/2009	
+3	PA-X protein(other)	CY079805	No	2208	H4N6	07/01/2009	IRD:Mallard/Avian	USA	Alaska	08-09	A/mallard/Interior Alaska/9BM1870/2009	
+1	PB2	CY079807	No	2316	H4N6	07/01/2009	IRD:Mallard/Avian	USA	Alaska	08-09	A/mallard/Interior Alaska/9BM1870/2009	
+6	NA	CY079802	No	1426	H4N6	07/01/2009	IRD:Mallard/Avian	USA	Alaska	08-09	A/mallard/Interior Alaska/9BM1870/2009	
+8	NS1,NS2	CY079804	No	865	H4N6	07/01/2009	IRD:Mallard/Avian	USA	Alaska	08-09	A/mallard/Interior Alaska/9BM1870/2009	
+5	NP	CY079803	No	1539	H4N6	07/01/2009	IRD:Mallard/Avian	USA	Alaska	08-09	A/mallard/Interior Alaska/9BM1870/2009	
+4	HA	CY079800	No	1713	H4N6	07/01/2009	IRD:Mallard/Avian	USA	Alaska	08-09	A/mallard/Interior Alaska/9BM1870/2009	
+5	NP	CY079842	No	1529	H4N6	07/06/2009	IRD:Mallard/Avian	USA	Alaska	08-09	A/mallard/Interior Alaska/9BM1972/2009	
+1	PB2	CY079846	No	2316	H4N6	07/06/2009	IRD:Mallard/Avian	USA	Alaska	08-09	A/mallard/Interior Alaska/9BM1972/2009	
+8	NS1,NS2	CY079843	No	865	H4N6	07/06/2009	IRD:Mallard/Avian	USA	Alaska	08-09	A/mallard/Interior Alaska/9BM1972/2009	
+7	M1,M2	CY079840	No	1002	H4N6	07/06/2009	IRD:Mallard/Avian	USA	Alaska	08-09	A/mallard/Interior Alaska/9BM1972/2009	
+4	NL	CY079839	No	1414	H4N6	07/06/2009	IRD:Mallard/Avian	USA	Alaska	08-09	A/mallard/Interior Alaska/9BM1972/2009	
+6	NA	CY079841	No	1437	H4N6	07/06/2009	IRD:Mallard/Avian	USA	Alaska	08-09	A/mallard/Interior Alaska/9BM1972/2009	
+2	PB1,PB1-F2	CY079845	No	2316	H4N6	07/06/2009	IRD:Mallard/Avian	USA	Alaska	08-09	A/mallard/Interior Alaska/9BM1972/2009	
+3	PA,PA-X protein(+61)	CY079844	No	2208	H4N6	07/06/2009	IRD:Mallard/Avian	USA	Alaska	08-09	A/mallard/Interior Alaska/9BM1972/2009	
+7	M1,M2	CY135384	Yes	1002	H10N7	07/21/2009	IRD:Mallard/Avian	USA	Alaska	08-09	A/mallard/Interior Alaska/9BM3355R0/2009(H10N7)	
+6	NA	CY135385	Yes	1433	H10N7	07/21/2009	IRD:Mallard/Avian	USA	Alaska	08-09	A/mallard/Interior Alaska/9BM3355R0/2009(H10N7)	
+1	PB2	CY135390	Yes	2297	H10N7	07/21/2009	IRD:Mallard/Avian	USA	Alaska	08-09	A/mallard/Interior Alaska/9BM3355R0/2009(H10N7)	
+3	PA,PA-X protein(+61)	CY135388	Yes	2208	H10N7	07/21/2009	IRD:Mallard/Avian	USA	Alaska	08-09	A/mallard/Interior Alaska/9BM3355R0/2009(H10N7)	
+8	NS1,NS2	CY135387	Yes	848	H10N7	07/21/2009	IRD:Mallard/Avian	USA	Alaska	08-09	A/mallard/Interior Alaska/9BM3355R0/2009(H10N7)	
+2	PB1,PB1-F2	CY135389	Yes	2316	H10N7	07/21/2009	IRD:Mallard/Avian	USA	Alaska	08-09	A/mallard/Interior Alaska/9BM3355R0/2009(H10N7)	
+5	NP	CY135386	Yes	1537	H10N7	07/21/2009	IRD:Mallard/Avian	USA	Alaska	08-09	A/mallard/Interior Alaska/9BM3355R0/2009(H10N7)	
+4	HA	CY135383	Yes	1703	H10N7	07/21/2009	IRD:Mallard/Avian	USA	Alaska	08-09	A/mallard/Interior Alaska/9BM3355R0/2009(H10N7)	
+1	PB2	CY141406*	No	2306	H10N7	2009	IRD:Northern Pintail/Avian	USA	Alaska	-N/A-	A/northern pintail/Interior Alaska/9BM10959R2/2009(H10N7)	
+6	NA	CY141400*	No	1436	H10N7	2009	IRD:Northern Pintail/Avian	USA	Alaska	-N/A-	A/northern pintail/Interior Alaska/9BM10959R2/2009(H10N7)	
+8	NS1,NS2	CY141402*	No	848	H10N7	2009	IRD:Northern Pintail/Avian	USA	Alaska	-N/A-	A/northern pintail/Interior Alaska/9BM10959R2/2009(H10N7)	
+3	PA,PA-X protein(other)	CY141403*	No	2208	H10N7	2009	IRD:Northern Pintail/Avian	USA	Alaska	-N/A-	A/northern pintail/Interior Alaska/9BM10959R2/2009(H10N7)	
+2	PB1	CY141404*	No	368	H10N7	2009	IRD:Northern Pintail/Avian	USA	Alaska	-N/A-	A/northern pintail/Interior Alaska/9BM10959R2/2009(H10N7)	
+2	PB1	CY141405*	No	488	H10N7	2009	IRD:Northern Pintail/Avian	USA	Alaska	-N/A-	A/northern pintail/Interior Alaska/9BM10959R2/2009(H10N7)	
+4	HA	CY141398*	No	1703	H10N7	2009	IRD:Northern Pintail/Avian	USA	Alaska	-N/A-	A/northern pintail/Interior Alaska/9BM10959R2/2009(H10N7)	
+7	M1,M2	CY141399*	No	1002	H10N7	2009	IRD:Northern Pintail/Avian	USA	Alaska	-N/A-	A/northern pintail/Interior Alaska/9BM10959R2/2009(H10N7)	
+5	NP	CY141401*	No	1537	H10N7	2009	IRD:Northern Pintail/Avian	USA	Alaska	-N/A-	A/northern pintail/Interior Alaska/9BM10959R2/2009(H10N7)	
+2	PB1,PB1-F2	CY141373*	No	2313	H10N7	2009	IRD:Northern Pintail/Avian	USA	Alaska	-N/A-	A/northern pintail/Interior Alaska/9BM11389R0/2009(H10N7)	
+7	M1,M2	CY141368*	No	1002	H10N7	2009	IRD:Northern Pintail/Avian	USA	Alaska	-N/A-	A/northern pintail/Interior Alaska/9BM11389R0/2009(H10N7)	
+3	PA,PA-X protein(+61)	CY141372*	No	2208	H10N7	2009	IRD:Northern Pintail/Avian	USA	Alaska	-N/A-	A/northern pintail/Interior Alaska/9BM11389R0/2009(H10N7)	
+1	PB2	CY141374*	No	2306	H10N7	2009	IRD:Northern Pintail/Avian	USA	Alaska	-N/A-	A/northern pintail/Interior Alaska/9BM11389R0/2009(H10N7)	
+8	NS1,NS2	CY141371*	No	848	H10N7	2009	IRD:Northern Pintail/Avian	USA	Alaska	-N/A-	A/northern pintail/Interior Alaska/9BM11389R0/2009(H10N7)	
+4	HA	CY141367*	No	1701	H10N7	2009	IRD:Northern Pintail/Avian	USA	Alaska	-N/A-	A/northern pintail/Interior Alaska/9BM11389R0/2009(H10N7)	
+6	NA	CY141369*	No	1433	H10N7	2009	IRD:Northern Pintail/Avian	USA	Alaska	-N/A-	A/northern pintail/Interior Alaska/9BM11389R0/2009(H10N7)	
+5	NP	CY141370*	No	1402	H10N7	2009	IRD:Northern Pintail/Avian	USA	Alaska	-N/A-	A/northern pintail/Interior Alaska/9BM11389R0/2009(H10N7)	
+8	NS1,NS2	CY141445	No	865	H3N7	08/19/2009	IRD:Northern Pintail/Avian	USA	Alaska	08-09	A/northern pintail/Interior Alaska/9BM11787R0/2009	
+6	NA	CY141443	No	319	H3N7	08/19/2009	IRD:Northern Pintail/Avian	USA	Alaska	08-09	A/northern pintail/Interior Alaska/9BM11787R0/2009	
+7	M1,M2	CY141442	No	1002	H3N7	08/19/2009	IRD:Northern Pintail/Avian	USA	Alaska	08-09	A/northern pintail/Interior Alaska/9BM11787R0/2009	
+2	PB1,PB1-F2	CY141447	No	2309	H3N7	08/19/2009	IRD:Northern Pintail/Avian	USA	Alaska	08-09	A/northern pintail/Interior Alaska/9BM11787R0/2009	
+3	PA,PA-X protein(+61)	CY141446	No	2208	H3N7	08/19/2009	IRD:Northern Pintail/Avian	USA	Alaska	08-09	A/northern pintail/Interior Alaska/9BM11787R0/2009	
+1	PB2	CY141448	No	2316	H3N7	08/19/2009	IRD:Northern Pintail/Avian	USA	Alaska	08-09	A/northern pintail/Interior Alaska/9BM11787R0/2009	
+4	HA	CY141441	No	1740	H3N7	08/19/2009	IRD:Northern Pintail/Avian	USA	Alaska	08-09	A/northern pintail/Interior Alaska/9BM11787R0/2009	
+5	NP	CY141444	No	1535	H3N7	08/19/2009	IRD:Northern Pintail/Avian	USA	Alaska	08-09	A/northern pintail/Interior Alaska/9BM11787R0/2009	
+4	HA	CY141424*	No	524	H10N7	2009	IRD:Northern Pintail/Avian	USA	Alaska	-N/A-	A/northern pintail/Interior Alaska/9BM6019R1/2009	
+1	PB2	CY141432*	No	377	H10N7	2009	IRD:Northern Pintail/Avian	USA	Alaska	-N/A-	A/northern pintail/Interior Alaska/9BM6019R1/2009	
+1	PB2	CY141431*	No	288	H10N7	2009	IRD:Northern Pintail/Avian	USA	Alaska	-N/A-	A/northern pintail/Interior Alaska/9BM6019R1/2009	
+3	PA,PA-X protein(other)	CY141429*	No	2208	H10N7	2009	IRD:Northern Pintail/Avian	USA	Alaska	-N/A-	A/northern pintail/Interior Alaska/9BM6019R1/2009	
+6	NA	CY141426*	No	1433	H10N7	2009	IRD:Northern Pintail/Avian	USA	Alaska	-N/A-	A/northern pintail/Interior Alaska/9BM6019R1/2009	
+8	NS1,NS2	CY141428*	No	848	H10N7	2009	IRD:Northern Pintail/Avian	USA	Alaska	-N/A-	A/northern pintail/Interior Alaska/9BM6019R1/2009	
+5	NP	CY141427*	No	1412	H10N7	2009	IRD:Northern Pintail/Avian	USA	Alaska	-N/A-	A/northern pintail/Interior Alaska/9BM6019R1/2009	
+7	M1,M2	CY141425*	No	1002	H10N7	2009	IRD:Northern Pintail/Avian	USA	Alaska	-N/A-	A/northern pintail/Interior Alaska/9BM6019R1/2009	
+4	HA	CY141423*	No	215	H10N7	2009	IRD:Northern Pintail/Avian	USA	Alaska	-N/A-	A/northern pintail/Interior Alaska/9BM6019R1/2009	
+2	PB1	CY141430*	No	803	H10N7	2009	IRD:Northern Pintail/Avian	USA	Alaska	-N/A-	A/northern pintail/Interior Alaska/9BM6019R1/2009	
+1	PB2	CY141422	No	2306	H10N7	2009	IRD:Northern Pintail/Avian	USA	Alaska	-N/A-	A/northern pintail/Interior Alaska/9BM6165R0/2009	
+5	NP	CY141418	No	1537	H10N7	2009	IRD:Northern Pintail/Avian	USA	Alaska	-N/A-	A/northern pintail/Interior Alaska/9BM6165R0/2009	
+2	PB1,PB1-F2	CY141421	No	2316	H10N7	2009	IRD:Northern Pintail/Avian	USA	Alaska	-N/A-	A/northern pintail/Interior Alaska/9BM6165R0/2009	
+7	M1,M2	CY141416	No	994	H10N7	2009	IRD:Northern Pintail/Avian	USA	Alaska	-N/A-	A/northern pintail/Interior Alaska/9BM6165R0/2009	
+6	NA	CY141417	No	1433	H10N7	2009	IRD:Northern Pintail/Avian	USA	Alaska	-N/A-	A/northern pintail/Interior Alaska/9BM6165R0/2009	
+4	HA	CY141415	No	1660	H10N7	2009	IRD:Northern Pintail/Avian	USA	Alaska	-N/A-	A/northern pintail/Interior Alaska/9BM6165R0/2009	
+8	NS1,NS2	CY141419	No	848	H10N7	2009	IRD:Northern Pintail/Avian	USA	Alaska	-N/A-	A/northern pintail/Interior Alaska/9BM6165R0/2009	
+3	PA,PA-X protein(+61)	CY141420	No	2208	H10N7	2009	IRD:Northern Pintail/Avian	USA	Alaska	-N/A-	A/northern pintail/Interior Alaska/9BM6165R0/2009	
+8	NS1,NS2	CY141437*	No	865	H4N6	08/05/2009	IRD:Northern Pintail/Avian	USA	Alaska	08-09	A/northern pintail/Interior Alaska/9BM6800R0/2009	
+4	HA	CY141433*	No	650	H4N6	08/05/2009	IRD:Northern Pintail/Avian	USA	Alaska	08-09	A/northern pintail/Interior Alaska/9BM6800R0/2009	
+3	PA,PA-X protein(+61)	CY141438*	No	2200	H4N6	08/05/2009	IRD:Northern Pintail/Avian	USA	Alaska	08-09	A/northern pintail/Interior Alaska/9BM6800R0/2009	
+2	PB1	CY141439*	No	1886	H4N6	08/05/2009	IRD:Northern Pintail/Avian	USA	Alaska	08-09	A/northern pintail/Interior Alaska/9BM6800R0/2009	
+1	PB2	CY141440*	No	2316	H4N6	08/05/2009	IRD:Northern Pintail/Avian	USA	Alaska	08-09	A/northern pintail/Interior Alaska/9BM6800R0/2009	
+7	M1,M2	CY141434*	No	1002	H4N6	08/05/2009	IRD:Northern Pintail/Avian	USA	Alaska	08-09	A/northern pintail/Interior Alaska/9BM6800R0/2009	
+6	NA	CY141435*	No	1440	H4N6	08/05/2009	IRD:Northern Pintail/Avian	USA	Alaska	08-09	A/northern pintail/Interior Alaska/9BM6800R0/2009	
+5	NP	CY141436*	No	1417	H4N6	08/05/2009	IRD:Northern Pintail/Avian	USA	Alaska	08-09	A/northern pintail/Interior Alaska/9BM6800R0/2009	
+4	HA	CY141359	No	1669	H10N7	2009	IRD:Northern Pintail/Avian	USA	Alaska	-N/A-	A/northern pintail/Interior Alaska/9BM9037R0/2009	
+7	M1,M2	CY141360	No	1002	H10N7	2009	IRD:Northern Pintail/Avian	USA	Alaska	-N/A-	A/northern pintail/Interior Alaska/9BM9037R0/2009	
+5	NP	CY141362	No	1535	H10N7	2009	IRD:Northern Pintail/Avian	USA	Alaska	-N/A-	A/northern pintail/Interior Alaska/9BM9037R0/2009	
+8	NS1,NS2	CY141363	No	848	H10N7	2009	IRD:Northern Pintail/Avian	USA	Alaska	-N/A-	A/northern pintail/Interior Alaska/9BM9037R0/2009	
+2	PB1	CY141365	No	2294	H10N7	2009	IRD:Northern Pintail/Avian	USA	Alaska	-N/A-	A/northern pintail/Interior Alaska/9BM9037R0/2009	
+3	PA,PA-X protein(+61)	CY141364	No	2208	H10N7	2009	IRD:Northern Pintail/Avian	USA	Alaska	-N/A-	A/northern pintail/Interior Alaska/9BM9037R0/2009	
+6	NA	CY141361	No	1437	H10N7	2009	IRD:Northern Pintail/Avian	USA	Alaska	-N/A-	A/northern pintail/Interior Alaska/9BM9037R0/2009	
+1	PB2	CY141366	No	2297	H10N7	2009	IRD:Northern Pintail/Avian	USA	Alaska	-N/A-	A/northern pintail/Interior Alaska/9BM9037R0/2009	
+6	NA	CY141385	No	1435	H8N4	2009	IRD:Northern Pintail/Avian	USA	Alaska	-N/A-	A/northern pintail/Interior Alaska/9BM9955R0/2009	
+1	PB2	CY141390	No	2295	H8N4	2009	IRD:Northern Pintail/Avian	USA	Alaska	-N/A-	A/northern pintail/Interior Alaska/9BM9955R0/2009	
+8	NS1,NS2	CY141387	No	855	H8N4	2009	IRD:Northern Pintail/Avian	USA	Alaska	-N/A-	A/northern pintail/Interior Alaska/9BM9955R0/2009	
+2	PB1,PB1-F2	CY141389	No	2316	H8N4	2009	IRD:Northern Pintail/Avian	USA	Alaska	-N/A-	A/northern pintail/Interior Alaska/9BM9955R0/2009	
+4	HA	CY141383	No	1700	H8N4	2009	IRD:Northern Pintail/Avian	USA	Alaska	-N/A-	A/northern pintail/Interior Alaska/9BM9955R0/2009	
+5	NP	CY141386	No	1540	H8N4	2009	IRD:Northern Pintail/Avian	USA	Alaska	-N/A-	A/northern pintail/Interior Alaska/9BM9955R0/2009	
+3	PA,PA-X protein(+61)	CY141388	No	2208	H8N4	2009	IRD:Northern Pintail/Avian	USA	Alaska	-N/A-	A/northern pintail/Interior Alaska/9BM9955R0/2009	
+7	M1,M2	CY141384	No	1002	H8N4	2009	IRD:Northern Pintail/Avian	USA	Alaska	-N/A-	A/northern pintail/Interior Alaska/9BM9955R0/2009	
+6	NA	CY141377	No	1432	H8N4	2009	IRD:Northern Shoveler/Avian	USA	Alaska	-N/A-	A/northern shoveler/Interior Alaska/9BM12350R0/2009	
+3	PA,PA-X protein(+61)	CY141380	No	2208	H8N4	2009	IRD:Northern Shoveler/Avian	USA	Alaska	-N/A-	A/northern shoveler/Interior Alaska/9BM12350R0/2009	
+5	NP	CY141378	No	1540	H8N4	2009	IRD:Northern Shoveler/Avian	USA	Alaska	-N/A-	A/northern shoveler/Interior Alaska/9BM12350R0/2009	
+8	NS1,NS2	CY141379	No	865	H8N4	2009	IRD:Northern Shoveler/Avian	USA	Alaska	-N/A-	A/northern shoveler/Interior Alaska/9BM12350R0/2009	
+7	M1,M2	CY141376	No	1002	H8N4	2009	IRD:Northern Shoveler/Avian	USA	Alaska	-N/A-	A/northern shoveler/Interior Alaska/9BM12350R0/2009	
+4	HA	CY141375	No	466	H8N4	2009	IRD:Northern Shoveler/Avian	USA	Alaska	-N/A-	A/northern shoveler/Interior Alaska/9BM12350R0/2009	
+1	PB2	CY141382	No	2316	H8N4	2009	IRD:Northern Shoveler/Avian	USA	Alaska	-N/A-	A/northern shoveler/Interior Alaska/9BM12350R0/2009	
+2	PB1,PB1-F2	CY141381	No	2316	H8N4	2009	IRD:Northern Shoveler/Avian	USA	Alaska	-N/A-	A/northern shoveler/Interior Alaska/9BM12350R0/2009	
