@@ -1,0 +1,956 @@
+,Sink,Source,Time Class,Time Delta,Transmission Type,Weight
+0,A/mallard/Interior Alaska/9BM2168/2009,A/mallard/Interior Alaska/9BM1958/2009,Direct Transmission,6,Intra-Species,7.998919
+1,A/mallard/Interior Alaska/9BM1947/2009,A/mallard/Interior Alaska/9BM1958/2009,Direct Transmission,0,Intra-Species,8.0
+2,A/mallard/Interior Alaska/9BM1962/2009,A/mallard/Interior Alaska/9BM1958/2009,Direct Transmission,0,Intra-Species,8.0
+3,A/northern pintail/Interior Alaska/10BM10928R0/2010,A/northern pintail/Interior Alaska/10BM10480R0/2010,Direct Transmission,2,Intra-Species,7.997363000000001
+4,A/northern pintail/Interior Alaska/9BM7302R0/2009,A/northern pintail/Interior Alaska/9BM6248R0/2009,Direct Transmission,4,Intra-Species,7.9026809999999985
+5,A/mallard/Interior Alaska/10BM12363R0/2010,A/mallard/Interior Alaska/10BM12374R0/2010,Direct Transmission,0,Intra-Species,8.0
+6,A/mallard/Interior Alaska/10BM12351R0/2010,A/mallard/Interior Alaska/10BM12374R0/2010,Direct Transmission,0,Intra-Species,7.999425
+7,A/mallard/Interior Alaska/10BM12370R0/2010,A/mallard/Interior Alaska/10BM12374R0/2010,Direct Transmission,0,Intra-Species,8.0
+8,A/mallard/Interior Alaska/10BM12350R0/2010,A/mallard/Interior Alaska/10BM12374R0/2010,Direct Transmission,0,Intra-Species,8.0
+9,A/mallard/Interior Alaska/10BM12352R0/2010,A/mallard/Interior Alaska/10BM12374R0/2010,Direct Transmission,0,Intra-Species,7.999351
+10,A/mallard/Interior Alaska/10BM12383R0/2010,A/mallard/Interior Alaska/10BM12374R0/2010,Direct Transmission,0,Intra-Species,7.998842999999999
+11,A/mallard/Interior Alaska/9BM9201R0/2009,A/American green-winged teal/Interior Alaska/9BM4407R0/2009,Environmental Persistence,16,Inter-Species,7.998849000000001
+12,A/mallard/Interior Alaska/9BM8921R0/2009,A/American green-winged teal/Interior Alaska/9BM4407R0/2009,Direct Transmission,15,Inter-Species,7.998528
+13,A/mallard/Interior Alaska/9BM7218R0/2009,A/American green-winged teal/Interior Alaska/9BM4407R0/2009,Direct Transmission,10,Inter-Species,7.863749
+14,A/northern pintail/Interior Alaska/9BM9065R0/2009,A/American green-winged teal/Interior Alaska/9BM4407R0/2009,Direct Transmission,15,Inter-Species,7.996608
+15,A/northern pintail/Interior Alaska/9BM10835R0/2009,A/northern pintail/Interior Alaska/9BM10813R0/2009,Direct Transmission,0,Intra-Species,7.983961999999999
+16,A/mallard/Interior Alaska/9BM11065R0/2009,A/northern pintail/Interior Alaska/9BM10287R0/2009,Direct Transmission,2,Inter-Species,7.997057000000001
+17,A/mallard/Interior Alaska/10BM01929R0/2010,A/northern pintail/Interior Alaska/9BM10287R0/2009,Environmental Persistence,303,Inter-Species,7.961746999999999
+18,A/northern pintail/Interior Alaska/9BM11317R0/2009,A/northern pintail/Interior Alaska/9BM10287R0/2009,Direct Transmission,2,Intra-Species,7.998075
+19,A/northern pintail/Interior Alaska/9BM7882R0/2009,A/northern pintail/Interior Alaska/9BM6510R0/2009,Direct Transmission,4,Intra-Species,7.998964999999999
+20,A/northern pintail/Interior Alaska/9BM8967R0/2009,A/northern pintail/Interior Alaska/9BM6510R0/2009,Direct Transmission,7,Intra-Species,7.996267
+21,A/northern pintail/Interior Alaska/9BM7152R2/2009,A/northern pintail/Interior Alaska/9BM6510R0/2009,Direct Transmission,2,Intra-Species,7.991318
+22,A/northern pintail/Interior Alaska/9BM11643R0/2009,A/northern pintail/Interior Alaska/9BM6510R0/2009,Direct Transmission,14,Intra-Species,7.9946639999999976
+23,A/northern pintail/Interior Alaska/9BM10224R0/2009,A/northern pintail/Interior Alaska/9BM10236R0/2009,Direct Transmission,0,Intra-Species,8.0
+24,A/northern pintail/Interior Alaska/9BM10234R0/2009,A/northern pintail/Interior Alaska/9BM10236R0/2009,Direct Transmission,0,Intra-Species,8.0
+25,A/northern pintail/Interior Alaska/9BM10210R0/2009,A/northern pintail/Interior Alaska/9BM10236R0/2009,Direct Transmission,0,Intra-Species,8.0
+26,A/northern pintail/Interior Alaska/9BM11179R0/2009,A/northern pintail/Interior Alaska/9BM10236R0/2009,Direct Transmission,2,Intra-Species,7.999115
+27,A/northern pintail/Interior Alaska/9BM10218R0/2009,A/northern pintail/Interior Alaska/9BM10236R0/2009,Direct Transmission,0,Intra-Species,7.999547
+28,A/northern pintail/Interior Alaska/9BM10238R0/2009,A/northern pintail/Interior Alaska/9BM10236R0/2009,Direct Transmission,0,Intra-Species,8.0
+29,A/northern pintail/Interior Alaska/9BM10222R0/2009,A/northern pintail/Interior Alaska/9BM10236R0/2009,Direct Transmission,0,Intra-Species,8.0
+30,A/northern pintail/Interior Alaska/9BM10244R0/2009,A/northern pintail/Interior Alaska/9BM10236R0/2009,Direct Transmission,0,Intra-Species,8.0
+31,A/northern pintail/Interior Alaska/10BM09481R0/2010,A/mallard/Interior Alaska/10BM05347R0/2010,Direct Transmission,12,Inter-Species,7.997961
+32,A/northern pintail/Interior Alaska/10BM08400R0/2010,A/mallard/Interior Alaska/10BM05347R0/2010,Direct Transmission,10,Inter-Species,7.997246
+33,A/mallard/Interior Alaska/10BM07066R0/2010,A/mallard/Interior Alaska/10BM05347R0/2010,Direct Transmission,7,Intra-Species,7.994803
+34,A/mallard/Interior Alaska/10BM12534R0/2010,A/mallard/Interior Alaska/10BM05347R0/2010,Environmental Persistence,20,Intra-Species,7.995063
+35,A/northern pintail/Interior Alaska/10BM08586R0/2010,A/mallard/Interior Alaska/10BM05347R0/2010,Direct Transmission,10,Inter-Species,7.997999
+36,A/mallard/Interior Alaska/10BM08120R0/2010,A/mallard/Interior Alaska/10BM05347R0/2010,Direct Transmission,10,Intra-Species,7.9970940000000015
+37,A/mallard/Interior Alaska/10BM05860R0/2010,A/mallard/Interior Alaska/10BM05347R0/2010,Direct Transmission,1,Intra-Species,8.0
+38,A/northern pintail/Interior Alaska/10BM11208R0/2010,A/mallard/Interior Alaska/10BM05347R0/2010,Environmental Persistence,17,Inter-Species,7.99703
+39,A/mallard/Interior Alaska/10BM09528R0/2010,A/mallard/Interior Alaska/10BM09539R0/2010,Direct Transmission,0,Intra-Species,7.999535000000002
+40,A/mallard/Interior Alaska/10BM09548R0/2010,A/mallard/Interior Alaska/10BM09539R0/2010,Direct Transmission,0,Intra-Species,7.996372
+41,A/mallard/Interior Alaska/9BM11542R0/2009,A/mallard/Interior Alaska/9BM10051R0/2009,Direct Transmission,4,Intra-Species,7.999115
+42,A/northern pintail/Interior Alaska/10BM08903R0/2010,A/northern pintail/Interior Alaska/10BM08899R0/2010,Direct Transmission,0,Intra-Species,8.0
+43,A/northern pintail/Interior Alaska/9BM9663R0/2009,A/northern pintail/Interior Alaska/9BM4583R0/2009,Environmental Persistence,16,Intra-Species,7.989619999999999
+44,A/northern pintail/Interior Alaska/10BM07469R0/2010,A/mallard/Interior Alaska/10BM07092R0/2010,Direct Transmission,1,Inter-Species,7.998258
+45,A/northern pintail/Interior Alaska/10BM07106R0/2010,A/mallard/Interior Alaska/10BM07092R0/2010,Direct Transmission,0,Inter-Species,7.998714
+46,A/northern pintail/Interior Alaska/10BM07114R0/2010,A/mallard/Interior Alaska/10BM07092R0/2010,Direct Transmission,0,Inter-Species,8.0
+47,A/mallard/Interior Alaska/10BM08100R0/2010,A/mallard/Interior Alaska/10BM07092R0/2010,Direct Transmission,3,Intra-Species,7.9977839999999984
+48,A/mallard/Interior Alaska/9BM12523R0/2009,A/mallard/Alberta/551/2009,Direct Transmission,11,Intra-Species,7.680594000000001
+49,A/mallard/Interior Alaska/9BM12326R0/2009,A/northern pintail/Interior Alaska/9BM11757R0/2009,Direct Transmission,14,Inter-Species,7.976176
+50,A/environment/Indiana/10OS1500/2010,A/northern pintail/Interior Alaska/9BM11757R0/2009,Environmental Persistence,380,Inter-Species,7.517458
+51,A/mallard/Wisconsin/10OS2909/2010,A/northern pintail/Interior Alaska/9BM11757R0/2009,Environmental Persistence,410,Inter-Species,7.510771000000001
+52,A/northern pintail/Interior Alaska/10BM04668R0/2010,A/mallard/Interior Alaska/10BM04623R0/2010,Direct Transmission,0,Inter-Species,7.9985490000000015
+53,A/mallard/Interior Alaska/10BM04624R0/2010,A/mallard/Interior Alaska/10BM04623R0/2010,Direct Transmission,0,Intra-Species,8.0
+54,A/northern pintail/Interior Alaska/10BM04722R0/2010,A/mallard/Interior Alaska/10BM04623R0/2010,Direct Transmission,0,Inter-Species,8.0
+55,A/American green-winged teal/Interior Alaska/10BM08226R0/2010,A/mallard/Interior Alaska/10BM04623R0/2010,Environmental Persistence,17,Inter-Species,7.983749
+56,A/American green-winged teal/Interior Alaska/10BM06728R0/2010,A/mallard/Interior Alaska/10BM04623R0/2010,Direct Transmission,12,Inter-Species,7.9887520000000025
+57,A/northern pintail/Interior Alaska/9BM10146R0/2009,A/mallard/Interior Alaska/9BM9755R0/2009,Direct Transmission,1,Inter-Species,8.0
+58,A/northern pintail/Interior Alaska/9BM10525R2/2009,A/mallard/Interior Alaska/9BM9755R0/2009,Direct Transmission,2,Inter-Species,8.0
+59,A/northern pintail/Interior Alaska/10BM00849R2/2010,A/mallard/Interior Alaska/9BM9755R0/2009,Environmental Persistence,282,Inter-Species,7.9979359999999975
+60,A/northern pintail/Interior Alaska/9BM11431R0/2009,A/mallard/Interior Alaska/9BM9755R0/2009,Direct Transmission,4,Inter-Species,7.996569999999998
+61,A/northern pintail/Interior Alaska/9BM9973R0/2009,A/mallard/Interior Alaska/9BM9755R0/2009,Direct Transmission,1,Inter-Species,8.0
+62,A/mallard/Minnesota/AI09-3228/2009,A/mallard/Interior Alaska/9BM9755R0/2009,Environmental Persistence,25,Intra-Species,7.555224000000001
+63,A/northern pintail/Interior Alaska/9BM11325R0/2009,A/mallard/Interior Alaska/9BM9755R0/2009,Direct Transmission,4,Inter-Species,7.999567999999999
+64,A/mallard/Interior Alaska/9BM3379R0/2009,A/mallard/Interior Alaska/9BM3361R0/2009,Direct Transmission,1,Intra-Species,8.0
+65,A/mallard/Interior Alaska/9BM3355R0/2009,A/mallard/Interior Alaska/9BM3361R0/2009,Direct Transmission,0,Intra-Species,7.9994130000000006
+66,A/American green-winged teal/Interior Alaska/9BM3595R1/2009,A/mallard/Interior Alaska/9BM3361R0/2009,Direct Transmission,2,Inter-Species,8.0
+67,A/mallard/Interior Alaska/9BM3357R0/2009,A/mallard/Interior Alaska/9BM3361R0/2009,Direct Transmission,0,Intra-Species,8.0
+68,A/mallard/Interior Alaska/10BM08884R0/2010,A/mallard/Interior Alaska/10BM08883R0/2010,Direct Transmission,0,Intra-Species,7.999567
+69,A/mallard/Interior Alaska/10BM08874R0/2010,A/mallard/Interior Alaska/10BM08883R0/2010,Direct Transmission,0,Intra-Species,8.0
+70,A/American green-winged teal/Interior Alaska/10BM08222R0/2010,A/mallard/Interior Alaska/9BM12627R0/2009,Environmental Persistence,334,Inter-Species,7.5955270000000015
+71,A/blue-winged teal/Nova Scotia/01002/2010,A/mallard/Interior Alaska/9BM12627R0/2009,Environmental Persistence,381,Inter-Species,7.5058050000000005
+72,A/northern pintail/Interior Alaska/10BM00303R0/2010,A/mallard/Interior Alaska/9BM12627R0/2009,Environmental Persistence,252,Inter-Species,7.978626999999999
+73,A/northern pintail/Interior Alaska/9BM12700R0/2009,A/mallard/Interior Alaska/9BM12627R0/2009,Direct Transmission,2,Inter-Species,7.715136
+74,A/mallard/Interior Alaska/9BM1968/2009,A/mallard/Interior Alaska/9BM1957/2009,Direct Transmission,2,Intra-Species,7.974506000000001
+75,A/mallard/Interior Alaska/9BM2259/2009,A/mallard/Interior Alaska/9BM1957/2009,Direct Transmission,7,Intra-Species,7.998984
+76,A/mallard/Interior Alaska/9BM1969/2009,A/mallard/Interior Alaska/9BM1957/2009,Direct Transmission,2,Intra-Species,7.999416
+77,A/mallard/Interior Alaska/9BM1972/2009,A/mallard/Interior Alaska/9BM1957/2009,Direct Transmission,2,Intra-Species,7.999292999999999
+78,A/mallard/Interior Alaska/10BM06835R0/2010,A/mallard/Interior Alaska/10BM06828R0/2010,Direct Transmission,0,Intra-Species,7.999567999999999
+79,A/northern pintail/Interior Alaska/9BM9005R0/2009,A/American green-winged teal/Interior Alaska/9BM6223R0/2009,Direct Transmission,8,Inter-Species,7.995710000000001
+80,A/northern pintail/Interior Alaska/9BM8084R0/2009,A/American green-winged teal/Interior Alaska/9BM6223R0/2009,Direct Transmission,6,Inter-Species,7.9980030000000015
+81,A/American green-winged teal/Interior Alaska/9BM6702R0/2009,A/American green-winged teal/Interior Alaska/9BM6223R0/2009,Direct Transmission,1,Intra-Species,7.997960000000001
+82,A/northern pintail/Interior Alaska/9BM6229R0/2009,A/American green-winged teal/Interior Alaska/9BM6223R0/2009,Direct Transmission,0,Inter-Species,8.0
+83,A/northern pintail/Interior Alaska/9BM7696R0/2009,A/American green-winged teal/Interior Alaska/9BM6223R0/2009,Direct Transmission,5,Inter-Species,8.0
+84,A/American green-winged teal/Interior Alaska/9BM6222R0/2009,A/American green-winged teal/Interior Alaska/9BM6223R0/2009,Direct Transmission,0,Intra-Species,8.0
+85,A/American green-winged teal/Interior Alaska/9BM6225R0/2009,A/American green-winged teal/Interior Alaska/9BM6223R0/2009,Direct Transmission,0,Intra-Species,8.0
+86,A/blue-winged teal/Guatemala/CIP049-15/2010,A/northern shoveler/Interior Alaska/9BM2925R0/2009,Environmental Persistence,199,Inter-Species,7.6922609999999985
+87,A/northern pintail/Interior Alaska/10BM08493R0/2010,A/northern pintail/Interior Alaska/10BM08489R0/2010,Direct Transmission,0,Intra-Species,7.999567999999999
+88,A/northern pintail/Interior Alaska/10BM08488R0/2010,A/northern pintail/Interior Alaska/10BM08489R0/2010,Direct Transmission,0,Intra-Species,8.0
+89,A/northern pintail/Interior Alaska/10BM08505R0/2010,A/northern pintail/Interior Alaska/10BM08489R0/2010,Direct Transmission,0,Intra-Species,7.998993
+90,A/northern pintail/Interior Alaska/10BM11672R0/2010,A/northern pintail/Interior Alaska/10BM08489R0/2010,Direct Transmission,9,Intra-Species,7.990596000000001
+91,A/American green-winged teal/Interior Alaska/10BM08134R0/2010,A/northern pintail/Interior Alaska/10BM08489R0/2010,Direct Transmission,0,Inter-Species,7.9951050000000015
+92,A/mallard/Wisconsin/10OS3084/2010,A/northern pintail/Interior Alaska/10BM08489R0/2010,Environmental Persistence,60,Inter-Species,7.636416
+93,A/mallard/Interior Alaska/9BM1807/2009,A/mallard/Interior Alaska/9BM1864/2009,Direct Transmission,1,Intra-Species,7.998832000000001
+94,A/mallard/Interior Alaska/9BM1869/2009,A/mallard/Interior Alaska/9BM1864/2009,Direct Transmission,0,Intra-Species,7.9969319999999975
+95,A/mallard/Interior Alaska/9BM2164/2009,A/mallard/Interior Alaska/9BM1864/2009,Direct Transmission,9,Intra-Species,7.9955289999999986
+96,A/mallard/Interior Alaska/9BM1809/2009,A/mallard/Interior Alaska/9BM1864/2009,Direct Transmission,1,Intra-Species,7.997375
+97,A/mallard/Interior Alaska/9BM1812/2009,A/mallard/Interior Alaska/9BM1864/2009,Direct Transmission,1,Intra-Species,7.999115
+98,A/northern pintail/Interior Alaska/10BM12163R0/2010,A/mallard/Interior Alaska/10BM12177R0/2010,Direct Transmission,0,Inter-Species,7.998982000000002
+99,A/mallard/Interior Alaska/10BM12172R0/2010,A/mallard/Interior Alaska/10BM12177R0/2010,Direct Transmission,0,Intra-Species,7.998411
+100,A/mallard/Interior Alaska/9BM1967/2009,A/mallard/Interior Alaska/9BM1959/2009,Direct Transmission,2,Intra-Species,7.999567999999999
+101,A/mallard/Interior Alaska/9BM1964/2009,A/mallard/Interior Alaska/9BM1959/2009,Direct Transmission,2,Intra-Species,7.996810000000001
+102,A/mallard/Interior Alaska/9BM2077/2009,A/mallard/Interior Alaska/9BM1959/2009,Direct Transmission,5,Intra-Species,7.997095
+103,A/mallard/Iowa/10OS2492/2010,A/northern pintail/Interior Alaska/10BM05034R0/2010,Environmental Persistence,59,Inter-Species,7.520480000000001
+104,A/American black duck/New Brunswick/00949/2010,A/mallard/Interior Alaska/10CH00021R0/2010,Direct Transmission,11,Inter-Species,7.704047
+105,A/mallard/New Brunswick/00854/2010,A/mallard/Interior Alaska/10CH00021R0/2010,Direct Transmission,9,Intra-Species,7.670055
+106,A/blue-winged teal/Missouri/10MO030/2010,A/mallard/Interior Alaska/10CH00021R0/2010,Direct Transmission,12,Inter-Species,7.711832000000001
+107,A/northern pintail/Interior Alaska/10CH00003R0/2010,A/mallard/Interior Alaska/10CH00021R0/2010,Direct Transmission,0,Inter-Species,7.8279739999999975
+108,A/northern pintail/Interior Alaska/9BM12647R0/2009,A/mallard/Interior Alaska/9BM12285R0/2009,Direct Transmission,4,Inter-Species,7.994585000000002
+109,A/mallard/Interior Alaska/10BM05970R0/2010,A/mallard/Interior Alaska/9BM12285R0/2009,Environmental Persistence,329,Intra-Species,7.655210999999999
+110,A/mallard/Wisconsin/10OS2773/2010,A/mallard/Interior Alaska/9BM12285R0/2009,Environmental Persistence,390,Intra-Species,7.679579999999999
+111,A/wood duck/Wisconsin/10OS2778/2010,A/mallard/Interior Alaska/9BM12285R0/2009,Environmental Persistence,390,Inter-Species,7.678582
+112,A/mallard/Interior Alaska/9BM12567R0/2009,A/mallard/Interior Alaska/9BM12285R0/2009,Direct Transmission,3,Intra-Species,7.991439
+113,A/northern shoveler/Interior Alaska/9BM12298R0/2009,A/mallard/Interior Alaska/9BM12285R0/2009,Direct Transmission,0,Inter-Species,7.996389
+114,A/mallard/Interior Alaska/10BM06459R0/2010,A/mallard/Interior Alaska/10BM06448R0/2010,Direct Transmission,0,Intra-Species,7.999567
+115,A/mallard/Interior Alaska/10BM06452R0/2010,A/mallard/Interior Alaska/10BM06448R0/2010,Direct Transmission,0,Intra-Species,8.0
+116,A/mallard/Interior Alaska/10BM06454R0/2010,A/mallard/Interior Alaska/10BM06448R0/2010,Direct Transmission,0,Intra-Species,8.0
+117,A/mallard/Interior Alaska/10BM06456R0/2010,A/mallard/Interior Alaska/10BM06448R0/2010,Direct Transmission,0,Intra-Species,7.999414999999999
+118,A/mallard/Interior Alaska/10BM06460R0/2010,A/mallard/Interior Alaska/10BM06448R0/2010,Direct Transmission,0,Intra-Species,7.998991
+119,A/mallard/Interior Alaska/10BM06461R0/2010,A/mallard/Interior Alaska/10BM06448R0/2010,Direct Transmission,0,Intra-Species,8.0
+120,A/mallard/Interior Alaska/10BM06450R0/2010,A/mallard/Interior Alaska/10BM06448R0/2010,Direct Transmission,0,Intra-Species,8.0
+121,A/mallard/Interior Alaska/10BM06455R0/2010,A/mallard/Interior Alaska/10BM06448R0/2010,Direct Transmission,0,Intra-Species,7.999567
+122,A/mallard/Interior Alaska/10BM07777R0/2010,A/mallard/Interior Alaska/10BM06448R0/2010,Direct Transmission,4,Intra-Species,8.0
+123,A/northern pintail/Interior Alaska/9BM11487R0/2009,A/northern pintail/Interior Alaska/9BM10819R0/2009,Direct Transmission,1,Intra-Species,7.993514
+124,A/mallard/Interior Alaska/10BM08828R0/2010,A/northern pintail/Interior Alaska/10BM07993R0/2010,Direct Transmission,2,Inter-Species,7.994075
+125,A/mallard/Interior Alaska/9BM8389R0/2009,A/mallard/Interior Alaska/9BM7216R0/2009,Direct Transmission,8,Intra-Species,7.6802480000000015
+126,A/mallard/Interior Alaska/9BM7162R0/2009,A/mallard/Interior Alaska/9BM7216R0/2009,Direct Transmission,0,Intra-Species,7.992072999999999
+127,A/blue-winged teal/Missouri/10MO0011/2010,A/American green-winged teal/Interior Alaska/10BM04207R0/2010,Environmental Persistence,64,Inter-Species,7.559705
+128,A/mallard/Interior Alaska/10BM11497R0/2010,A/American green-winged teal/Interior Alaska/10BM04207R0/2010,Environmental Persistence,30,Inter-Species,7.9934020000000015
+129,A/mallard/Wisconsin/10OS3866/2010,A/American green-winged teal/Interior Alaska/10BM04207R0/2010,Environmental Persistence,123,Inter-Species,7.602417999999999
+130,A/mallard/Interior Alaska/10BM09893R0/2010,A/American green-winged teal/Interior Alaska/10BM04207R0/2010,Environmental Persistence,26,Inter-Species,7.992238
+131,A/mallard/Interior Alaska/10BM11416R0/2010,A/mallard/Interior Alaska/10BM11418R0/2010,Direct Transmission,0,Intra-Species,7.998432000000001
+132,A/mallard/Interior Alaska/9BM1967/2009,A/mallard/Interior Alaska/9BM1869/2009,Direct Transmission,5,Intra-Species,7.999567999999999
+133,A/mallard/Interior Alaska/9BM1864/2009,A/mallard/Interior Alaska/9BM1869/2009,Direct Transmission,0,Intra-Species,7.9969319999999975
+134,A/mallard/Interior Alaska/9BM1964/2009,A/mallard/Interior Alaska/9BM1869/2009,Direct Transmission,5,Intra-Species,7.996810000000001
+135,A/mallard/Interior Alaska/9BM1959/2009,A/mallard/Interior Alaska/9BM1869/2009,Direct Transmission,3,Intra-Species,8.0
+136,A/mallard/Interior Alaska/9BM2077/2009,A/mallard/Interior Alaska/9BM1869/2009,Direct Transmission,8,Intra-Species,7.997095
+137,A/mallard/Interior Alaska/9BM1856/2009,A/mallard/Interior Alaska/9BM1869/2009,Direct Transmission,1,Intra-Species,7.998608
+138,A/northern pintail/Interior Alaska/9BM9973R0/2009,A/mallard/Interior Alaska/9BM8465R0/2009,Direct Transmission,5,Inter-Species,8.0
+139,A/mallard/Interior Alaska/9BM9755R0/2009,A/mallard/Interior Alaska/9BM8465R0/2009,Direct Transmission,4,Intra-Species,8.0
+140,A/northern pintail/Interior Alaska/9BM8459R0/2009,A/mallard/Interior Alaska/9BM8465R0/2009,Direct Transmission,0,Inter-Species,8.0
+141,A/northern pintail/Interior Alaska/9BM10146R0/2009,A/mallard/Interior Alaska/9BM8465R0/2009,Direct Transmission,5,Inter-Species,8.0
+142,A/northern pintail/Interior Alaska/9BM8502R0/2009,A/mallard/Interior Alaska/9BM8465R0/2009,Direct Transmission,0,Inter-Species,8.0
+143,A/northern pintail/Interior Alaska/9BM10525R2/2009,A/mallard/Interior Alaska/9BM8465R0/2009,Direct Transmission,6,Inter-Species,8.0
+144,A/northern pintail/Interior Alaska/10BM00849R2/2010,A/mallard/Interior Alaska/9BM8465R0/2009,Environmental Persistence,286,Inter-Species,7.9979359999999975
+145,A/mallard/Minnesota/AI09-3228/2009,A/mallard/Interior Alaska/9BM8465R0/2009,Environmental Persistence,29,Intra-Species,7.555224000000001
+146,A/northern pintail/Interior Alaska/9BM8448R0/2009,A/mallard/Interior Alaska/9BM8465R0/2009,Direct Transmission,0,Inter-Species,8.0
+147,A/northern pintail/Interior Alaska/9BM11431R0/2009,A/mallard/Interior Alaska/9BM8465R0/2009,Direct Transmission,8,Inter-Species,7.996569999999998
+148,A/northern pintail/Interior Alaska/9BM11325R0/2009,A/mallard/Interior Alaska/9BM8465R0/2009,Direct Transmission,8,Inter-Species,7.999567999999999
+149,A/northern pintail/Interior Alaska/9BM8464R0/2009,A/mallard/Interior Alaska/9BM8465R0/2009,Direct Transmission,0,Inter-Species,7.999136
+150,A/mallard/Interior Alaska/9BM2535R0/2009,A/mallard/Interior Alaska/9BM2259/2009,Direct Transmission,1,Intra-Species,7.997216000000001
+151,A/northern shoveler/Interior Alaska/10BM05487R0/2010,A/northern shoveler/Interior Alaska/10BM05491R0/2010,Direct Transmission,0,Intra-Species,7.997965
+152,A/northern pintail/Interior Alaska/10BM10298R0/2010,A/northern shoveler/Interior Alaska/10BM05491R0/2010,Direct Transmission,14,Inter-Species,7.996253999999999
+153,A/mallard/Interior Alaska/10BM05968R0/2010,A/mallard/Interior Alaska/10BM05797R0/2010,Direct Transmission,1,Intra-Species,7.9837240000000005
+154,A/mallard/Interior Alaska/10BM10000R0/2010,A/mallard/Interior Alaska/10BM05797R0/2010,Direct Transmission,13,Intra-Species,7.990054999999999
+155,A/northern shoveler/Interior Alaska/9BM12314R0/2009,A/blue-winged Teal/Minnesota/AI09-2389/2009,Environmental Persistence,29,Inter-Species,7.693937000000001
+156,A/blue-winged teal/Louisiana/AI09-4180/2009,A/American green-winged teal/Interior Alaska/9BM8129R0/2009,Environmental Persistence,27,Inter-Species,7.656906000000001
+157,A/northern pintail/Interior Alaska/9BM7972R0/2009,A/American green-winged teal/Interior Alaska/9BM8129R0/2009,Direct Transmission,0,Inter-Species,7.997256
+158,A/northern pintail/Interior Alaska/9BM11719R1/2009,A/American green-winged teal/Interior Alaska/9BM8129R0/2009,Direct Transmission,10,Inter-Species,7.8201769999999975
+159,A/blue-winged teal/Wisconsin/2753/2009,A/American green-winged teal/Interior Alaska/9BM8129R0/2009,Environmental Persistence,76,Inter-Species,7.727762999999999
+160,A/blue-winged Teal/North Dakota/AI09-3131/2009,A/American green-winged teal/Interior Alaska/9BM8129R0/2009,Environmental Persistence,25,Inter-Species,7.711958
+161,A/mallard/Interior Alaska/9BM12627R0/2009,A/mallard/Interior Alaska/9BM8387R0/2009,Environmental Persistence,21,Intra-Species,7.924622
+162,A/northern pintail/Interior Alaska/9BM11572R0/2009,A/mallard/Interior Alaska/9BM8387R0/2009,Direct Transmission,6,Inter-Species,7.907129999999999
+163,A/ring-necked duck/Interior Alaska/10BM05617R0/2010,A/northern shoveler/Interior Alaska/10BM05408R0/2010,Direct Transmission,1,Inter-Species,7.995486
+164,A/northern pintail/Interior Alaska/10BM07040R0/2010,A/northern shoveler/Interior Alaska/10BM05408R0/2010,Direct Transmission,7,Inter-Species,7.990434
+165,A/mallard/Illinois/10OS4334/2010,A/mallard/Interior Alaska/9BM7218R0/2009,Environmental Persistence,478,Intra-Species,7.724444000000001
+166,A/northern shoveler/Mississippi/236/2010,A/mallard/Interior Alaska/9BM7218R0/2009,Environmental Persistence,159,Inter-Species,7.702185000000001
+167,A/northern pintail/Interior Alaska/10BM08899R0/2010,A/northern pintail/Interior Alaska/10BM08903R0/2010,Direct Transmission,0,Intra-Species,8.0
+168,A/mallard/Interior Alaska/9BM3379R0/2009,A/mallard/Interior Alaska/9BM3357R0/2009,Direct Transmission,1,Intra-Species,8.0
+169,A/mallard/Interior Alaska/9BM3361R0/2009,A/mallard/Interior Alaska/9BM3357R0/2009,Direct Transmission,0,Intra-Species,8.0
+170,A/mallard/Interior Alaska/9BM3355R0/2009,A/mallard/Interior Alaska/9BM3357R0/2009,Direct Transmission,0,Intra-Species,7.9994130000000006
+171,A/American green-winged teal/Interior Alaska/9BM3595R1/2009,A/mallard/Interior Alaska/9BM3357R0/2009,Direct Transmission,2,Inter-Species,8.0
+172,A/northern pintail/Interior Alaska/9BM11783R0/2009,A/northern pintail/Interior Alaska/9BM11317R0/2009,Direct Transmission,1,Intra-Species,8.0
+173,A/mallard/Interior Alaska/9BM2751R0/2009,A/mallard/Interior Alaska/9BM2750R0/2009,Direct Transmission,0,Intra-Species,7.9965670000000015
+174,A/mallard/Interior Alaska/9BM3016R0/2009,A/mallard/Interior Alaska/9BM2750R0/2009,Direct Transmission,2,Intra-Species,7.999547
+175,A/northern pintail/Interior Alaska/9BM9955R0/2009,A/northern pintail/Interior Alaska/9BM8237R0/2009,Direct Transmission,6,Intra-Species,7.9978099999999985
+176,A/mallard/Interior Alaska/9BM10111R0/2009,A/northern pintail/Interior Alaska/9BM7118R1/2009,Direct Transmission,9,Inter-Species,8.0
+177,A/northern pintail/Interior Alaska/9BM8553R0/2009,A/northern pintail/Interior Alaska/9BM7118R1/2009,Direct Transmission,4,Intra-Species,7.996977
+178,A/mallard/Interior Alaska/9BM10055R0/2009,A/northern pintail/Interior Alaska/9BM7118R1/2009,Direct Transmission,9,Inter-Species,7.9973899999999984
+179,A/mallard/Interior Alaska/9BM10051R0/2009,A/northern pintail/Interior Alaska/9BM7118R1/2009,Direct Transmission,9,Inter-Species,7.997242
+180,A/mallard/Interior Alaska/10BM02111R0/2010,A/mallard/Wisconsin/4218/2009,Environmental Persistence,187,Intra-Species,7.727178
+181,A/mallard/Interior Alaska/10BM06838R0/2010,A/northern pintail/Interior Alaska/10BM06306R0/2010,Direct Transmission,2,Inter-Species,8.0
+182,A/northern pintail/Interior Alaska/10BM06524R0/2010,A/northern pintail/Interior Alaska/10BM06306R0/2010,Direct Transmission,1,Intra-Species,7.997382000000001
+183,A/northern pintail/Interior Alaska/10BM07120R0/2010,A/northern pintail/Interior Alaska/10BM06306R0/2010,Direct Transmission,3,Intra-Species,7.998981
+184,A/northern pintail/Interior Alaska/10BM06303R0/2010,A/northern pintail/Interior Alaska/10BM06306R0/2010,Direct Transmission,0,Intra-Species,7.998828
+185,A/northern pintail/Interior Alaska/10BM07121R0/2010,A/northern pintail/Interior Alaska/10BM06306R0/2010,Direct Transmission,3,Intra-Species,8.0
+186,A/northern pintail/Interior Alaska/10BM07399R0/2010,A/northern pintail/Interior Alaska/10BM06306R0/2010,Direct Transmission,4,Intra-Species,7.958558999999998
+187,A/northern pintail/Interior Alaska/10BM06720R0/2010,A/northern pintail/Interior Alaska/10BM06306R0/2010,Direct Transmission,1,Intra-Species,7.999535000000002
+188,A/northern pintail/Interior Alaska/10BM07029R0/2010,A/northern pintail/Interior Alaska/10BM06306R0/2010,Direct Transmission,3,Intra-Species,7.998844
+189,A/mallard/Interior Alaska/10BM06828R0/2010,A/mallard/Interior Alaska/10BM06835R0/2010,Direct Transmission,0,Intra-Species,7.999567999999999
+190,A/mallard/Interior Alaska/9BM1965/2009,A/mallard/Interior Alaska/9BM1967/2009,Direct Transmission,0,Intra-Species,7.999547
+191,A/mallard/Interior Alaska/9BM2057/2009,A/mallard/Interior Alaska/9BM1967/2009,Direct Transmission,2,Intra-Species,8.0
+192,A/northern pintail/Interior Alaska/9BM9975R0/2009,A/mallard/Interior Alaska/9BM8471R0/2009,Direct Transmission,5,Inter-Species,7.9342510000000015
+193,A/blue-winged teal/New Brunswick/00291/2010,A/American green-winged teal/Interior Alaska/9BM6410R0/2009,Environmental Persistence,407,Inter-Species,7.647392
+194,A/northern pintail/Interior Alaska/9BM7836R0/2009,A/American green-winged teal/Interior Alaska/9BM6410R0/2009,Direct Transmission,5,Inter-Species,7.987932999999999
+195,A/blue-winged teal/New Brunswick/00283/2010,A/American green-winged teal/Interior Alaska/9BM6410R0/2009,Environmental Persistence,407,Inter-Species,7.6484960000000015
+196,A/blue-winged teal/New Brunswick/00289/2010,A/American green-winged teal/Interior Alaska/9BM6410R0/2009,Environmental Persistence,407,Inter-Species,7.647392
+197,A/blue-winged teal/New Brunswick/00285/2010,A/American green-winged teal/Interior Alaska/9BM6410R0/2009,Environmental Persistence,407,Inter-Species,7.647845999999999
+198,A/northern shoveler/Arkansas/11OS386/2011,A/mallard/Interior Alaska/10BM02980R0/2010,Environmental Persistence,194,Inter-Species,7.765326999999999
+199,A/blue-winged teal/Wisconsin/2741/2009,A/mallard/Interior Alaska/9BM2057/2009,Environmental Persistence,101,Inter-Species,7.6298980000000025
+200,A/mallard/Interior Alaska/9BM2395R0/2009,A/mallard/Interior Alaska/9BM2057/2009,Direct Transmission,5,Intra-Species,7.998677000000002
+201,A/American green-winged teal/Interior Alaska/9BM5277R0/2009,A/mallard/Interior Alaska/9BM2057/2009,Environmental Persistence,22,Inter-Species,7.682378
+202,A/mallard/Interior Alaska/9BM2393R0/2009,A/mallard/Interior Alaska/9BM2057/2009,Direct Transmission,5,Intra-Species,7.998699999999999
+203,A/mallard/Interior Alaska/9BM2536R0/2009,A/mallard/Interior Alaska/9BM2057/2009,Direct Transmission,5,Intra-Species,7.997729
+204,A/northern pintail/Interior Alaska/9BM8022R0/2009,A/northern pintail/Interior Alaska/9BM7302R0/2009,Direct Transmission,2,Intra-Species,7.9927519999999985
+205,A/northern pintail/Interior Alaska/10BM07242R0/2010,A/American black duck/New Brunswick/03552/2009,Environmental Persistence,324,Inter-Species,7.7084030000000014
+206,A/mallard/New Jersey/AI09-5121/2009,A/northern pintail/Interior Alaska/9BM11911R0/2009,Environmental Persistence,41,Inter-Species,7.5954679999999986
+207,A/northern pintail/Interior Alaska/10BM08587R0/2010,A/northern pintail/Interior Alaska/10BM08505R0/2010,Direct Transmission,0,Intra-Species,7.998991
+208,A/mallard/Interior Alaska/9BM11381R0/2009,A/northern pintail/Interior Alaska/9BM9153R0/2009,Direct Transmission,6,Inter-Species,7.993603
+209,A/northern pintail/Interior Alaska/9BM11231R0/2009,A/northern pintail/Interior Alaska/9BM9153R0/2009,Direct Transmission,6,Intra-Species,7.9932940000000015
+210,A/northern pintail/Interior Alaska/9BM12464R0/2009,A/northern pintail/Interior Alaska/9BM9153R0/2009,Environmental Persistence,21,Intra-Species,7.990747
+211,A/mallard/Interior Alaska/9BM10047R0/2009,A/northern pintail/Interior Alaska/9BM9153R0/2009,Direct Transmission,3,Inter-Species,7.994889
+212,A/mallard/Interior Alaska/9BM10851R0/2009,A/northern pintail/Interior Alaska/9BM9153R0/2009,Direct Transmission,5,Inter-Species,7.987992999999999
+213,A/northern pintail/Interior Alaska/9BM10471R0/2009,A/northern pintail/Interior Alaska/9BM9153R0/2009,Direct Transmission,4,Intra-Species,7.992763
+214,A/northern pintail/Interior Alaska/10BM10853R0/2010,A/mallard/Interior Alaska/10BM10859R0/2010,Direct Transmission,0,Inter-Species,8.0
+215,A/northern pintail/Interior Alaska/10BM10790R0/2010,A/mallard/Interior Alaska/10BM10859R0/2010,Direct Transmission,0,Inter-Species,7.998844
+216,A/mallard/Interior Alaska/10BM10787R0/2010,A/mallard/Interior Alaska/10BM10859R0/2010,Direct Transmission,0,Intra-Species,8.0
+217,A/mallard/Interior Alaska/10BM10829R0/2010,A/mallard/Interior Alaska/10BM10859R0/2010,Direct Transmission,0,Intra-Species,8.0
+218,A/mallard/Interior Alaska/10BM09562R0/2010,A/mallard/Interior Alaska/10BM09570R0/2010,Direct Transmission,0,Intra-Species,7.999535000000002
+219,A/northern pintail/Interior Alaska/10BM02585R0/2010,A/mallard/Wisconsin/2653/2009,Environmental Persistence,248,Inter-Species,7.686083999999999
+220,A/northern pintail/Interior Alaska/10BM08612R0/2010,A/mallard/Interior Alaska/10BM04626R0/2010,Environmental Persistence,17,Inter-Species,7.994950999999999
+221,A/northern pintail/Interior Alaska/10BM07476R0/2010,A/mallard/Interior Alaska/10BM04626R0/2010,Direct Transmission,15,Inter-Species,7.9952869999999985
+222,A/northern pintail/Interior Alaska/10BM04704R0/2010,A/mallard/Interior Alaska/10BM04626R0/2010,Direct Transmission,0,Inter-Species,7.978014999999999
+223,A/mallard/Interior Alaska/10BM08622R0/2010,A/mallard/Interior Alaska/10BM04626R0/2010,Environmental Persistence,18,Intra-Species,7.99672
+224,A/northern pintail/Interior Alaska/10BM12146R0/2010,A/mallard/Interior Alaska/10BM04626R0/2010,Environmental Persistence,26,Inter-Species,7.990842
+225,A/American black duck/New Brunswick/00687/2010,A/mallard/Interior Alaska/9BM11382R0/2009,Environmental Persistence,356,Inter-Species,7.651078999999998
+226,A/blue-winged teal/Nova Scotia/00071/2010,A/mallard/Interior Alaska/9BM11382R0/2009,Environmental Persistence,385,Inter-Species,7.630914
+227,A/blue-winged teal/Nova Scotia/00081/2010,A/mallard/Interior Alaska/9BM11382R0/2009,Environmental Persistence,385,Inter-Species,7.631618
+228,A/blue-winged teal/Prince Edward Island/03927/2009,A/mallard/Interior Alaska/9BM11382R0/2009,Direct Transmission,1,Inter-Species,7.5650270000000015
+229,A/blue-winged teal/Nova Scotia/00079/2010,A/mallard/Interior Alaska/9BM11382R0/2009,Environmental Persistence,385,Inter-Species,7.6311849999999986
+230,A/blue-winged teal/Nova Scotia/00078/2010,A/mallard/Interior Alaska/9BM11382R0/2009,Environmental Persistence,385,Inter-Species,7.631618
+231,A/American black duck/New Brunswick/00953/2010,A/mallard/Interior Alaska/9BM11382R0/2009,Environmental Persistence,393,Inter-Species,7.630818
+232,A/northern pintail/Interior Alaska/9BM11757R0/2009,A/mallard/Interior Alaska/9BM11382R0/2009,Direct Transmission,1,Inter-Species,7.861382000000001
+233,A/blue-winged teal/Nova Scotia/00073/2010,A/mallard/Interior Alaska/9BM11382R0/2009,Environmental Persistence,385,Inter-Species,7.631883999999999
+234,A/gadwall/Nova Scotia/00783/2010,A/mallard/Interior Alaska/9BM11382R0/2009,Environmental Persistence,385,Inter-Species,7.629878999999999
+235,A/blue-winged teal/Nova Scotia/00080/2010,A/mallard/Interior Alaska/9BM11382R0/2009,Environmental Persistence,385,Inter-Species,7.631618
+236,A/American black duck/Prince Edward Island/00788/2010,A/mallard/Interior Alaska/9BM11382R0/2009,Environmental Persistence,372,Inter-Species,7.630587000000001
+237,A/blue-winged teal/Missouri/10MO021/2010,A/mallard/Interior Alaska/9BM11382R0/2009,Environmental Persistence,393,Inter-Species,7.516244
+238,A/American black duck/Prince Edward Island/00673/2010,A/mallard/Interior Alaska/9BM11382R0/2009,Environmental Persistence,351,Inter-Species,7.6515119999999985
+239,A/snow goose/Nunavet/03438/2010,A/mallard/Interior Alaska/9BM11382R0/2009,Environmental Persistence,336,Inter-Species,7.6291509999999985
+240,A/American black duck/New Brunswick/00322/2010,A/mallard/Interior Alaska/9BM11382R0/2009,Environmental Persistence,355,Inter-Species,7.626614999999998
+241,A/green-winged teal/Prince Edward Island/00841/2010,A/mallard/Interior Alaska/9BM11382R0/2009,Environmental Persistence,380,Inter-Species,7.622663
+242,A/green-winged teal/Prince Edward Island/00838/2010,A/mallard/Interior Alaska/9BM11382R0/2009,Environmental Persistence,380,Inter-Species,7.622663
+243,A/gadwall/Nova Scotia/00786/2010,A/mallard/Interior Alaska/9BM11382R0/2009,Environmental Persistence,385,Inter-Species,7.630587000000001
+244,A/green-winged teal/Prince Edward Island/00840/2010,A/mallard/Interior Alaska/9BM11382R0/2009,Environmental Persistence,380,Inter-Species,7.622663
+245,A/American green-winged teal/Texas/AI09-6046/2009,A/mallard/Interior Alaska/9BM11382R0/2009,Environmental Persistence,117,Inter-Species,7.607443999999999
+246,A/green-winged teal/Prince Edward Island/00839/2010,A/mallard/Interior Alaska/9BM11382R0/2009,Environmental Persistence,380,Inter-Species,7.622122
+247,A/blue-winged teal/Nova Scotia/00074/2010,A/mallard/Interior Alaska/9BM11382R0/2009,Environmental Persistence,385,Inter-Species,7.631883999999999
+248,A/blue-winged teal/Nova Scotia/00069/2010,A/mallard/Interior Alaska/9BM11382R0/2009,Environmental Persistence,385,Inter-Species,7.630337999999999
+249,A/blue-winged teal/Iowa/10OS2411/2010,A/mallard/Interior Alaska/9BM11382R0/2009,Environmental Persistence,396,Inter-Species,7.535209
+250,A/blue-winged teal/Nova Scotia/00077/2010,A/mallard/Interior Alaska/9BM11382R0/2009,Environmental Persistence,385,Inter-Species,7.631883999999999
+251,A/mallard/Nova Scotia/00778/2010,A/mallard/Interior Alaska/9BM11382R0/2009,Environmental Persistence,385,Intra-Species,7.631588000000002
+252,A/wood duck/Nova Scotia/00738/2010,A/mallard/Interior Alaska/9BM11382R0/2009,Environmental Persistence,359,Inter-Species,7.653564999999999
+253,A/blue-winged teal/Nova Scotia/00072/2010,A/mallard/Interior Alaska/9BM11382R0/2009,Environmental Persistence,385,Inter-Species,7.631883999999999
+254,A/blue-winged teal/Nova Scotia/00076/2010,A/mallard/Interior Alaska/9BM11382R0/2009,Environmental Persistence,385,Inter-Species,7.631799999999999
+255,A/blue-winged teal/Nova Scotia/00075/2010,A/mallard/Interior Alaska/9BM11382R0/2009,Environmental Persistence,385,Inter-Species,7.631618
+256,A/American black duck/Prince Edward Island/00672/2010,A/mallard/Interior Alaska/9BM11382R0/2009,Environmental Persistence,351,Inter-Species,7.650975
+257,A/mallard/Interior Alaska/10BM12311R0/2010,A/mallard/Interior Alaska/10BM12178R0/2010,Direct Transmission,1,Intra-Species,7.999547
+258,A/mallard/Interior Alaska/10BM12179R0/2010,A/mallard/Interior Alaska/10BM12178R0/2010,Direct Transmission,0,Intra-Species,8.0
+259,A/northern pintail/Interior Alaska/10BM07469R0/2010,A/northern pintail/Interior Alaska/10BM06524R0/2010,Direct Transmission,3,Intra-Species,7.998258
+260,A/mallard/Interior Alaska/10BM07092R0/2010,A/northern pintail/Interior Alaska/10BM06524R0/2010,Direct Transmission,2,Inter-Species,8.0
+261,A/northern pintail/Interior Alaska/10BM06895R0/2010,A/northern pintail/Interior Alaska/10BM06524R0/2010,Direct Transmission,1,Intra-Species,7.9991330000000005
+262,A/mallard/Interior Alaska/10BM06909R0/2010,A/northern pintail/Interior Alaska/10BM06524R0/2010,Direct Transmission,1,Inter-Species,7.9982349999999975
+263,A/northern pintail/Interior Alaska/10BM07106R0/2010,A/northern pintail/Interior Alaska/10BM06524R0/2010,Direct Transmission,2,Intra-Species,7.998714
+264,A/mallard/Interior Alaska/10BM06905R0/2010,A/northern pintail/Interior Alaska/10BM06524R0/2010,Direct Transmission,1,Inter-Species,8.0
+265,A/northern pintail/Interior Alaska/10BM07114R0/2010,A/northern pintail/Interior Alaska/10BM06524R0/2010,Direct Transmission,2,Intra-Species,8.0
+266,A/mallard/Interior Alaska/10BM06911R0/2010,A/northern pintail/Interior Alaska/10BM06524R0/2010,Direct Transmission,1,Inter-Species,8.0
+267,A/northern pintail/Interior Alaska/10BM06899R0/2010,A/northern pintail/Interior Alaska/10BM06524R0/2010,Direct Transmission,1,Intra-Species,8.0
+268,A/mallard/Interior Alaska/10BM08100R0/2010,A/northern pintail/Interior Alaska/10BM06524R0/2010,Direct Transmission,5,Inter-Species,7.9977839999999984
+269,A/mallard/Interior Alaska/9BM3379R0/2009,A/mallard/Interior Alaska/9BM3016R0/2009,Direct Transmission,5,Intra-Species,8.0
+270,A/mallard/Interior Alaska/9BM3075R2/2009,A/mallard/Interior Alaska/9BM3016R0/2009,Direct Transmission,1,Intra-Species,7.998437000000001
+271,A/mallard/Interior Alaska/9BM3361R0/2009,A/mallard/Interior Alaska/9BM3016R0/2009,Direct Transmission,4,Intra-Species,8.0
+272,A/mallard/Interior Alaska/9BM3355R0/2009,A/mallard/Interior Alaska/9BM3016R0/2009,Direct Transmission,4,Intra-Species,7.9994130000000006
+273,A/mallard/Interior Alaska/9BM3078R0/2009,A/mallard/Interior Alaska/9BM3016R0/2009,Direct Transmission,1,Intra-Species,8.0
+274,A/mallard/Interior Alaska/9BM3076R0/2009,A/mallard/Interior Alaska/9BM3016R0/2009,Direct Transmission,1,Intra-Species,8.0
+275,A/American green-winged teal/Interior Alaska/9BM3595R1/2009,A/mallard/Interior Alaska/9BM3016R0/2009,Direct Transmission,6,Inter-Species,8.0
+276,A/mallard/Interior Alaska/9BM3357R0/2009,A/mallard/Interior Alaska/9BM3016R0/2009,Direct Transmission,4,Intra-Species,8.0
+277,A/northern shoveler/Interior Alaska/10BM05491R0/2010,A/northern shoveler/Interior Alaska/10BM05487R0/2010,Direct Transmission,0,Intra-Species,7.997965
+278,A/mallard/Interior Alaska/9BM1809/2009,A/mallard/Interior Alaska/9BM1807/2009,Direct Transmission,0,Intra-Species,7.997375
+279,A/northern pintail/Interior Alaska/9BM12210R0/2009,A/northern pintail/Interior Alaska/9BM12211R0/2009,Direct Transmission,0,Intra-Species,8.0
+280,A/northern pintail/Interior Alaska/9BM10146R0/2009,A/northern pintail/Interior Alaska/9BM9973R0/2009,Direct Transmission,0,Intra-Species,8.0
+281,A/northern pintail/Interior Alaska/9BM10525R2/2009,A/northern pintail/Interior Alaska/9BM9973R0/2009,Direct Transmission,1,Intra-Species,8.0
+282,A/northern pintail/Interior Alaska/10BM00849R2/2010,A/northern pintail/Interior Alaska/9BM9973R0/2009,Environmental Persistence,281,Intra-Species,7.9979359999999975
+283,A/northern pintail/Interior Alaska/9BM11431R0/2009,A/northern pintail/Interior Alaska/9BM9973R0/2009,Direct Transmission,3,Intra-Species,7.996569999999998
+284,A/mallard/Minnesota/AI09-3228/2009,A/northern pintail/Interior Alaska/9BM9973R0/2009,Environmental Persistence,24,Inter-Species,7.555224000000001
+285,A/northern pintail/Interior Alaska/9BM11325R0/2009,A/northern pintail/Interior Alaska/9BM9973R0/2009,Direct Transmission,3,Intra-Species,7.999567999999999
+286,A/northern pintail/Interior Alaska/9BM8273R0/2009,A/northern pintail/Interior Alaska/9BM7694R0/2009,Direct Transmission,1,Intra-Species,7.999547
+287,A/northern pintail/Interior Alaska/10BM12413R0/2010,A/mallard/Interior Alaska/9BM8389R0/2009,Environmental Persistence,365,Inter-Species,7.694358999999999
+288,A/gadwall/Iowa/10OS2753/2010,A/American green-winged teal/Interior Alaska/10BM08422R0/2010,Environmental Persistence,74,Inter-Species,7.5889380000000015
+289,A/northern pintail/Interior Alaska/10BM12552R0/2010,A/American green-winged teal/Interior Alaska/10BM08422R0/2010,Direct Transmission,10,Inter-Species,7.991981
+290,A/green-winged teal/Nova Scotia/00354/2010,A/American green-winged teal/Interior Alaska/10BM08422R0/2010,Direct Transmission,4,Intra-Species,7.648306999999999
+291,A/mallard/Interior Alaska/10BM12582R0/2010,A/American green-winged teal/Interior Alaska/10BM08422R0/2010,Direct Transmission,10,Inter-Species,7.990171000000001
+292,A/American black duck/New Brunswick/00424/2010,A/American green-winged teal/Interior Alaska/10BM08422R0/2010,Direct Transmission,6,Inter-Species,7.650809
+293,A/northern pintail/Interior Alaska/9BM9973R0/2009,A/northern pintail/Interior Alaska/9BM8459R0/2009,Direct Transmission,5,Intra-Species,8.0
+294,A/mallard/Interior Alaska/9BM8465R0/2009,A/northern pintail/Interior Alaska/9BM8459R0/2009,Direct Transmission,0,Inter-Species,8.0
+295,A/mallard/Interior Alaska/9BM9755R0/2009,A/northern pintail/Interior Alaska/9BM8459R0/2009,Direct Transmission,4,Inter-Species,8.0
+296,A/northern pintail/Interior Alaska/9BM8464R0/2009,A/northern pintail/Interior Alaska/9BM8459R0/2009,Direct Transmission,0,Intra-Species,7.999136
+297,A/northern pintail/Interior Alaska/9BM10146R0/2009,A/northern pintail/Interior Alaska/9BM8459R0/2009,Direct Transmission,5,Intra-Species,8.0
+298,A/northern pintail/Interior Alaska/9BM8502R0/2009,A/northern pintail/Interior Alaska/9BM8459R0/2009,Direct Transmission,0,Intra-Species,8.0
+299,A/northern pintail/Interior Alaska/9BM10525R2/2009,A/northern pintail/Interior Alaska/9BM8459R0/2009,Direct Transmission,6,Intra-Species,8.0
+300,A/northern pintail/Interior Alaska/10BM00849R2/2010,A/northern pintail/Interior Alaska/9BM8459R0/2009,Environmental Persistence,286,Intra-Species,7.9979359999999975
+301,A/mallard/Minnesota/AI09-3228/2009,A/northern pintail/Interior Alaska/9BM8459R0/2009,Environmental Persistence,29,Inter-Species,7.555224000000001
+302,A/northern pintail/Interior Alaska/9BM8448R0/2009,A/northern pintail/Interior Alaska/9BM8459R0/2009,Direct Transmission,0,Intra-Species,8.0
+303,A/northern pintail/Interior Alaska/9BM11431R0/2009,A/northern pintail/Interior Alaska/9BM8459R0/2009,Direct Transmission,8,Intra-Species,7.996569999999998
+304,A/northern pintail/Interior Alaska/9BM11325R0/2009,A/northern pintail/Interior Alaska/9BM8459R0/2009,Direct Transmission,8,Intra-Species,7.999567999999999
+305,A/northern pintail/Interior Alaska/9BM11387R0/2009,A/northern pintail/Interior Alaska/9BM11179R0/2009,Direct Transmission,0,Intra-Species,7.9966979999999985
+306,A/mallard/Interior Alaska/10BM12370R0/2010,A/mallard/Interior Alaska/10BM12363R0/2010,Direct Transmission,0,Intra-Species,8.0
+307,A/mallard/Interior Alaska/10BM12351R0/2010,A/mallard/Interior Alaska/10BM12363R0/2010,Direct Transmission,0,Intra-Species,7.999425
+308,A/mallard/Interior Alaska/10BM12350R0/2010,A/mallard/Interior Alaska/10BM12363R0/2010,Direct Transmission,0,Intra-Species,8.0
+309,A/mallard/Interior Alaska/10BM12352R0/2010,A/mallard/Interior Alaska/10BM12363R0/2010,Direct Transmission,0,Intra-Species,7.999351
+310,A/mallard/Interior Alaska/10BM12383R0/2010,A/mallard/Interior Alaska/10BM12363R0/2010,Direct Transmission,0,Intra-Species,7.998842999999999
+311,A/mallard/Interior Alaska/10BM12374R0/2010,A/mallard/Interior Alaska/10BM12363R0/2010,Direct Transmission,0,Intra-Species,8.0
+312,A/mallard/Interior Alaska/9BM3379R0/2009,A/mallard/Interior Alaska/9BM3076R0/2009,Direct Transmission,4,Intra-Species,8.0
+313,A/mallard/Interior Alaska/9BM3361R0/2009,A/mallard/Interior Alaska/9BM3076R0/2009,Direct Transmission,3,Intra-Species,8.0
+314,A/mallard/Interior Alaska/9BM3355R0/2009,A/mallard/Interior Alaska/9BM3076R0/2009,Direct Transmission,3,Intra-Species,7.9994130000000006
+315,A/mallard/Interior Alaska/9BM3078R0/2009,A/mallard/Interior Alaska/9BM3076R0/2009,Direct Transmission,0,Intra-Species,8.0
+316,A/American green-winged teal/Interior Alaska/9BM3595R1/2009,A/mallard/Interior Alaska/9BM3076R0/2009,Direct Transmission,5,Inter-Species,8.0
+317,A/mallard/Interior Alaska/9BM3357R0/2009,A/mallard/Interior Alaska/9BM3076R0/2009,Direct Transmission,3,Intra-Species,8.0
+318,A/mallard/Interior Alaska/9BM1957/2009,A/mallard/Interior Alaska/9BM1856/2009,Direct Transmission,2,Intra-Species,7.998872
+319,A/mallard/Interior Alaska/9BM1949/2009,A/mallard/Interior Alaska/9BM1856/2009,Direct Transmission,2,Intra-Species,7.99855
+320,A/mallard/Interior Alaska/9BM1974/2009,A/mallard/Interior Alaska/9BM1856/2009,Direct Transmission,4,Intra-Species,7.999567999999999
+321,A/mallard/Interior Alaska/9BM10717R0/2009,A/northern pintail/Interior Alaska/9BM10471R0/2009,Direct Transmission,1,Inter-Species,7.999115
+322,A/mallard/Interior Alaska/9BM9984R0/2009,A/mallard/Interior Alaska/9BM9983R0/2009,Direct Transmission,0,Intra-Species,7.998528999999999
+323,A/northern pintail/Interior Alaska/9BM9989R0/2009,A/mallard/Interior Alaska/9BM9983R0/2009,Direct Transmission,0,Inter-Species,7.995627000000002
+324,A/mallard/Interior Alaska/9BM9985R0/2009,A/mallard/Interior Alaska/9BM9983R0/2009,Direct Transmission,0,Intra-Species,8.0
+325,A/northern pintail/Interior Alaska/9BM8119R0/2009,A/northern pintail/Interior Alaska/9BM6095R0/2009,Direct Transmission,7,Intra-Species,7.9120089999999985
+326,A/northern pintail/Interior Alaska/9BM6094R0/2009,A/northern pintail/Interior Alaska/9BM6095R0/2009,Direct Transmission,0,Intra-Species,8.0
+327,A/mallard/Interior Alaska/9BM8471R0/2009,A/northern pintail/Interior Alaska/9BM6095R0/2009,Direct Transmission,8,Inter-Species,7.876136
+328,A/northern pintail/Interior Alaska/9BM7632R0/2009,A/northern pintail/Interior Alaska/9BM6095R0/2009,Direct Transmission,6,Intra-Species,7.996047
+329,A/northern pintail/Interior Alaska/9BM10813R0/2009,A/northern pintail/Interior Alaska/9BM6095R0/2009,Direct Transmission,15,Intra-Species,7.9967320000000015
+330,A/mallard/Interior Alaska/9BM10095R0/2009,A/northern pintail/Interior Alaska/9BM6095R0/2009,Direct Transmission,13,Inter-Species,7.995796
+331,A/American green-winged teal/Interior Alaska/9BM6258R0/2009,A/northern pintail/Interior Alaska/9BM6095R0/2009,Direct Transmission,1,Inter-Species,7.996753
+332,A/mallard/Interior Alaska/9BM8829R0/2009,A/northern pintail/Interior Alaska/9BM6095R0/2009,Direct Transmission,9,Inter-Species,7.9940760000000015
+333,A/northern pintail/Interior Alaska/9BM7254R0/2009,A/northern pintail/Interior Alaska/9BM7252R0/2009,Direct Transmission,0,Intra-Species,7.999567999999999
+334,A/northern pintail/Interior Alaska/10BM08705R0/2010,A/northern pintail/Interior Alaska/10BM07469R0/2010,Direct Transmission,3,Intra-Species,7.997376000000001
+335,A/mallard/Interior Alaska/10BM11414R0/2010,A/mallard/Interior Alaska/10BM11420R0/2010,Direct Transmission,0,Intra-Species,8.0
+336,A/mallard/Interior Alaska/10BM11419R0/2010,A/mallard/Interior Alaska/10BM11420R0/2010,Direct Transmission,0,Intra-Species,7.998683
+337,A/mallard/Interior Alaska/10BM12049R0/2010,A/mallard/Interior Alaska/10BM11420R0/2010,Direct Transmission,1,Intra-Species,7.998993
+338,A/mallard/Interior Alaska/10BM11418R0/2010,A/mallard/Interior Alaska/10BM11420R0/2010,Direct Transmission,0,Intra-Species,7.999136
+339,A/mallard/Interior Alaska/10BM11415R0/2010,A/mallard/Interior Alaska/10BM11420R0/2010,Direct Transmission,0,Intra-Species,7.998539999999998
+340,A/blue-winged teal/Iowa/10OS2639/2010,A/northern shoveler/Interior Alaska/10BM05638R0/2010,Environmental Persistence,54,Inter-Species,7.577125
+341,A/American green-winged teal/Interior Alaska/10BM07917R0/2010,A/northern shoveler/Interior Alaska/10BM05638R0/2010,Direct Transmission,8,Inter-Species,7.898867
+342,A/mallard/Interior Alaska/9BM10055R0/2009,A/mallard/Interior Alaska/9BM10111R0/2009,Direct Transmission,0,Intra-Species,7.9973899999999984
+343,A/mallard/Interior Alaska/9BM10051R0/2009,A/mallard/Interior Alaska/9BM10111R0/2009,Direct Transmission,0,Intra-Species,7.997242
+344,A/northern pintail/Interior Alaska/9BM11915R0/2009,A/northern pintail/Interior Alaska/9BM9989R0/2009,Direct Transmission,4,Intra-Species,7.9961259999999985
+345,A/mallard/Interior Alaska/9BM11867R0/2009,A/northern pintail/Interior Alaska/9BM6290R0/2009,Environmental Persistence,16,Inter-Species,7.985789
+346,A/northern pintail/Interior Alaska/9BM8657R1/2009,A/northern pintail/Interior Alaska/9BM6290R0/2009,Direct Transmission,7,Intra-Species,7.989717999999999
+347,A/northern pintail/Interior Alaska/9BM6960R0/2009,A/northern pintail/Interior Alaska/9BM6290R0/2009,Direct Transmission,2,Intra-Species,7.983443000000001
+348,A/northern pintail/Interior Alaska/9BM8907R0/2009,A/northern pintail/Interior Alaska/9BM6290R0/2009,Direct Transmission,8,Intra-Species,7.9790680000000025
+349,A/mallard/Interior Alaska/10BM11311R0/2010,A/mallard/Interior Alaska/10BM09561R0/2010,Direct Transmission,5,Intra-Species,7.852202
+350,A/American black duck/New Brunswick/00485/2010,A/mallard/Interior Alaska/10BM09561R0/2010,Direct Transmission,5,Inter-Species,7.594230000000001
+351,A/blue-winged teal/Nova Scotia/01027/2010,A/mallard/Interior Alaska/10BM09561R0/2010,Environmental Persistence,46,Inter-Species,7.594243
+352,A/northern shoveler/Interior Alaska/9BM12332R0/2009,A/mallard/Interior Alaska/9BM10717R0/2009,Environmental Persistence,16,Inter-Species,7.9968910000000015
+353,A/northern pintail/Interior Alaska/10BM04668R0/2010,A/mallard/Interior Alaska/10BM04624R0/2010,Direct Transmission,0,Inter-Species,7.9985490000000015
+354,A/northern pintail/Interior Alaska/10BM04722R0/2010,A/mallard/Interior Alaska/10BM04624R0/2010,Direct Transmission,0,Inter-Species,8.0
+355,A/mallard/Interior Alaska/10BM04623R0/2010,A/mallard/Interior Alaska/10BM04624R0/2010,Direct Transmission,0,Intra-Species,8.0
+356,A/American green-winged teal/Interior Alaska/10BM08228R0/2010,A/mallard/Interior Alaska/10BM05970R0/2010,Direct Transmission,8,Inter-Species,7.895702
+357,A/mallard/Illinois/10OS3676/2010,A/mallard/Interior Alaska/10BM05970R0/2010,Environmental Persistence,96,Intra-Species,7.687178
+358,A/northern pintail/Interior Alaska/10BM10790R0/2010,A/northern pintail/Interior Alaska/10BM10853R0/2010,Direct Transmission,0,Intra-Species,7.998844
+359,A/mallard/Interior Alaska/10BM10829R0/2010,A/northern pintail/Interior Alaska/10BM10853R0/2010,Direct Transmission,0,Inter-Species,8.0
+360,A/mallard/Interior Alaska/10BM10859R0/2010,A/northern pintail/Interior Alaska/10BM10853R0/2010,Direct Transmission,0,Inter-Species,8.0
+361,A/mallard/Interior Alaska/9BM2705R0/2009,A/mallard/Interior Alaska/9BM2388R0/2009,Direct Transmission,2,Intra-Species,7.998532000000001
+362,A/northern pintail/Interior Alaska/9BM12186R0/2009,A/northern pintail/Interior Alaska/9BM12190R0/2009,Direct Transmission,0,Intra-Species,8.0
+363,A/mallard/Interior Alaska/9BM12198R0/2009,A/northern pintail/Interior Alaska/9BM12190R0/2009,Direct Transmission,0,Inter-Species,8.0
+364,A/mallard/Interior Alaska/9BM12204R0/2009,A/northern pintail/Interior Alaska/9BM12190R0/2009,Direct Transmission,0,Inter-Species,8.0
+365,A/mallard/Nova Scotia/01016/2010,A/northern pintail/Interior Alaska/9BM6902R0/2009,Environmental Persistence,411,Inter-Species,7.6258599999999985
+366,A/mallard/Interior Alaska/9BM8387R0/2009,A/northern pintail/Interior Alaska/9BM6902R0/2009,Direct Transmission,9,Inter-Species,7.975796000000001
+367,A/mallard/New Brunswick/00341/2010,A/northern pintail/Interior Alaska/9BM6902R0/2009,Environmental Persistence,368,Inter-Species,7.626564000000001
+368,A/northern pintail/Interior Alaska/9BM11911R0/2009,A/northern pintail/Interior Alaska/9BM6902R0/2009,Direct Transmission,14,Intra-Species,7.773318
+369,A/green-winged teal/New Brunswick/00335/2010,A/American green-winged teal/Interior Alaska/10BM07573R0/2010,Direct Transmission,6,Intra-Species,7.634270000000001
+370,A/northern pintail/Interior Alaska/9BM11917R0/2009,A/northern shoveler/Interior Alaska/9BM4787R0/2009,Environmental Persistence,21,Inter-Species,7.990690999999999
+371,A/northern pintail/Interior Alaska/9BM7240R0/2009,A/northern shoveler/Interior Alaska/9BM4787R0/2009,Direct Transmission,8,Inter-Species,7.985313999999999
+372,A/American black duck/New Brunswick/00955/2010,A/northern pintail/Interior Alaska/9BM12153R0/2009,Environmental Persistence,391,Inter-Species,7.649842
+373,A/mallard/New Brunswick/00979/2010,A/northern pintail/Interior Alaska/9BM12153R0/2009,Environmental Persistence,392,Inter-Species,7.628195
+374,A/northern pintail/Interior Alaska/9BM9447R0/2009,A/northern pintail/Interior Alaska/9BM7254R0/2009,Direct Transmission,7,Intra-Species,7.99045
+375,A/American green-winged teal/Wisconsin/2690/2009,A/northern pintail/Interior Alaska/9BM7254R0/2009,Environmental Persistence,75,Inter-Species,7.659526
+376,A/northern pintail/Interior Alaska/9BM7252R0/2009,A/northern pintail/Interior Alaska/9BM7254R0/2009,Direct Transmission,0,Intra-Species,7.999567999999999
+377,A/northern pintail/Interior Alaska/9BM11789R0/2009,A/northern pintail/Interior Alaska/9BM7254R0/2009,Direct Transmission,13,Intra-Species,7.9889680000000025
+378,A/blue-winged teal/Guatemala/CIP049-05/2010,A/northern pintail/Interior Alaska/9BM12700R0/2009,Environmental Persistence,147,Inter-Species,7.617928999999998
+379,A/mallard/Interior Alaska/9BM2252/2009,A/mallard/Interior Alaska/9BM2243/2009,Direct Transmission,0,Intra-Species,7.998963000000002
+380,A/blue-winged teal/Louisiana/AI09-5159/2009,A/northern pintail/Interior Alaska/9BM11487R0/2009,Environmental Persistence,88,Inter-Species,7.737675
+381,A/mallard/Iowa/10OS2426/2010,A/northern pintail/Interior Alaska/9BM11487R0/2009,Environmental Persistence,396,Inter-Species,7.6426219999999985
+382,A/northern pintail/Interior Alaska/9BM6494R0/2009,A/American green-winged teal/Interior Alaska/9BM5277R0/2009,Direct Transmission,4,Inter-Species,7.723717999999999
+383,A/mallard/Interior Alaska/9BM9683R2/2009,A/American green-winged teal/Interior Alaska/9BM5277R0/2009,Direct Transmission,15,Inter-Species,7.992994
+384,A/long-tailed duck/Wisconsin/10OS4225/2010,A/northern shoveler/Interior Alaska/9BM2943R1/2009,Environmental Persistence,505,Inter-Species,7.170066
+385,A/mallard/Wisconsin/10OS2918/2010,A/northern shoveler/Interior Alaska/9BM2943R1/2009,Environmental Persistence,444,Inter-Species,7.725905
+386,A/mallard/Wisconsin/10OS2917/2010,A/northern shoveler/Interior Alaska/9BM2943R1/2009,Environmental Persistence,444,Inter-Species,7.725905
+387,A/mallard/Interior Alaska/9BM12198R0/2009,A/northern pintail/Interior Alaska/9BM12186R0/2009,Direct Transmission,0,Inter-Species,8.0
+388,A/mallard/Interior Alaska/9BM12204R0/2009,A/northern pintail/Interior Alaska/9BM12186R0/2009,Direct Transmission,0,Inter-Species,8.0
+389,A/northern pintail/Interior Alaska/9BM12190R0/2009,A/northern pintail/Interior Alaska/9BM12186R0/2009,Direct Transmission,0,Intra-Species,8.0
+390,A/northern pintail/Interior Alaska/9BM7861R0/2009,A/northern pintail/Interior Alaska/9BM7846R0/2009,Direct Transmission,0,Intra-Species,7.998692
+391,A/American black duck/New Brunswick/00484/2010,A/American green-winged teal/Interior Alaska/10BM07917R0/2010,Direct Transmission,9,Inter-Species,7.6759330000000014
+392,A/blue-winged teal/New Brunswick/00765/2010,A/American green-winged teal/Interior Alaska/10BM07917R0/2010,Environmental Persistence,22,Inter-Species,7.6375800000000025
+393,A/American black duck/New Brunswick/00614/2010,A/American green-winged teal/Interior Alaska/10BM07917R0/2010,Direct Transmission,13,Inter-Species,7.658627
+394,A/blue-winged teal/New Brunswick/00775/2010,A/American green-winged teal/Interior Alaska/10BM07917R0/2010,Environmental Persistence,22,Inter-Species,7.638699000000001
+395,A/blue-winged teal/New Brunswick/00774/2010,A/American green-winged teal/Interior Alaska/10BM07917R0/2010,Environmental Persistence,22,Inter-Species,7.675261000000001
+396,A/American black duck/New Brunswick/00558/2010,A/American green-winged teal/Interior Alaska/10BM07917R0/2010,Direct Transmission,11,Inter-Species,7.6795209999999985
+397,A/blue-winged teal/Prince Edward Island/00803/2010,A/American green-winged teal/Interior Alaska/10BM07917R0/2010,Environmental Persistence,29,Inter-Species,7.675446000000001
+398,A/blue-winged teal/New Brunswick/00772/2010,A/American green-winged teal/Interior Alaska/10BM07917R0/2010,Environmental Persistence,22,Inter-Species,7.639305
+399,A/American black duck/New Brunswick/00522/2010,A/American green-winged teal/Interior Alaska/10BM07917R0/2010,Direct Transmission,10,Inter-Species,7.645117999999999
+400,A/American black duck/New Brunswick/00616/2010,A/American green-winged teal/Interior Alaska/10BM07917R0/2010,Direct Transmission,13,Inter-Species,7.6777880000000005
+401,A/blue-winged teal/New Brunswick/00538/2010,A/American green-winged teal/Interior Alaska/10BM07917R0/2010,Direct Transmission,10,Inter-Species,7.6439460000000015
+402,A/green-winged teal/New Brunswick/00336/2010,A/American green-winged teal/Interior Alaska/10BM07917R0/2010,Direct Transmission,5,Intra-Species,7.634616999999999
+403,A/American black duck/New Brunswick/00500/2010,A/American green-winged teal/Interior Alaska/10BM07917R0/2010,Direct Transmission,9,Inter-Species,7.6824410000000025
+404,A/blue-winged teal/New Brunswick/00768/2010,A/American green-winged teal/Interior Alaska/10BM07917R0/2010,Environmental Persistence,22,Inter-Species,7.636967999999999
+405,A/American black duck/New Brunswick/00467/2010,A/American green-winged teal/Interior Alaska/10BM07917R0/2010,Direct Transmission,9,Inter-Species,7.640472000000001
+406,A/blue-winged teal/New Brunswick/00767/2010,A/American green-winged teal/Interior Alaska/10BM07917R0/2010,Environmental Persistence,22,Inter-Species,7.638989
+407,A/American black duck/New Brunswick/00454/2010,A/American green-winged teal/Interior Alaska/10BM07917R0/2010,Direct Transmission,8,Inter-Species,7.637542
+408,A/blue-winged teal/New Brunswick/00769/2010,A/American green-winged teal/Interior Alaska/10BM07917R0/2010,Environmental Persistence,22,Inter-Species,7.6383930000000015
+409,A/blue-winged teal/New Brunswick/00766/2010,A/American green-winged teal/Interior Alaska/10BM07917R0/2010,Environmental Persistence,22,Inter-Species,7.638682000000001
+410,A/American black duck/New Brunswick/00525/2010,A/American green-winged teal/Interior Alaska/10BM07917R0/2010,Direct Transmission,10,Inter-Species,7.645361000000001
+411,A/blue-winged teal/New Brunswick/00770/2010,A/American green-winged teal/Interior Alaska/10BM07917R0/2010,Environmental Persistence,22,Inter-Species,7.638934
+412,A/American black duck/New Brunswick/00608/2010,A/American green-winged teal/Interior Alaska/10BM07917R0/2010,Direct Transmission,13,Inter-Species,7.6369060000000015
+413,A/blue-winged teal/New Brunswick/00771/2010,A/American green-winged teal/Interior Alaska/10BM07917R0/2010,Environmental Persistence,22,Inter-Species,7.6399979999999985
+414,A/mallard/New Brunswick/00495/2010,A/American green-winged teal/Interior Alaska/10BM07917R0/2010,Direct Transmission,9,Inter-Species,7.681027999999999
+415,A/mallard/Interior Alaska/10BM09159R0/2010,A/northern pintail/Interior Alaska/10BM09104R0/2010,Direct Transmission,1,Inter-Species,7.997975
+416,A/mallard/Interior Alaska/10BM09164R0/2010,A/northern pintail/Interior Alaska/10BM09104R0/2010,Direct Transmission,1,Inter-Species,7.999425
+417,A/mallard/Interior Alaska/10BM09158R0/2010,A/northern pintail/Interior Alaska/10BM09104R0/2010,Direct Transmission,1,Inter-Species,7.998703
+418,A/mallard/Interior Alaska/10CH00035R0/2010,A/northern pintail/Interior Alaska/10BM09104R0/2010,Environmental Persistence,31,Inter-Species,7.9951729999999985
+419,A/northern pintail/Interior Alaska/10BM09102R0/2010,A/northern pintail/Interior Alaska/10BM09104R0/2010,Direct Transmission,0,Intra-Species,8.0
+420,A/northern pintail/Interior Alaska/10BM09101R0/2010,A/northern pintail/Interior Alaska/10BM09104R0/2010,Direct Transmission,0,Intra-Species,8.0
+421,A/northern pintail/Interior Alaska/10BM08920R0/2010,A/northern pintail/Interior Alaska/10BM09104R0/2010,Direct Transmission,0,Intra-Species,7.992619
+422,A/mallard/Interior Alaska/10BM09162R0/2010,A/northern pintail/Interior Alaska/10BM09104R0/2010,Direct Transmission,1,Inter-Species,7.9991020000000015
+423,A/northern pintail/Interior Alaska/10BM09105R0/2010,A/northern pintail/Interior Alaska/10BM09104R0/2010,Direct Transmission,0,Intra-Species,7.997835
+424,A/mallard/Interior Alaska/9BM2606R0/2009,A/mallard/Interior Alaska/9BM1949/2009,Direct Transmission,10,Intra-Species,7.996333
+425,A/mallard/Interior Alaska/9BM1974/2009,A/mallard/Interior Alaska/9BM1949/2009,Direct Transmission,2,Intra-Species,7.999567999999999
+426,A/mallard/Interior Alaska/9BM2398R0/2009,A/mallard/Interior Alaska/9BM1949/2009,Direct Transmission,9,Intra-Species,7.933934
+427,A/mallard/Interior Alaska/10BM05337R0/2010,A/mallard/Interior Alaska/10BM05249R0/2010,Direct Transmission,1,Intra-Species,7.997160000000001
+428,A/northern shoveler/Interior Alaska/10BM05408R0/2010,A/mallard/Interior Alaska/10BM05249R0/2010,Direct Transmission,2,Inter-Species,7.996676
+429,A/mallard/Interior Alaska/10BM05247R0/2010,A/mallard/Interior Alaska/10BM05249R0/2010,Direct Transmission,0,Intra-Species,7.994897
+430,A/northern pintail/Interior Alaska/9BM6146R0/2009,A/northern pintail/Interior Alaska/9BM6144R0/2009,Direct Transmission,0,Intra-Species,8.0
+431,A/northern pintail/Interior Alaska/9BM6145R0/2009,A/northern pintail/Interior Alaska/9BM6144R0/2009,Direct Transmission,0,Intra-Species,8.0
+432,A/mallard/Interior Alaska/9BM12198R0/2009,A/mallard/Interior Alaska/9BM12204R0/2009,Direct Transmission,0,Intra-Species,8.0
+433,A/northern pintail/Interior Alaska/9BM12186R0/2009,A/mallard/Interior Alaska/9BM12204R0/2009,Direct Transmission,0,Inter-Species,8.0
+434,A/northern pintail/Interior Alaska/9BM12190R0/2009,A/mallard/Interior Alaska/9BM12204R0/2009,Direct Transmission,0,Inter-Species,8.0
+435,A/northern pintail/Interior Alaska/9BM12186R0/2009,A/mallard/Interior Alaska/9BM12198R0/2009,Direct Transmission,0,Inter-Species,8.0
+436,A/mallard/Interior Alaska/9BM12204R0/2009,A/mallard/Interior Alaska/9BM12198R0/2009,Direct Transmission,0,Intra-Species,8.0
+437,A/northern pintail/Interior Alaska/9BM12190R0/2009,A/mallard/Interior Alaska/9BM12198R0/2009,Direct Transmission,0,Inter-Species,8.0
+438,A/mallard/Interior Alaska/10BM05249R0/2010,A/mallard/Interior Alaska/10BM05247R0/2010,Direct Transmission,0,Intra-Species,7.994897
+439,A/northern pintail/Interior Alaska/10BM09481R0/2010,A/mallard/Interior Alaska/10BM05860R0/2010,Direct Transmission,11,Inter-Species,7.997961
+440,A/northern pintail/Interior Alaska/10BM08400R0/2010,A/mallard/Interior Alaska/10BM05860R0/2010,Direct Transmission,9,Inter-Species,7.997246
+441,A/mallard/Interior Alaska/10BM07066R0/2010,A/mallard/Interior Alaska/10BM05860R0/2010,Direct Transmission,6,Intra-Species,7.994803
+442,A/mallard/Interior Alaska/10BM12534R0/2010,A/mallard/Interior Alaska/10BM05860R0/2010,Environmental Persistence,19,Intra-Species,7.995063
+443,A/northern pintail/Interior Alaska/10BM08586R0/2010,A/mallard/Interior Alaska/10BM05860R0/2010,Direct Transmission,9,Inter-Species,7.997999
+444,A/mallard/Interior Alaska/10BM08120R0/2010,A/mallard/Interior Alaska/10BM05860R0/2010,Direct Transmission,9,Intra-Species,7.9970940000000015
+445,A/northern pintail/Interior Alaska/10BM11208R0/2010,A/mallard/Interior Alaska/10BM05860R0/2010,Environmental Persistence,16,Inter-Species,7.99703
+446,A/northern pintail/Interior Alaska/10BM07737R0/2010,A/northern pintail/Interior Alaska/10BM07458R0/2010,Direct Transmission,1,Intra-Species,7.999414
+447,A/blue-winged teal/Illinois/10OS1563/2010,A/northern pintail/Interior Alaska/9BM6494R0/2009,Environmental Persistence,397,Inter-Species,7.654767
+448,A/mallard/California/1297/2010,A/northern pintail/Interior Alaska/9BM6494R0/2009,Environmental Persistence,361,Inter-Species,7.710623
+449,A/mallard/California/1210/2010,A/northern pintail/Interior Alaska/9BM6494R0/2009,Environmental Persistence,360,Inter-Species,7.713840999999999
+450,A/mallard/California/1156/2010,A/northern pintail/Interior Alaska/9BM6494R0/2009,Environmental Persistence,358,Inter-Species,7.695937
+451,A/blue-winged teal/Illinois/10OS1561/2010,A/northern pintail/Interior Alaska/9BM6494R0/2009,Environmental Persistence,397,Inter-Species,7.654767
+452,A/mallard/California/1188/2010,A/northern pintail/Interior Alaska/9BM6494R0/2009,Environmental Persistence,360,Inter-Species,7.719271000000001
+453,A/mallard/California/1289/2010,A/northern pintail/Interior Alaska/9BM6494R0/2009,Environmental Persistence,361,Inter-Species,7.713978
+454,A/mallard/California/1154/2010,A/northern pintail/Interior Alaska/9BM6494R0/2009,Environmental Persistence,358,Inter-Species,7.716034
+455,A/mallard/Interior Alaska/9BM11015R0/2009,A/mallard/Interior Alaska/9BM10375R0/2009,Direct Transmission,0,Intra-Species,7.998540999999999
+456,A/northern pintail/Interior Alaska/10BM04668R0/2010,A/northern pintail/Interior Alaska/10BM04722R0/2010,Direct Transmission,0,Intra-Species,7.9985490000000015
+457,A/mallard/Interior Alaska/10BM04624R0/2010,A/northern pintail/Interior Alaska/10BM04722R0/2010,Direct Transmission,0,Inter-Species,8.0
+458,A/mallard/Interior Alaska/10BM04623R0/2010,A/northern pintail/Interior Alaska/10BM04722R0/2010,Direct Transmission,0,Inter-Species,8.0
+459,A/mallard/Interior Alaska/10BM12177R0/2010,A/northern pintail/Interior Alaska/10BM12163R0/2010,Direct Transmission,0,Inter-Species,7.998982000000002
+460,A/northern pintail/Interior Alaska/9BM7846R0/2009,A/northern pintail/Interior Alaska/9BM7861R0/2009,Direct Transmission,0,Intra-Species,7.998692
+461,A/northern pintail/Interior Alaska/9BM7840R0/2009,A/northern pintail/Interior Alaska/9BM7861R0/2009,Direct Transmission,0,Intra-Species,7.997108
+462,A/northern pintail/Interior Alaska/9BM9037R0/2009,A/northern pintail/Interior Alaska/9BM7861R0/2009,Direct Transmission,3,Intra-Species,7.994459000000001
+463,A/mallard/Interior Alaska/10BM10811R0/2010,A/northern pintail/Interior Alaska/10BM10807R0/2010,Direct Transmission,0,Inter-Species,8.0
+464,A/northern pintail/Interior Alaska/10BM10801R0/2010,A/northern pintail/Interior Alaska/10BM10807R0/2010,Direct Transmission,0,Intra-Species,7.999567
+465,A/mallard/Interior Alaska/9BM1958/2009,A/mallard/Interior Alaska/9BM1947/2009,Direct Transmission,0,Intra-Species,8.0
+466,A/mallard/Interior Alaska/9BM2254/2009,A/mallard/Interior Alaska/9BM1947/2009,Direct Transmission,7,Intra-Species,7.998417999999999
+467,A/mallard/Interior Alaska/9BM2168/2009,A/mallard/Interior Alaska/9BM1947/2009,Direct Transmission,6,Intra-Species,7.998919
+468,A/mallard/Interior Alaska/9BM1975/2009,A/mallard/Interior Alaska/9BM1947/2009,Direct Transmission,2,Intra-Species,7.997874
+469,A/mallard/Interior Alaska/9BM1962/2009,A/mallard/Interior Alaska/9BM1947/2009,Direct Transmission,0,Intra-Species,8.0
+470,A/northern shoveler/Interior Alaska/9BM2925R0/2009,A/mallard/Interior Alaska/9BM2351R0/2009,Direct Transmission,4,Inter-Species,7.999417
+471,A/mallard/Interior Alaska/9BM2388R0/2009,A/mallard/Interior Alaska/9BM2351R0/2009,Direct Transmission,1,Intra-Species,7.998403999999999
+472,A/blue-winged teal/Guatemala/CIP049-06/2010,A/mallard/Interior Alaska/9BM2351R0/2009,Environmental Persistence,203,Inter-Species,7.691397999999999
+473,A/blue-winged teal/Guatemala/CIP049-14/2010,A/mallard/Interior Alaska/9BM2351R0/2009,Environmental Persistence,203,Inter-Species,7.694962999999999
+474,A/northern shoveler/Interior Alaska/10BM16764R0/2010,A/northern pintail/Interior Alaska/10BM14807R2/2010,Environmental Persistence,21,Inter-Species,7.994153999999999
+475,A/northern pintail/Illinois/10OS3959/2010,A/mallard/Interior Alaska/10BM04564R1/2010,Environmental Persistence,126,Inter-Species,7.812127999999999
+476,A/northern pintail/Interior Alaska/10BM11366R0/2010,A/mallard/Interior Alaska/10BM04564R1/2010,Environmental Persistence,25,Inter-Species,7.785838
+477,A/mallard/Interior Alaska/10BM05347R0/2010,A/mallard/Interior Alaska/10BM04564R1/2010,Direct Transmission,7,Intra-Species,7.780496
+478,A/mallard/Interior Alaska/10BM07971R0/2010,A/mallard/Interior Alaska/10BM02530R0/2010,Environmental Persistence,42,Intra-Species,7.990558
+479,A/northern shoveler/Interior Alaska/10BM02593R0/2010,A/mallard/Interior Alaska/10BM02530R0/2010,Direct Transmission,1,Inter-Species,7.991511
+480,A/northern pintail/Interior Alaska/9BM12094R0/2009,A/northern pintail/Interior Alaska/9BM11387R0/2009,Direct Transmission,2,Intra-Species,7.999115
+481,A/mallard/Interior Alaska/9BM12285R0/2009,A/northern shoveler/Interior Alaska/9BM12298R0/2009,Direct Transmission,0,Inter-Species,7.996389
+482,A/mallard/Interior Alaska/9BM11965R0/2009,A/northern pintail/Interior Alaska/9BM12180R0/2009,Direct Transmission,0,Inter-Species,7.998683
+483,A/northern pintail/Interior Alaska/9BM12176R0/2009,A/northern pintail/Interior Alaska/9BM12180R0/2009,Direct Transmission,0,Intra-Species,8.0
+484,A/mallard/Interior Alaska/9BM11382R0/2009,A/mallard/California/5255/2009,Environmental Persistence,21,Intra-Species,7.553155999999999
+485,A/mallard/Wisconsin/4218/2009,A/northern pintail/Interior Alaska/9BM11409R0/2009,Environmental Persistence,109,Inter-Species,7.611769000000002
+486,A/northern pintail/Interior Alaska/10BM06704R0/2010,A/northern shoveler/Interior Alaska/10BM05382R0/2010,Direct Transmission,5,Inter-Species,7.726274000000001
+487,A/American green-winged teal/Interior Alaska/10BM05376R0/2010,A/northern shoveler/Interior Alaska/10BM05382R0/2010,Direct Transmission,0,Inter-Species,7.9900449999999985
+488,A/northern pintail/Interior Alaska/9BM4660R0/2009,A/northern pintail/Interior Alaska/9BM4347R0/2009,Direct Transmission,2,Intra-Species,8.0
+489,A/northern pintail/Interior Alaska/9BM4641R0/2009,A/northern pintail/Interior Alaska/9BM4347R0/2009,Direct Transmission,2,Intra-Species,7.997361
+490,A/American green-winged teal/Interior Alaska/9BM5041R0/2009,A/northern pintail/Interior Alaska/9BM4347R0/2009,Direct Transmission,2,Inter-Species,7.993006000000001
+491,A/northern pintail/Interior Alaska/9BM7232R0/2009,A/northern pintail/Interior Alaska/9BM4347R0/2009,Direct Transmission,10,Intra-Species,7.9909050000000015
+492,A/northern shoveler/Interior Alaska/9BM4905R0/2009,A/northern pintail/Interior Alaska/9BM4347R0/2009,Direct Transmission,2,Inter-Species,7.993804000000001
+493,A/mallard/Interior Alaska/10BM02530R0/2010,A/mallard/Minnesota/AI09-3821/2009,Environmental Persistence,282,Intra-Species,7.630109
+494,A/mallard/Interior Alaska/10BM10324R0/2010,A/northern pintail/Interior Alaska/10BM09832R0/2010,Direct Transmission,2,Inter-Species,7.998886
+495,A/northern pintail/Interior Alaska/9BM11779R0/2009,A/mallard/Interior Alaska/9BM9201R0/2009,Direct Transmission,7,Inter-Species,7.998660000000001
+496,A/mallard/Interior Alaska/9BM9717R0/2009,A/mallard/Interior Alaska/9BM9201R0/2009,Direct Transmission,2,Intra-Species,7.998849000000001
+497,A/mallard/Interior Alaska/9BM3379R0/2009,A/mallard/Interior Alaska/9BM3078R0/2009,Direct Transmission,4,Intra-Species,8.0
+498,A/mallard/Interior Alaska/9BM3361R0/2009,A/mallard/Interior Alaska/9BM3078R0/2009,Direct Transmission,3,Intra-Species,8.0
+499,A/mallard/Interior Alaska/9BM3355R0/2009,A/mallard/Interior Alaska/9BM3078R0/2009,Direct Transmission,3,Intra-Species,7.9994130000000006
+500,A/mallard/Interior Alaska/9BM3076R0/2009,A/mallard/Interior Alaska/9BM3078R0/2009,Direct Transmission,0,Intra-Species,8.0
+501,A/American green-winged teal/Interior Alaska/9BM3595R1/2009,A/mallard/Interior Alaska/9BM3078R0/2009,Direct Transmission,5,Inter-Species,8.0
+502,A/mallard/Interior Alaska/9BM3357R0/2009,A/mallard/Interior Alaska/9BM3078R0/2009,Direct Transmission,3,Intra-Species,8.0
+503,A/northern pintail/Interior Alaska/9BM10525R2/2009,A/northern pintail/Interior Alaska/9BM10146R0/2009,Direct Transmission,1,Intra-Species,8.0
+504,A/northern pintail/Interior Alaska/10BM00849R2/2010,A/northern pintail/Interior Alaska/9BM10146R0/2009,Environmental Persistence,281,Intra-Species,7.9979359999999975
+505,A/mallard/Minnesota/AI09-3228/2009,A/northern pintail/Interior Alaska/9BM10146R0/2009,Environmental Persistence,24,Inter-Species,7.555224000000001
+506,A/northern pintail/Interior Alaska/9BM9973R0/2009,A/northern pintail/Interior Alaska/9BM10146R0/2009,Direct Transmission,0,Intra-Species,8.0
+507,A/northern pintail/Interior Alaska/9BM11431R0/2009,A/northern pintail/Interior Alaska/9BM10146R0/2009,Direct Transmission,3,Intra-Species,7.996569999999998
+508,A/northern pintail/Interior Alaska/9BM11325R0/2009,A/northern pintail/Interior Alaska/9BM10146R0/2009,Direct Transmission,3,Intra-Species,7.999567999999999
+509,A/northern pintail/Interior Alaska/10BM11694R0/2010,A/northern pintail/Interior Alaska/10BM11989R0/2010,Direct Transmission,0,Intra-Species,7.9954810000000025
+510,A/mallard/Interior Alaska/9BM10375R0/2009,A/mallard/Interior Alaska/9BM10095R0/2009,Direct Transmission,2,Intra-Species,7.9993490000000005
+511,A/northern pintail/Interior Alaska/9BM10224R0/2009,A/northern pintail/Interior Alaska/9BM10238R0/2009,Direct Transmission,0,Intra-Species,8.0
+512,A/northern pintail/Interior Alaska/9BM10234R0/2009,A/northern pintail/Interior Alaska/9BM10238R0/2009,Direct Transmission,0,Intra-Species,8.0
+513,A/northern pintail/Interior Alaska/9BM10236R0/2009,A/northern pintail/Interior Alaska/9BM10238R0/2009,Direct Transmission,0,Intra-Species,8.0
+514,A/northern pintail/Interior Alaska/9BM10210R0/2009,A/northern pintail/Interior Alaska/9BM10238R0/2009,Direct Transmission,0,Intra-Species,8.0
+515,A/northern pintail/Interior Alaska/9BM11179R0/2009,A/northern pintail/Interior Alaska/9BM10238R0/2009,Direct Transmission,2,Intra-Species,7.999115
+516,A/northern pintail/Interior Alaska/9BM10218R0/2009,A/northern pintail/Interior Alaska/9BM10238R0/2009,Direct Transmission,0,Intra-Species,7.999547
+517,A/northern pintail/Interior Alaska/9BM10222R0/2009,A/northern pintail/Interior Alaska/9BM10238R0/2009,Direct Transmission,0,Intra-Species,8.0
+518,A/northern pintail/Interior Alaska/9BM10244R0/2009,A/northern pintail/Interior Alaska/9BM10238R0/2009,Direct Transmission,0,Intra-Species,8.0
+519,A/mallard/Interior Alaska/9BM10369R0/2009,A/mallard/Interior Alaska/9BM10370R0/2009,Direct Transmission,0,Intra-Species,8.0
+520,A/northern pintail/Interior Alaska/9BM8803R0/2009,A/northern shoveler/Interior Alaska/9BM4905R0/2009,Direct Transmission,13,Inter-Species,7.9981490000000015
+521,A/mallard/Interior Alaska/9BM2256/2009,A/mallard/Interior Alaska/9BM1974/2009,Direct Transmission,5,Intra-Species,7.999547
+522,A/mallard/Interior Alaska/9BM2073/2009,A/mallard/Interior Alaska/9BM1974/2009,Direct Transmission,3,Intra-Species,7.999115
+523,A/mallard/Interior Alaska/9BM2170/2009,A/mallard/Interior Alaska/9BM1974/2009,Direct Transmission,4,Intra-Species,8.0
+524,A/mallard/Interior Alaska/9BM2252/2009,A/mallard/Interior Alaska/9BM1974/2009,Direct Transmission,5,Intra-Species,7.998963000000002
+525,A/mallard/Interior Alaska/9BM2243/2009,A/mallard/Interior Alaska/9BM1974/2009,Direct Transmission,5,Intra-Species,7.999093999999999
+526,A/northern shoveler/Interior Alaska/10BM05382R0/2010,A/American green-winged teal/Interior Alaska/10BM05376R0/2010,Direct Transmission,0,Inter-Species,7.9900449999999985
+527,A/mallard/Interior Alaska/10BM05797R0/2010,A/American green-winged teal/Interior Alaska/10BM05376R0/2010,Direct Transmission,1,Inter-Species,7.9572629999999975
+528,A/mallard/Interior Alaska/9BM8465R0/2009,A/northern pintail/Interior Alaska/9BM8448R0/2009,Direct Transmission,0,Inter-Species,8.0
+529,A/mallard/Interior Alaska/9BM9755R0/2009,A/northern pintail/Interior Alaska/9BM8448R0/2009,Direct Transmission,4,Inter-Species,8.0
+530,A/northern pintail/Interior Alaska/9BM8459R0/2009,A/northern pintail/Interior Alaska/9BM8448R0/2009,Direct Transmission,0,Intra-Species,8.0
+531,A/northern pintail/Interior Alaska/9BM10146R0/2009,A/northern pintail/Interior Alaska/9BM8448R0/2009,Direct Transmission,5,Intra-Species,8.0
+532,A/northern pintail/Interior Alaska/9BM8502R0/2009,A/northern pintail/Interior Alaska/9BM8448R0/2009,Direct Transmission,0,Intra-Species,8.0
+533,A/northern pintail/Interior Alaska/9BM10525R2/2009,A/northern pintail/Interior Alaska/9BM8448R0/2009,Direct Transmission,6,Intra-Species,8.0
+534,A/northern pintail/Interior Alaska/10BM00849R2/2010,A/northern pintail/Interior Alaska/9BM8448R0/2009,Environmental Persistence,286,Intra-Species,7.9979359999999975
+535,A/mallard/Minnesota/AI09-3228/2009,A/northern pintail/Interior Alaska/9BM8448R0/2009,Environmental Persistence,29,Inter-Species,7.555224000000001
+536,A/northern pintail/Interior Alaska/9BM9973R0/2009,A/northern pintail/Interior Alaska/9BM8448R0/2009,Direct Transmission,5,Intra-Species,8.0
+537,A/northern pintail/Interior Alaska/9BM11431R0/2009,A/northern pintail/Interior Alaska/9BM8448R0/2009,Direct Transmission,8,Intra-Species,7.996569999999998
+538,A/northern pintail/Interior Alaska/9BM11325R0/2009,A/northern pintail/Interior Alaska/9BM8448R0/2009,Direct Transmission,8,Intra-Species,7.999567999999999
+539,A/northern pintail/Interior Alaska/9BM8464R0/2009,A/northern pintail/Interior Alaska/9BM8448R0/2009,Direct Transmission,0,Intra-Species,7.999136
+540,A/mallard/Interior Alaska/10BM11419R0/2010,A/mallard/Interior Alaska/10BM11414R0/2010,Direct Transmission,0,Intra-Species,7.998683
+541,A/mallard/Interior Alaska/10BM11420R0/2010,A/mallard/Interior Alaska/10BM11414R0/2010,Direct Transmission,0,Intra-Species,8.0
+542,A/mallard/Interior Alaska/10BM12049R0/2010,A/mallard/Interior Alaska/10BM11414R0/2010,Direct Transmission,1,Intra-Species,7.998993
+543,A/mallard/Interior Alaska/10BM11418R0/2010,A/mallard/Interior Alaska/10BM11414R0/2010,Direct Transmission,0,Intra-Species,7.999136
+544,A/mallard/Interior Alaska/10BM11415R0/2010,A/mallard/Interior Alaska/10BM11414R0/2010,Direct Transmission,0,Intra-Species,7.998539999999998
+545,A/mallard/Minnesota/AI09-3228/2009,A/northern pintail/Interior Alaska/9BM10525R2/2009,Environmental Persistence,23,Inter-Species,7.555224000000001
+546,A/northern pintail/Interior Alaska/10BM00849R2/2010,A/northern pintail/Interior Alaska/9BM10525R2/2009,Environmental Persistence,280,Intra-Species,7.9979359999999975
+547,A/northern pintail/Interior Alaska/9BM11431R0/2009,A/northern pintail/Interior Alaska/9BM10525R2/2009,Direct Transmission,2,Intra-Species,7.996569999999998
+548,A/northern pintail/Interior Alaska/9BM11325R0/2009,A/northern pintail/Interior Alaska/9BM10525R2/2009,Direct Transmission,2,Intra-Species,7.999567999999999
+549,A/northern pintail/Interior Alaska/9BM9005R0/2009,A/American green-winged teal/Interior Alaska/9BM6222R0/2009,Direct Transmission,8,Inter-Species,7.995710000000001
+550,A/northern pintail/Interior Alaska/9BM8084R0/2009,A/American green-winged teal/Interior Alaska/9BM6222R0/2009,Direct Transmission,6,Inter-Species,7.9980030000000015
+551,A/American green-winged teal/Interior Alaska/9BM6702R0/2009,A/American green-winged teal/Interior Alaska/9BM6222R0/2009,Direct Transmission,1,Intra-Species,7.997960000000001
+552,A/northern pintail/Interior Alaska/9BM6229R0/2009,A/American green-winged teal/Interior Alaska/9BM6222R0/2009,Direct Transmission,0,Inter-Species,8.0
+553,A/northern pintail/Interior Alaska/9BM7696R0/2009,A/American green-winged teal/Interior Alaska/9BM6222R0/2009,Direct Transmission,5,Inter-Species,8.0
+554,A/American green-winged teal/Interior Alaska/9BM6225R0/2009,A/American green-winged teal/Interior Alaska/9BM6222R0/2009,Direct Transmission,0,Intra-Species,8.0
+555,A/American green-winged teal/Interior Alaska/9BM6223R0/2009,A/American green-winged teal/Interior Alaska/9BM6222R0/2009,Direct Transmission,0,Intra-Species,8.0
+556,A/northern pintail/Interior Alaska/9BM7118R1/2009,A/northern pintail/Interior Alaska/9BM7055R0/2009,Direct Transmission,0,Intra-Species,7.994495
+557,A/northern pintail/Interior Alaska/9BM7108R2/2009,A/northern pintail/Interior Alaska/9BM7055R0/2009,Direct Transmission,0,Intra-Species,7.999567
+558,A/northern pintail/Interior Alaska/9BM7044R0/2009,A/northern pintail/Interior Alaska/9BM7055R0/2009,Direct Transmission,0,Intra-Species,7.9978729999999985
+559,A/northern pintail/Interior Alaska/9BM7069R0/2009,A/northern pintail/Interior Alaska/9BM7055R0/2009,Direct Transmission,0,Intra-Species,7.998411999999999
+560,A/northern pintail/Interior Alaska/9BM7368R0/2009,A/northern pintail/Interior Alaska/9BM7055R0/2009,Direct Transmission,1,Intra-Species,7.994407000000002
+561,A/northern pintail/Interior Alaska/9BM7050R0/2009,A/northern pintail/Interior Alaska/9BM7055R0/2009,Direct Transmission,0,Intra-Species,8.0
+562,A/northern pintail/Interior Alaska/9BM7052R0/2009,A/northern pintail/Interior Alaska/9BM7055R0/2009,Direct Transmission,0,Intra-Species,7.992590999999999
+563,A/mallard/Interior Alaska/9BM7216R0/2009,A/mallard/Interior Alaska/9BM7162R0/2009,Direct Transmission,0,Intra-Species,7.992072999999999
+564,A/American black duck/New Brunswick/00991/2010,A/northern shoveler/Interior Alaska/9BM12314R0/2009,Environmental Persistence,379,Inter-Species,7.632250000000001
+565,A/blue-winged teal/Louisiana/AI09-5291/2009,A/northern shoveler/Interior Alaska/9BM12314R0/2009,Environmental Persistence,74,Inter-Species,7.608784
+566,A/American black duck/New Brunswick/00986/2010,A/northern shoveler/Interior Alaska/9BM12314R0/2009,Environmental Persistence,379,Inter-Species,7.624041
+567,A/American green-winged teal/Illinois/10OS1551/2010,A/northern shoveler/Interior Alaska/9BM12314R0/2009,Environmental Persistence,367,Inter-Species,7.648014
+568,A/mallard/California/1523/2010,A/northern shoveler/Interior Alaska/9BM12314R0/2009,Environmental Persistence,343,Inter-Species,7.693212000000001
+569,A/mallard/Interior Alaska/9BM11965R0/2009,A/northern pintail/Interior Alaska/9BM12176R0/2009,Direct Transmission,0,Inter-Species,7.998683
+570,A/northern pintail/Interior Alaska/9BM12180R0/2009,A/northern pintail/Interior Alaska/9BM12176R0/2009,Direct Transmission,0,Intra-Species,8.0
+571,A/northern shoveler/Interior Alaska/10BM05638R0/2010,A/northern shoveler/Interior Alaska/10BM05649R0/2010,Direct Transmission,0,Intra-Species,7.995888000000001
+572,A/ring-necked duck/Interior Alaska/10BM05792R0/2010,A/northern shoveler/Interior Alaska/10BM05649R0/2010,Direct Transmission,0,Inter-Species,8.0
+573,A/mallard/Interior Alaska/10BM05900R0/2010,A/northern shoveler/Interior Alaska/10BM05649R0/2010,Direct Transmission,0,Inter-Species,7.999134
+574,A/mallard/Interior Alaska/9BM9984R0/2009,A/mallard/Interior Alaska/9BM9985R0/2009,Direct Transmission,0,Intra-Species,7.998528999999999
+575,A/northern pintail/Interior Alaska/9BM9989R0/2009,A/mallard/Interior Alaska/9BM9985R0/2009,Direct Transmission,0,Inter-Species,7.995627000000002
+576,A/mallard/Interior Alaska/9BM9983R0/2009,A/mallard/Interior Alaska/9BM9985R0/2009,Direct Transmission,0,Intra-Species,8.0
+577,A/mallard/Interior Alaska/10BM04626R0/2010,A/northern shoveler/Interior Alaska/10BM02593R0/2010,Environmental Persistence,25,Inter-Species,7.994277999999999
+578,A/northern pintail/Interior Alaska/10BM08540R0/2010,A/northern shoveler/Interior Alaska/10BM02593R0/2010,Environmental Persistence,42,Inter-Species,7.9851
+579,A/mallard/Interior Alaska/10BM02644R0/2010,A/northern shoveler/Interior Alaska/10BM02593R0/2010,Direct Transmission,2,Inter-Species,7.9945179999999985
+580,A/northern shoveler/Interior Alaska/10BM02892R0/2010,A/northern shoveler/Interior Alaska/10BM02593R0/2010,Direct Transmission,7,Intra-Species,7.992362
+581,A/American green-winged teal/Interior Alaska/10BM05165R0/2010,A/northern shoveler/Interior Alaska/10BM02593R0/2010,Environmental Persistence,29,Inter-Species,7.989718999999999
+582,A/northern pintail/Interior Alaska/10BM02791R0/2010,A/northern shoveler/Interior Alaska/10BM02593R0/2010,Direct Transmission,2,Inter-Species,7.989371
+583,A/mallard/Interior Alaska/10BM04988R0/2010,A/northern shoveler/Interior Alaska/10BM02593R0/2010,Environmental Persistence,28,Inter-Species,7.994253
+584,A/northern pintail/Interior Alaska/10BM05171R0/2010,A/northern shoveler/Interior Alaska/10BM02593R0/2010,Environmental Persistence,29,Inter-Species,7.9886240000000015
+585,A/mallard/Interior Alaska/10BM03979R0/2010,A/northern shoveler/Interior Alaska/10BM02593R0/2010,Environmental Persistence,19,Inter-Species,7.98942
+586,A/northern pintail/Interior Alaska/10BM07469R0/2010,A/mallard/Interior Alaska/10BM06911R0/2010,Direct Transmission,2,Inter-Species,7.998258
+587,A/mallard/Interior Alaska/10BM07092R0/2010,A/mallard/Interior Alaska/10BM06911R0/2010,Direct Transmission,1,Intra-Species,8.0
+588,A/northern pintail/Interior Alaska/10BM06895R0/2010,A/mallard/Interior Alaska/10BM06911R0/2010,Direct Transmission,0,Inter-Species,7.9991330000000005
+589,A/mallard/Interior Alaska/10BM06909R0/2010,A/mallard/Interior Alaska/10BM06911R0/2010,Direct Transmission,0,Intra-Species,7.9982349999999975
+590,A/northern pintail/Interior Alaska/10BM07106R0/2010,A/mallard/Interior Alaska/10BM06911R0/2010,Direct Transmission,1,Inter-Species,7.998714
+591,A/mallard/Interior Alaska/10BM06905R0/2010,A/mallard/Interior Alaska/10BM06911R0/2010,Direct Transmission,0,Intra-Species,8.0
+592,A/northern pintail/Interior Alaska/10BM07114R0/2010,A/mallard/Interior Alaska/10BM06911R0/2010,Direct Transmission,1,Inter-Species,8.0
+593,A/northern pintail/Interior Alaska/10BM06899R0/2010,A/mallard/Interior Alaska/10BM06911R0/2010,Direct Transmission,0,Inter-Species,8.0
+594,A/mallard/Interior Alaska/10BM08100R0/2010,A/mallard/Interior Alaska/10BM06911R0/2010,Direct Transmission,4,Intra-Species,7.9977839999999984
+595,A/mallard/Interior Alaska/10BM10324R0/2010,A/mallard/Interior Alaska/10BM09818R0/2010,Direct Transmission,2,Intra-Species,7.998886
+596,A/northern pintail/Interior Alaska/10BM10166R0/2010,A/mallard/Interior Alaska/10BM09818R0/2010,Direct Transmission,1,Inter-Species,7.999414
+597,A/northern pintail/Interior Alaska/10BM09832R0/2010,A/mallard/Interior Alaska/10BM09818R0/2010,Direct Transmission,0,Inter-Species,7.997392
+598,A/northern pintail/Interior Alaska/10BM10476R0/2010,A/mallard/Interior Alaska/10BM09818R0/2010,Direct Transmission,2,Inter-Species,7.999414
+599,A/northern pintail/Interior Alaska/10BM10906R0/2010,A/mallard/Interior Alaska/10BM09818R0/2010,Direct Transmission,3,Inter-Species,7.998828
+600,A/mallard/Interior Alaska/10BM11434R0/2010,A/mallard/Interior Alaska/10BM09818R0/2010,Direct Transmission,5,Intra-Species,7.998537
+601,A/mallard/Interior Alaska/10BM09563R0/2010,A/mallard/Interior Alaska/10BM09818R0/2010,Direct Transmission,0,Intra-Species,7.9985149999999985
+602,A/American green-winged teal/Interior Alaska/10BM04207R0/2010,A/blue-winged teal/Texas/AI09-4405/2009,Environmental Persistence,297,Inter-Species,7.520921
+603,A/northern shoveler/Interior Alaska/10BM05638R0/2010,A/ring-necked duck/Interior Alaska/10BM05792R0/2010,Direct Transmission,0,Inter-Species,7.995888000000001
+604,A/northern shoveler/Interior Alaska/10BM05649R0/2010,A/ring-necked duck/Interior Alaska/10BM05792R0/2010,Direct Transmission,0,Inter-Species,8.0
+605,A/mallard/Interior Alaska/10BM05900R0/2010,A/ring-necked duck/Interior Alaska/10BM05792R0/2010,Direct Transmission,0,Inter-Species,7.999134
+606,A/northern pintail/Interior Alaska/9BM11358R1/2009,A/mallard/Interior Alaska/9BM11351R0/2009,Direct Transmission,0,Inter-Species,7.9991330000000005
+607,A/northern pintail/Interior Alaska/9BM11151R0/2009,A/mallard/Interior Alaska/9BM11351R0/2009,Direct Transmission,0,Inter-Species,8.0
+608,A/mallard/Interior Alaska/10BM06459R0/2010,A/mallard/Interior Alaska/10BM06452R0/2010,Direct Transmission,0,Intra-Species,7.999567
+609,A/mallard/Interior Alaska/10BM06454R0/2010,A/mallard/Interior Alaska/10BM06452R0/2010,Direct Transmission,0,Intra-Species,8.0
+610,A/mallard/Interior Alaska/10BM06456R0/2010,A/mallard/Interior Alaska/10BM06452R0/2010,Direct Transmission,0,Intra-Species,7.999414999999999
+611,A/mallard/Interior Alaska/10BM06460R0/2010,A/mallard/Interior Alaska/10BM06452R0/2010,Direct Transmission,0,Intra-Species,7.998991
+612,A/mallard/Interior Alaska/10BM06461R0/2010,A/mallard/Interior Alaska/10BM06452R0/2010,Direct Transmission,0,Intra-Species,8.0
+613,A/mallard/Interior Alaska/10BM06450R0/2010,A/mallard/Interior Alaska/10BM06452R0/2010,Direct Transmission,0,Intra-Species,8.0
+614,A/mallard/Interior Alaska/10BM06455R0/2010,A/mallard/Interior Alaska/10BM06452R0/2010,Direct Transmission,0,Intra-Species,7.999567
+615,A/mallard/Interior Alaska/10BM06448R0/2010,A/mallard/Interior Alaska/10BM06452R0/2010,Direct Transmission,0,Intra-Species,8.0
+616,A/mallard/Interior Alaska/10BM07777R0/2010,A/mallard/Interior Alaska/10BM06452R0/2010,Direct Transmission,4,Intra-Species,8.0
+617,A/northern pintail/Interior Alaska/10BM07120R0/2010,A/northern pintail/Interior Alaska/10BM07121R0/2010,Direct Transmission,0,Intra-Species,7.998981
+618,A/northern pintail/Interior Alaska/10BM07399R0/2010,A/northern pintail/Interior Alaska/10BM07121R0/2010,Direct Transmission,1,Intra-Species,7.958558999999998
+619,A/northern pintail/Interior Alaska/10BM07029R0/2010,A/northern pintail/Interior Alaska/10BM07121R0/2010,Direct Transmission,0,Intra-Species,7.998844
+620,A/northern pintail/Interior Alaska/10BM06306R0/2010,A/northern pintail/Interior Alaska/10BM06303R0/2010,Direct Transmission,0,Intra-Species,7.998828
+621,A/northern pintail/Interior Alaska/9BM7696R0/2009,A/northern pintail/Interior Alaska/9BM6229R0/2009,Direct Transmission,5,Intra-Species,8.0
+622,A/American green-winged teal/Interior Alaska/9BM6222R0/2009,A/northern pintail/Interior Alaska/9BM6229R0/2009,Direct Transmission,0,Inter-Species,8.0
+623,A/American green-winged teal/Interior Alaska/9BM6225R0/2009,A/northern pintail/Interior Alaska/9BM6229R0/2009,Direct Transmission,0,Inter-Species,8.0
+624,A/American green-winged teal/Interior Alaska/9BM6223R0/2009,A/northern pintail/Interior Alaska/9BM6229R0/2009,Direct Transmission,0,Inter-Species,8.0
+625,A/mallard/Mississippi/329/2010,A/mallard/Interior Alaska/9BM9335R0/2009,Environmental Persistence,157,Intra-Species,7.7037390000000014
+626,A/mallard/Interior Alaska/10BM06459R0/2010,A/mallard/Interior Alaska/10BM06450R0/2010,Direct Transmission,0,Intra-Species,7.999567
+627,A/mallard/Interior Alaska/10BM06452R0/2010,A/mallard/Interior Alaska/10BM06450R0/2010,Direct Transmission,0,Intra-Species,8.0
+628,A/mallard/Interior Alaska/10BM06454R0/2010,A/mallard/Interior Alaska/10BM06450R0/2010,Direct Transmission,0,Intra-Species,8.0
+629,A/mallard/Interior Alaska/10BM06456R0/2010,A/mallard/Interior Alaska/10BM06450R0/2010,Direct Transmission,0,Intra-Species,7.999414999999999
+630,A/mallard/Interior Alaska/10BM06460R0/2010,A/mallard/Interior Alaska/10BM06450R0/2010,Direct Transmission,0,Intra-Species,7.998991
+631,A/mallard/Interior Alaska/10BM06461R0/2010,A/mallard/Interior Alaska/10BM06450R0/2010,Direct Transmission,0,Intra-Species,8.0
+632,A/mallard/Interior Alaska/10BM06455R0/2010,A/mallard/Interior Alaska/10BM06450R0/2010,Direct Transmission,0,Intra-Species,7.999567
+633,A/mallard/Interior Alaska/10BM06448R0/2010,A/mallard/Interior Alaska/10BM06450R0/2010,Direct Transmission,0,Intra-Species,8.0
+634,A/mallard/Interior Alaska/10BM07777R0/2010,A/mallard/Interior Alaska/10BM06450R0/2010,Direct Transmission,4,Intra-Species,8.0
+635,A/northern pintail/Interior Alaska/10BM07993R0/2010,A/northern pintail/Interior Alaska/10BM07476R0/2010,Direct Transmission,1,Intra-Species,7.991882
+636,A/northern pintail/Interior Alaska/9BM9005R0/2009,A/American green-winged teal/Interior Alaska/9BM6225R0/2009,Direct Transmission,8,Inter-Species,7.995710000000001
+637,A/American green-winged teal/Interior Alaska/9BM6702R0/2009,A/American green-winged teal/Interior Alaska/9BM6225R0/2009,Direct Transmission,1,Intra-Species,7.997960000000001
+638,A/northern pintail/Interior Alaska/9BM6229R0/2009,A/American green-winged teal/Interior Alaska/9BM6225R0/2009,Direct Transmission,0,Inter-Species,8.0
+639,A/northern pintail/Interior Alaska/9BM7696R0/2009,A/American green-winged teal/Interior Alaska/9BM6225R0/2009,Direct Transmission,5,Inter-Species,8.0
+640,A/American green-winged teal/Interior Alaska/9BM6222R0/2009,A/American green-winged teal/Interior Alaska/9BM6225R0/2009,Direct Transmission,0,Intra-Species,8.0
+641,A/northern pintail/Interior Alaska/9BM8084R0/2009,A/American green-winged teal/Interior Alaska/9BM6225R0/2009,Direct Transmission,6,Inter-Species,7.9980030000000015
+642,A/American green-winged teal/Interior Alaska/9BM6223R0/2009,A/American green-winged teal/Interior Alaska/9BM6225R0/2009,Direct Transmission,0,Intra-Species,8.0
+643,A/mallard/Interior Alaska/10BM12370R0/2010,A/mallard/Interior Alaska/10BM12350R0/2010,Direct Transmission,0,Intra-Species,8.0
+644,A/mallard/Interior Alaska/10BM12351R0/2010,A/mallard/Interior Alaska/10BM12350R0/2010,Direct Transmission,0,Intra-Species,7.999425
+645,A/mallard/Interior Alaska/10BM12363R0/2010,A/mallard/Interior Alaska/10BM12350R0/2010,Direct Transmission,0,Intra-Species,8.0
+646,A/mallard/Interior Alaska/10BM12352R0/2010,A/mallard/Interior Alaska/10BM12350R0/2010,Direct Transmission,0,Intra-Species,7.999351
+647,A/mallard/Interior Alaska/10BM12383R0/2010,A/mallard/Interior Alaska/10BM12350R0/2010,Direct Transmission,0,Intra-Species,7.998842999999999
+648,A/mallard/Interior Alaska/10BM12374R0/2010,A/mallard/Interior Alaska/10BM12350R0/2010,Direct Transmission,0,Intra-Species,8.0
+649,A/northern pintail/Interior Alaska/10BM07469R0/2010,A/northern pintail/Interior Alaska/10BM06899R0/2010,Direct Transmission,2,Intra-Species,7.998258
+650,A/mallard/Interior Alaska/10BM07092R0/2010,A/northern pintail/Interior Alaska/10BM06899R0/2010,Direct Transmission,1,Inter-Species,8.0
+651,A/northern pintail/Interior Alaska/10BM06895R0/2010,A/northern pintail/Interior Alaska/10BM06899R0/2010,Direct Transmission,0,Intra-Species,7.9991330000000005
+652,A/mallard/Interior Alaska/10BM06909R0/2010,A/northern pintail/Interior Alaska/10BM06899R0/2010,Direct Transmission,0,Inter-Species,7.9982349999999975
+653,A/northern pintail/Interior Alaska/10BM07106R0/2010,A/northern pintail/Interior Alaska/10BM06899R0/2010,Direct Transmission,1,Intra-Species,7.998714
+654,A/mallard/Interior Alaska/10BM06905R0/2010,A/northern pintail/Interior Alaska/10BM06899R0/2010,Direct Transmission,0,Inter-Species,8.0
+655,A/northern pintail/Interior Alaska/10BM07114R0/2010,A/northern pintail/Interior Alaska/10BM06899R0/2010,Direct Transmission,1,Intra-Species,8.0
+656,A/mallard/Interior Alaska/10BM06911R0/2010,A/northern pintail/Interior Alaska/10BM06899R0/2010,Direct Transmission,0,Inter-Species,8.0
+657,A/mallard/Interior Alaska/10BM08100R0/2010,A/northern pintail/Interior Alaska/10BM06899R0/2010,Direct Transmission,4,Inter-Species,7.9977839999999984
+658,A/American black duck/New Brunswick/00909/2010,A/northern pintail/Interior Alaska/9BM8498R0/2009,Environmental Persistence,400,Inter-Species,7.7195269999999985
+659,A/American black duck/New Brunswick/00906/2010,A/northern pintail/Interior Alaska/9BM8498R0/2009,Environmental Persistence,400,Inter-Species,7.719448
+660,A/American black duck/New Brunswick/00924/2010,A/northern pintail/Interior Alaska/9BM8498R0/2009,Environmental Persistence,401,Inter-Species,7.7152980000000015
+661,A/mallard-black duck hybrid/New Brunswick/00904/2010,A/northern pintail/Interior Alaska/9BM8498R0/2009,Environmental Persistence,400,Inter-Species,7.7195269999999985
+662,A/northern pintail/Interior Alaska/10BM12221R0/2010,A/northern pintail/Interior Alaska/10BM04704R0/2010,Environmental Persistence,26,Intra-Species,7.970192999999999
+663,A/mallard/Interior Alaska/10BM12308R0/2010,A/northern pintail/Interior Alaska/10BM04704R0/2010,Environmental Persistence,27,Inter-Species,7.992332000000001
+664,A/mallard/Interior Alaska/10BM10864R0/2010,A/northern pintail/Interior Alaska/10BM04704R0/2010,Environmental Persistence,23,Inter-Species,7.995725999999999
+665,A/mallard/Interior Alaska/10BM10176R0/2010,A/northern pintail/Interior Alaska/10BM04704R0/2010,Environmental Persistence,21,Inter-Species,7.999567
+666,A/northern pintail/Interior Alaska/10BM08514R0/2010,A/northern pintail/Interior Alaska/10BM04704R0/2010,Environmental Persistence,17,Intra-Species,7.9953850000000015
+667,A/mallard/Interior Alaska/9BM8287R0/2009,A/northern pintail/Interior Alaska/9BM6205R0/2009,Direct Transmission,7,Inter-Species,7.998032000000001
+668,A/American green-winged teal/Interior Alaska/9BM6428R0/2009,A/northern pintail/Interior Alaska/9BM6205R0/2009,Direct Transmission,1,Inter-Species,7.998917
+669,A/mallard/Interior Alaska/9BM10043R0/2009,A/northern pintail/Interior Alaska/9BM6205R0/2009,Direct Transmission,13,Inter-Species,7.998096
+670,A/northern pintail/Interior Alaska/9BM6039R0/2009,A/northern pintail/Interior Alaska/9BM6040R0/2009,Direct Transmission,0,Intra-Species,7.999567999999999
+671,A/mallard/California/1335-1/2010,A/mallard/Interior Alaska/9BM8287R0/2009,Environmental Persistence,359,Intra-Species,7.762878999999999
+672,A/mallard/California/1353/2010,A/mallard/Interior Alaska/9BM8287R0/2009,Environmental Persistence,362,Intra-Species,7.760325
+673,A/mallard/California/1356/2010,A/mallard/Interior Alaska/9BM8287R0/2009,Environmental Persistence,360,Intra-Species,7.7603360000000015
+674,A/mallard/California/1335/2010,A/mallard/Interior Alaska/9BM8287R0/2009,Environmental Persistence,359,Intra-Species,7.764337999999999
+675,A/mallard/Interior Alaska/9BM6888R0/2009,A/mallard/Interior Alaska/9BM8287R0/2009,Direct Transmission,1,Intra-Species,7.9984850000000005
+676,A/mallard/California/1305/2010,A/mallard/Interior Alaska/9BM8287R0/2009,Environmental Persistence,359,Intra-Species,7.759245999999999
+677,A/mallard/California/2420/2010,A/mallard/Interior Alaska/9BM8287R0/2009,Environmental Persistence,440,Intra-Species,7.757505
+678,A/northern pintail/Interior Alaska/10BM07469R0/2010,A/northern pintail/Interior Alaska/10BM07114R0/2010,Direct Transmission,1,Intra-Species,7.998258
+679,A/mallard/Interior Alaska/10BM07092R0/2010,A/northern pintail/Interior Alaska/10BM07114R0/2010,Direct Transmission,0,Inter-Species,8.0
+680,A/northern pintail/Interior Alaska/10BM07106R0/2010,A/northern pintail/Interior Alaska/10BM07114R0/2010,Direct Transmission,0,Intra-Species,7.998714
+681,A/mallard/Interior Alaska/10BM08100R0/2010,A/northern pintail/Interior Alaska/10BM07114R0/2010,Direct Transmission,3,Inter-Species,7.9977839999999984
+682,A/northern pintail/Interior Alaska/10BM07120R0/2010,A/mallard/Interior Alaska/10BM06838R0/2010,Direct Transmission,1,Inter-Species,7.998981
+683,A/northern pintail/Interior Alaska/10BM07121R0/2010,A/mallard/Interior Alaska/10BM06838R0/2010,Direct Transmission,1,Inter-Species,8.0
+684,A/northern pintail/Interior Alaska/10BM07399R0/2010,A/mallard/Interior Alaska/10BM06838R0/2010,Direct Transmission,2,Inter-Species,7.958558999999998
+685,A/northern pintail/Interior Alaska/10BM07029R0/2010,A/mallard/Interior Alaska/10BM06838R0/2010,Direct Transmission,1,Inter-Species,7.998844
+686,A/mallard/Interior Alaska/9BM10537R0/2009,A/northern pintail/Interior Alaska/9BM7152R2/2009,Direct Transmission,10,Inter-Species,7.951203
+687,A/northern pintail/Interior Alaska/9BM10877R0/2009,A/northern pintail/Interior Alaska/9BM6039R0/2009,Direct Transmission,15,Intra-Species,7.995867999999999
+688,A/northern pintail/Interior Alaska/9BM6040R0/2009,A/northern pintail/Interior Alaska/9BM6039R0/2009,Direct Transmission,0,Intra-Species,7.999567999999999
+689,A/mallard/Interior Alaska/10BM12178R0/2010,A/mallard/Interior Alaska/10BM12179R0/2010,Direct Transmission,0,Intra-Species,8.0
+690,A/mallard/Interior Alaska/10BM12311R0/2010,A/mallard/Interior Alaska/10BM12179R0/2010,Direct Transmission,1,Intra-Species,7.999547
+691,A/northern pintail/Interior Alaska/10BM10853R0/2010,A/mallard/Interior Alaska/10BM10829R0/2010,Direct Transmission,0,Inter-Species,8.0
+692,A/northern pintail/Interior Alaska/10BM10790R0/2010,A/mallard/Interior Alaska/10BM10829R0/2010,Direct Transmission,0,Inter-Species,7.998844
+693,A/mallard/Interior Alaska/10BM10859R0/2010,A/mallard/Interior Alaska/10BM10829R0/2010,Direct Transmission,0,Intra-Species,8.0
+694,A/northern pintail/Interior Alaska/10BM07458R0/2010,A/northern pintail/Interior Alaska/10BM07106R0/2010,Direct Transmission,1,Intra-Species,7.997392
+695,A/northern pintail/Interior Alaska/9BM11583R0/2009,A/northern pintail/Interior Alaska/9BM11358R1/2009,Direct Transmission,2,Intra-Species,8.0
+696,A/mallard/Interior Alaska/9BM8935R0/2009,A/northern pintail/Interior Alaska/9BM7799R0/2009,Direct Transmission,3,Inter-Species,7.996874000000001
+697,A/American green-winged teal/Interior Alaska/10BM07863R0/2010,A/American green-winged teal/Interior Alaska/10BM07000R0/2010,Direct Transmission,3,Inter-Species,7.999414999999999
+698,A/mallard/Interior Alaska/9BM12388R0/2009,A/northern shoveler/Interior Alaska/9BM12332R0/2009,Direct Transmission,0,Inter-Species,7.994338999999999
+699,A/American green-winged teal/Interior Alaska/9BM12356R0/2009,A/northern shoveler/Interior Alaska/9BM12332R0/2009,Direct Transmission,0,Inter-Species,7.9937380000000005
+700,A/mallard/Interior Alaska/9BM12390R0/2009,A/northern shoveler/Interior Alaska/9BM12332R0/2009,Direct Transmission,0,Inter-Species,7.99403
+701,A/northern pintail/Interior Alaska/9BM12186R0/2009,A/mallard/Interior Alaska/9BM9683R2/2009,Direct Transmission,7,Inter-Species,8.0
+702,A/mallard/Interior Alaska/9BM12198R0/2009,A/mallard/Interior Alaska/9BM9683R2/2009,Direct Transmission,7,Intra-Species,8.0
+703,A/mallard/Interior Alaska/9BM12204R0/2009,A/mallard/Interior Alaska/9BM9683R2/2009,Direct Transmission,7,Intra-Species,8.0
+704,A/northern pintail/Interior Alaska/9BM12190R0/2009,A/mallard/Interior Alaska/9BM9683R2/2009,Direct Transmission,7,Inter-Species,8.0
+705,A/mallard/Interior Alaska/10BM09818R0/2010,A/mallard/Interior Alaska/10BM09563R0/2010,Direct Transmission,0,Intra-Species,7.9985149999999985
+706,A/blue-winged teal/Guatemala/CIP049-07/2010,A/northern shoveler/Interior Alaska/9BM1447R2/2009,Environmental Persistence,225,Inter-Species,7.702586
+707,A/mallard/Interior Alaska/9BM2351R0/2009,A/northern shoveler/Interior Alaska/9BM1447R2/2009,Environmental Persistence,22,Inter-Species,7.793069
+708,A/northern pintail/Interior Alaska/9BM4989R0/2009,A/northern pintail/Interior Alaska/9BM4991R0/2009,Direct Transmission,0,Intra-Species,7.999567999999999
+709,A/northern pintail/Interior Alaska/9BM7688R0/2009,A/northern pintail/Interior Alaska/9BM7398R0/2009,Direct Transmission,1,Intra-Species,7.998234
+710,A/northern pintail/Interior Alaska/9BM7895R0/2009,A/northern pintail/Interior Alaska/9BM7398R0/2009,Direct Transmission,1,Intra-Species,7.9984850000000005
+711,A/northern pintail/Interior Alaska/9BM10224R0/2009,A/northern pintail/Interior Alaska/9BM10222R0/2009,Direct Transmission,0,Intra-Species,8.0
+712,A/northern pintail/Interior Alaska/9BM10234R0/2009,A/northern pintail/Interior Alaska/9BM10222R0/2009,Direct Transmission,0,Intra-Species,8.0
+713,A/northern pintail/Interior Alaska/9BM10236R0/2009,A/northern pintail/Interior Alaska/9BM10222R0/2009,Direct Transmission,0,Intra-Species,8.0
+714,A/northern pintail/Interior Alaska/9BM10210R0/2009,A/northern pintail/Interior Alaska/9BM10222R0/2009,Direct Transmission,0,Intra-Species,8.0
+715,A/northern pintail/Interior Alaska/9BM11179R0/2009,A/northern pintail/Interior Alaska/9BM10222R0/2009,Direct Transmission,2,Intra-Species,7.999115
+716,A/northern pintail/Interior Alaska/9BM10218R0/2009,A/northern pintail/Interior Alaska/9BM10222R0/2009,Direct Transmission,0,Intra-Species,7.999547
+717,A/northern pintail/Interior Alaska/9BM10238R0/2009,A/northern pintail/Interior Alaska/9BM10222R0/2009,Direct Transmission,0,Intra-Species,8.0
+718,A/northern pintail/Interior Alaska/9BM10244R0/2009,A/northern pintail/Interior Alaska/9BM10222R0/2009,Direct Transmission,0,Intra-Species,8.0
+719,A/mallard/Interior Alaska/9BM1958/2009,A/mallard/Interior Alaska/9BM1962/2009,Direct Transmission,0,Intra-Species,8.0
+720,A/mallard/Interior Alaska/9BM2254/2009,A/mallard/Interior Alaska/9BM1962/2009,Direct Transmission,7,Intra-Species,7.998417999999999
+721,A/mallard/Interior Alaska/9BM2168/2009,A/mallard/Interior Alaska/9BM1962/2009,Direct Transmission,6,Intra-Species,7.998919
+722,A/mallard/Interior Alaska/9BM1947/2009,A/mallard/Interior Alaska/9BM1962/2009,Direct Transmission,0,Intra-Species,8.0
+723,A/mallard/Interior Alaska/9BM1975/2009,A/mallard/Interior Alaska/9BM1962/2009,Direct Transmission,2,Intra-Species,7.997874
+724,A/northern pintail/Interior Alaska/10BM11989R0/2010,A/northern pintail/Interior Alaska/10BM11694R0/2010,Direct Transmission,0,Intra-Species,7.9954810000000025
+725,A/mallard/Interior Alaska/9BM9049R0/2009,A/northern pintail/Interior Alaska/9BM8022R0/2009,Direct Transmission,2,Inter-Species,7.8900000000000015
+726,A/northern pintail/Interior Alaska/9BM10749R0/2009,A/northern pintail/Interior Alaska/9BM8022R0/2009,Direct Transmission,8,Intra-Species,7.9920300000000015
+727,A/American green-winged teal/Interior Alaska/9BM3595R1/2009,A/mallard/Interior Alaska/9BM3379R0/2009,Direct Transmission,1,Inter-Species,8.0
+728,A/northern pintail/Interior Alaska/9BM4410R1/2009,A/herring gull/New Jersey/AI09-1262/2009,Environmental Persistence,48,Inter-Species,7.7112880000000015
+729,A/mallard/Interior Alaska/10CH00021R0/2010,A/northern pintail/Interior Alaska/10BM02585R0/2010,Environmental Persistence,74,Inter-Species,7.8393640000000016
+730,A/American green-winged teal/Interior Alaska/10BM07000R0/2010,A/northern pintail/Interior Alaska/10BM02585R0/2010,Environmental Persistence,39,Inter-Species,7.763343000000001
+731,A/northern pintail/Interior Alaska/9BM10819R0/2009,A/northern pintail/Interior Alaska/9BM7836R0/2009,Direct Transmission,9,Intra-Species,7.988417
+732,A/mallard/Interior Alaska/10BM06459R0/2010,A/mallard/Interior Alaska/10BM06454R0/2010,Direct Transmission,0,Intra-Species,7.999567
+733,A/mallard/Interior Alaska/10BM06452R0/2010,A/mallard/Interior Alaska/10BM06454R0/2010,Direct Transmission,0,Intra-Species,8.0
+734,A/mallard/Interior Alaska/10BM06456R0/2010,A/mallard/Interior Alaska/10BM06454R0/2010,Direct Transmission,0,Intra-Species,7.999414999999999
+735,A/mallard/Interior Alaska/10BM06460R0/2010,A/mallard/Interior Alaska/10BM06454R0/2010,Direct Transmission,0,Intra-Species,7.998991
+736,A/mallard/Interior Alaska/10BM06461R0/2010,A/mallard/Interior Alaska/10BM06454R0/2010,Direct Transmission,0,Intra-Species,8.0
+737,A/mallard/Interior Alaska/10BM06450R0/2010,A/mallard/Interior Alaska/10BM06454R0/2010,Direct Transmission,0,Intra-Species,8.0
+738,A/mallard/Interior Alaska/10BM06455R0/2010,A/mallard/Interior Alaska/10BM06454R0/2010,Direct Transmission,0,Intra-Species,7.999567
+739,A/mallard/Interior Alaska/10BM06448R0/2010,A/mallard/Interior Alaska/10BM06454R0/2010,Direct Transmission,0,Intra-Species,8.0
+740,A/mallard/Interior Alaska/10BM07777R0/2010,A/mallard/Interior Alaska/10BM06454R0/2010,Direct Transmission,4,Intra-Species,8.0
+741,A/mallard/Interior Alaska/10BM09539R0/2010,A/mallard/Interior Alaska/10BM09528R0/2010,Direct Transmission,0,Intra-Species,7.999535000000002
+742,A/blue-winged teal/Wisconsin/10OS3092/2010,A/mallard/Interior Alaska/10BM09893R0/2010,Environmental Persistence,56,Inter-Species,7.4818669999999985
+743,A/northern pintail/Interior Alaska/9BM12211R0/2009,A/northern pintail/Interior Alaska/9BM12210R0/2009,Direct Transmission,0,Intra-Species,8.0
+744,A/mallard/Interior Alaska/10BM06459R0/2010,A/mallard/Interior Alaska/10BM06461R0/2010,Direct Transmission,0,Intra-Species,7.999567
+745,A/mallard/Interior Alaska/10BM06452R0/2010,A/mallard/Interior Alaska/10BM06461R0/2010,Direct Transmission,0,Intra-Species,8.0
+746,A/mallard/Interior Alaska/10BM06454R0/2010,A/mallard/Interior Alaska/10BM06461R0/2010,Direct Transmission,0,Intra-Species,8.0
+747,A/mallard/Interior Alaska/10BM06456R0/2010,A/mallard/Interior Alaska/10BM06461R0/2010,Direct Transmission,0,Intra-Species,7.999414999999999
+748,A/mallard/Interior Alaska/10BM06460R0/2010,A/mallard/Interior Alaska/10BM06461R0/2010,Direct Transmission,0,Intra-Species,7.998991
+749,A/mallard/Interior Alaska/10BM06450R0/2010,A/mallard/Interior Alaska/10BM06461R0/2010,Direct Transmission,0,Intra-Species,8.0
+750,A/mallard/Interior Alaska/10BM06455R0/2010,A/mallard/Interior Alaska/10BM06461R0/2010,Direct Transmission,0,Intra-Species,7.999567
+751,A/mallard/Interior Alaska/10BM06448R0/2010,A/mallard/Interior Alaska/10BM06461R0/2010,Direct Transmission,0,Intra-Species,8.0
+752,A/mallard/Interior Alaska/10BM07777R0/2010,A/mallard/Interior Alaska/10BM06461R0/2010,Direct Transmission,4,Intra-Species,8.0
+753,A/mallard/Interior Alaska/9BM10370R0/2009,A/mallard/Interior Alaska/9BM10369R0/2009,Direct Transmission,0,Intra-Species,8.0
+754,A/mallard/Interior Alaska/10BM08884R0/2010,A/mallard/Interior Alaska/10BM08874R0/2010,Direct Transmission,0,Intra-Species,7.999567
+755,A/mallard/Interior Alaska/10BM08883R0/2010,A/mallard/Interior Alaska/10BM08874R0/2010,Direct Transmission,0,Intra-Species,8.0
+756,A/mallard/Interior Alaska/9BM3205R0/2009,A/mallard/Interior Alaska/9BM2783R0/2009,Direct Transmission,5,Intra-Species,7.994401999999999
+757,A/northern pintail/Interior Alaska/9BM3859R1/2009,A/mallard/Interior Alaska/9BM2751R0/2009,Direct Transmission,9,Inter-Species,7.996464
+758,A/mallard/Interior Alaska/9BM2783R0/2009,A/mallard/Interior Alaska/9BM2751R0/2009,Direct Transmission,0,Intra-Species,7.995725999999999
+759,A/mallard/Interior Alaska/9BM2750R0/2009,A/mallard/Interior Alaska/9BM2751R0/2009,Direct Transmission,0,Intra-Species,7.9965670000000015
+760,A/mallard/Interior Alaska/10BM09159R0/2010,A/northern pintail/Interior Alaska/10BM09102R0/2010,Direct Transmission,1,Inter-Species,7.997975
+761,A/mallard/Interior Alaska/10BM09164R0/2010,A/northern pintail/Interior Alaska/10BM09102R0/2010,Direct Transmission,1,Inter-Species,7.999425
+762,A/mallard/Interior Alaska/10BM09158R0/2010,A/northern pintail/Interior Alaska/10BM09102R0/2010,Direct Transmission,1,Inter-Species,7.998703
+763,A/mallard/Interior Alaska/10CH00035R0/2010,A/northern pintail/Interior Alaska/10BM09102R0/2010,Environmental Persistence,31,Inter-Species,7.9951729999999985
+764,A/northern pintail/Interior Alaska/10BM09101R0/2010,A/northern pintail/Interior Alaska/10BM09102R0/2010,Direct Transmission,0,Intra-Species,8.0
+765,A/northern pintail/Interior Alaska/10BM08920R0/2010,A/northern pintail/Interior Alaska/10BM09102R0/2010,Direct Transmission,0,Intra-Species,7.992619
+766,A/mallard/Interior Alaska/10BM09162R0/2010,A/northern pintail/Interior Alaska/10BM09102R0/2010,Direct Transmission,1,Inter-Species,7.9991020000000015
+767,A/northern pintail/Interior Alaska/10BM09105R0/2010,A/northern pintail/Interior Alaska/10BM09102R0/2010,Direct Transmission,0,Intra-Species,7.997835
+768,A/northern pintail/Interior Alaska/10BM09104R0/2010,A/northern pintail/Interior Alaska/10BM09102R0/2010,Direct Transmission,0,Intra-Species,8.0
+769,A/mallard/Interior Alaska/9BM8425R0/2009,A/mallard/Interior Alaska/9BM3205R0/2009,Environmental Persistence,20,Intra-Species,7.9266450000000015
+770,A/American green-winged teal/Interior Alaska/9BM4407R0/2009,A/mallard/Interior Alaska/9BM3205R0/2009,Direct Transmission,7,Inter-Species,7.9880559999999985
+771,A/mallard/Interior Alaska/9BM9601R0/2009,A/mallard/Interior Alaska/9BM3205R0/2009,Environmental Persistence,24,Intra-Species,7.990224
+772,A/northern pintail/Interior Alaska/9BM10287R0/2009,A/mallard/Interior Alaska/9BM3205R0/2009,Environmental Persistence,27,Inter-Species,7.990646999999999
+773,A/northern pintail/Interior Alaska/9BM9383R0/2009,A/mallard/Interior Alaska/9BM3205R0/2009,Environmental Persistence,23,Inter-Species,7.986298
+774,A/mallard/Interior Alaska/9BM9335R0/2009,A/mallard/Interior Alaska/9BM3205R0/2009,Environmental Persistence,23,Intra-Species,7.940996000000001
+775,A/northern pintail/Interior Alaska/9BM7398R0/2009,A/mallard/Interior Alaska/9BM3205R0/2009,Environmental Persistence,18,Inter-Species,7.9590429999999985
+776,A/northern pintail/Interior Alaska/9BM6144R0/2009,A/northern pintail/Interior Alaska/9BM6145R0/2009,Direct Transmission,0,Intra-Species,8.0
+777,A/northern pintail/Interior Alaska/9BM6146R0/2009,A/northern pintail/Interior Alaska/9BM6145R0/2009,Direct Transmission,0,Intra-Species,8.0
+778,A/mallard/Interior Alaska/10BM11421R0/2010,A/northern pintail/Interior Alaska/10BM10928R0/2010,Direct Transmission,1,Inter-Species,8.0
+779,A/red-necked grebe/Minnesota/AI10-2528/2010,A/northern shoveler/Interior Alaska/9BM12519R0/2009,Environmental Persistence,338,Inter-Species,7.6524680000000025
+780,A/environment/Indiana/10OS1511/2010,A/northern shoveler/Interior Alaska/9BM12519R0/2009,Environmental Persistence,365,Inter-Species,7.6566990000000015
+781,A/northern pintail/Interior Alaska/9BM9153R0/2009,A/northern pintail/Interior Alaska/9BM7368R0/2009,Direct Transmission,5,Intra-Species,7.997714
+782,A/long-tailed duck/Wisconsin/10OS3919/2010,A/northern pintail/Interior Alaska/10BM11380R0/2010,Environmental Persistence,96,Inter-Species,7.241453000000001
+783,A/mallard/Interior Alaska/10BM12363R0/2010,A/mallard/Interior Alaska/10BM12370R0/2010,Direct Transmission,0,Intra-Species,8.0
+784,A/mallard/Interior Alaska/10BM12351R0/2010,A/mallard/Interior Alaska/10BM12370R0/2010,Direct Transmission,0,Intra-Species,7.999425
+785,A/mallard/Interior Alaska/10BM12350R0/2010,A/mallard/Interior Alaska/10BM12370R0/2010,Direct Transmission,0,Intra-Species,8.0
+786,A/mallard/Interior Alaska/10BM12352R0/2010,A/mallard/Interior Alaska/10BM12370R0/2010,Direct Transmission,0,Intra-Species,7.999351
+787,A/mallard/Interior Alaska/10BM12383R0/2010,A/mallard/Interior Alaska/10BM12370R0/2010,Direct Transmission,0,Intra-Species,7.998842999999999
+788,A/mallard/Interior Alaska/10BM12374R0/2010,A/mallard/Interior Alaska/10BM12370R0/2010,Direct Transmission,0,Intra-Species,8.0
+789,A/northern pintail/Interior Alaska/10BM05034R0/2010,A/blue-winged teal/New Brunswick/03757/2009,Environmental Persistence,310,Inter-Species,7.5569169999999986
+790,A/northern pintail/Interior Alaska/9BM10234R0/2009,A/northern pintail/Interior Alaska/9BM10224R0/2009,Direct Transmission,0,Intra-Species,8.0
+791,A/northern pintail/Interior Alaska/9BM10236R0/2009,A/northern pintail/Interior Alaska/9BM10224R0/2009,Direct Transmission,0,Intra-Species,8.0
+792,A/northern pintail/Interior Alaska/9BM10210R0/2009,A/northern pintail/Interior Alaska/9BM10224R0/2009,Direct Transmission,0,Intra-Species,8.0
+793,A/northern pintail/Interior Alaska/9BM11179R0/2009,A/northern pintail/Interior Alaska/9BM10224R0/2009,Direct Transmission,2,Intra-Species,7.999115
+794,A/northern pintail/Interior Alaska/9BM10218R0/2009,A/northern pintail/Interior Alaska/9BM10224R0/2009,Direct Transmission,0,Intra-Species,7.999547
+795,A/northern pintail/Interior Alaska/9BM10238R0/2009,A/northern pintail/Interior Alaska/9BM10224R0/2009,Direct Transmission,0,Intra-Species,8.0
+796,A/northern pintail/Interior Alaska/9BM10222R0/2009,A/northern pintail/Interior Alaska/9BM10224R0/2009,Direct Transmission,0,Intra-Species,8.0
+797,A/northern pintail/Interior Alaska/9BM10244R0/2009,A/northern pintail/Interior Alaska/9BM10224R0/2009,Direct Transmission,0,Intra-Species,8.0
+798,A/mallard/Minnesota/AI10-2217/2010,A/mallard/Interior Alaska/10BM02111R0/2010,Environmental Persistence,55,Intra-Species,7.632795
+799,A/northern pintail/Interior Alaska/10BM10807R0/2010,A/mallard/Interior Alaska/10BM10811R0/2010,Direct Transmission,0,Inter-Species,8.0
+800,A/northern pintail/Interior Alaska/10BM10801R0/2010,A/mallard/Interior Alaska/10BM10811R0/2010,Direct Transmission,0,Inter-Species,7.999567
+801,A/northern pintail/Interior Alaska/9BM8498R0/2009,A/mallard/Interior Alaska/9BM8425R0/2009,Direct Transmission,1,Inter-Species,7.987287999999999
+802,A/American green-winged teal/Interior Alaska/10BM08422R0/2010,A/northern pintail/Interior Alaska/10BM07597R0/2010,Direct Transmission,2,Inter-Species,7.997478
+803,A/northern pintail/Interior Alaska/9BM10224R0/2009,A/northern pintail/Interior Alaska/9BM10234R0/2009,Direct Transmission,0,Intra-Species,8.0
+804,A/northern pintail/Interior Alaska/9BM10236R0/2009,A/northern pintail/Interior Alaska/9BM10234R0/2009,Direct Transmission,0,Intra-Species,8.0
+805,A/northern pintail/Interior Alaska/9BM10210R0/2009,A/northern pintail/Interior Alaska/9BM10234R0/2009,Direct Transmission,0,Intra-Species,8.0
+806,A/northern pintail/Interior Alaska/9BM11179R0/2009,A/northern pintail/Interior Alaska/9BM10234R0/2009,Direct Transmission,2,Intra-Species,7.999115
+807,A/northern pintail/Interior Alaska/9BM10218R0/2009,A/northern pintail/Interior Alaska/9BM10234R0/2009,Direct Transmission,0,Intra-Species,7.999547
+808,A/northern pintail/Interior Alaska/9BM10238R0/2009,A/northern pintail/Interior Alaska/9BM10234R0/2009,Direct Transmission,0,Intra-Species,8.0
+809,A/northern pintail/Interior Alaska/9BM10222R0/2009,A/northern pintail/Interior Alaska/9BM10234R0/2009,Direct Transmission,0,Intra-Species,8.0
+810,A/northern pintail/Interior Alaska/9BM10244R0/2009,A/northern pintail/Interior Alaska/9BM10234R0/2009,Direct Transmission,0,Intra-Species,8.0
+811,A/American green-winged teal/Interior Alaska/9BM5045R0/2009,A/mallard/Minnesota/AI09-1854/2009,Direct Transmission,1,Inter-Species,7.647428
+812,A/northern pintail/Interior Alaska/9BM9973R0/2009,A/northern pintail/Interior Alaska/9BM8502R0/2009,Direct Transmission,5,Intra-Species,8.0
+813,A/mallard/Interior Alaska/9BM8465R0/2009,A/northern pintail/Interior Alaska/9BM8502R0/2009,Direct Transmission,0,Inter-Species,8.0
+814,A/mallard/Interior Alaska/9BM9755R0/2009,A/northern pintail/Interior Alaska/9BM8502R0/2009,Direct Transmission,4,Inter-Species,8.0
+815,A/northern pintail/Interior Alaska/9BM8459R0/2009,A/northern pintail/Interior Alaska/9BM8502R0/2009,Direct Transmission,0,Intra-Species,8.0
+816,A/northern pintail/Interior Alaska/9BM10146R0/2009,A/northern pintail/Interior Alaska/9BM8502R0/2009,Direct Transmission,5,Intra-Species,8.0
+817,A/northern pintail/Interior Alaska/9BM10525R2/2009,A/northern pintail/Interior Alaska/9BM8502R0/2009,Direct Transmission,6,Intra-Species,8.0
+818,A/northern pintail/Interior Alaska/10BM00849R2/2010,A/northern pintail/Interior Alaska/9BM8502R0/2009,Environmental Persistence,286,Intra-Species,7.9979359999999975
+819,A/northern pintail/Interior Alaska/9BM8448R0/2009,A/northern pintail/Interior Alaska/9BM8502R0/2009,Direct Transmission,0,Intra-Species,8.0
+820,A/northern pintail/Interior Alaska/9BM11431R0/2009,A/northern pintail/Interior Alaska/9BM8502R0/2009,Direct Transmission,8,Intra-Species,7.996569999999998
+821,A/northern pintail/Interior Alaska/9BM11325R0/2009,A/northern pintail/Interior Alaska/9BM8502R0/2009,Direct Transmission,8,Intra-Species,7.999567999999999
+822,A/northern pintail/Interior Alaska/9BM8464R0/2009,A/northern pintail/Interior Alaska/9BM8502R0/2009,Direct Transmission,0,Intra-Species,7.999136
+823,A/northern pintail/Interior Alaska/9BM5375R0/2009,A/northern pintail/Interior Alaska/9BM5053R0/2009,Direct Transmission,1,Intra-Species,8.0
+824,A/northern pintail/Interior Alaska/9BM4637R0/2009,A/northern pintail/Interior Alaska/9BM5053R0/2009,Direct Transmission,0,Intra-Species,7.99805
+825,A/northern pintail/Interior Alaska/9BM6164R0/2009,A/northern pintail/Interior Alaska/9BM5053R0/2009,Direct Transmission,4,Intra-Species,7.99695
+826,A/American green-winged teal/Interior Alaska/9BM7190R0/2009,A/northern pintail/Interior Alaska/9BM5053R0/2009,Direct Transmission,8,Inter-Species,7.999112999999999
+827,A/northern shoveler/Interior Alaska/9BM4787R0/2009,A/American green-winged teal/Interior Alaska/9BM5045R0/2009,Direct Transmission,0,Inter-Species,7.6181420000000015
+828,A/northern pintail/Interior Alaska/9BM6510R0/2009,A/American green-winged teal/Interior Alaska/9BM5045R0/2009,Direct Transmission,6,Inter-Species,7.996025
+829,A/mallard/Interior Alaska/10BM12534R0/2010,A/mallard/Interior Alaska/10BM08120R0/2010,Direct Transmission,10,Intra-Species,7.995063
+830,A/northern pintail/Interior Alaska/10BM10480R0/2010,A/northern pintail/Interior Alaska/9BM8907R0/2009,Environmental Persistence,363,Intra-Species,7.975144999999999
+831,A/northern pintail/Interior Alaska/9BM10987R0/2009,A/northern pintail/Interior Alaska/9BM8907R0/2009,Direct Transmission,6,Intra-Species,7.998703
+832,A/northern pintail/Interior Alaska/10BM12603R0/2010,A/northern pintail/Interior Alaska/9BM8907R0/2009,Environmental Persistence,368,Intra-Species,7.623104
+833,A/mallard/Minnesota/AI09-1851/2009,A/mallard/Interior Alaska/9BM1852/2009,Environmental Persistence,22,Intra-Species,7.625050999999999
+834,A/mallard/Minnesota/AI09-1864/2009,A/mallard/Interior Alaska/9BM1852/2009,Environmental Persistence,22,Intra-Species,7.62182
+835,A/northern pintail/Interior Alaska/9BM9611R0/2009,A/northern pintail/Interior Alaska/9BM8553R0/2009,Direct Transmission,3,Intra-Species,7.998248999999999
+836,A/northern pintail/Interior Alaska/10BM06872R0/2010,A/mallard/Interior Alaska/10BM05968R0/2010,Direct Transmission,4,Inter-Species,7.9897300000000016
+837,A/northern pintail/Interior Alaska/10BM07597R0/2010,A/mallard/Interior Alaska/10BM05968R0/2010,Direct Transmission,6,Inter-Species,7.986763000000002
+838,A/American green-winged teal/Interior Alaska/10BM07573R0/2010,A/mallard/Interior Alaska/10BM05968R0/2010,Direct Transmission,6,Inter-Species,7.868635999999999
+839,A/American green-winged teal/Interior Alaska/10BM07649R0/2010,A/mallard/Interior Alaska/10BM05968R0/2010,Direct Transmission,6,Inter-Species,7.9901110000000015
+840,A/American green-winged teal/Interior Alaska/9BM8129R0/2009,A/northern pintail/Interior Alaska/9BM7972R0/2009,Direct Transmission,0,Inter-Species,7.997256
+841,A/northern pintail/Interior Alaska/9BM10813R0/2009,A/northern pintail/Interior Alaska/9BM6094R0/2009,Direct Transmission,15,Intra-Species,7.9967320000000015
+842,A/mallard/Interior Alaska/9BM10095R0/2009,A/northern pintail/Interior Alaska/9BM6094R0/2009,Direct Transmission,13,Inter-Species,7.995796
+843,A/American green-winged teal/Interior Alaska/9BM6258R0/2009,A/northern pintail/Interior Alaska/9BM6094R0/2009,Direct Transmission,1,Inter-Species,7.996753
+844,A/northern pintail/Interior Alaska/9BM6095R0/2009,A/northern pintail/Interior Alaska/9BM6094R0/2009,Direct Transmission,0,Intra-Species,8.0
+845,A/northern pintail/Interior Alaska/10BM08493R0/2010,A/northern pintail/Interior Alaska/10BM08488R0/2010,Direct Transmission,0,Intra-Species,7.999567999999999
+846,A/northern pintail/Interior Alaska/10BM08489R0/2010,A/northern pintail/Interior Alaska/10BM08488R0/2010,Direct Transmission,0,Intra-Species,8.0
+847,A/northern pintail/Interior Alaska/10BM08505R0/2010,A/northern pintail/Interior Alaska/10BM08488R0/2010,Direct Transmission,0,Intra-Species,7.998993
+848,A/northern pintail/Interior Alaska/10BM11672R0/2010,A/northern pintail/Interior Alaska/10BM08488R0/2010,Direct Transmission,9,Intra-Species,7.990596000000001
+849,A/American green-winged teal/Interior Alaska/10BM08134R0/2010,A/northern pintail/Interior Alaska/10BM08488R0/2010,Direct Transmission,0,Inter-Species,7.9951050000000015
+850,A/mallard/Wisconsin/10OS3084/2010,A/northern pintail/Interior Alaska/10BM08488R0/2010,Environmental Persistence,60,Inter-Species,7.636416
+851,A/mallard/Interior Alaska/10BM09570R0/2010,A/mallard/Interior Alaska/10BM09562R0/2010,Direct Transmission,0,Intra-Species,7.999535000000002
+852,A/northern pintail/Interior Alaska/9BM9129R0/2009,A/northern pintail/Interior Alaska/9BM4989R0/2009,Direct Transmission,14,Intra-Species,7.996736999999999
+853,A/northern pintail/Interior Alaska/9BM4991R0/2009,A/northern pintail/Interior Alaska/9BM4989R0/2009,Direct Transmission,0,Intra-Species,7.999567999999999
+854,A/northern pintail/Interior Alaska/9BM11358R1/2009,A/northern pintail/Interior Alaska/9BM11151R0/2009,Direct Transmission,0,Intra-Species,7.9991330000000005
+855,A/mallard/Interior Alaska/9BM11351R0/2009,A/northern pintail/Interior Alaska/9BM11151R0/2009,Direct Transmission,0,Inter-Species,8.0
+856,A/northern pintail/Interior Alaska/9BM4583R0/2009,A/northern pintail/Interior Alaska/9BM4660R0/2009,Direct Transmission,0,Intra-Species,7.965413000000002
+857,A/northern pintail/Interior Alaska/9BM7496R0/2009,A/northern pintail/Interior Alaska/9BM4660R0/2009,Direct Transmission,10,Intra-Species,7.988666999999999
+858,A/northern pintail/Interior Alaska/9BM4641R0/2009,A/northern pintail/Interior Alaska/9BM4660R0/2009,Direct Transmission,0,Intra-Species,7.997361
+859,A/northern pintail/Interior Alaska/9BM7934R0/2009,A/northern pintail/Interior Alaska/9BM4660R0/2009,Direct Transmission,10,Intra-Species,7.990044
+860,A/American green-winged teal/Interior Alaska/9BM5041R0/2009,A/northern pintail/Interior Alaska/9BM4660R0/2009,Direct Transmission,0,Inter-Species,7.993006000000001
+861,A/northern pintail/Interior Alaska/9BM7232R0/2009,A/northern pintail/Interior Alaska/9BM4660R0/2009,Direct Transmission,8,Intra-Species,7.9909050000000015
+862,A/northern shoveler/Interior Alaska/9BM4905R0/2009,A/northern pintail/Interior Alaska/9BM4660R0/2009,Direct Transmission,0,Inter-Species,7.993804000000001
+863,A/mallard/Interior Alaska/10BM10859R0/2010,A/mallard/Interior Alaska/10BM10787R0/2010,Direct Transmission,0,Intra-Species,8.0
+864,A/mallard/Michigan/10OS1491/2010,A/northern pintail/Interior Alaska/9BM10749R0/2009,Environmental Persistence,368,Inter-Species,7.676439
+865,A/blue-winged Teal/Minnesota/AI09-3786/2009,A/northern pintail/Interior Alaska/9BM10749R0/2009,Environmental Persistence,20,Inter-Species,7.674767
+866,A/mallard/Ohio/10OS1319/2010,A/northern pintail/Interior Alaska/9BM10749R0/2009,Environmental Persistence,350,Inter-Species,7.682946000000001
+867,A/blue-winged teal/Missouri/10MO0407/2010,A/northern pintail/Interior Alaska/9BM10749R0/2009,Environmental Persistence,396,Inter-Species,7.6082800000000015
+868,A/mallard/Interior Alaska/9BM2250R0/2009,A/mallard/Interior Alaska/9BM2241R1/2009,Direct Transmission,0,Intra-Species,8.0
+869,A/mallard/Interior Alaska/9BM2241R1/2009,A/mallard/Interior Alaska/9BM2250R0/2009,Direct Transmission,0,Intra-Species,8.0
+870,A/mallard/Interior Alaska/9BM11053R0/2009,A/northern pintail/Interior Alaska/9BM7240R0/2009,Direct Transmission,12,Inter-Species,7.993457
+871,A/northern pintail/Interior Alaska/9BM11556R0/2009,A/northern pintail/Interior Alaska/9BM7240R0/2009,Direct Transmission,13,Intra-Species,7.995699
+872,A/mallard/Interior Alaska/9BM11023R0/2009,A/northern pintail/Interior Alaska/9BM7240R0/2009,Direct Transmission,11,Inter-Species,7.989394999999999
+873,A/northern pintail/Interior Alaska/9BM12068R0/2009,A/northern pintail/Interior Alaska/9BM7240R0/2009,Direct Transmission,14,Intra-Species,7.961449999999999
+874,A/northern pintail/Interior Alaska/9BM8237R0/2009,A/northern pintail/Interior Alaska/9BM7240R0/2009,Direct Transmission,3,Intra-Species,7.991947
+875,A/mallard/Interior Alaska/9BM2256/2009,A/mallard/Interior Alaska/9BM2170/2009,Direct Transmission,1,Intra-Species,7.999547
+876,A/mallard/Interior Alaska/9BM2252/2009,A/mallard/Interior Alaska/9BM2170/2009,Direct Transmission,1,Intra-Species,7.998963000000002
+877,A/mallard/Interior Alaska/9BM2243/2009,A/mallard/Interior Alaska/9BM2170/2009,Direct Transmission,1,Intra-Species,7.999093999999999
+878,A/northern pintail/Interior Alaska/9BM5698R0/2009,A/northern pintail/Interior Alaska/9BM4410R1/2009,Direct Transmission,3,Intra-Species,7.998229999999999
+879,A/northern pintail/Interior Alaska/9BM4666R0/2009,A/northern pintail/Interior Alaska/9BM4410R1/2009,Direct Transmission,1,Intra-Species,7.999302
+880,A/mallard/Interior Alaska/10BM07092R0/2010,A/mallard/Interior Alaska/10BM06905R0/2010,Direct Transmission,1,Intra-Species,8.0
+881,A/northern pintail/Interior Alaska/10BM06895R0/2010,A/mallard/Interior Alaska/10BM06905R0/2010,Direct Transmission,0,Inter-Species,7.9991330000000005
+882,A/mallard/Interior Alaska/10BM06909R0/2010,A/mallard/Interior Alaska/10BM06905R0/2010,Direct Transmission,0,Intra-Species,7.9982349999999975
+883,A/northern pintail/Interior Alaska/10BM07106R0/2010,A/mallard/Interior Alaska/10BM06905R0/2010,Direct Transmission,1,Inter-Species,7.998714
+884,A/northern pintail/Interior Alaska/10BM07114R0/2010,A/mallard/Interior Alaska/10BM06905R0/2010,Direct Transmission,1,Inter-Species,8.0
+885,A/mallard/Interior Alaska/10BM06911R0/2010,A/mallard/Interior Alaska/10BM06905R0/2010,Direct Transmission,0,Intra-Species,8.0
+886,A/northern pintail/Interior Alaska/10BM06899R0/2010,A/mallard/Interior Alaska/10BM06905R0/2010,Direct Transmission,0,Inter-Species,8.0
+887,A/mallard/Interior Alaska/10BM08100R0/2010,A/mallard/Interior Alaska/10BM06905R0/2010,Direct Transmission,4,Intra-Species,7.9977839999999984
+888,A/mallard/Interior Alaska/10BM10173R0/2010,A/mallard/Interior Alaska/10BM10176R0/2010,Direct Transmission,0,Intra-Species,7.9991020000000015
+889,A/northern pintail/Interior Alaska/9BM6165R0/2009,A/northern pintail/Interior Alaska/9BM5376R0/2009,Direct Transmission,3,Intra-Species,7.998966
+890,A/northern pintail/Interior Alaska/9BM5554R0/2009,A/northern pintail/Interior Alaska/9BM5376R0/2009,Direct Transmission,1,Intra-Species,7.9989789999999985
+891,A/northern pintail/Interior Alaska/9BM5941R0/2009,A/northern pintail/Interior Alaska/9BM5376R0/2009,Direct Transmission,2,Intra-Species,7.9993490000000005
+892,A/mallard/Interior Alaska/9BM10563R2/2009,A/northern pintail/Interior Alaska/9BM7620R0/2009,Direct Transmission,8,Inter-Species,7.9804650000000015
+893,A/northern pintail/Interior Alaska/9BM8815R0/2009,A/northern pintail/Interior Alaska/9BM7620R0/2009,Direct Transmission,3,Intra-Species,7.9983119999999985
+894,A/mallard/Interior Alaska/9BM6886R0/2009,A/northern pintail/Interior Alaska/9BM7620R0/2009,Direct Transmission,2,Inter-Species,7.994963
+895,A/northern pintail/Interior Alaska/9BM10224R0/2009,A/northern pintail/Interior Alaska/9BM10244R0/2009,Direct Transmission,0,Intra-Species,8.0
+896,A/northern pintail/Interior Alaska/9BM10234R0/2009,A/northern pintail/Interior Alaska/9BM10244R0/2009,Direct Transmission,0,Intra-Species,8.0
+897,A/northern pintail/Interior Alaska/9BM10236R0/2009,A/northern pintail/Interior Alaska/9BM10244R0/2009,Direct Transmission,0,Intra-Species,8.0
+898,A/northern pintail/Interior Alaska/9BM10210R0/2009,A/northern pintail/Interior Alaska/9BM10244R0/2009,Direct Transmission,0,Intra-Species,8.0
+899,A/northern pintail/Interior Alaska/9BM11179R0/2009,A/northern pintail/Interior Alaska/9BM10244R0/2009,Direct Transmission,2,Intra-Species,7.999115
+900,A/northern pintail/Interior Alaska/9BM10218R0/2009,A/northern pintail/Interior Alaska/9BM10244R0/2009,Direct Transmission,0,Intra-Species,7.999547
+901,A/northern pintail/Interior Alaska/9BM10238R0/2009,A/northern pintail/Interior Alaska/9BM10244R0/2009,Direct Transmission,0,Intra-Species,8.0
+902,A/northern pintail/Interior Alaska/9BM10222R0/2009,A/northern pintail/Interior Alaska/9BM10244R0/2009,Direct Transmission,0,Intra-Species,8.0
+903,A/mallard/Interior Alaska/10BM09159R0/2010,A/northern pintail/Interior Alaska/10BM09101R0/2010,Direct Transmission,1,Inter-Species,7.997975
+904,A/mallard/Interior Alaska/10BM09164R0/2010,A/northern pintail/Interior Alaska/10BM09101R0/2010,Direct Transmission,1,Inter-Species,7.999425
+905,A/mallard/Interior Alaska/10BM09158R0/2010,A/northern pintail/Interior Alaska/10BM09101R0/2010,Direct Transmission,1,Inter-Species,7.998703
+906,A/mallard/Interior Alaska/10CH00035R0/2010,A/northern pintail/Interior Alaska/10BM09101R0/2010,Environmental Persistence,31,Inter-Species,7.9951729999999985
+907,A/northern pintail/Interior Alaska/10BM09102R0/2010,A/northern pintail/Interior Alaska/10BM09101R0/2010,Direct Transmission,0,Intra-Species,8.0
+908,A/northern pintail/Interior Alaska/10BM08920R0/2010,A/northern pintail/Interior Alaska/10BM09101R0/2010,Direct Transmission,0,Intra-Species,7.992619
+909,A/mallard/Interior Alaska/10BM09162R0/2010,A/northern pintail/Interior Alaska/10BM09101R0/2010,Direct Transmission,1,Inter-Species,7.9991020000000015
+910,A/northern pintail/Interior Alaska/10BM09105R0/2010,A/northern pintail/Interior Alaska/10BM09101R0/2010,Direct Transmission,0,Intra-Species,7.997835
+911,A/northern pintail/Interior Alaska/10BM09104R0/2010,A/northern pintail/Interior Alaska/10BM09101R0/2010,Direct Transmission,0,Intra-Species,8.0
+912,A/northern pintail/Interior Alaska/9BM7118R1/2009,A/northern pintail/Interior Alaska/9BM7050R0/2009,Direct Transmission,0,Intra-Species,7.994495
+913,A/northern pintail/Interior Alaska/9BM7108R2/2009,A/northern pintail/Interior Alaska/9BM7050R0/2009,Direct Transmission,0,Intra-Species,7.999567
+914,A/northern pintail/Interior Alaska/9BM7055R0/2009,A/northern pintail/Interior Alaska/9BM7050R0/2009,Direct Transmission,0,Intra-Species,8.0
+915,A/northern pintail/Interior Alaska/9BM7044R0/2009,A/northern pintail/Interior Alaska/9BM7050R0/2009,Direct Transmission,0,Intra-Species,7.9978729999999985
+916,A/northern pintail/Interior Alaska/9BM7069R0/2009,A/northern pintail/Interior Alaska/9BM7050R0/2009,Direct Transmission,0,Intra-Species,7.998411999999999
+917,A/northern pintail/Interior Alaska/9BM7368R0/2009,A/northern pintail/Interior Alaska/9BM7050R0/2009,Direct Transmission,1,Intra-Species,7.994407000000002
+918,A/northern pintail/Interior Alaska/9BM7052R0/2009,A/northern pintail/Interior Alaska/9BM7050R0/2009,Direct Transmission,0,Intra-Species,7.992590999999999
+919,A/mallard/Interior Alaska/9BM1799/2009,A/mallard/Interior Alaska/9BM1585R1/2009,Direct Transmission,7,Intra-Species,7.999346000000001
+920,A/mallard/Minnesota/AI09-3066/2009,A/mallard/Interior Alaska/9BM1585R1/2009,Environmental Persistence,75,Intra-Species,7.682711999999999
+921,A/northern pintail/Missouri/319/2009,A/mallard/Interior Alaska/9BM1585R1/2009,Environmental Persistence,165,Inter-Species,7.621361
+922,A/mallard/Interior Alaska/10BM09561R0/2010,A/northern pintail/Minnesota/AI09-4322/2009,Environmental Persistence,329,Inter-Species,7.613645
+923,A/northern pintail/Interior Alaska/9BM7620R0/2009,A/American green-winged teal/Interior Alaska/9BM5041R0/2009,Direct Transmission,10,Inter-Species,7.995724000000001
+924,A/northern pintail/Interior Alaska/9BM10224R0/2009,A/northern pintail/Interior Alaska/9BM10210R0/2009,Direct Transmission,0,Intra-Species,8.0
+925,A/northern pintail/Interior Alaska/9BM10234R0/2009,A/northern pintail/Interior Alaska/9BM10210R0/2009,Direct Transmission,0,Intra-Species,8.0
+926,A/northern pintail/Interior Alaska/9BM10236R0/2009,A/northern pintail/Interior Alaska/9BM10210R0/2009,Direct Transmission,0,Intra-Species,8.0
+927,A/northern pintail/Interior Alaska/9BM11179R0/2009,A/northern pintail/Interior Alaska/9BM10210R0/2009,Direct Transmission,2,Intra-Species,7.999115
+928,A/northern pintail/Interior Alaska/9BM10218R0/2009,A/northern pintail/Interior Alaska/9BM10210R0/2009,Direct Transmission,0,Intra-Species,7.999547
+929,A/northern pintail/Interior Alaska/9BM10238R0/2009,A/northern pintail/Interior Alaska/9BM10210R0/2009,Direct Transmission,0,Intra-Species,8.0
+930,A/northern pintail/Interior Alaska/9BM10222R0/2009,A/northern pintail/Interior Alaska/9BM10210R0/2009,Direct Transmission,0,Intra-Species,8.0
+931,A/northern pintail/Interior Alaska/9BM10244R0/2009,A/northern pintail/Interior Alaska/9BM10210R0/2009,Direct Transmission,0,Intra-Species,8.0
+932,A/northern pintail/Interior Alaska/9BM10969R0/2009,A/northern pintail/Interior Alaska/9BM9611R0/2009,Direct Transmission,4,Intra-Species,8.0
+933,A/American black duck/New Brunswick/00473/2010,A/northern pintail/Interior Alaska/10BM07242R0/2010,Direct Transmission,11,Inter-Species,7.650196000000001
+934,A/American black duck/New Brunswick/00470/2010,A/northern pintail/Interior Alaska/10BM07242R0/2010,Direct Transmission,11,Inter-Species,7.716053999999999
+935,A/mallard/Iowa/10OS2420/2010,A/northern pintail/Interior Alaska/10BM07242R0/2010,Environmental Persistence,48,Inter-Species,7.6201
+936,A/American black duck/New Brunswick/00520/2010,A/northern pintail/Interior Alaska/10BM07242R0/2010,Direct Transmission,11,Inter-Species,7.714043999999999
+937,A/American black duck/New Brunswick/00468/2010,A/northern pintail/Interior Alaska/10BM07242R0/2010,Direct Transmission,11,Inter-Species,7.715624000000001
+938,A/American black duck/New Brunswick/00478/2010,A/northern pintail/Interior Alaska/10BM07242R0/2010,Direct Transmission,11,Inter-Species,7.717467
+939,A/American black duck/New Brunswick/00523/2010,A/northern pintail/Interior Alaska/10BM07242R0/2010,Direct Transmission,12,Inter-Species,7.714844999999999
+940,A/American black duck/New Brunswick/00472/2010,A/northern pintail/Interior Alaska/10BM07242R0/2010,Direct Transmission,11,Inter-Species,7.7142550000000005
+941,A/American black duck/New Brunswick/00481/2010,A/northern pintail/Interior Alaska/10BM07242R0/2010,Direct Transmission,11,Inter-Species,7.717510000000001
+942,A/American black duck/New Brunswick/00464/2010,A/northern pintail/Interior Alaska/10BM07242R0/2010,Direct Transmission,11,Inter-Species,7.7142110000000015
+943,A/blue-winged teal/Missouri/10MO003/2010,A/northern pintail/Interior Alaska/10BM07242R0/2010,Environmental Persistence,45,Inter-Species,7.635135000000001
+944,A/American black duck/New Brunswick/00469/2010,A/northern pintail/Interior Alaska/10BM07242R0/2010,Direct Transmission,11,Inter-Species,7.720496000000002
+945,A/American black duck/New Brunswick/00499/2010,A/northern pintail/Interior Alaska/10BM07242R0/2010,Direct Transmission,11,Inter-Species,7.7145670000000015
+946,A/American black duck/New Brunswick/00587/2010,A/northern pintail/Interior Alaska/10BM07242R0/2010,Direct Transmission,14,Inter-Species,7.7165339999999984
+947,A/mallard/Wisconsin/10OS3171/2010,A/northern pintail/Interior Alaska/10BM02539R0/2010,Environmental Persistence,130,Inter-Species,7.611929000000001
+948,A/northern pintail/Interior Alaska/9BM6144R0/2009,A/northern pintail/Interior Alaska/9BM6146R0/2009,Direct Transmission,0,Intra-Species,8.0
+949,A/northern pintail/Interior Alaska/9BM6145R0/2009,A/northern pintail/Interior Alaska/9BM6146R0/2009,Direct Transmission,0,Intra-Species,8.0
+950,A/northern pintail/Interior Alaska/9BM4646R0/2009,A/northern pintail/Interior Alaska/9BM4666R0/2009,Direct Transmission,0,Intra-Species,7.998108999999999
+951,A/northern pintail/Interior Alaska/9BM5376R0/2009,A/northern pintail/Interior Alaska/9BM4666R0/2009,Direct Transmission,1,Intra-Species,7.999567999999999
+952,A/northern pintail/Interior Alaska/9BM5053R0/2009,A/northern pintail/Interior Alaska/9BM4666R0/2009,Direct Transmission,0,Intra-Species,7.999134
+953,A/northern pintail/Interior Alaska/9BM12066R1/2009,A/American wigeon/Interior Alaska/9BM2501R1/2009,Environmental Persistence,40,Inter-Species,7.791836999999999
+954,A/American green-winged teal/Interior Alaska/9BM12714R1/2009,A/American wigeon/Interior Alaska/9BM2501R1/2009,Environmental Persistence,57,Inter-Species,7.663102999999999
