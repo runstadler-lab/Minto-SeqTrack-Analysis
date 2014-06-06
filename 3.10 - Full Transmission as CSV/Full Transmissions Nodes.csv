@@ -1,699 +1,470 @@
 ,Country,Host,Isolate Name,Isolation Date,State,Subtype
-0,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM1958/2009,2009-07-04,Alaska,H4N6
-1,USA,IRD:Duck/Avian,A/long-tailed duck/Wisconsin/10OS3919/2010,2010-11-16,Wisconsin,H10N6
-2,Canada,IRD:Teal/Avian,A/blue-winged teal/Nova Scotia/00079/2010,2010-09-07,Nova Scotia,H3N8
-3,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM10480R0/2010,2010-08-09,Alaska,H3N8
-4,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM6248R0/2009,2009-08-03,Alaska,H4N6
-5,USA,IRD:Teal/Avian,A/blue-winged teal/Missouri/10MO0011/2010,2010-09-15,Missouri,H3N6
-6,USA,IRD:Green-Winged Teal/Avian,A/American green-winged teal/Interior Alaska/10BM06728R0/2010,2010-07-30,Alaska,H4N6
-7,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM12374R0/2010,2010-08-14,Alaska,H3N8
-8,USA,IRD:Green-winged Teal/Avian,A/American green-winged teal/Interior Alaska/9BM6258R0/2009,2009-08-03,Alaska,H4N6
-9,USA,IRD:Green-Winged Teal/Avian,A/American green-winged teal/Interior Alaska/9BM4407R0/2009,2009-07-27,Alaska,H10N7
-10,USA,IRD:Mallard/Avian,A/mallard/Wisconsin/10OS2917/2010,2010-10-03,Wisconsin,H4N6
-11,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM11783R0/2009,2009-08-19,Alaska,H10N7
-12,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM10864R0/2010,2010-08-10,Alaska,H4N6
-13,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM8921R0/2009,2009-08-11,Alaska,H10N7
-14,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM10813R0/2009,2009-08-17,Alaska,H4N6
-15,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM10287R0/2009,2009-08-16,Alaska,H10N7
-16,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM6510R0/2009,2009-08-04,Alaska,H8N4
-17,Canada,IRD:Green-winged Teal/Avian,A/green-winged teal/Prince Edward Island/00838/2010,2010-09-02,Prince Edward Island,H3N8
-18,Canada,IRD:Mallard/Avian,A/mallard/Nova Scotia/00778/2010,2010-09-07,Nova Scotia,H3N8
-19,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM10236R0/2009,2009-08-16,Alaska,H10N7
-20,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM05347R0/2010,2010-07-25,Alaska,H7N3
-21,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM08400R0/2010,2010-08-04,Alaska,H7N3
-22,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM09539R0/2010,2010-08-07,Alaska,H7N3
-23,USA,IRD:Northern Pintail/Avian,A/northern pintail/Missouri/319/2009,2009-12-06,Missouri,H12N5
-24,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM8084R0/2009,2009-08-09,Alaska,H10N7
-25,Canada,IRD:American Black Duck/Avian,A/American black duck/New Brunswick/00469/2010,2010-08-12,New Brunswick,H4N6
-26,Canada,IRD:Teal/Avian,A/blue-winged teal/Nova Scotia/00071/2010,2010-09-07,Nova Scotia,H3N8
-27,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM10051R0/2009,2009-08-15,Alaska,H3N8
-28,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM08899R0/2010,2010-08-05,Alaska,H4N6
-29,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM4583R0/2009,2009-07-29,Alaska,H4N6
-30,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM07092R0/2010,2010-08-01,Alaska,H7N3
-31,Canada,IRD:Gadwall/Avian,A/gadwall/Nova Scotia/00783/2010,2010-09-07,Nova Scotia,H3N8
-32,Canada,IRD:Teal/Avian,A/blue-winged teal/New Brunswick/00775/2010,2010-08-25,New Brunswick,H3N8
-33,Canada,IRD:American Black Duck/Avian,A/American black duck/New Brunswick/00472/2010,2010-08-12,New Brunswick,H4N6
-34,Canada,IRD:Mallard/Avian,A/mallard/Alberta/551/2009,2009-08-23,Alberta,H3N8
-35,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM06872R0/2010,2010-07-31,Alaska,H3N8
-36,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM11757R0/2009,2009-08-19,Alaska,H3N8
-37,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM04623R0/2010,2010-07-18,Alaska,H4N6
-38,USA,IRD:Mallard/Avian,A/mallard/Minnesota/AI09-3228/2009,2009-09-08,Minnesota,H3N1
-39,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM4646R0/2009,2009-07-29,Alaska,H10N7
-40,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM11416R0/2010,2010-08-12,Alaska,H3N8
-41,Canada,IRD:Teal/Avian,A/blue-winged teal/New Brunswick/00765/2010,2010-08-25,New Brunswick,H3N8
-42,USA,IRD:Green-winged Teal/Avian,A/American green-winged teal/Interior Alaska/10BM08134R0/2010,2010-08-04,Alaska,H3N8
-43,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM9755R0/2009,2009-08-14,Alaska,H3N1
-44,USA,IRD:Mallard/Avian,A/mallard/California/5271/2009,2009-07-29,California,H4N6
-45,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM3361R0/2009,2009-07-21,Alaska,H10N7
-46,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM11556R0/2009,2009-08-19,Alaska,H8N4
-47,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM08883R0/2010,2010-08-05,Alaska,H7N3
-48,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM2256/2009,2009-07-11,Alaska,H4N6
-49,USA,IRD:Grebe/Avian,A/red-necked grebe/Minnesota/AI10-2528/2010,2010-08-07,Minnesota,H4N8
-50,USA,IRD:Ruddy Turnstone/Avian,A/ruddy turnstone/New Jersey/AI09-1325/2009,2009-05-30,New Jersey,H10N7
-51,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM12627R0/2009,2009-09-04,Alaska,H3N8
-52,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM1957/2009,2009-07-04,Alaska,H4N6
-53,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM06828R0/2010,2010-07-31,Alaska,H3N8
-54,USA,IRD:American Green-winged Teal/Avian,A/American green-winged teal/Interior Alaska/9BM6223R0/2009,2009-08-03,Alaska,H10N7
-55,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM08514R0/2010,2010-08-04,Alaska,H4N6
-56,USA,IRD:Northern Shoveler/Avian,A/northern shoveler/Interior Alaska/9BM2925R0/2009,2009-07-16,Alaska,H8N4
-57,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM08489R0/2010,2010-08-04,Alaska,H3N8
-58,USA,IRD:Mallard/Avian,A/mallard/Minnesota/AI09-2434/2009,2009-08-05,Minnesota,H3N8
-59,Guatemala,IRD:Blue-Winged Teal/Avian,A/blue-winged teal/Guatemala/CIP049-15/2010,2010-01-31,Guatemala,H8N4
-60,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM10000R0/2010,2010-08-08,Alaska,H3N8
-61,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM1864/2009,2009-07-01,Alaska,H4N6
-62,Canada,IRD:Teal/Avian,A/blue-winged teal/New Brunswick/00768/2010,2010-08-25,New Brunswick,H3N8
-63,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM12177R0/2010,2010-08-13,Alaska,H3N8
-64,USA,IRD:Green-Winged Teal/Avian,A/American green-winged teal/Wisconsin/2690/2009,2009-10-20,Wisconsin,H3N8
-65,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM1959/2009,2009-07-04,Alaska,H4N6
-66,USA,IRD:Mallard/Avian,A/mallard/New Jersey/AI09-5121/2009,2009-09-29,New Jersey,H3N8
-67,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM12326R0/2009,2009-09-02,Alaska,H3N8
-68,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM05034R0/2010,2010-07-21,Alaska,H3N6
-69,Canada,IRD:Teal/Avian,A/blue-winged teal/New Brunswick/00769/2010,2010-08-25,New Brunswick,H3N8
-70,Canada,IRD:Teal/Avian,A/blue-winged teal/New Brunswick/00766/2010,2010-08-25,New Brunswick,H3N8
-71,Canada,IRD:American Black Duck/Avian,A/American black duck/New Brunswick/00485/2010,2010-08-12,New Brunswick,H3N8
-72,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10CH00021R0/2010,2010-09-04,Alaska,H4N6
-73,USA,IRD:Northern Shoveler/Avian,A/northern shoveler/Interior Alaska/10BM16764R0/2010,2010-09-08,Alaska,H9N2
-74,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM12285R0/2009,2009-09-01,Alaska,H3N8
-75,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM06448R0/2010,2010-07-30,Alaska,H4N6
-76,Canada,IRD:Teal/Avian,A/blue-winged teal/Nova Scotia/00076/2010,2010-09-07,Nova Scotia,H3N8
-77,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM12094R0/2009,2009-08-20,Alaska,H10N7
-78,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM1972/2009,2009-07-06,Alaska,H4N6
-79,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM12172R0/2010,2010-08-13,Alaska,H3N8
-80,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM11431R0/2009,2009-08-18,Alaska,H3N1
-81,USA,IRD:Environment,A/environment/California/5807/2009,2009-08-31,California,H4N6
-82,Canada,IRD:American Black Duck/Avian,A/American black duck/New Brunswick/00587/2010,2010-08-15,New Brunswick,H4N6
-83,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM11325R0/2009,2009-08-18,Alaska,H3N1
-84,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM10819R0/2009,2009-08-17,Alaska,H3N8
-85,USA,IRD:Teal/Avian,A/blue-winged teal/Illinois/10OS1563/2010,2010-09-04,Illinois,H4N6
-86,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM07993R0/2010,2010-08-03,Alaska,H4N6
-87,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM7216R0/2009,2009-08-06,Alaska,H8N4
-88,Canada,IRD:American Black Duck/Avian,A/American black duck/New Brunswick/00523/2010,2010-08-13,New Brunswick,H4N6
-89,USA,IRD:Green-winged Teal/Avian,A/American green-winged teal/Interior Alaska/10BM04207R0/2010,2010-07-13,Alaska,H3N6
-90,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM11418R0/2010,2010-08-12,Alaska,H3N8
-91,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM6888R0/2009,2009-08-10,Alaska,H10N7
-92,USA,IRD:Mallard/Avian,A/mallard/Iowa/10OS2420/2010,2010-09-18,Iowa,H4N6
-93,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM10563R2/2009,2009-08-16,Alaska,H4N6
-94,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM11789R0/2009,2009-08-19,Alaska,H3N8
-95,Canada,IRD:American Black Duck/Avian,A/American black duck/New Brunswick/00522/2010,2010-08-13,New Brunswick,H3N8
-96,Canada,IRD:American Black Duck/Avian,A/American black duck/Prince Edward Island/00788/2010,2010-08-25,Prince Edward Island,H3N8
-97,Canada,IRD:Teal/Avian,A/blue-winged teal/Nova Scotia/00069/2010,2010-09-07,Nova Scotia,H3N8
-98,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM1869/2009,2009-07-01,Alaska,H4N6
-99,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM8465R0/2009,2009-08-10,Alaska,H3N1
-100,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM3859R1/2009,2009-07-24,Alaska,H10N7
-101,USA,IRD:Teal/Avian,A/blue-winged teal/Louisiana/AI09-5291/2009,2009-11-15,Louisiana,H4N6
-102,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM2259/2009,2009-07-11,Alaska,H4N6
-103,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM11917R0/2009,2009-08-19,Alaska,H8N4
-104,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM07399R0/2010,2010-08-02,Alaska,H7N3
-105,USA,IRD:Northern Shoveler/Avian,A/northern shoveler/Interior Alaska/10BM05491R0/2010,2010-07-26,Alaska,H3N8
-106,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM10835R0/2009,2009-08-17,Alaska,H4N6
-107,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM05797R0/2010,2010-07-26,Alaska,H3N8
-108,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM08493R0/2010,2010-08-04,Alaska,H3N8
-109,USA,IRD:Teal/Avian,A/blue-winged Teal/Minnesota/AI09-2389/2009,2009-08-04,Minnesota,H4N6
-110,Canada,IRD:American Black Duck/Avian,A/American black duck/New Brunswick/00322/2010,2010-08-08,New Brunswick,H3N8
-111,USA,IRD:Green-winged Teal/Avian,A/American green-winged teal/Interior Alaska/9BM8129R0/2009,2009-08-09,Alaska,H4N6
-112,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM8387R0/2009,2009-08-14,Alaska,H3N8
-113,USA,IRD:Northern Shoveler/Avian,A/northern shoveler/Interior Alaska/10BM05408R0/2010,2010-07-25,Alaska,H4N6
-114,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM7218R0/2009,2009-08-06,Alaska,H10N7
-115,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM08903R0/2010,2010-08-05,Alaska,H4N6
-116,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM7069R0/2009,2009-08-06,Alaska,H3N8
-117,Canada,IRD:Mallard-Black Duck Hybrid/Avian,A/mallard-black duck hybrid/New Brunswick/00904/2010,2010-09-14,New Brunswick,H10N7
-118,Canada,IRD:Teal/Avian,A/blue-winged teal/Nova Scotia/00077/2010,2010-09-07,Nova Scotia,H3N8
-119,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM01929R0/2010,2010-06-15,Alaska,H10N7
-120,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM3357R0/2009,2009-07-21,Alaska,H10N7
-121,USA,IRD:Teal/Avian,A/blue-winged teal/Louisiana/AI09-4180/2009,2009-09-05,Louisiana,H4N6
-122,Canada,IRD:Teal/Avian,A/blue-winged teal/Nova Scotia/00072/2010,2010-09-07,Nova Scotia,H3N8
-123,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM06895R0/2010,2010-07-31,Alaska,H7N3
-124,Canada,IRD:American Black Duck/Avian,A/American black duck/New Brunswick/00468/2010,2010-08-12,New Brunswick,H4N6
-125,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM11317R0/2009,2009-08-18,Alaska,H10N7
-126,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM2750R0/2009,2009-07-15,Alaska,H10N7
-127,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM9975R0/2009,2009-08-15,Alaska,H4N6
-128,USA,IRD:Environment,A/environment/California/7451/2010,2010-02-28,California,H7N3
-129,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM9663R0/2009,2009-08-14,Alaska,H4N6
-130,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM2398R0/2009,2009-07-13,Alaska,H4N6
-131,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM8237R0/2009,2009-08-09,Alaska,H8N4
-132,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM08828R0/2010,2010-08-05,Alaska,H4N6
-133,USA,IRD:Mallard/Avian,A/mallard/Wisconsin/10OS3171/2010,2010-10-30,Wisconsin,H7N3
-134,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM7118R1/2009,2009-08-06,Alaska,H3N8
-135,USA,IRD:Ruddy Turnstone/Avian,A/ruddy turnstone/New Jersey/AI09-1033/2009,2009-05-30,New Jersey,H10N7
-136,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM11419R0/2010,2010-08-12,Alaska,H3N8
-137,USA,IRD:Teal/Avian,A/blue-winged teal/Iowa/10OS2411/2010,2010-09-18,Iowa,H3N8
-138,USA,IRD:Mallard/Avian,A/mallard/Wisconsin/4218/2009,2009-12-05,Wisconsin,H12N5
-139,Canada,IRD:American Black Duck/Avian,A/American black duck/Prince Edward Island/00672/2010,2010-08-04,Prince Edward Island,H3N8
-140,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM12413R0/2010,2010-08-14,Alaska,H8N4
-141,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM06306R0/2010,2010-07-29,Alaska,H7N3
-142,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM06909R0/2010,2010-07-31,Alaska,H7N3
-143,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM06835R0/2010,2010-07-31,Alaska,H3N8
-144,USA,IRD:Northern Shoveler/Avian,A/northern shoveler/Interior Alaska/10BM02892R0/2010,2010-06-30,Alaska,H4N6
-145,USA,IRD:Northern Pintail/Avian,A/northern pintail/Illinois/10OS3959/2010,2010-11-21,Illinois,H7N3
-146,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM11311R0/2010,2010-08-12,Alaska,H3N8
-147,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM11065R0/2009,2009-08-18,Alaska,H10N7
-148,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM1967/2009,2009-07-06,Alaska,H4N6
-149,Canada,IRD:Green-winged Teal/Avian,A/green-winged teal/Prince Edward Island/00840/2010,2010-09-02,Prince Edward Island,H3N8
-150,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM8471R0/2009,2009-08-10,Alaska,H4N6
-151,USA,IRD:Green-winged Teal/Avian,A/American green-winged teal/Interior Alaska/9BM6410R0/2009,2009-08-03,Alaska,H3N8
-152,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM02980R0/2010,2010-07-02,Alaska,H9N2
-153,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM10173R0/2010,2010-08-08,Alaska,H4N6
-154,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM2057/2009,2009-07-08,Alaska,H4N6
-155,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM7302R0/2009,2009-08-07,Alaska,H4N6
-156,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM6960R0/2009,2009-08-05,Alaska,H3N8
-157,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM11421R0/2010,2010-08-12,Alaska,H3N8
-158,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM06720R0/2010,2010-07-30,Alaska,H7N3
-159,Canada,IRD:American Black Duck/Avian,A/American black duck/New Brunswick/03552/2009,2009-09-11,New Brunswick,H4N6
-160,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM7895R0/2009,2009-08-08,Alaska,H10N7
-161,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM11911R0/2009,2009-08-19,Alaska,H3N8
-162,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM08505R0/2010,2010-08-04,Alaska,H3N8
-163,USA,IRD:Mallard/Avian,A/mallard/Wisconsin/10OS2773/2010,2010-09-26,Wisconsin,H3N8
-164,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM5554R0/2009,2009-07-31,Alaska,H10N7
-165,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM11672R0/2010,2010-08-13,Alaska,H3N8
-166,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM9153R0/2009,2009-08-12,Alaska,H3N8
-167,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM10859R0/2010,2010-08-10,Alaska,H7N3
-168,Canada,IRD:Green-winged Teal/Avian,A/green-winged teal/Prince Edward Island/00841/2010,2010-09-02,Prince Edward Island,H3N8
-169,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM07029R0/2010,2010-08-01,Alaska,H7N3
-170,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM1975/2009,2009-07-06,Alaska,H4N6
-171,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM09570R0/2010,2010-08-07,Alaska,H4N6
-172,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM4637R0/2009,2009-07-29,Alaska,H10N7
-173,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM08612R0/2010,2010-08-04,Alaska,H4N6
-174,USA,IRD:Mallard/Avian,A/mallard/Wisconsin/2653/2009,2009-10-17,Wisconsin,H4N6
-175,Canada,IRD:American Black Duck/Avian,A/American black duck/New Brunswick/00464/2010,2010-08-12,New Brunswick,H4N6
-176,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM04626R0/2010,2010-07-18,Alaska,H4N6
-177,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM11382R0/2009,2009-08-18,Alaska,H3N8
-178,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM12178R0/2010,2010-08-13,Alaska,H3N8
-179,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM06524R0/2010,2010-07-30,Alaska,H7N3
-180,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM3016R0/2009,2009-07-17,Alaska,H10N7
-181,USA,IRD:Northern Shoveler/Avian,A/northern shoveler/Interior Alaska/10BM05487R0/2010,2010-07-26,Alaska,H3N8
-182,Canada,IRD:Teal/Avian,A/blue-winged teal/Nova Scotia/00078/2010,2010-09-07,Nova Scotia,H3N8
-183,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM12523R0/2009,2009-09-03,Alaska,H3N8
-184,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM1807/2009,2009-07-02,Alaska,H4N6
-185,Canada,IRD:Teal/Avian,A/blue-winged teal/New Brunswick/00772/2010,2010-08-25,New Brunswick,H3N8
-186,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM12211R0/2009,2009-08-21,Alaska,H3N8
-187,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM9973R0/2009,2009-08-15,Alaska,H3N1
-188,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM10043R0/2009,2009-08-15,Alaska,H10N7
-189,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM7694R0/2009,2009-08-08,Alaska,H10N4
-190,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM8389R0/2009,2009-08-14,Alaska,H8N4
-191,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM12066R1/2009,2009-08-20,Alaska,H3N8
-192,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM11015R0/2009,2009-08-17,Alaska,H4N6
-193,USA,IRD:Green-winged Teal/Avian,A/American green-winged teal/Interior Alaska/10BM08422R0/2010,2010-08-04,Alaska,H3N8
-194,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM8459R0/2009,2009-08-10,Alaska,H3N1
-195,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM6886R0/2009,2009-08-10,Alaska,H4N6
-196,Canada,IRD:Mallard/Avian,A/mallard/New Brunswick/00979/2010,2010-09-16,New Brunswick,H4N8
-197,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM11179R0/2009,2009-08-18,Alaska,H10N7
-198,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM1809/2009,2009-07-02,Alaska,H4N6
-199,USA,IRD:Mallard/Avian,A/mallard/California/1305/2010,2010-08-03,California,H10N7
-200,USA,IRD:Mallard/Avian,A/mallard/California/1289/2010,2010-07-30,California,H4N6
-201,Canada,IRD:American Black Duck/Avian,A/American black duck/New Brunswick/03554/2009,2009-09-11,New Brunswick,H4N6
-202,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM12363R0/2010,2010-08-14,Alaska,H3N8
-203,USA,IRD:Teal/Avian,A/blue-winged teal/Missouri/10MO0407/2010,2010-09-17,Missouri,H4N6
-204,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM9984R0/2009,2009-08-15,Alaska,H4N6
-205,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM3076R0/2009,2009-07-18,Alaska,H10N7
-206,USA,IRD:Mallard/Avian,A/mallard/California/1335/2010,2010-08-03,California,H10N7
-207,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM12582R0/2010,2010-08-14,Alaska,H3N8
-208,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM11053R0/2009,2009-08-18,Alaska,H8N4
-209,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM11208R0/2010,2010-08-11,Alaska,H7N3
-210,Canada,IRD:Snow Goose/Avian,A/snow goose/Nunavet/03438/2010,2010-07-20,Nunavet,H3N8
-211,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM07120R0/2010,2010-08-01,Alaska,H7N3
-212,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM1856/2009,2009-07-02,Alaska,H4N6
-213,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM10471R0/2009,2009-08-16,Alaska,H3N8
-214,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM9983R0/2009,2009-08-15,Alaska,H4N6
-215,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM6095R0/2009,2009-08-02,Alaska,H4N6
-216,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM7252R0/2009,2009-08-06,Alaska,H3N8
-217,USA,IRD:Mallard/Avian,A/mallard/California/2420/2010,2010-10-23,California,H10N7
-218,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM1965/2009,2009-07-06,Alaska,H4N6
-219,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM8119R0/2009,2009-08-09,Alaska,H4N6
-220,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM07469R0/2010,2010-08-02,Alaska,H7N3
-221,USA,IRD:Mallard/Avian,A/mallard/Wisconsin/10OS3866/2010,2010-11-13,Wisconsin,H3N6
-222,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM11420R0/2010,2010-08-12,Alaska,H3N8
-223,Canada,IRD:Teal/Avian,A/blue-winged teal/New Brunswick/00774/2010,2010-08-25,New Brunswick,H3N8
-224,USA,IRD:Northern Shoveler/Avian,A/northern shoveler/Interior Alaska/10BM05638R0/2010,2010-07-26,Alaska,H3N8
-225,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM08884R0/2010,2010-08-05,Alaska,H7N3
-226,Canada,IRD:Teal/Avian,A/blue-winged teal/Nova Scotia/00073/2010,2010-09-07,Nova Scotia,H3N8
-227,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM07971R0/2010,2010-08-03,Alaska,H4N6
-228,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM10111R0/2009,2009-08-15,Alaska,H3N8
-229,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM08540R0/2010,2010-08-04,Alaska,H4N6
-230,USA,IRD:Mallard/Avian,A/mallard/Wisconsin/1538/2009,2009-08-18,Wisconsin,H4N6
-231,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM06456R0/2010,2010-07-30,Alaska,H4N6
-232,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM9989R0/2009,2009-08-15,Alaska,H4N6
-233,USA,IRD:Teal/Avian,A/blue-winged teal/Illinois/10OS1561/2010,2010-09-04,Illinois,H4N6
-234,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM10987R0/2009,2009-08-17,Alaska,H3N8
-235,Guatemala,IRD:Blue-Winged Teal/Avian,A/blue-winged teal/Guatemala/CIP049-05/2010,2010-01-31,Guatemala,H3N8
-236,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM6290R0/2009,2009-08-03,Alaska,H3N8
-237,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM11572R0/2009,2009-08-20,Alaska,H3N8
-238,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM09561R0/2010,2010-08-07,Alaska,H3N8
-239,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM10717R0/2009,2009-08-17,Alaska,H3N8
-240,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM04624R0/2010,2010-07-18,Alaska,H4N6
-241,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM05970R0/2010,2010-07-27,Alaska,H3N8
-242,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM10853R0/2010,2010-08-10,Alaska,H7N3
-243,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM12464R0/2009,2009-09-02,Alaska,H3N8
-244,USA,IRD:Mallard/Avian,A/mallard/California/1154/2010,2010-07-27,California,H4N6
-245,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM9383R0/2009,2009-08-12,Alaska,H10N7
-246,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM2388R0/2009,2009-07-13,Alaska,H8N4
-247,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM08920R0/2010,2010-08-05,Alaska,H3N8
-248,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM12190R0/2009,2009-08-21,Alaska,H4N6
-249,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM6902R0/2009,2009-08-05,Alaska,H3N8
-250,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM04988R0/2010,2010-07-21,Alaska,H4N6
-251,Canada,IRD:Teal/Avian,A/blue-winged teal/Nova Scotia/00074/2010,2010-09-07,Nova Scotia,H3N8
-252,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM12567R0/2009,2009-09-04,Alaska,H3N8
-253,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM11381R0/2009,2009-08-18,Alaska,H3N8
-254,USA,IRD:Teal/Avian,A/blue-winged teal/Louisiana/AI09-5159/2009,2009-11-14,Louisiana,H3N8
-255,USA,IRD:Ruddy Turnstone/Avian,A/ruddy turnstone/New Jersey/AI09-961/2009,2009-05-22,New Jersey,H10N7
-256,USA,IRD:Green-winged Teal/Avian,A/American green-winged teal/Interior Alaska/10BM07573R0/2010,2010-08-02,Alaska,H3N8
-257,USA,IRD:Northern Shoveler/Avian,A/northern shoveler/Interior Alaska/9BM4787R0/2009,2009-07-29,Alaska,H8N4
-258,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM12153R0/2009,2009-08-20,Alaska,H4N8
-259,Canada,IRD:American Black Duck/Avian,A/American black duck/New Brunswick/00525/2010,2010-08-13,New Brunswick,H3N8
-260,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM10055R0/2009,2009-08-15,Alaska,H3N8
-261,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM7254R0/2009,2009-08-06,Alaska,H3N8
-262,USA,IRD:Blue-Winged Teal/Avian,A/blue-winged teal/Wisconsin/2753/2009,2009-10-24,Wisconsin,H4N6
-263,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM12700R0/2009,2009-09-06,Alaska,H3N8
-264,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM2243/2009,2009-07-11,Alaska,H4N6
-265,Canada,IRD:Teal/Avian,A/blue-winged teal/New Brunswick/00771/2010,2010-08-25,New Brunswick,H3N8
-266,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM03979R0/2010,2010-07-12,Alaska,H4N6
-267,USA,IRD:Mallard/Avian,A/mallard/Minnesota/AI09-3066/2009,2009-09-07,Minnesota,H12N5
-268,Canada,IRD:American Black Duck/Avian,A/American black duck/New Brunswick/00467/2010,2010-08-12,New Brunswick,H3N8
-269,USA,IRD:Teal/Avian,A/blue-winged teal/Wisconsin/2741/2009,2009-10-17,Wisconsin,H4N6
-270,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM11487R0/2009,2009-08-18,Alaska,H3N8
-271,USA,IRD:Green-Winged Teal/Avian,A/American green-winged teal/Interior Alaska/9BM5277R0/2009,2009-07-30,Alaska,H4N6
-272,USA,IRD:Mallard/Avian,A/mallard/California/1210/2010,2010-07-29,California,H4N6
-273,USA,IRD:Northern Shoveler/Avian,A/northern shoveler/Interior Alaska/9BM2943R1/2009,2009-07-16,Alaska,H4N6
-274,USA,IRD:Mallard/Avian,A/mallard/California/1335-1/2010,2010-08-03,California,H10N7
-275,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM09164R0/2010,2010-08-06,Alaska,H3N8
-276,Canada,IRD:American Black Duck/Avian,A/American black duck/New Brunswick/00909/2010,2010-09-14,New Brunswick,H10N7
-277,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM09105R0/2010,2010-08-05,Alaska,H3N8
-278,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM12186R0/2009,2009-08-21,Alaska,H4N6
-279,USA,IRD:Ring-necked Duck/Avian,A/ring-necked duck/Interior Alaska/10BM05617R0/2010,2010-07-26,Alaska,H4N6
-280,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM11915R0/2009,2009-08-19,Alaska,H4N6
-281,USA,IRD:Ruddy Turnstone/Avian,A/ruddy turnstone/New Jersey/AI09-907/2009,2009-05-29,New Jersey,H10N7
-282,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM7846R0/2009,2009-08-08,Alaska,H10N7
-283,USA,IRD:Shorebird/Avian,A/shorebird/Delaware Bay/512/2009,2009-05-21,Delaware,H10N7
-284,Canada,IRD:American Black Duck/Avian,A/American black duck/Prince Edward Island/00673/2010,2010-08-04,Prince Edward Island,H3N8
-285,USA,IRD:Mallard/Avian,A/mallard/Michigan/10OS1491/2010,2010-08-20,Michigan,H4N6
-286,USA,IRD:Green-winged Teal/Avian,A/American green-winged teal/Interior Alaska/10BM07917R0/2010,2010-08-03,Alaska,H3N8
-287,Canada,IRD:Teal/Avian,A/blue-winged teal/New Brunswick/00289/2010,2010-09-14,New Brunswick,H3N8
-288,Canada,IRD:Green-winged Teal/Avian,A/green-winged teal/Nova Scotia/00354/2010,2010-08-08,Nova Scotia,H3N8
-289,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM09104R0/2010,2010-08-05,Alaska,H3N8
-290,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM1949/2009,2009-07-04,Alaska,H4N6
-291,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM2536R0/2009,2009-07-13,Alaska,H4N6
-292,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM05249R0/2010,2010-07-23,Alaska,H4N6
-293,USA,IRD:Ruddy Turnstone/Avian,A/ruddy turnstone/New Jersey/AI09-305/2009,2009-05-11,New Jersey,H10N7
-294,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM6144R0/2009,2009-08-02,Alaska,H3N8
-295,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM12204R0/2009,2009-08-21,Alaska,H4N6
-296,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM1964/2009,2009-07-06,Alaska,H4N6
-297,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM9955R0/2009,2009-08-15,Alaska,H8N4
-298,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM11434R0/2010,2010-08-12,Alaska,H7N3
-299,Canada,IRD:American Black Duck/Avian,A/American black duck/New Brunswick/00484/2010,2010-08-12,New Brunswick,H3N8
-300,USA,IRD:Green-winged Teal/Avian,A/American green-winged teal/Interior Alaska/10BM07863R0/2010,2010-08-03,Alaska,H4N6
-301,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM12198R0/2009,2009-08-21,Alaska,H4N6
-302,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM05247R0/2010,2010-07-23,Alaska,H4N6
-303,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM10537R0/2009,2009-08-16,Alaska,H8N4
-304,Canada,IRD:American Black Duck/Avian,A/American black duck/New Brunswick/03511/2009,2009-09-10,New Brunswick,H4N6
-305,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM05860R0/2010,2010-07-26,Alaska,H7N3
-306,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM07458R0/2010,2010-08-02,Alaska,H7N3
-307,Canada,IRD:American Black Duck/Avian,A/American black duck/New Brunswick/00608/2010,2010-08-16,New Brunswick,H3N8
-308,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM9065R0/2009,2009-08-11,Alaska,H10N7
-309,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM6494R0/2009,2009-08-03,Alaska,H4N6
-310,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM10801R0/2010,2010-08-10,Alaska,H7N3
-311,USA,IRD:Shorebird/Avian,A/shorebird/Delaware Bay/255/2009,2009-05-20,Delaware,H10N7
-312,USA,IRD:Shorebird/Avian,A/shorebird/Delaware Bay/792/2009,2009-06-04,Delaware,H10N7
-313,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM10375R0/2009,2009-08-17,Alaska,H4N6
-314,USA,IRD:Environment,A/environment/Indiana/10OS1500/2010,2010-09-03,Indiana,H3N8
-315,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM04722R0/2010,2010-07-18,Alaska,H4N6
-316,Canada,IRD:American Black Duck/Avian,A/American black duck/New Brunswick/00558/2010,2010-08-14,New Brunswick,H3N8
-317,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM07737R0/2010,2010-08-03,Alaska,H7N3
-318,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM11779R0/2009,2009-08-19,Alaska,H10N7
-319,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM12163R0/2010,2010-08-13,Alaska,H3N8
-320,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM12388R0/2009,2009-09-02,Alaska,H3N8
-321,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM12552R0/2010,2010-08-14,Alaska,H3N8
-322,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM7861R0/2009,2009-08-08,Alaska,H10N7
-323,USA,IRD:Green-winged Teal/Avian,A/American green-winged teal/Interior Alaska/10BM08222R0/2010,2010-08-04,Alaska,H3N8
-324,USA,IRD:Ruddy Turnstone/Avian,A/ruddy turnstone/New Jersey/AI09-1149/2009,2009-06-03,New Jersey,H10N7
-325,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM10807R0/2010,2010-08-10,Alaska,H7N3
-326,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM1947/2009,2009-07-04,Alaska,H4N6
-327,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM7232R0/2009,2009-08-06,Alaska,H4N6
-328,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM2351R0/2009,2009-07-12,Alaska,H8N4
-329,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM7882R0/2009,2009-08-08,Alaska,H8N4
-330,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM10906R0/2010,2010-08-10,Alaska,H7N3
-331,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM14807R2/2010,2010-08-18,Alaska,H9N2
-332,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM5375R0/2009,2009-07-30,Alaska,H10N7
-333,Canada,IRD:American Black Duck/Avian,A/American black duck/New Brunswick/00949/2010,2010-09-15,New Brunswick,H4N6
-334,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM06455R0/2010,2010-07-30,Alaska,H4N6
-335,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM04564R1/2010,2010-07-18,Alaska,H7N3
-336,Guatemala,IRD:Blue-Winged Teal/Avian,A/blue-winged teal/Guatemala/CIP049-07/2010,2010-01-31,Guatemala,H8N4
-337,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM02530R0/2010,2010-06-22,Alaska,H4N6
-338,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM11387R0/2009,2009-08-18,Alaska,H10N7
-339,USA,IRD:Green-Winged Teal/Avian,A/American green-winged teal/Interior Alaska/9BM3595R1/2009,2009-07-23,Alaska,H10N7
-340,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM09158R0/2010,2010-08-06,Alaska,H3N8
-341,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM12603R0/2010,2010-08-14,Alaska,H3N8
-342,USA,IRD:Northern Shoveler/Avian,A/northern shoveler/Interior Alaska/9BM12298R0/2009,2009-09-01,Alaska,H3N8
-343,Canada,IRD:Duck/Avian,A/wood duck/Nova Scotia/00738/2010,2010-08-12,Nova Scotia,H3N8
-344,USA,IRD:Mallard/Avian,A/mallard/California/1353/2010,2010-08-06,California,H10N7
-345,USA,IRD:Mallard/Avian,A/mallard/California/1297/2010,2010-07-30,California,H4N6
-346,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM12180R0/2009,2009-08-20,Alaska,H3N8
-347,Canada,IRD:Green-winged Teal/Avian,A/green-winged teal/New Brunswick/00335/2010,2010-08-08,New Brunswick,H3N8
-348,USA,IRD:Mallard/Avian,A/mallard/Iowa/10OS2426/2010,2010-09-18,Iowa,H3N8
-349,USA,IRD:Mallard/Avian,A/mallard/Wisconsin/10OS3084/2010,2010-10-03,Wisconsin,H3N8
-350,USA,IRD:Mallard/Avian,A/mallard/California/5255/2009,2009-07-28,California,H3N8
-351,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM11409R0/2009,2009-08-18,Alaska,H12N5
-352,Canada,IRD:Mallard/Avian,A/mallard/New Brunswick/00854/2010,2010-09-13,New Brunswick,H4N6
-353,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM8815R0/2009,2009-08-11,Alaska,H4N6
-354,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM5941R0/2009,2009-08-01,Alaska,H10N7
-355,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM7052R0/2009,2009-08-06,Alaska,H3N8
-356,Canada,IRD:American Black Duck/Avian,A/American black duck/New Brunswick/00470/2010,2010-08-12,New Brunswick,H4N6
-357,Canada,IRD:American Black Duck/Avian,A/American black duck/New Brunswick/00520/2010,2010-08-12,New Brunswick,H4N6
-358,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM9005R0/2009,2009-08-11,Alaska,H10N7
-359,USA,IRD:Mallard/Avian,A/mallard/California/1356/2010,2010-08-04,California,H10N7
-360,Canada,IRD:American Black Duck/Avian,A/American black duck/New Brunswick/00614/2010,2010-08-16,New Brunswick,H3N8
-361,Canada,IRD:Gadwall/Avian,A/gadwall/Nova Scotia/00786/2010,2010-09-07,Nova Scotia,H3N8
-362,USA,IRD:Northern Shoveler/Avian,A/northern shoveler/Interior Alaska/10BM05382R0/2010,2010-07-25,Alaska,H3N8
-363,USA,IRD:Ruddy Turnstone/Avian,A/ruddy turnstone/Delaware/AI09-467/2009,2009-05-28,Delaware,H10N7
-364,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM4347R0/2009,2009-07-27,Alaska,H4N6
-365,USA,IRD:Mallard/Avian,A/mallard/Ohio/10OS1319/2010,2010-08-02,Ohio,H4N6
-366,USA,IRD:Mallard/Avian,A/mallard/Minnesota/AI09-3821/2009,2009-09-13,Minnesota,H4N6
-367,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM09832R0/2010,2010-08-07,Alaska,H7N3
-368,Canada,IRD:American Black Duck/Avian,A/American black duck/New Brunswick/00991/2010,2010-09-16,New Brunswick,H4N6
-369,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM9201R0/2009,2009-08-12,Alaska,H10N7
-370,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM2164/2009,2009-07-10,Alaska,H4N6
-371,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM12351R0/2010,2010-08-14,Alaska,H3N8
-372,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM7632R0/2009,2009-08-08,Alaska,H4N6
-373,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM3078R0/2009,2009-07-18,Alaska,H10N7
-374,Canada,IRD:American Black Duck/Avian,A/American black duck/New Brunswick/00499/2010,2010-08-12,New Brunswick,H4N6
-375,USA,IRD:American Green-winged Teal/Avian,A/American green-winged teal/Interior Alaska/9BM7190R0/2009,2009-08-06,Alaska,H10N7
-376,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM9129R0/2009,2009-08-12,Alaska,H10N7
-377,Canada,IRD:American Black Duck/Avian,A/American black duck/New Brunswick/00500/2010,2010-08-12,New Brunswick,H3N8
-378,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM10146R0/2009,2009-08-15,Alaska,H3N1
-379,Canada,IRD:American Black Duck/Avian,A/American black duck/New Brunswick/00478/2010,2010-08-12,New Brunswick,H4N6
-380,USA,IRD:Green-winged Teal/Avian,A/American green-winged teal/Interior Alaska/9BM12356R0/2009,2009-09-02,Alaska,H3N8
-381,USA,IRD:Shorebird/Avian,A/shorebird/Delaware Bay/107/2009,2009-05-20,Delaware,H10N7
-382,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM12049R0/2010,2010-08-13,Alaska,H3N8
-383,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM11989R0/2010,2010-08-13,Alaska,H3N8
-384,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM10095R0/2009,2009-08-15,Alaska,H4N6
-385,USA,IRD:Duck/Avian,A/wood duck/Wisconsin/10OS2778/2010,2010-09-26,Wisconsin,H3N8
-386,Canada,IRD:American Black Duck/Avian,A/American black duck/New Brunswick/00454/2010,2010-08-11,New Brunswick,H3N8
-387,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM10238R0/2009,2009-08-16,Alaska,H10N7
-388,USA,IRD:Green-winged Teal/Avian,A/American green-winged teal/Interior Alaska/10BM07649R0/2010,2010-08-02,Alaska,H3N8
-389,Canada,IRD:American Black Duck/Avian,A/American black duck/New Brunswick/00953/2010,2010-09-15,New Brunswick,H3N8
-390,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM10370R0/2009,2009-08-17,Alaska,H10N7
-391,Canada,IRD:Teal/Avian,A/blue-winged teal/New Brunswick/00770/2010,2010-08-25,New Brunswick,H3N8
-392,USA,IRD:Northern Shoveler/Avian,A/northern shoveler/Interior Alaska/9BM4905R0/2009,2009-07-29,Alaska,H4N6
-393,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM1974/2009,2009-07-06,Alaska,H4N6
-394,USA,IRD:Green-Winged Teal/Avian,A/American green-winged teal/Interior Alaska/10BM05376R0/2010,2010-07-25,Alaska,H3N8
-395,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM8448R0/2009,2009-08-10,Alaska,H3N1
-396,USA,IRD:Mallard/Avian,A/mallard/Wisconsin/10OS2909/2010,2010-10-03,Wisconsin,H3N8
-397,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM12146R0/2010,2010-08-13,Alaska,H4N6
-398,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM11414R0/2010,2010-08-12,Alaska,H3N8
-399,Canada,IRD:American Black Duck/Avian,A/American black duck/New Brunswick/00687/2010,2010-08-09,New Brunswick,H3N8
-400,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM10525R2/2009,2009-08-16,Alaska,H3N1
-401,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM12647R0/2009,2009-09-05,Alaska,H3N8
-402,Canada,IRD:Teal/Avian,A/blue-winged teal/Prince Edward Island/00803/2010,2010-09-01,Prince Edward Island,H3N8
-403,USA,IRD:American Green-winged Teal/Avian,A/American green-winged teal/Interior Alaska/9BM6222R0/2009,2009-08-03,Alaska,H10N7
-404,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM7055R0/2009,2009-08-06,Alaska,H3N8
-405,Canada,IRD:American Black Duck/Avian,A/American black duck/New Brunswick/00473/2010,2010-08-12,New Brunswick,H4N6
-406,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM11643R0/2009,2009-08-18,Alaska,H8N4
-407,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM7162R0/2009,2009-08-06,Alaska,H8N4
-408,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM7840R0/2009,2009-08-08,Alaska,H10N7
-409,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM3355R0/2009,2009-07-21,Alaska,H10N7
-410,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM2168/2009,2009-07-10,Alaska,H4N6
-411,USA,IRD:Northern Shoveler/Avian,A/northern shoveler/Interior Alaska/9BM12314R0/2009,2009-09-02,Alaska,H4N6
-412,USA,IRD:Green-winged Teal/Avian,A/American green-winged teal/Interior Alaska/10BM08228R0/2010,2010-08-04,Alaska,H3N8
-413,USA,IRD:Green-winged Teal/Avian,A/American green-winged teal/Interior Alaska/9BM12714R1/2009,2009-09-06,Alaska,H3N8
-414,Canada,IRD:Teal/Avian,A/blue-winged teal/Nova Scotia/00075/2010,2010-09-07,Nova Scotia,H3N8
-415,USA,IRD:Mallard/Avian,A/mallard/Illinois/10OS3676/2010,2010-10-31,Illinois,H3N8
-416,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM7696R0/2009,2009-08-08,Alaska,H10N7
-417,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM12176R0/2009,2009-08-20,Alaska,H3N8
-418,USA,IRD:Environment,A/environment/Indiana/10OS1511/2010,2010-09-03,Indiana,H4N8
-419,USA,IRD:Mallard/Avian,A/mallard/Minnesota/AI09-1851/2009,2009-07-28,Minnesota,H10N5
-420,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM6165R0/2009,2009-08-02,Alaska,H10N7
-421,USA,IRD:Northern Shoveler/Avian,A/northern shoveler/Arkansas/11OS386/2011,2011-01-12,Arkansas,H9N2
-422,Canada,IRD:Teal/Avian,A/blue-winged teal/New Brunswick/00767/2010,2010-08-25,New Brunswick,H3N8
-423,USA,IRD:Northern Shoveler/Avian,A/northern shoveler/Interior Alaska/10BM05649R0/2010,2010-07-26,Alaska,H3N8
-424,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM9985R0/2009,2009-08-15,Alaska,H4N6
-425,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM07777R0/2010,2010-08-03,Alaska,H4N6
-426,USA,IRD:Northern Shoveler/Avian,A/northern shoveler/Interior Alaska/10BM02593R0/2010,2010-06-23,Alaska,H4N6
-427,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM06911R0/2010,2010-07-31,Alaska,H7N3
-428,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM09818R0/2010,2010-08-07,Alaska,H7N3
-429,USA,IRD:Shorebird/Avian,A/shorebird/Delaware Bay/500/2009,2009-05-21,Delaware,H10N7
-430,USA,IRD:Teal/Avian,A/blue-winged teal/Texas/AI09-4405/2009,2009-09-19,Texas,H3N6
-431,USA,IRD:Ring-necked Duck/Avian,A/ring-necked duck/Interior Alaska/10BM05792R0/2010,2010-07-26,Alaska,H3N8
-432,USA,IRD:Mallard/Avian,A/mallard/Iowa/10OS2492/2010,2010-09-18,Iowa,H3N6
-433,USA,IRD:Teal/Avian,A/blue-winged teal/Missouri/10MO003/2010,2010-09-15,Missouri,H4N6
-434,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM12383R0/2010,2010-08-14,Alaska,H3N8
-435,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM8829R0/2009,2009-08-11,Alaska,H4N6
-436,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM11867R0/2009,2009-08-19,Alaska,H3N8
-437,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM3075R2/2009,2009-07-18,Alaska,H10N7
-438,Canada,IRD:Blue-Winged Teal/Avian,A/blue-winged teal/Prince Edward Island/03927/2009,2009-08-19,Prince Edward Island,H3N8
-439,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM11351R0/2009,2009-08-18,Alaska,H10N7
-440,USA,IRD:American Green-winged Teal/Avian,A/American green-winged teal/Interior Alaska/9BM6702R0/2009,2009-08-04,Alaska,H10N7
-441,Canada,IRD:American Black Duck/Avian,A/American black duck/New Brunswick/00955/2010,2010-09-15,New Brunswick,H4N8
-442,Canada,IRD:Teal/Avian,A/blue-winged teal/New Brunswick/00291/2010,2010-09-14,New Brunswick,H3N8
-443,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM06452R0/2010,2010-07-30,Alaska,H4N6
-444,Canada,IRD:American Black Duck/Avian,A/American black duck/New Brunswick/00616/2010,2010-08-16,New Brunswick,H3N8
-445,USA,IRD:Mallard/Avian,A/blue-winged Teal/North Dakota/AI09-3881/2009,2009-09-13,North Dakota,H4N6
-446,Canada,IRD:Teal/Avian,A/blue-winged teal/Nova Scotia/01002/2010,2010-09-20,Nova Scotia,H3N8
-447,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM07121R0/2010,2010-08-01,Alaska,H7N3
-448,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM06303R0/2010,2010-07-29,Alaska,H7N3
-449,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM6229R0/2009,2009-08-03,Alaska,H10N7
-450,USA,IRD:Mallard/Avian,A/mallard/Wisconsin/10OS2918/2010,2010-10-03,Wisconsin,H4N6
-451,USA,IRD:Mallard/Avian,A/mallard/Minnesota/AI09-1864/2009,2009-07-28,Minnesota,H10N5
-452,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM9335R0/2009,2009-08-12,Alaska,H10N7
-453,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM06450R0/2010,2010-07-30,Alaska,H4N6
-454,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM11231R0/2009,2009-08-18,Alaska,H3N8
-455,USA,IRD:American Green-winged Teal/Avian,A/American green-winged teal/Interior Alaska/9BM6428R0/2009,2009-08-03,Alaska,H10N7
-456,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM07476R0/2010,2010-08-02,Alaska,H4N6
-457,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM12308R0/2010,2010-08-14,Alaska,H4N6
-458,USA,IRD:American Green-winged Teal/Avian,A/American green-winged teal/Interior Alaska/9BM6225R0/2009,2009-08-03,Alaska,H10N7
-459,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM11023R0/2009,2009-08-17,Alaska,H8N4
-460,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM12350R0/2010,2010-08-14,Alaska,H3N8
-461,USA,IRD:Mallard/Avian,A/mallard/California/1523/2010,2010-08-11,California,H4N6
-462,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM9717R0/2009,2009-08-14,Alaska,H10N7
-463,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM06899R0/2010,2010-07-31,Alaska,H7N3
-464,USA,IRD:Mallard/Avian,A/mallard/Minnesota/AI09-1829/2009,2009-07-28,Minnesota,H3N8
-465,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM8498R0/2009,2009-08-10,Alaska,H10N7
-466,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM11542R0/2009,2009-08-19,Alaska,H3N8
-467,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM08100R0/2010,2010-08-04,Alaska,H7N3
-468,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM04704R0/2010,2010-07-18,Alaska,H4N6
-469,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM6205R0/2009,2009-08-02,Alaska,H10N7
-470,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM6040R0/2009,2009-08-02,Alaska,H4N6
-471,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM05900R0/2010,2010-07-26,Alaska,H3N8
-472,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM8287R0/2009,2009-08-09,Alaska,H10N7
-473,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM12352R0/2010,2010-08-14,Alaska,H3N8
-474,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM09159R0/2010,2010-08-06,Alaska,H3N8
-475,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM07114R0/2010,2010-08-01,Alaska,H7N3
-476,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM06838R0/2010,2010-07-31,Alaska,H7N3
-477,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM7152R2/2009,2009-08-06,Alaska,H8N4
-478,USA,IRD:Ruddy Turnstone/Avian,A/ruddy turnstone/New Jersey/AI09-342/2009,2009-05-20,New Jersey,H10N7
-479,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM6039R0/2009,2009-08-02,Alaska,H4N6
-480,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM1968/2009,2009-07-06,Alaska,H4N6
-481,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM11965R0/2009,2009-08-20,Alaska,H3N8
-482,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM12179R0/2010,2010-08-13,Alaska,H3N8
-483,USA,IRD:Shorebird/Avian,A/shorebird/Delaware Bay/250/2009,2009-05-20,Delaware,H10N7
-484,USA,IRD:Teal/Avian,A/blue-winged teal/Wisconsin/10OS3092/2010,2010-10-03,Wisconsin,H3N6
-485,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM10829R0/2010,2010-08-10,Alaska,H7N3
-486,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM7496R0/2009,2009-08-08,Alaska,H4N6
-487,USA,IRD:Gadwall/Avian,A/gadwall/Iowa/10OS2753/2010,2010-10-17,Iowa,H3N8
-488,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM05337R0/2010,2010-07-24,Alaska,H4N6
-489,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM02644R0/2010,2010-06-25,Alaska,H4N6
-490,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM4641R0/2009,2009-07-29,Alaska,H4N6
-491,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM07106R0/2010,2010-08-01,Alaska,H7N3
-492,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM10969R0/2009,2009-08-17,Alaska,H3N8
-493,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM11366R0/2010,2010-08-12,Alaska,H7N3
-494,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM10790R0/2010,2010-08-10,Alaska,H7N3
-495,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM11358R1/2009,2009-08-18,Alaska,H10N7
-496,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM7799R0/2009,2009-08-08,Alaska,H4N7
-497,USA,IRD:Green-Winged Teal/Avian,A/American green-winged teal/Interior Alaska/10BM07000R0/2010,2010-07-31,Alaska,H4N6
-498,Canada,IRD:Teal/Avian,A/blue-winged teal/New Brunswick/00538/2010,2010-08-13,New Brunswick,H3N8
-499,USA,IRD:Northern Shoveler/Avian,A/northern shoveler/Mississippi/236/2010,2010-01-12,Mississippi,H10N7
-500,Canada,IRD:Teal/Avian,A/blue-winged teal/Nova Scotia/01027/2010,2010-09-22,Nova Scotia,H3N8
-501,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM08705R0/2010,2010-08-05,Alaska,H7N3
-502,USA,IRD:Shorebird/Avian,A/shorebird/Delaware Bay/343/2009,2009-05-20,Delaware,H10N7
-503,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM2535R0/2009,2009-07-12,Alaska,H4N6
-504,Canada,IRD:Mallard/Avian,A/mallard/Nova Scotia/01016/2010,2010-09-20,Nova Scotia,H3N8
-505,USA,IRD:Teal/Avian,A/blue-winged teal/Iowa/10OS2639/2010,2010-09-18,Iowa,H3N8
-506,USA,IRD:Northern Shoveler/Avian,A/northern shoveler/Interior Alaska/9BM12332R0/2009,2009-09-02,Alaska,H3N8
-507,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM9683R2/2009,2009-08-14,Alaska,H4N6
-508,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM09563R0/2010,2010-08-07,Alaska,H7N3
-509,USA,IRD:Northern Shoveler/Avian,A/northern shoveler/Interior Alaska/9BM1447R2/2009,2009-06-20,Alaska,H8N4
-510,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM9049R0/2009,2009-08-11,Alaska,H4N6
-511,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM4991R0/2009,2009-07-29,Alaska,H10N7
-512,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM7398R0/2009,2009-08-07,Alaska,H10N7
-513,USA,IRD:Shorebird/Avian,A/shorebird/Delaware Bay/139/2009,2009-05-20,Delaware,H10N7
-514,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM10222R0/2009,2009-08-16,Alaska,H10N7
-515,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM2077/2009,2009-07-09,Alaska,H4N6
-516,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM1962/2009,2009-07-04,Alaska,H4N6
-517,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM5698R0/2009,2009-07-31,Alaska,H10N7
-518,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM11694R0/2010,2010-08-13,Alaska,H3N8
-519,Canada,IRD:Mallard/Avian,A/mallard/New Brunswick/00495/2010,2010-08-12,New Brunswick,H3N8
-520,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM8022R0/2009,2009-08-09,Alaska,H4N6
-521,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM3379R0/2009,2009-07-22,Alaska,H10N7
-522,USA,IRD:Mallard/Avian,A/mallard/Illinois/10OS4334/2010,2010-11-27,Illinois,H10N7
-523,USA,IRD:Herring Gull/Avian,A/herring gull/New Jersey/AI09-1262/2009,2009-06-10,New Jersey,H10N7
-524,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM7108R2/2009,2009-08-06,Alaska,H3N8
-525,Canada,IRD:American Black Duck/Avian,A/American black duck/New Brunswick/00481/2010,2010-08-12,New Brunswick,H4N6
-526,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM02585R0/2010,2010-06-22,Alaska,H4N6
-527,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM7836R0/2009,2009-08-08,Alaska,H3N8
-528,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10CH00035R0/2010,2010-09-05,Alaska,H3N8
-529,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM06454R0/2010,2010-07-30,Alaska,H4N6
-530,Canada,IRD:Teal/Avian,A/blue-winged teal/Nova Scotia/00080/2010,2010-09-07,Nova Scotia,H3N8
-531,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM09528R0/2010,2010-08-07,Alaska,H7N3
-532,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM09893R0/2010,2010-08-08,Alaska,H3N6
-533,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM2254/2009,2009-07-11,Alaska,H4N6
-534,USA,IRD:Teal/Avian,A/blue-winged teal/Missouri/10MO021/2010,2010-09-15,Missouri,H3N8
-535,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM02791R0/2010,2010-06-25,Alaska,H4N6
-536,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM12210R0/2009,2009-08-21,Alaska,H3N8
-537,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM7934R0/2009,2009-08-08,Alaska,H4N6
-538,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM06461R0/2010,2010-07-30,Alaska,H4N6
-539,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM10369R0/2009,2009-08-17,Alaska,H10N7
-540,USA,IRD:Mallard/Avian,A/mallard/Minnesota/AI09-1867/2009,2009-07-28,Minnesota,H8N4
-541,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM7044R0/2009,2009-08-06,Alaska,H3N8
-542,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM1812/2009,2009-07-02,Alaska,H4N6
-543,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM08874R0/2010,2010-08-05,Alaska,H7N3
-544,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM2783R0/2009,2009-07-15,Alaska,H10N7
-545,USA,IRD:Shorebird/Avian,A/shorebird/Delaware Bay/55/2009,2009-05-15,Delaware,H10N7
-546,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM2751R0/2009,2009-07-15,Alaska,H10N7
-547,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM7688R0/2009,2009-08-08,Alaska,H10N7
-548,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM09102R0/2010,2010-08-05,Alaska,H3N8
-549,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM12534R0/2010,2010-08-14,Alaska,H7N3
-550,USA,IRD:Ruddy Turnstone/Avian,A/ruddy turnstone/New Jersey/AI09-549/2009,2009-05-26,New Jersey,H10N7
-551,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM3205R0/2009,2009-07-20,Alaska,H10N7
-552,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM6145R0/2009,2009-08-02,Alaska,H3N8
-553,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM10476R0/2010,2010-08-09,Alaska,H7N3
-554,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM10928R0/2010,2010-08-11,Alaska,H3N8
-555,Guatemala,IRD:Blue-Winged Teal/Avian,A/blue-winged teal/Guatemala/CIP049-06/2010,2010-01-31,Guatemala,H8N4
-556,USA,IRD:Northern Shoveler/Avian,A/northern shoveler/Interior Alaska/9BM12519R0/2009,2009-09-03,Alaska,H4N8
-557,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM04668R0/2010,2010-07-18,Alaska,H4N6
-558,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM7368R0/2009,2009-08-07,Alaska,H3N8
-559,Canada,IRD:American Black Duck/Avian,A/American black duck/New Brunswick/00424/2010,2010-08-10,New Brunswick,H3N8
-560,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM9447R0/2009,2009-08-13,Alaska,H3N8
-561,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM11380R0/2010,2010-08-12,Alaska,H10N6
-562,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM1969/2009,2009-07-06,Alaska,H4N6
-563,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM08622R0/2010,2010-08-05,Alaska,H4N6
-564,Canada,IRD:Northern Pintail/Avian,A/northern pintail/Alberta/8/2009,2009-08-19,Alberta,H3N8
-565,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM2705R0/2009,2009-07-15,Alaska,H8N4
-566,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM12370R0/2010,2010-08-14,Alaska,H3N8
-567,Canada,IRD:Blue-Winged Teal/Avian,A/blue-winged teal/New Brunswick/03757/2009,2009-09-14,New Brunswick,H3N6
-568,USA,IRD:Shorebird/Avian,A/shorebird/Delaware Bay/281/2009,2009-05-20,Delaware,H10N7
-569,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM10224R0/2009,2009-08-16,Alaska,H10N7
-570,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM09481R0/2010,2010-08-06,Alaska,H7N3
-571,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM06459R0/2010,2010-07-30,Alaska,H4N6
-572,USA,IRD:Blue-Winged Teal/Avian,A/blue-winged Teal/Minnesota/AI09-3786/2009,2009-09-06,Minnesota,H4N6
-573,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM10166R0/2010,2010-08-08,Alaska,H7N3
-574,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM02111R0/2010,2010-06-10,Alaska,H12N5
-575,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM10811R0/2010,2010-08-10,Alaska,H7N3
-576,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM06460R0/2010,2010-07-30,Alaska,H4N6
-577,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM8425R0/2009,2009-08-09,Alaska,H10N7
-578,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM10298R0/2010,2010-08-09,Alaska,H3N8
-579,Canada,IRD:American Black Duck/Avian,A/American black duck/New Brunswick/00906/2010,2010-09-14,New Brunswick,H10N7
-580,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM07597R0/2010,2010-08-02,Alaska,H3N8
-581,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM10234R0/2009,2009-08-16,Alaska,H10N7
-582,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM2395R0/2009,2009-07-13,Alaska,H4N6
-583,USA,IRD:Mallard/Avian,A/mallard/Minnesota/AI09-1854/2009,2009-07-28,Minnesota,H8N4
-584,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM9601R0/2009,2009-08-13,Alaska,H10N7
-585,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM2073/2009,2009-07-09,Alaska,H4N6
-586,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM8502R0/2009,2009-08-10,Alaska,H3N1
-587,USA,IRD:Green-winged Teal/Avian,A/American green-winged teal/Texas/AI09-6046/2009,2009-12-13,Texas,H3N8
-588,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM11719R1/2009,2009-08-19,Alaska,H4N6
-589,Canada,IRD:Green-winged Teal/Avian,A/green-winged teal/Prince Edward Island/00839/2010,2010-09-02,Prince Edward Island,H3N8
-590,USA,IRD:Mallard/Avian,A/mallard/Ohio/1695/2009,2009-08-25,Ohio,H4N6
-591,USA,IRD:Mallard/Avian,A/mallard/California/1156/2010,2010-07-27,California,H4N6
-592,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM5053R0/2009,2009-07-29,Alaska,H10N7
-593,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM11415R0/2010,2010-08-12,Alaska,H3N8
-594,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM8657R1/2009,2009-08-10,Alaska,H3N8
-595,USA,IRD:Green-Winged Teal/Avian,A/American green-winged teal/Interior Alaska/9BM5045R0/2009,2009-07-29,Alaska,H8N4
-596,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM08120R0/2010,2010-08-04,Alaska,H7N3
-597,Canada,IRD:American Black Duck/Avian,A/American black duck/New Brunswick/00924/2010,2010-09-15,New Brunswick,H10N7
-598,USA,IRD:Shorebird/Avian,A/shorebird/Delaware Bay/545/2009,2009-05-21,Delaware,H10N7
-599,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM8907R0/2009,2009-08-11,Alaska,H3N8
-600,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM1852/2009,2009-07-06,Alaska,H10N5
-601,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM00303R0/2010,2010-05-14,Alaska,H3N8
-602,USA,IRD:Ruddy Turnstone/Avian,A/ruddy turnstone/New Jersey/AI09-1251/2009,2009-06-03,New Jersey,H10N7
-603,Canada,IRD:American Black Duck/Avian,A/American black duck/New Brunswick/03495/2009,2009-09-09,New Brunswick,H3N8
-604,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM8553R0/2009,2009-08-10,Alaska,H3N8
-605,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM05968R0/2010,2010-07-27,Alaska,H3N8
-606,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM7972R0/2009,2009-08-09,Alaska,H4N6
-607,USA,IRD:Green-winged Teal/Avian,A/American green-winged teal/Interior Alaska/10BM08226R0/2010,2010-08-04,Alaska,H4N6
-608,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM08587R0/2010,2010-08-04,Alaska,H3N8
-609,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM10324R0/2010,2010-08-09,Alaska,H7N3
-610,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM6094R0/2009,2009-08-02,Alaska,H4N6
-611,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM08488R0/2010,2010-08-04,Alaska,H3N8
-612,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM09562R0/2010,2010-08-07,Alaska,H4N6
-613,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM09162R0/2010,2010-08-06,Alaska,H3N8
-614,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM4989R0/2009,2009-07-29,Alaska,H10N7
-615,USA,IRD:Shorebird/Avian,A/shorebird/Delaware Bay/271/2009,2009-05-20,Delaware,H10N7
-616,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM11151R0/2009,2009-08-18,Alaska,H10N7
-617,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM4660R0/2009,2009-07-29,Alaska,H4N6
-618,USA,IRD:Ruddy Turnstone/Avian,A/ruddy turnstone/New Jersey/AI09-1228/2009,2009-06-03,New Jersey,H10N7
-619,USA,IRD:Ruddy Turnstone/Avian,A/ruddy turnstone/New Jersey/AI09-944/2009,2009-05-22,New Jersey,H10N7
-620,Canada,IRD:Green-winged Teal/Avian,A/green-winged teal/New Brunswick/00336/2010,2010-08-08,New Brunswick,H3N8
-621,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM2606R0/2009,2009-07-14,Alaska,H4N6
-622,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM11497R0/2010,2010-08-12,Alaska,H3N6
-623,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM11583R0/2009,2009-08-20,Alaska,H10N7
-624,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM10787R0/2010,2010-08-10,Alaska,H7N3
-625,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM10749R0/2009,2009-08-17,Alaska,H4N6
-626,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM2241R1/2009,2009-07-11,Alaska,H4N6
-627,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM2250R0/2009,2009-07-11,Alaska,H4N6
-628,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM7240R0/2009,2009-08-06,Alaska,H8N4
-629,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM2393R0/2009,2009-07-13,Alaska,H4N6
-630,Canada,IRD:American Black Duck/Avian,A/American black duck/New Brunswick/03556/2009,2009-09-11,New Brunswick,H4N6
-631,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM12221R0/2010,2010-08-13,Alaska,H4N6
-632,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM2170/2009,2009-07-10,Alaska,H4N6
-633,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM4410R1/2009,2009-07-28,Alaska,H10N7
-634,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM07040R0/2010,2010-08-01,Alaska,H4N6
-635,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM8967R0/2009,2009-08-11,Alaska,H8N4
-636,USA,IRD:Mallard/Avian,A/mallard/Mississippi/329/2010,2010-01-16,Mississippi,H10N7
-637,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM06905R0/2010,2010-07-31,Alaska,H7N3
-638,USA,IRD:Ruddy Turnstone/Avian,A/ruddy turnstone/New Jersey/AI09-1336/2009,2009-05-30,New Jersey,H10N7
-639,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM8935R0/2009,2009-08-11,Alaska,H4N7
-640,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM8464R0/2009,2009-08-10,Alaska,H3N1
-641,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM10176R0/2010,2010-08-08,Alaska,H4N6
-642,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM5376R0/2009,2009-07-30,Alaska,H10N7
-643,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM12068R0/2009,2009-08-20,Alaska,H8N4
-644,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM9037R0/2009,2009-08-11,Alaska,H10N7
-645,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM7620R0/2009,2009-08-08,Alaska,H4N6
-646,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM10244R0/2009,2009-08-16,Alaska,H10N7
-647,Guatemala,IRD:Blue-Winged Teal/Avian,A/blue-winged teal/Guatemala/CIP049-14/2010,2010-01-31,Guatemala,H8N4
-648,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM09101R0/2010,2010-08-05,Alaska,H3N8
-649,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM07066R0/2010,2010-08-01,Alaska,H7N3
-650,Canada,IRD:Teal/Avian,A/blue-winged teal/Nova Scotia/00081/2010,2010-09-07,Nova Scotia,H3N8
-651,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM08586R0/2010,2010-08-04,Alaska,H7N3
-652,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM10851R0/2009,2009-08-17,Alaska,H3N8
-653,USA,IRD:Teal/Avian,A/blue-winged teal/Missouri/10MO030/2010,2010-09-16,Missouri,H4N6
-654,USA,IRD:Mallard/Avian,A/mallard/California/1188/2010,2010-07-29,California,H4N6
-655,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM7050R0/2009,2009-08-06,Alaska,H3N8
-656,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM06704R0/2010,2010-07-30,Alaska,H3N8
-657,USA,IRD:Ruddy Turnstone/Avian,A/ruddy turnstone/New Jersey/AI09-1352/2009,2009-05-30,New Jersey,H10N7
-658,USA,IRD:Green-winged Teal/Avian,A/American green-winged teal/Illinois/10OS1551/2010,2010-09-04,Illinois,H4N6
-659,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM09548R0/2010,2010-08-07,Alaska,H7N3
-660,USA,IRD:Shorebird/Avian,A/shorebird/Delaware Bay/756/2009,2009-06-04,Delaware,H10N7
-661,Canada,IRD:Teal/Avian,A/blue-winged teal/New Brunswick/00283/2010,2010-09-14,New Brunswick,H3N8
-662,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM1585R1/2009,2009-06-24,Alaska,H12N5
-663,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM8803R0/2009,2009-08-11,Alaska,H4N6
-664,Canada,IRD:American Black Duck/Avian,A/American black duck/New Brunswick/00986/2010,2010-09-16,New Brunswick,H4N6
-665,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM8273R0/2009,2009-08-09,Alaska,H10N4
-666,USA,IRD:Ruddy Turnstone/Avian,A/ruddy turnstone/New Jersey/AI09-554/2009,2009-05-26,New Jersey,H10N7
-667,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10CH00003R0/2010,2010-09-04,Alaska,H4N6
-668,USA,IRD:Teal/Avian,A/northern pintail/Minnesota/AI09-4322/2009,2009-09-12,Minnesota,H3N8
-669,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM1799/2009,2009-07-01,Alaska,H12N5
-670,USA,IRD:Shorebird/Avian,A/shorebird/Delaware Bay/322/2009,2009-05-20,Delaware,H10N7
-671,USA,IRD:Ruddy Turnstone/Avian,A/ruddy turnstone/New Jersey/AI09-587/2009,2009-05-24,New Jersey,H10N7
-672,USA,IRD:Green-Winged Teal/Avian,A/American green-winged teal/Interior Alaska/9BM5041R0/2009,2009-07-29,Alaska,H4N6
-673,Canada,IRD:Teal/Avian,A/blue-winged teal/New Brunswick/00285/2010,2010-09-14,New Brunswick,H3N8
-674,USA,IRD:Shorebird/Avian,A/shorebird/Delaware Bay/240/2009,2009-05-20,Delaware,H10N7
-675,Canada,IRD:American Black Duck/Avian,A/American black duck/New Brunswick/03553/2009,2009-09-11,New Brunswick,H4N6
-676,USA,IRD:Mallard/Avian,A/mallard/Minnesota/AI10-2217/2010,2010-08-04,Minnesota,H12N5
-677,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM10210R0/2009,2009-08-16,Alaska,H10N7
-678,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM12390R0/2009,2009-09-02,Alaska,H3N8
-679,Canada,IRD:Mallard/Avian,A/mallard/New Brunswick/00341/2010,2010-08-08,New Brunswick,H3N8
-680,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM10218R0/2009,2009-08-16,Alaska,H10N7
-681,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM05171R0/2010,2010-07-22,Alaska,H4N6
-682,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM2252/2009,2009-07-11,Alaska,H4N6
-683,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM9611R0/2009,2009-08-13,Alaska,H3N8
-684,USA,IRD:Duck/Avian,A/long-tailed duck/Wisconsin/10OS4225/2010,2010-12-03,Wisconsin,H14N6
-685,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM10047R0/2009,2009-08-15,Alaska,H3N8
-686,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM07242R0/2010,2010-08-01,Alaska,H4N6
-687,USA,IRD:Green-Winged Teal/Avian,A/American green-winged teal/Interior Alaska/10BM05165R0/2010,2010-07-22,Alaska,H4N6
-688,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM6164R0/2009,2009-08-02,Alaska,H10N7
-689,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM10877R0/2009,2009-08-17,Alaska,H4N6
-690,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM12311R0/2010,2010-08-14,Alaska,H3N8
-691,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM02539R0/2010,2010-06-22,Alaska,H7N3
-692,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM6146R0/2009,2009-08-02,Alaska,H3N8
-693,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM00849R2/2010,2010-05-23,Alaska,H3N1
-694,USA,IRD:Mallard/Avian,A/mallard/Minnesota/AI09-1833/2009,2009-07-28,Minnesota,H8N4
-695,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM4666R0/2009,2009-07-29,Alaska,H10N7
-696,USA,IRD:Blue-Winged Teal/Avian,A/blue-winged Teal/North Dakota/AI09-3131/2009,2009-09-03,North Dakota,H4N6
-697,USA,IRD:American Wigeon/Avian,A/American wigeon/Interior Alaska/9BM2501R1/2009,2009-07-11,Alaska,H3N8
+0,,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM11151R0/2009(H10N7),2009-08-18,,
+1,,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM11053R0/2009(H8N4),2009-08-18,,
+2,,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM11387R0/2009(H10N7),2009-08-18,,
+3,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM12363R0/2010(H3N8),2010-08-14,Alaska,H3N8
+4,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM10480R0/2010,2010-08-09,Alaska,H3N8
+5,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM1958/2009,2009-07-04,Alaska,H4N6
+6,USA,IRD:Green-winged Teal/Avian,A/American green-winged teal/Interior Alaska/9BM6258R0/2009,2009-08-03,Alaska,H4N6
+7,USA,IRD:Mallard/Avian,A/mallard/Wisconsin/10OS2917/2010,2010-10-03,Wisconsin,H4N6
+8,,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM11023R0/2009(H8N4),2009-08-17,,
+9,,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM8459R0/2009(H3N1),2009-08-10,,
+10,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM10813R0/2009,2009-08-17,Alaska,H4N6
+11,,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM9383R0/2009(H10N7),2009-08-12,,
+12,,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM11583R0/2009(H10N7),2009-08-20,,
+13,USA,IRD:Mallard/Avian,A/mallard/Wisconsin/10OS2773/2010,2010-09-26,Wisconsin,H3N8
+14,,IRD:American Green-winged Teal/Avian,A/American green-winged teal/Interior Alaska/9BM6222R0/2009(H10N7),2009-08-03,,
+15,,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM08100R0/2010(H7N3),2010-08-04,,
+16,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM4583R0/2009,2009-07-29,Alaska,H4N6
+17,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM1799/2009,2009-07-01,Alaska,H12N5
+18,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM04704R0/2010,2010-07-18,Alaska,H4N6
+19,,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM07106R0/2010(H7N3),2010-08-01,,
+20,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM06872R0/2010,2010-07-31,Alaska,H3N8
+21,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM11757R0/2009,2009-08-19,Alaska,H3N8
+22,USA,IRD:Green-Winged Teal/Avian,A/American green-winged teal/Interior Alaska/9BM3595R1/2009(H10N7),2009-07-23,Alaska,H10N7
+23,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM4646R0/2009,2009-07-29,Alaska,H10N7
+24,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM11231R0/2009(H3N8),2009-08-18,Alaska,H3N8
+25,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM11416R0/2010,2010-08-12,Alaska,H3N8
+26,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM9755R0/2009,2009-08-14,Alaska,H3N1
+27,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM9975R0/2009,2009-08-15,Alaska,H4N6
+28,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM8815R0/2009,2009-08-11,Alaska,H4N6
+29,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM2256/2009,2009-07-11,Alaska,H4N6
+30,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM12627R0/2009,2009-09-04,Alaska,H3N8
+31,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM1957/2009,2009-07-04,Alaska,H4N6
+32,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM3357R0/2009(H10N7),2009-07-21,Alaska,H10N7
+33,,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM6510R0/2009(H8N4),2009-08-04,,
+34,USA,IRD:Northern Shoveler/Avian,A/northern shoveler/Interior Alaska/9BM2925R0/2009,2009-07-16,Alaska,H8N4
+35,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM12352R0/2010(H3N8),2010-08-14,Alaska,H3N8
+36,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM10000R0/2010,2010-08-08,Alaska,H3N8
+37,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM1864/2009,2009-07-01,Alaska,H4N6
+38,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM06911R0/2010,2010-07-31,Alaska,H7N3
+39,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM12177R0/2010,2010-08-13,Alaska,H3N8
+40,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM1959/2009,2009-07-04,Alaska,H4N6
+41,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM06447R0/2010,2010-07-30,Alaska,(H3)
+42,,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM1972/2009(H4N6),2009-07-06,,
+43,,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM10236R0/2009(H10N7),2009-08-16,,
+44,,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM7240R0/2009(H8N4),2009-08-06,,
+45,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM06899R0/2010,2010-07-31,Alaska,H7N3
+46,USA,IRD:Northern Shoveler/Avian,A/northern shoveler/Interior Alaska/10BM16764R0/2010,2010-09-08,Alaska,H9N2
+47,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM12285R0/2009,2009-09-01,Alaska,H3N8
+48,,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM07120R0/2010(H7N3),2010-08-01,,
+49,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM12172R0/2010,2010-08-13,Alaska,H3N8
+50,USA,IRD:Environment,A/environment/California/5807/2009,2009-08-31,California,H4N6
+51,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM08514R0/2010(H4N6),2010-08-04,Alaska,H4N6
+52,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM10819R0/2009,2009-08-17,Alaska,H3N8
+53,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10CH00035R0/2010(H3N8),2010-09-05,Alaska,H3N8
+54,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM04624R0/2010(H4N6),2010-07-18,Alaska,H4N6
+55,USA,IRD:Teal/Avian,A/blue-winged teal/Illinois/10OS1563/2010,2010-09-04,Illinois,H4N6
+56,USA,IRD:Green-winged Teal/Avian,A/American green-winged teal/Interior Alaska/10BM04207R0/2010,2010-07-13,Alaska,H3N6
+57,USA,IRD:Mallard/Avian,A/mallard/Iowa/10OS2420/2010,2010-09-18,Iowa,H4N6
+58,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM10563R2/2009,2009-08-16,Alaska,H4N6
+59,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM11789R0/2009,2009-08-19,Alaska,H3N8
+60,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM12567R0/2009,2009-09-04,Alaska,H3N8
+61,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM1869/2009,2009-07-01,Alaska,H4N6
+62,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM08505R0/2010(H3N8),2010-08-04,Alaska,H3N8
+63,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM3859R1/2009,2009-07-24,Alaska,H10N7
+64,Canada,IRD:Teal/Avian,A/blue-winged teal/Nova Scotia/00067/2010,2010-09-07,Nova Scotia,(N6)
+65,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM2259/2009,2009-07-11,Alaska,H4N6
+66,,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM08586R0/2010(H7N3),2010-08-04,,
+67,USA,IRD:Northern Shoveler/Avian,A/northern shoveler/Interior Alaska/10BM05491R0/2010,2010-07-26,Alaska,H3N8
+68,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM2606R0/2009,2009-07-14,Alaska,H4N6
+69,,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM11431R0/2009(H3N1),2009-08-18,,
+70,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM12552R0/2010(H3N8),2010-08-14,Alaska,H3N8
+71,,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM10210R0/2009(H10N7),2009-08-16,,
+72,USA,IRD:Northern Shoveler/Avian,A/northern shoveler/Interior Alaska/10BM05408R0/2010,2010-07-25,Alaska,H4N6
+73,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM7069R0/2009,2009-08-06,Alaska,H3N8
+74,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM01929R0/2010,2010-06-15,Alaska,H10N7
+75,,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM10224R0/2009(H10N7),2009-08-16,,
+76,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM2750R0/2009,2009-07-15,Alaska,H10N7
+77,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM07597R0/2010(H3N8),2010-08-02,Alaska,H3N8
+78,,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM9663R0/2009(H4N6),2009-08-14,,
+79,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM2398R0/2009,2009-07-13,Alaska,H4N6
+80,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM08828R0/2010,2010-08-05,Alaska,H4N6
+81,,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM09893R0/2010(H3N6),2010-08-08,,
+82,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM7118R1/2009,2009-08-06,Alaska,H3N8
+83,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM05347R0/2010(H7N3),2010-07-25,Alaska,H7N3
+84,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM11419R0/2010,2010-08-12,Alaska,H3N8
+85,,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM10807R0/2010(H7N3),2010-08-10,,
+86,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM06306R0/2010,2010-07-29,Alaska,H7N3
+87,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM06835R0/2010,2010-07-31,Alaska,H3N8
+88,USA,IRD:Northern Shoveler/Avian,A/northern shoveler/Interior Alaska/10BM02892R0/2010,2010-06-30,Alaska,H4N6
+89,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM11311R0/2010,2010-08-12,Alaska,H3N8
+90,,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM09348R0/2010(H7N3),2010-08-06,,
+91,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM1967/2009,2009-07-06,Alaska,H4N6
+92,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM8471R0/2009,2009-08-10,Alaska,H4N6
+93,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10CH00003R0/2010(H4N6),2010-09-04,Alaska,H4N6
+94,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM10173R0/2010,2010-08-08,Alaska,H4N6
+95,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM2057/2009,2009-07-08,Alaska,H4N6
+96,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM09104R0/2010,2010-08-05,Alaska,H3N8
+97,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM11421R0/2010,2010-08-12,Alaska,H3N8
+98,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM06720R0/2010,2010-07-30,Alaska,H7N3
+99,Canada,IRD:American Black Duck/Avian,A/American black duck/New Brunswick/03552/2009,2009-09-11,New Brunswick,H4N6
+100,,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM11917R0/2009(H8N4),2009-08-19,,
+101,,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM10537R0/2009(H8N4),2009-08-16,,
+102,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM2388R0/2009,2009-07-13,Alaska,H8N4
+103,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM5554R0/2009,2009-07-31,Alaska,H10N7
+104,,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM9955R0/2009(H8N4),2009-08-15,,
+105,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM1975/2009,2009-07-06,Alaska,H4N6
+106,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM4637R0/2009,2009-07-29,Alaska,H10N7
+107,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM08612R0/2010,2010-08-04,Alaska,H4N6
+108,USA,IRD:Mallard/Avian,A/mallard/Wisconsin/2653/2009,2009-10-17,Wisconsin,H4N6
+109,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM10864R0/2010,2010-08-10,Alaska,H4N6
+110,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM09158R0/2010(H3N8),2010-08-06,Alaska,H3N8
+111,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM02530R0/2010,2010-06-22,Alaska,H4N6
+112,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM09162R0/2010(H3N8),2010-08-06,Alaska,H3N8
+113,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM6144R0/2009,2009-08-02,Alaska,H3N8
+114,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM12178R0/2010,2010-08-13,Alaska,H3N8
+115,,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM09818R0/2010(H7N3),2010-08-07,,
+116,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM3016R0/2009,2009-07-17,Alaska,H10N7
+117,USA,IRD:Northern Shoveler/Avian,A/northern shoveler/Interior Alaska/10BM05487R0/2010,2010-07-26,Alaska,H3N8
+118,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM12523R0/2009,2009-09-03,Alaska,H3N8
+119,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM12211R0/2009,2009-08-21,Alaska,H3N8
+120,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM11015R0/2009,2009-08-17,Alaska,H4N6
+121,USA,IRD:Green-winged Teal/Avian,A/American green-winged teal/Interior Alaska/10BM08422R0/2010,2010-08-04,Alaska,H3N8
+122,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM6886R0/2009,2009-08-10,Alaska,H4N6
+123,,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM9601R0/2009(H10N7),2009-08-13,,
+124,,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM10244R0/2009(H10N7),2009-08-16,,
+125,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM10835R0/2009,2009-08-17,Alaska,H4N6
+126,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM9984R0/2009,2009-08-15,Alaska,H4N6
+127,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM3076R0/2009,2009-07-18,Alaska,H10N7
+128,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM10111R0/2009(H3N8),2009-08-15,Alaska,H3N8
+129,,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM10238R0/2009(H10N7),2009-08-16,,
+130,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM02980R0/2010,2010-07-02,Alaska,H9N2
+131,,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM9335R0/2009(H10N7),2009-08-12,,
+132,,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM10853R0/2010(H7N3),2010-08-10,,
+133,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM04623R0/2010(H4N6),2010-07-18,Alaska,H4N6
+134,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM11487R0/2009(H3N8),2009-08-18,Alaska,H3N8
+135,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM09164R0/2010(H3N8),2010-08-06,Alaska,H3N8
+136,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM6146R0/2009,2009-08-02,Alaska,H3N8
+137,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM10471R0/2009,2009-08-16,Alaska,H3N8
+138,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM9983R0/2009,2009-08-15,Alaska,H4N6
+139,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM6095R0/2009,2009-08-02,Alaska,H4N6
+140,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM7252R0/2009,2009-08-06,Alaska,H3N8
+141,,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM09347R0/2010(H7N3),2010-08-06,,
+142,USA,IRD:Green-Winged Teal/Avian,A/American green-winged teal/Interior Alaska/10BM05165R0/2010(H4N6),2010-07-22,Alaska,H4N6
+143,,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM7152R2/2009(H8N4),2009-08-06,,
+144,USA,IRD:Green-Winged Teal/Avian,A/American green-winged teal/Interior Alaska/10BM07000R0/2010(H4N6),2010-07-31,Alaska,H4N6
+145,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM11420R0/2010,2010-08-12,Alaska,H3N8
+146,USA,IRD:Northern Shoveler/Avian,A/northern shoveler/Interior Alaska/10BM05638R0/2010,2010-07-26,Alaska,H3N8
+147,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM07971R0/2010,2010-08-03,Alaska,H4N6
+148,,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM11783R0/2009(H10N7),2009-08-19,,
+149,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM06456R0/2010,2010-07-30,Alaska,H4N6
+150,,IRD:Ring-necked Duck/Avian,A/ring-necked duck/Interior Alaska/10BM05792R0/2010(H3N8),2010-07-26,,
+151,,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM11208R0/2010(H7N3),2010-08-11,,
+152,,IRD:American Green-winged Teal/Avian,A/American green-winged teal/Interior Alaska/9BM6702R0/2009(H10N7),2009-08-04,,
+153,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM3355R0/2009(H10N7),2009-07-21,Alaska,H10N7
+154,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM9989R0/2009,2009-08-15,Alaska,H4N6
+155,,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM12534R0/2010(H7N3),2010-08-14,,
+156,USA,IRD:Teal/Avian,A/blue-winged teal/Illinois/10OS1561/2010,2010-09-04,Illinois,H4N6
+157,,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM9153R0/2009(H3N8),2009-08-12,,
+158,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM6290R0/2009,2009-08-03,Alaska,H3N8
+159,USA,IRD:Mallard/Avian,A/mallard/Ohio/10OS1319/2010(H4N6),2010-08-02,Ohio,H4N6
+160,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM11572R0/2009,2009-08-20,Alaska,H3N8
+161,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM11989R0/2010(H7N3),2010-08-13,Alaska,H3N8
+162,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM10717R0/2009,2009-08-17,Alaska,H3N8
+163,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM12464R0/2009,2009-09-02,Alaska,H3N8
+164,,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM10324R0/2010(H7N3),2010-08-09,,
+165,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM08920R0/2010,2010-08-05,Alaska,H3N8
+166,,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM12068R0/2009(H8N4),2009-08-20,,
+167,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM12190R0/2009,2009-08-21,Alaska,H4N6
+168,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM6902R0/2009,2009-08-05,Alaska,H3N8
+169,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM11418R0/2010,2010-08-12,Alaska,H3N8
+170,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM12311R0/2010(H3N8),2010-08-14,Alaska,H3N8
+171,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM11381R0/2009,2009-08-18,Alaska,H3N8
+172,USA,IRD:Teal/Avian,A/blue-winged teal/Louisiana/AI09-5159/2009,2009-11-14,Louisiana,H3N8
+173,,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM10525R2/2009(H3N1),2009-08-16,,
+174,USA,IRD:Green-winged Teal/Avian,A/American green-winged teal/Interior Alaska/10BM07573R0/2010,2010-08-02,Alaska,H3N8
+175,USA,IRD:Northern Shoveler/Avian,A/northern shoveler/Interior Alaska/9BM4787R0/2009,2009-07-29,Alaska,H8N4
+176,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM10051R0/2009(H3N8),2009-08-15,Alaska,H3N8
+177,,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM11779R0/2009(H10N7),2009-08-19,,
+178,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM7254R0/2009,2009-08-06,Alaska,H3N8
+179,USA,IRD:Green-winged Teal/Avian,A/American green-winged teal/Interior Alaska/10BM07863R0/2010,2010-08-03,Alaska,H4N6
+180,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM12700R0/2009,2009-09-06,Alaska,H3N8
+181,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM2243/2009,2009-07-11,Alaska,H4N6
+182,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM03979R0/2010,2010-07-12,Alaska,H4N6
+183,,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM10787R0/2010(H7N3),2010-08-10,,
+184,USA,IRD:Green-Winged Teal/Avian,A/American green-winged teal/Interior Alaska/9BM5041R0/2009(H4N6),2009-07-29,Alaska,H4N6
+185,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM07476R0/2010(H4N6),2010-08-02,Alaska,H4N6
+186,USA,IRD:Northern Shoveler/Avian,A/northern shoveler/Interior Alaska/9BM2943R1/2009,2009-07-16,Alaska,H4N6
+187,,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM07092R0/2010(H7N3),2010-08-01,,
+188,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM09105R0/2010,2010-08-05,Alaska,H3N8
+189,,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM09548R0/2010(H7N3),2010-08-07,,
+190,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM12186R0/2009,2009-08-21,Alaska,H4N6
+191,USA,IRD:Ring-necked Duck/Avian,A/ring-necked duck/Interior Alaska/10BM05617R0/2010,2010-07-26,Alaska,H4N6
+192,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM11915R0/2009,2009-08-19,Alaska,H4N6
+193,,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM08120R0/2010(H7N3),2010-08-04,,
+194,USA,IRD:Green-Winged Teal/Avian,A/American green-winged teal/Interior Alaska/10BM05376R0/2010(H3N8),2010-07-25,Alaska,H3N8
+195,,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM10222R0/2009(H10N7),2009-08-16,,
+196,USA,IRD:Green-winged Teal/Avian,A/American green-winged teal/Interior Alaska/10BM07917R0/2010,2010-08-03,Alaska,H3N8
+197,Canada,IRD:Green-winged Teal/Avian,A/green-winged teal/Nova Scotia/00354/2010,2010-08-08,Nova Scotia,H3N8
+198,,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM11317R0/2009(H10N7),2009-08-18,,
+199,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM07993R0/2010(H4N6),2010-08-03,Alaska,H4N6
+200,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM1949/2009,2009-07-04,Alaska,H4N6
+201,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM2536R0/2009,2009-07-13,Alaska,H4N6
+202,,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM10790R0/2010(H7N3),2010-08-10,,
+203,,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM7108R2/2009(H3N8),2009-08-06,,
+204,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM12204R0/2009,2009-08-21,Alaska,H4N6
+205,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM1964/2009,2009-07-06,Alaska,H4N6
+206,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM05337R0/2010(H4N6),2010-07-24,Alaska,H4N6
+207,,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM12094R0/2009(H10N7),2009-08-20,,
+208,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM9049R0/2009,2009-08-11,Alaska,H4N6
+209,Canada,IRD:American Black Duck/Avian,A/American black duck/New Brunswick/03511/2009,2009-09-10,New Brunswick,H4N6
+210,,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM11358R1/2009(H10N7),2009-08-18,,
+211,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM05034R0/2010,2010-07-21,Alaska,H3N6
+212,,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM08400R0/2010(H7N3),2010-08-04,,
+213,,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM9005R0/2009(H10N7),2009-08-11,,
+214,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM6494R0/2009,2009-08-03,Alaska,H4N6
+215,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM12179R0/2010(H3N8),2010-08-13,Alaska,H3N8
+216,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM04722R0/2010,2010-07-18,Alaska,H4N6
+217,,IRD:American Green-winged Teal/Avian,A/American green-winged teal/Interior Alaska/9BM7190R0/2009(H10N7),2009-08-06,,
+218,,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM07029R0/2010(H7N3),2010-08-01,,
+219,,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM10861R0/2010(H7N3),2010-08-10,,
+220,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM10749R0/2009,2009-08-17,Alaska,H4N6
+221,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM1807/2009(H4N6),2009-07-02,Alaska,H4N6
+222,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM12388R0/2009,2009-09-02,Alaska,H3N8
+223,,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM07469R0/2010(H7N3),2010-08-02,,
+224,USA,IRD:Green-winged Teal/Avian,A/American green-winged teal/Interior Alaska/10BM08222R0/2010,2010-08-04,Alaska,H3N8
+225,,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM11643R0/2009(H8N4),2009-08-18,,
+226,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM1947/2009,2009-07-04,Alaska,H4N6
+227,,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM9201R0/2009(H10N7),2009-08-12,,
+228,USA,IRD:Green-Winged Teal/Avian,A/American green-winged teal/Interior Alaska/10BM06728R0/2010(H4N6),2010-07-30,Alaska,H4N6
+229,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM7232R0/2009,2009-08-06,Alaska,H4N6
+230,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM2351R0/2009,2009-07-12,Alaska,H8N4
+231,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM14807R2/2010,2010-08-18,Alaska,H9N2
+232,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM5375R0/2009,2009-07-30,Alaska,H10N7
+233,Canada,IRD:American Black Duck/Avian,A/American black duck/New Brunswick/00949/2010,2010-09-15,New Brunswick,H4N6
+234,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM06455R0/2010,2010-07-30,Alaska,H4N6
+235,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM08493R0/2010(H3N8),2010-08-04,Alaska,H3N8
+236,,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM10166R0/2010(H7N3),2010-08-08,,
+237,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM12146R0/2010(H4N6),2010-08-13,Alaska,H4N6
+238,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM5698R0/2009,2009-07-31,Alaska,H10N7
+239,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM3379R0/2009(H10N7),2009-07-22,Alaska,H10N7
+240,,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM10146R0/2009(H3N1),2009-08-15,,
+241,,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM08883R0/2010(H7N3),2010-08-05,,
+242,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM04626R0/2010(H4N6),2010-07-18,Alaska,H4N6
+243,USA,IRD:Northern Shoveler/Avian,A/northern shoveler/Interior Alaska/9BM12298R0/2009,2009-09-01,Alaska,H3N8
+244,,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM8502R0/2009(H3N1),2009-08-10,,
+245,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM12180R0/2009,2009-08-20,Alaska,H3N8
+246,,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM10906R0/2010(H7N3),2010-08-10,,
+247,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM7052R0/2009,2009-08-06,Alaska,H3N8
+248,,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM11556R0/2009(H8N4),2009-08-19,,
+249,USA,IRD:Northern Shoveler/Avian,A/northern shoveler/Interior Alaska/10BM05382R0/2010,2010-07-25,Alaska,H3N8
+250,,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM6164R0/2009(H10N7),2009-08-02,,
+251,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM4347R0/2009,2009-07-27,Alaska,H4N6
+252,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM06524R0/2010,2010-07-30,Alaska,H7N3
+253,,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM10876R0/2010(H7N3),2010-08-10,,
+254,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM7632R0/2009,2009-08-08,Alaska,H4N6
+255,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM3078R0/2009,2009-07-18,Alaska,H10N7
+256,,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM8237R0/2009(H8N4),2009-08-09,,
+257,,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM08884R0/2010(H7N3),2010-08-05,,
+258,,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM8921R0/2009(H10N7),2009-08-11,,
+259,USA,IRD:Green-winged Teal/Avian,A/American green-winged teal/Interior Alaska/9BM6410R0/2009,2009-08-03,Alaska,H3N8
+260,USA,IRD:Green-winged Teal/Avian,A/American green-winged teal/Interior Alaska/9BM12356R0/2009,2009-09-02,Alaska,H3N8
+261,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM12049R0/2010,2010-08-13,Alaska,H3N8
+262,USA,IRD:Duck/Avian,A/wood duck/Wisconsin/10OS2778/2010,2010-09-26,Wisconsin,H3N8
+263,,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM07399R0/2010(H7N3),2010-08-02,,
+264,,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM09528R0/2010(H7N3),2010-08-07,,
+265,,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM11179R0/2009(H10N7),2009-08-18,,
+266,,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM7882R0/2009(H8N4),2009-08-08,,
+267,USA,IRD:Green-winged Teal/Avian,A/American green-winged teal/Interior Alaska/10BM07649R0/2010,2010-08-02,Alaska,H3N8
+268,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM06828R0/2010,2010-07-31,Alaska,H3N8
+269,USA,IRD:Northern Shoveler/Avian,A/northern shoveler/Interior Alaska/9BM4905R0/2009,2009-07-29,Alaska,H4N6
+270,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM1974/2009,2009-07-06,Alaska,H4N6
+271,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM10055R0/2009(H3N8),2009-08-15,Alaska,H3N8
+272,,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM9717R0/2009(H10N7),2009-08-14,,
+273,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM7836R0/2009,2009-08-08,Alaska,H3N8
+274,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM11414R0/2010,2010-08-12,Alaska,H3N8
+275,,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM11434R0/2010(H7N3),2010-08-12,,
+276,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM12647R0/2009,2009-09-05,Alaska,H3N8
+277,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM7055R0/2009,2009-08-06,Alaska,H3N8
+278,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM04988R0/2010(H4N6),2010-07-21,Alaska,H4N6
+279,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM2168/2009,2009-07-10,Alaska,H4N6
+280,USA,IRD:Green-winged Teal/Avian,A/American green-winged teal/Interior Alaska/10BM08228R0/2010,2010-08-04,Alaska,H3N8
+281,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM2164/2009,2009-07-10,Alaska,H4N6
+282,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM12176R0/2009,2009-08-20,Alaska,H3N8
+283,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM09570R0/2010(H4N6),2010-08-07,Alaska,H4N6
+284,,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM8465R0/2009(H3N1),2009-08-10,,
+285,USA,IRD:Northern Shoveler/Avian,A/northern shoveler/Arkansas/11OS386/2011,2011-01-12,Arkansas,H9N2
+286,USA,IRD:Northern Shoveler/Avian,A/northern shoveler/Interior Alaska/10BM05649R0/2010,2010-07-26,Alaska,H3N8
+287,USA,IRD:Northern Shoveler/Avian,A/northern shoveler/Interior Alaska/10BM02593R0/2010,2010-06-23,Alaska,H4N6
+288,USA,IRD:Mallard/Avian,A/mallard/Minnesota/AI09-2434/2009(H3N8),2009-08-05,Minnesota,H3N8
+289,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM11694R0/2010(H3N8),2010-08-13,Alaska,H3N8
+290,USA,IRD:Teal/Avian,A/blue-winged teal/Missouri/10MO003/2010,2010-09-15,Missouri,H4N6
+291,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM8829R0/2009,2009-08-11,Alaska,H4N6
+292,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM11867R0/2009,2009-08-19,Alaska,H3N8
+293,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM3075R2/2009,2009-07-18,Alaska,H10N7
+294,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM12326R0/2009,2009-09-02,Alaska,H3N8
+295,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM06452R0/2010,2010-07-30,Alaska,H4N6
+296,Canada,IRD:American Black Duck/Avian,A/American black duck/New Brunswick/00616/2010,2010-08-16,New Brunswick,H3N8
+297,,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM07737R0/2010(H7N3),2010-08-03,,
+298,USA,IRD:Green-Winged Teal/Avian,A/American green-winged teal/Interior Alaska/9BM5045R0/2009(H8N4),2009-07-29,Alaska,H8N4
+299,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM06303R0/2010,2010-07-29,Alaska,H7N3
+300,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM09159R0/2010(H3N8),2010-08-06,Alaska,H3N8
+301,USA,IRD:Mallard/Avian,A/mallard/Wisconsin/10OS2918/2010,2010-10-03,Wisconsin,H4N6
+302,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM06450R0/2010,2010-07-30,Alaska,H4N6
+303,,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM11325R0/2009(H3N1),2009-08-18,,
+304,,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM09539R0/2010(H7N3),2010-08-07,,
+305,,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM9973R0/2009(H3N1),2009-08-15,,
+306,,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM07458R0/2010(H7N3),2010-08-02,,
+307,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM11542R0/2009,2009-08-19,Alaska,H3N8
+308,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM08899R0/2010,2010-08-05,Alaska,H4N6
+309,,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM09832R0/2010(H7N3),2010-08-07,,
+310,USA,IRD:Green-winged Teal/Avian,A/American green-winged teal/Interior Alaska/10BM08134R0/2010,2010-08-04,Alaska,H3N8
+311,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM6040R0/2009,2009-08-02,Alaska,H4N6
+312,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM05900R0/2010,2010-07-26,Alaska,H3N8
+313,,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM10287R0/2009(H10N7),2009-08-16,,
+314,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM06838R0/2010,2010-07-31,Alaska,H7N3
+315,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM6039R0/2009,2009-08-02,Alaska,H4N6
+316,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM1968/2009,2009-07-06,Alaska,H4N6
+317,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM11965R0/2009,2009-08-20,Alaska,H3N8
+318,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM08903R0/2010,2010-08-05,Alaska,H4N6
+319,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM06895R0/2010,2010-07-31,Alaska,H7N3
+320,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM10829R0/2010,2010-08-10,Alaska,H7N3
+321,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM7496R0/2009,2009-08-08,Alaska,H4N6
+322,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM06909R0/2010,2010-07-31,Alaska,H7N3
+323,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM02644R0/2010,2010-06-25,Alaska,H4N6
+324,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM4641R0/2009,2009-07-29,Alaska,H4N6
+325,USA,IRD:Teal/Avian,A/northern pintail/Minnesota/AI09-4322/2009,2009-09-12,Minnesota,H3N8
+326,,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM5941R0/2009(H10N7),2009-08-01,,
+327,,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM8084R0/2009(H10N7),2009-08-09,,
+328,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM09102R0/2010,2010-08-05,Alaska,H3N8
+329,,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM11065R0/2009(H10N7),2009-08-18,,
+330,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM2535R0/2009,2009-07-12,Alaska,H4N6
+331,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM11672R0/2010(H3N8),2010-08-13,Alaska,H3N8
+332,USA,IRD:Green-Winged Teal/Avian,A/American green-winged teal/Wisconsin/2690/2009(H3N8),2009-10-20,Wisconsin,H3N8
+333,USA,IRD:Blue-Winged Teal/Avian,A/blue-winged teal/Wisconsin/2753/2009,2009-10-24,Wisconsin,H4N6
+334,USA,IRD:Northern Shoveler/Avian,A/northern shoveler/Interior Alaska/9BM12332R0/2009,2009-09-02,Alaska,H3N8
+335,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM9683R2/2009,2009-08-14,Alaska,H4N6
+336,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM06459R0/2010,2010-07-30,Alaska,H4N6
+337,,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM07121R0/2010(H7N3),2010-08-01,,
+338,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM12198R0/2009,2009-08-21,Alaska,H4N6
+339,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM4991R0/2009,2009-07-29,Alaska,H10N7
+340,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM10095R0/2009(H4N6),2009-08-15,Alaska,H4N6
+341,,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM10218R0/2009(H10N7),2009-08-16,,
+342,USA,IRD:Green-Winged Teal/Avian,A/American green-winged teal/Interior Alaska/9BM4407R0/2009(H10N7),2009-07-27,Alaska,H10N7
+343,,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM8387R0/2009(H3N8),2009-08-14,,
+344,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM2077/2009,2009-07-09,Alaska,H4N6
+345,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM1962/2009,2009-07-04,Alaska,H4N6
+346,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM7302R0/2009,2009-08-07,Alaska,H4N6
+347,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM05247R0/2010(H4N6),2010-07-23,Alaska,H4N6
+348,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM8022R0/2009,2009-08-09,Alaska,H4N6
+349,,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM09481R0/2010(H7N3),2010-08-06,,
+350,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM10375R0/2009(H4N6),2009-08-17,Alaska,H4N6
+351,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM12350R0/2010(H3N8),2010-08-14,Alaska,H3N8
+352,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM3361R0/2009(H10N7),2009-07-21,Alaska,H10N7
+353,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM02585R0/2010,2010-06-22,Alaska,H4N6
+354,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM07242R0/2010(H4N6),2010-08-01,Alaska,H4N6
+355,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM06454R0/2010,2010-07-30,Alaska,H4N6
+356,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM9985R0/2009,2009-08-15,Alaska,H4N6
+357,,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM10801R0/2010(H7N3),2010-08-10,,
+358,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM2254/2009,2009-07-11,Alaska,H4N6
+359,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM07777R0/2010,2010-08-03,Alaska,H4N6
+360,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM02791R0/2010,2010-06-25,Alaska,H4N6
+361,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM12210R0/2009,2009-08-21,Alaska,H3N8
+362,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM7934R0/2009,2009-08-08,Alaska,H4N6
+363,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM08489R0/2010(H3N8),2010-08-04,Alaska,H3N8
+364,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM06461R0/2010,2010-07-30,Alaska,H4N6
+365,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM7044R0/2009,2009-08-06,Alaska,H3N8
+366,,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM05860R0/2010(H7N3),2010-07-26,,
+367,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM1812/2009,2009-07-02,Alaska,H4N6
+368,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM12351R0/2010(H3N8),2010-08-14,Alaska,H3N8
+369,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM2783R0/2009,2009-07-15,Alaska,H10N7
+370,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM2751R0/2009,2009-07-15,Alaska,H10N7
+371,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM10987R0/2009(H3N8),2009-08-17,Alaska,H3N8
+372,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM12370R0/2010(H3N8),2010-08-14,Alaska,H3N8
+373,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM3205R0/2009,2009-07-20,Alaska,H10N7
+374,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM6145R0/2009,2009-08-02,Alaska,H3N8
+375,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM10969R0/2009(H3N8),2009-08-17,Alaska,H3N8
+376,,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM10811R0/2010(H7N3),2010-08-10,,
+377,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM04668R0/2010,2010-07-18,Alaska,H4N6
+378,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM7368R0/2009,2009-08-07,Alaska,H3N8
+379,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM9447R0/2009,2009-08-13,Alaska,H3N8
+380,,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM10476R0/2010(H7N3),2010-08-09,,
+381,,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM8464R0/2009(H3N1),2009-08-10,,
+382,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM12582R0/2010(H3N8),2010-08-14,Alaska,H3N8
+383,Canada,IRD:Northern Pintail/Avian,A/northern pintail/Alberta/8/2009,2009-08-19,Alberta,H3N8
+384,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM2705R0/2009,2009-07-15,Alaska,H8N4
+385,,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM9129R0/2009(H10N7),2009-08-12,,
+386,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10CH00021R0/2010(H4N6),2010-09-04,Alaska,H4N6
+387,,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM8967R0/2009(H8N4),2009-08-11,,
+388,,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM09563R0/2010(H7N3),2010-08-07,,
+389,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM06460R0/2010,2010-07-30,Alaska,H4N6
+390,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM08488R0/2010(H3N8),2010-08-04,Alaska,H3N8
+391,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM08622R0/2010,2010-08-05,Alaska,H4N6
+392,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM08540R0/2010(H4N6),2010-08-04,Alaska,H4N6
+393,USA,IRD:Green-Winged Teal/Avian,A/American green-winged teal/Interior Alaska/9BM5277R0/2009(H4N6),2009-07-30,Alaska,H4N6
+394,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM2395R0/2009,2009-07-13,Alaska,H4N6
+395,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM1856/2009,2009-07-02,Alaska,H4N6
+396,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM2073/2009,2009-07-09,Alaska,H4N6
+397,,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM10234R0/2009(H10N7),2009-08-16,,
+398,,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM10859R0/2010(H7N3),2010-08-10,,
+399,USA,IRD:Mallard/Avian,A/mallard/Ohio/1695/2009,2009-08-25,Ohio,H4N6
+400,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM06448R0/2010,2010-07-30,Alaska,H4N6
+401,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM5053R0/2009,2009-07-29,Alaska,H10N7
+402,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM11415R0/2010,2010-08-12,Alaska,H3N8
+403,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM8657R1/2009,2009-08-10,Alaska,H3N8
+404,USA,IRD:Green-winged Teal/Avian,A/American green-winged teal/Interior Alaska/9BM8129R0/2009,2009-08-09,Alaska,H4N6
+405,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM8907R0/2009,2009-08-11,Alaska,H3N8
+406,,IRD:American Green-winged Teal/Avian,A/American green-winged teal/Interior Alaska/9BM6223R0/2009(H10N7),2009-08-03,,
+407,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM00303R0/2010,2010-05-14,Alaska,H3N8
+408,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM8553R0/2009,2009-08-10,Alaska,H3N8
+409,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM05968R0/2010,2010-07-27,Alaska,H3N8
+410,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM7972R0/2009,2009-08-09,Alaska,H4N6
+411,USA,IRD:Green-winged Teal/Avian,A/American green-winged teal/Interior Alaska/10BM08226R0/2010,2010-08-04,Alaska,H4N6
+412,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM6094R0/2009,2009-08-02,Alaska,H4N6
+413,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM1965/2009,2009-07-06,Alaska,H4N6
+414,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM4989R0/2009,2009-07-29,Alaska,H10N7
+415,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM12390R0/2009,2009-09-02,Alaska,H3N8
+416,,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM6960R0/2009(H3N8),2009-08-05,,
+417,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM12163R0/2010(H3N8),2010-08-13,Alaska,H3N8
+418,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM4660R0/2009,2009-07-29,Alaska,H4N6
+419,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM11497R0/2010,2010-08-12,Alaska,H3N6
+420,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM10928R0/2010(H3N8),2010-08-11,Alaska,H3N8
+421,,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM8448R0/2009(H3N1),2009-08-10,,
+422,,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM08874R0/2010(H7N3),2010-08-05,,
+423,,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM07114R0/2010(H7N3),2010-08-01,,
+424,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM09562R0/2010(H4N6),2010-08-07,Alaska,H4N6
+425,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM2241R1/2009,2009-07-11,Alaska,H4N6
+426,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM2250R0/2009,2009-07-11,Alaska,H4N6
+427,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM2393R0/2009,2009-07-13,Alaska,H4N6
+428,Canada,IRD:American Black Duck/Avian,A/American black duck/New Brunswick/03556/2009,2009-09-11,New Brunswick,H4N6
+429,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM2170/2009,2009-07-10,Alaska,H4N6
+430,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM4410R1/2009,2009-07-28,Alaska,H10N7
+431,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM07040R0/2010,2010-08-01,Alaska,H4N6
+432,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM06905R0/2010,2010-07-31,Alaska,H7N3
+433,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM05249R0/2010(H4N6),2010-07-23,Alaska,H4N6
+434,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM10176R0/2010,2010-08-08,Alaska,H4N6
+435,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM5376R0/2009,2009-07-30,Alaska,H10N7
+436,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM7620R0/2009,2009-08-08,Alaska,H4N6
+437,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM12308R0/2010(H4N6),2010-08-14,Alaska,H4N6
+438,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM05797R0/2010(H3N8),2010-07-26,Alaska,H3N8
+439,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM10851R0/2009,2009-08-17,Alaska,H3N8
+440,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM12383R0/2010(H3N8),2010-08-14,Alaska,H3N8
+441,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM7050R0/2009,2009-08-06,Alaska,H3N8
+442,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM06704R0/2010,2010-07-30,Alaska,H3N8
+443,,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM6229R0/2009(H10N7),2009-08-03,,
+444,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM1585R1/2009,2009-06-24,Alaska,H12N5
+445,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM8803R0/2009,2009-08-11,Alaska,H4N6
+446,,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM08587R0/2010(H3N8),2010-08-04,,
+447,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM1969/2009,2009-07-06,Alaska,H4N6
+448,Canada,IRD:American Black Duck/Avian,A/American black duck/New Brunswick/03553/2009,2009-09-11,New Brunswick,H4N6
+449,,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM11351R0/2009(H10N7),2009-08-18,,
+450,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM1809/2009(H4N6),2009-07-02,Alaska,H4N6
+451,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM12221R0/2010(H4N6),2010-08-13,Alaska,H4N6
+452,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM10047R0/2009(H3N8),2009-08-15,Alaska,H3N8
+453,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM05171R0/2010,2010-07-22,Alaska,H4N6
+454,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/9BM2252/2009,2009-07-11,Alaska,H4N6
+455,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM9611R0/2009,2009-08-13,Alaska,H3N8
+456,,IRD:American Green-winged Teal/Avian,A/American green-winged teal/Interior Alaska/9BM6225R0/2009(H10N7),2009-08-03,,
+457,,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM08705R0/2010(H7N3),2010-08-05,,
+458,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM09101R0/2010,2010-08-05,Alaska,H3N8
+459,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM10877R0/2009,2009-08-17,Alaska,H4N6
+460,,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM7696R0/2009(H10N7),2009-08-08,,
+461,,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM6165R0/2009(H10N7),2009-08-02,,
+462,USA,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM12374R0/2010(H3N8),2010-08-14,Alaska,H3N8
+463,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM00849R2/2010,2010-05-23,Alaska,H3N1
+464,,IRD:Mallard/Avian,A/mallard/Interior Alaska/10BM07066R0/2010(H7N3),2010-08-01,,
+465,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/10BM10298R0/2010,2010-08-09,Alaska,H3N8
+466,USA,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM4666R0/2009,2009-07-29,Alaska,H10N7
+467,,IRD:Northern Pintail/Avian,A/northern pintail/Interior Alaska/9BM9065R0/2009(H10N7),2009-08-11,,
+468,USA,IRD:American Wigeon/Avian,A/American wigeon/Interior Alaska/9BM2501R1/2009,2009-07-11,Alaska,H3N8
