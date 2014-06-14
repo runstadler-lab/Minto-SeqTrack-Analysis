@@ -1,6 +1,6 @@
 
 var w = 1380,
-    h = 1300,
+    h = 1800,
     padding = 40,
     fill = d3.scale.category20();
 
