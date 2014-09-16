@@ -17,7 +17,7 @@ var infobar = plot.append("text")
 					.text("Minto Flats Transmissions Categorized by Age")
 
 /** Load data and begin binding to DOM elements. **/
-d3.json("arcage.json", function(error, data) {
+d3.json("arcage_all.json", function(error, data) {
 
 	if(error) return console.warn(error); 
 
@@ -79,6 +79,8 @@ d3.json("arcage.json", function(error, data) {
 					.style("fill", "none")
 					.style("stroke", function(d) { return linkColorType(d) })
 					.attr("stroke-width", 1)
+					.attr("stroke-opacity", 0.5)
+					.attr("stroke-dasharray", function(d) { return linkStrokeType(d) })
 					.attr("x1", function(d) { return getNodeX(d.source) })
 					.attr("y1", function(d) { return height - 10 * padding })
 					.attr("x2", function(d) { return getNodeX(d.target) })
@@ -115,6 +117,22 @@ d3.json("arcage.json", function(error, data) {
 			.ease("elastic")
 		infobar.text("Minto Flats Transmissions Categorized by Age")
 	})
+
+	/** Function to get a node's state **/
+	function getNodeState(node) {
+		return data.nodes[node].state
+	}
+
+	function linkStrokeType(d) {
+		if ((getNodeState(d.source) == "Interior Alaska") && (getNodeState(d.target) != "Interior Alaska")) {
+			return "5,5"
+		}
+
+		else {
+			return "none"
+		}
+	}
+
 
 	/** Function to get a node's x-value **/
 	function getNodeX(node){
