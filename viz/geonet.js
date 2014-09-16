@@ -1,5 +1,5 @@
-var width = 600
-var height = 600
+var width = 1000
+var height = 1000
 var padding = height / 10
 
 // Create a new chart in which to display the geonet
@@ -214,7 +214,9 @@ d3.json("geonet.json", function(json) {
 				}
 			})
 
-		node.style("opacity", function(o) {
+		node.transition()
+			.duration(500)
+			.style("opacity", function(o) {
 				thisOpacity = opacity;
 				connected.forEach( function(e) {
 					if (isConnected(e, o)) {
@@ -223,9 +225,12 @@ d3.json("geonet.json", function(json) {
 				})
 
 				return thisOpacity
-		})
+			})
+			.ease("elastic")
 
-		link.style("stroke-opacity", function(o) {
+		link.transition()
+			.duration(500)
+			.style("stroke-opacity", function(o) {
 				thisOpacity = opacity;
 				connected.forEach(function(e) {
 					if(o.source == e) { //o.target == e ||
@@ -243,11 +248,12 @@ d3.json("geonet.json", function(json) {
 				})
 				return thisColor;
 			})
+			.ease("elastic")
 
 		d3.select(this)
 			.transition()
 			.duration(500)
-			.attr("r", 14)
+			.attr("r", 10)
 			.style("fill", "red")
 			.style("opacity", "1")
 			.ease("elastic");
@@ -257,9 +263,16 @@ d3.json("geonet.json", function(json) {
 
 	function dehighlight() {
 		return function() {
-			node.style("opacity", 0.5)
-			link.style("stroke-opacity", function(d) { return opacity_scale(d.weight) })
-			link.style("stroke", "black")
+			node.transition()
+				.duration(500)
+				.style("opacity", 0.5)
+				.ease("elastic")
+				
+			link.transition()
+				.duration(500)
+				.style("stroke-opacity", function(d) { return opacity_scale(d.weight) })
+				.style("stroke", "black")
+				.ease("elastic")
 
 		 	d3.select(this)
 				.transition()
