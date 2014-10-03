@@ -1,13 +1,170 @@
 ,Strain Name
-0,A/northern pintail/Interior Alaska/9BM6165R0/2009
-1,A/northern pintail/Interior Alaska/9BM11389R0/2009
-2,A/mallard/Interior Alaska/9BM1870/2009
-3,A/northern pintail/Interior Alaska/9BM9955R0/2009
-4,A/northern pintail/Interior Alaska/9BM9037R0/2009
-5,A/mallard/Interior Alaska/9BM1972/2009
-6,A/northern pintail/Interior Alaska/9BM6019R1/2009
-7,A/northern pintail/Interior Alaska/9BM11787R0/2009
-8,A/mallard/Interior Alaska/9BM1358/2009
-9,A/northern pintail/Interior Alaska/9BM10959R2/2009
-10,A/northern pintail/Interior Alaska/9BM6800R0/2009
-11,A/northern shoveler/Interior Alaska/9BM12350R0/2009
+0,A/northern pintail/Interior Alaska/9BM8502R0/2009
+1,A/northern pintail/Interior Alaska/10BM09181R0/2010
+2,A/mallard/Interior Alaska/9BM11382R0/2009
+3,A/northern pintail/Interior Alaska/9BM9005R0/2009
+4,A/northern pintail/Interior Alaska/10BM10809R0/2010
+5,A/northern pintail/Interior Alaska/9BM11358R1/2009
+6,A/mallard/Interior Alaska/10BM08874R0/2010
+7,A/northern pintail/Interior Alaska/9BM9973R0/2009
+8,A/mallard/Interior Alaska/10BM09528R0/2010
+9,A/mallard/Interior Alaska/10BM08883R0/2010
+10,A/northern pintail/Interior Alaska/9BM7694R0/2009
+11,A/mallard/Interior Alaska/9BM8389R0/2009
+12,A/northern pintail/Interior Alaska/10BM09832R0/2010
+13,A/northern pintail/Interior Alaska/9BM6165R0/2009
+14,A/mallard/Interior Alaska/9BM9201R0/2009
+15,A/northern pintail/Interior Alaska/9BM11783R0/2009
+16,A/mallard/Interior Alaska/9BM8921R0/2009
+17,A/northern pintail/Interior Alaska/10BM11945R0/2010
+18,A/northern pintail/Interior Alaska/9BM9129R0/2009
+19,A/northern pintail/Interior Alaska/9BM10287R0/2009
+20,A/northern pintail/Interior Alaska/9BM6510R0/2009
+21,A/northern pintail/Interior Alaska/10BM07114R0/2010
+22,A/northern pintail/Interior Alaska/9BM10146R0/2009
+23,A/mallard/Interior Alaska/10BM12534R0/2010
+24,A/northern pintail/Interior Alaska/9BM10236R0/2009
+25,A/American green-winged teal/Interior Alaska/9BM6428R0/2009
+26,A/northern pintail/Interior Alaska/9BM7696R0/2009
+27,A/mallard/Interior Alaska/10BM08120R0/2010
+28,A/northern pintail/Interior Alaska/9BM10238R0/2009
+29,A/northern pintail/Interior Alaska/9BM11389R0/2009
+30,A/mallard/Interior Alaska/9BM11053R0/2009
+31,A/mallard/Interior Alaska/9BM10370R0/2009
+32,A/mallard/Interior Alaska/9BM8524R0/2009
+33,A/northern pintail/Interior Alaska/10BM11208R0/2010
+34,A/northern pintail/Interior Alaska/10BM11380R0/2010
+35,A/northern pintail/Interior Alaska/9BM8084R0/2009
+36,A/northern pintail/Interior Alaska/9BM8448R0/2009
+37,A/mallard/Interior Alaska/10BM08100R0/2010
+38,A/mallard/Interior Alaska/10BM10787R0/2010
+39,A/northern pintail/Interior Alaska/10BM07469R0/2010
+40,A/mallard/Interior Alaska/10BM07092R0/2010
+41,A/northern pintail/Interior Alaska/9BM10525R2/2009
+42,A/northern pintail/Interior Alaska/10BM09348R0/2010
+43,A/mallard/Interior Alaska/9BM8474R0/2009
+44,A/mallard/Interior Alaska/10BM08884R0/2010
+45,A/northern pintail/Interior Alaska/10BM10801R0/2010
+46,A/northern pintail/Interior Alaska/10BM11038R0/2010
+47,A/American green-winged teal/Interior Alaska/9BM6222R0/2009
+48,A/mallard/Interior Alaska/10BM10811R0/2010
+49,A/northern pintail/Interior Alaska/9BM11643R0/2009
+50,A/mallard/Interior Alaska/9BM7162R0/2009
+51,A/northern pintail/Interior Alaska/9BM7840R0/2009
+52,A/mallard/Interior Alaska/9BM8425R0/2009
+53,A/northern pintail/Interior Alaska/9BM10959R2/2009
+54,A/northern pintail/Interior Alaska/9BM11556R0/2009
+55,A/mallard/Interior Alaska/9BM10043R0/2009
+56,A/northern pintail/Interior Alaska/9BM12068R0/2009
+57,A/mallard/Interior Alaska/10BM09896R0/2010
+58,A/northern pintail/Interior Alaska/10BM08400R0/2010
+59,A/mallard/Interior Alaska/10BM09539R0/2010
+60,A/American green-winged teal/Interior Alaska/9BM6223R0/2009
+61,A/northern pintail/Interior Alaska/9BM9663R0/2009
+62,A/northern pintail/Interior Alaska/10BM10853R0/2010
+63,A/northern pintail/Interior Alaska/9BM9383R0/2009
+64,A/mallard/Interior Alaska/10BM09818R0/2010
+65,A/mallard/Interior Alaska/9BM6888R0/2009
+66,A/northern pintail/Interior Alaska/10BM07399R0/2010
+67,A/northern pintail/Interior Alaska/9BM8459R0/2009
+68,A/mallard/Interior Alaska/10BM07072R0/2010
+69,A/northern pintail/Interior Alaska/9BM8237R0/2009
+70,A/mallard/Interior Alaska/9BM8287R0/2009
+71,A/northern pintail/Interior Alaska/9BM12153R0/2009
+72,A/mallard/Interior Alaska/10BM07501R0/2010
+73,A/northern pintail/Interior Alaska/9BM12094R0/2009
+74,A/mallard/Interior Alaska/9BM1972/2009
+75,A/northern pintail/Interior Alaska/9BM11431R0/2009
+76,A/northern pintail/Interior Alaska/9BM7398R0/2009
+77,A/northern pintail/Interior Alaska/9BM11325R0/2009
+78,A/mallard/Interior Alaska/10BM07085R0/2010
+79,A/mallard/Interior Alaska/9BM8935R0/2009
+80,A/mallard/Interior Alaska/9BM7216R0/2009
+81,A/mallard/Interior Alaska/9BM1870/2009
+82,A/mallard/Interior Alaska/9BM11351R0/2009
+83,A/American green-winged teal/Interior Alaska/9BM6702R0/2009
+84,A/northern pintail/Interior Alaska/9BM10210R0/2009
+85,A/northern pintail/Interior Alaska/10BM07120R0/2010
+86,A/northern pintail/Interior Alaska/10BM10166R0/2010
+87,A/mallard/Interior Alaska/9BM1358/2009
+88,A/northern pintail/Interior Alaska/9BM10234R0/2009
+89,A/northern pintail/Interior Alaska/9BM11151R0/2009
+90,A/mallard/Interior Alaska/9BM10369R0/2009
+91,A/northern pintail/Interior Alaska/9BM7846R0/2009
+92,A/mallard/Interior Alaska/10BM09893R0/2010
+93,A/northern pintail/Interior Alaska/10BM10805R0/2010
+94,A/northern pintail/Interior Alaska/10BM07121R0/2010
+95,A/northern pintail/Interior Alaska/9BM11917R0/2009
+96,A/mallard/Interior Alaska/10BM10861R0/2010
+97,A/northern pintail/Interior Alaska/9BM6800R0/2009
+98,A/northern pintail/Interior Alaska/9BM6229R0/2009
+99,A/mallard/Interior Alaska/10BM10876R0/2010
+100,A/mallard/Interior Alaska/9BM9335R0/2009
+101,A/northern pintail/Interior Alaska/9BM8109R0/2009
+102,A/northern pintail/Interior Alaska/9BM11583R0/2009
+103,A/mallard/Interior Alaska/9BM8387R0/2009
+104,A/northern pintail/Interior Alaska/9BM10224R0/2009
+105,A/mallard/Interior Alaska/10BM09548R0/2010
+106,A/American green-winged teal/Interior Alaska/9BM7190R0/2009
+107,A/northern pintail/Interior Alaska/10BM09347R0/2010
+108,A/northern pintail/Interior Alaska/9BM7240R0/2009
+109,A/northern pintail/Interior Alaska/9BM9955R0/2009
+110,A/mallard/Interior Alaska/9BM11023R0/2009
+111,A/mallard/Interior Alaska/10BM11434R0/2010
+112,A/northern pintail/Interior Alaska/10BM08586R0/2010
+113,A/northern pintail/Interior Alaska/9BM11179R0/2009
+114,A/mallard/Interior Alaska/9BM7218R0/2009
+115,A/northern pintail/Interior Alaska/10BM09481R0/2010
+116,A/mallard/Interior Alaska/9BM9717R0/2009
+117,A/mallard/Interior Alaska/9BM10537R0/2009
+118,A/northern pintail/Interior Alaska/9BM8498R0/2009
+119,A/northern pintail/Interior Alaska/9BM8464R0/2009
+120,A/northern pintail/Interior Alaska/9BM11317R0/2009
+121,A/northern pintail/Interior Alaska/10BM07458R0/2010
+122,A/northern pintail/Interior Alaska/9BM6205R0/2009
+123,A/northern pintail/Interior Alaska/9BM9065R0/2009
+124,A/northern pintail/Interior Alaska/9BM9037R0/2009
+125,A/northern pintail/Interior Alaska/10BM10476R0/2010
+126,A/northern pintail/Interior Alaska/9BM10244R0/2009
+127,A/northern pintail/Interior Alaska/9BM7152R2/2009
+128,A/mallard/Interior Alaska/9BM9601R0/2009
+129,A/mallard/Interior Alaska/10BM07066R0/2010
+130,A/mallard/Interior Alaska/10BM10324R0/2010
+131,A/northern pintail/Interior Alaska/10BM07737R0/2010
+132,A/northern pintail/Interior Alaska/10BM12413R0/2010
+133,A/northern pintail/Interior Alaska/9BM11779R0/2009
+134,A/northern pintail/Interior Alaska/10BM07106R0/2010
+135,A/northern pintail/Interior Alaska/9BM6019R1/2009
+136,A/mallard/Interior Alaska/9BM10393R0/2009
+137,A/northern pintail/Interior Alaska/10BM11366R0/2010
+138,A/mallard/Interior Alaska/9BM11065R0/2009
+139,A/northern pintail/Interior Alaska/10BM10790R0/2010
+140,A/northern pintail/Interior Alaska/9BM7861R0/2009
+141,A/northern pintail/Interior Alaska/10BM10807R0/2010
+142,A/northern pintail/Interior Alaska/9BM7688R0/2009
+143,A/northern pintail/Interior Alaska/9BM7799R0/2009
+144,A/northern pintail/Interior Alaska/9BM6960R0/2009
+145,A/northern pintail/Interior Alaska/9BM7882R0/2009
+146,A/northern pintail/Interior Alaska/10BM10906R0/2010
+147,A/northern pintail/Interior Alaska/9BM7108R2/2009
+148,A/northern pintail/Interior Alaska/10BM08705R0/2010
+149,A/northern pintail/Interior Alaska/9BM7895R0/2009
+150,A/northern pintail/Interior Alaska/9BM9153R0/2009
+151,A/mallard/Interior Alaska/10BM07575R0/2010
+152,A/mallard/Interior Alaska/10BM10859R0/2010
+153,A/American green-winged teal/Interior Alaska/9BM6225R0/2009
+154,A/mallard/Interior Alaska/10BM09563R0/2010
+155,A/northern pintail/Interior Alaska/9BM11387R0/2009
+156,A/northern pintail/Interior Alaska/10BM07029R0/2010
+157,A/northern pintail/Interior Alaska/9BM10218R0/2009
+158,A/mallard/Interior Alaska/9BM8465R0/2009
+159,A/northern pintail/Interior Alaska/9BM11564R0/2009
+160,A/northern pintail/Interior Alaska/9BM8967R0/2009
+161,A/northern pintail/Interior Alaska/9BM6164R0/2009
+162,A/northern pintail/Interior Alaska/9BM10222R0/2009
+163,A/northern pintail/Interior Alaska/9BM8273R0/2009
+164,A/northern pintail/Interior Alaska/9BM11409R0/2009
+165,A/northern pintail/Interior Alaska/9BM8483R2/2009
+166,A/northern pintail/Interior Alaska/9BM11787R0/2009
+167,A/northern pintail/Interior Alaska/9BM5941R0/2009
+168,A/northern shoveler/Interior Alaska/9BM12350R0/2009

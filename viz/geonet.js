@@ -18,7 +18,7 @@ var infobar = chart.append("text")
 
 // Load data and begin binding to DOM elements.
 
-d3.json("geonet.json", function(json) {
+d3.json("geonet_filtered.json", function(json) {
 
 	console.log(json)
 
