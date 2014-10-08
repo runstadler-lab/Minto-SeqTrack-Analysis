@@ -1,0 +1,35 @@
+<div> id="canvas"</div>
+
+<script>
+	/** Canvas dimensions **/
+	var width = 1200
+	var height = 1200
+
+	/** Radius of the arms **/
+	var armLength = 290
+
+	/** Radius of the large inner circle **/
+	var radiusInner = 100
+	/** Radius of the smaller outer circles **/
+	var radiusOuter = 50
+
+	/** Function to return translate commands **/
+	function translate(){
+		return "translate(" + width/2 + "," + height/2 + ")"
+	}
+
+	canvas = d3.select("canvas")
+				.append("svg")
+				.attr("width", width)
+				.attr("height", height)
+
+	/** Load data and bind to DOM! **/
+	d3.json("subtype.json", function(error, data) {
+		if(error) return console.warn(error); 
+
+		var minorAngle = 
+
+	})
+
+
+</script>
