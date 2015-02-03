@@ -1,26 +1,18 @@
 A/shorebird/Delaware Bay/331/2008
-('A/shorebird/Delaware Bay/375/2008', 'A/shorebird/Delaware Bay/486/2008')
-
-A/long-tailed duck/Wisconsin/10OS3919/2010
-
-A/blue-winged teal/New Brunswick/00288/2010
-('A/American black duck/New Brunswick/00867/2010', 'A/red-necked grebe/Minnesota/AI10-2528/2010')
+('A/shorebird/Delaware Bay/486/2008', 'A/ruddy turnstone/New Jersey/Sg-00498/2008')
 
 A/northern pintail/Interior Alaska/9BM6248R0/2009
-('A/northern pintail/Interior Alaska/9BM7398R0/2009', 'A/northern pintail/Interior Alaska/9BM7302R0/2009')
+('A/northern pintail/Interior Alaska/9BM7302R0/2009', 'A/northern pintail/Interior Alaska/9BM7398R0/2009')
 
 A/blue-winged teal/Missouri/10MO0011/2010
-('A/blue-winged teal/Wisconsin/2741/2009', 'A/blue-winged teal/Iowa/10OS2639/2010')
+('A/blue-winged teal/Iowa/10OS2649/2010', 'A/blue-winged teal/Iowa/10OS2639/2010')
 
 A/mallard/Quebec/02916-1/2009
 
 A/northern shoveler/California/2815/2011
-('A/mallard/California/5386/2009', 'A/glaucous-winged gull/Southeastern Alaska/10JR01700R0/2010')
-('A/glaucous-winged gull/Southeastern Alaska/10JR01811R0/2010', 'A/mallard/California/5386/2009')
-('A/mallard/California/5386/2009', 'A/glaucous-winged gull/Southeastern Alaska/10JR01681R0/2010')
 
 A/American green-winged teal/Wisconsin/2743/2009
-('A/mallard/California/5351/2009', 'A/American green-winged teal/Illinois/3054/2009')
+('A/mallard/Minnesota/AI09-1714/2009', 'A/American green-winged teal/Illinois/3054/2009')
 
 A/shorebird/Delaware Bay/655/2009
 ('A/ruddy turnstone/New Jersey/AI09-194/2009', 'A/ruddy turnstone/New Jersey/AI09-837/2009')
@@ -28,24 +20,24 @@ A/shorebird/Delaware Bay/655/2009
 A/northern pintail/Interior Alaska/8BM3723/2008
 ('A/mallard/Interior Alaska/8BM2102/2008', 'A/mallard/Interior Alaska/8BM3627R1/2008')
 
-A/mallard/California/6768/2009
-('A/mallard/Ohio/4809-9/2008', 'A/mallard/Wisconsin/2576/2009')
+A/shorebird/Delaware Bay/181/2009
+('A/black scoter/New Brunswick/00002/2009', 'A/ruddy turnstone/New Jersey/AI09-937/2009')
 
 A/blue-winged Teal/Minnesota/AI09-2977/2009
 ('A/mallard/Illinois/08OS2315/2008', 'A/mallard/Minnesota/AI09-2571/2009')
 
 A/northern shoveler/Mississippi/397/2010
-('A/green-winged teal/California/1841/2009', 'A/mallard/Minnesota/AI09-1684/2009')
-('A/mallard/Minnesota/AI09-1678/2009', 'A/green-winged teal/California/1841/2009')
+('A/mallard/Wisconsin/2756/2009', 'A/mallard/Illinois/3051/2009')
 
 A/mallard/California/3134/2010
-('A/mallard/Wisconsin/10OS3866/2010', 'A/mallard/Mississippi/413/2010')
+('A/mallard/Missouri/10MO084/2010', 'A/red-necked grebe/Minnesota/AI10-1948/2010')
+('A/red-necked grebe/Minnesota/AI10-1954/2010', 'A/mallard/Missouri/10MO084/2010')
 
 A/blue-winged Teal/North Dakota/AI09-2912/2009
-('A/green-winged teal/California/11275/2008', 'A/mallard/Minnesota/AI09-2509/2009')
+('A/mallard/Minnesota/AI09-2509/2009', 'A/green-winged teal/California/11275/2008')
 
 A/American black duck/Illinois/4119/2009
-('A/green-winged teal/Minnesota/Sg-00991/2008', 'A/mallard/Minnesota/AI09-1854/2009')
+('A/mallard/Interior Alaska/9BM8389R0/2009', 'A/mallard/Minnesota/AI09-2434/2009')
 
 A/ruddy turnstone/New Jersey/AI09-727/2009
 ('A/ruddy turnstone/New Jersey/AI09-846/2009', 'A/ruddy turnstone/New Jersey/AI09-1082/2009')
@@ -54,28 +46,24 @@ A/blue-winged teal/Prince Edward Island/03910/2009
 ('A/American black duck/New Brunswick/03451/2009', 'A/blue-winged teal/Prince Edward Island/03922/2009')
 
 A/mallard/Wisconsin/4203/2009
-('A/mallard/New Jersey/AI09-5122/2009', 'A/mallard/Wisconsin/2785/2009')
-('A/mallard/New Jersey/AI09-5361/2009', 'A/mallard/Wisconsin/2785/2009')
+('A/mallard/Iowa/3193/2009', 'A/American wigeon/Interior Alaska/9BM2501R1/2009')
 
 A/northern pintail/Interior Alaska/8BM3731/2008
-('A/mallard/Interior Alaska/8BM3586/2008', 'A/northern pintail/Interior Alaska/8BM3736/2008')
+('A/northern pintail/Interior Alaska/8BM3736/2008', 'A/mallard/Interior Alaska/8BM3586/2008')
 
 A/long-tailed duck/Wisconsin/10OS3915/2010
-('A/mallard/Wisconsin/2712/2009', 'A/American green-winged teal/Wisconsin/2690/2009')
+('A/mallard/Wisconsin/2712/2009', 'A/mallard/Minnesota/Sg-01035/2008')
 
 A/mallard/Wisconsin/08OS2841/2008
 
 A/blue-winged teal/North Dakota/Sg-00740/2008
-('A/mallard/Minnesota/Sg-00630/2008', 'A/mallard/Minnesota/Sg-00868/2008')
+('A/mallard/Minnesota/Sg-00868/2008', 'A/mallard/Minnesota/Sg-00630/2008')
 
 A/mallard/Arkansas/AI09-5900/2009
-('A/mallard/Minnesota/AI09-2519/2009', 'A/blue-winged teal/Texas/AI09-4463/2009')
+('A/blue-winged Teal/Minnesota/AI09-2977/2009', 'A/mallard/Minnesota/AI09-2519/2009')
 
-A/mallard/Minnesota/Sg-00868/2008
-('A/mallard/Minnesota/Sg-00804/2008', 'A/mallard/Minnesota/Sg-00616/2008')
-
-A/mallard/Minnesota/AI09-1870/2009
-('A/mallard/Minnesota/AI09-1829/2009', 'A/mallard/Wisconsin/08OS2844/2008')
+A/northern pintail/Missouri/319/2009
+('A/mallard/Minnesota/AI09-3066/2009', 'A/northern pintail/Interior Alaska/8BM2974/2008')
 
 A/mallard/Ohio/11OS1966/2011
 ('A/mallard/Wisconsin/08OS2841/2008', 'A/northern shoveler/Arkansas/AI09-6012/2009')
@@ -83,57 +71,52 @@ A/mallard/Ohio/11OS1966/2011
 A/green winged teal/California/AKS1305/2008
 
 A/mallard/Minnesota/AI08-5469/2008
-('A/northern pintail/Interior Alaska/8MP0262R2/2008', 'A/mallard/Minnesota/Sg-00616/2008')
+('A/green winged teal/California/AKS1370/2008', 'A/mallard/Minnesota/Sg-00616/2008')
 
 A/northern shoveler/California/3676/2010
-('A/northern shoveler/Interior Alaska/9BM2925R0/2009', 'A/American wigeon/Iowa/10OS2748/2010')
+('A/northern shoveler/California/3183/2010', 'A/mallard/Minnesota/AI09-1854/2009')
 
 A/green-winged teal/New Brunswick/00331/2010
-('A/mallard/New Brunswick/00339/2010', 'A/green-winged teal/New Brunswick/00335/2010')
-('A/green-winged teal/New Brunswick/00333/2010', 'A/green-winged teal/New Brunswick/00335/2010')
-('A/American black duck/New Brunswick/00328/2010', 'A/green-winged teal/New Brunswick/00335/2010')
+('A/snow goose/Nunavet/03438/2010', 'A/green-winged teal/New Brunswick/00333/2010')
+('A/snow goose/Nunavet/03438/2010', 'A/mallard/New Brunswick/00339/2010')
+('A/snow goose/Nunavet/03438/2010', 'A/American black duck/New Brunswick/00328/2010')
 
 A/ruddy turnstone/New Jersey/AI09-1071/2009
 ('A/ruddy turnstone/New Jersey/AI09-1292/2009', 'A/ruddy turnstone/New Jersey/AI09-305/2009')
+
+A/mallard/Minnesota/AI09-2509/2009
+('A/blue-winged Teal/North Dakota/AI09-2912/2009', 'A/mallard/Minnesota/AI08-5469/2008')
 
 A/mallard/Illinois/3974/2009
 ('A/American black duck/Illinois/08OS2688/2008', 'A/ruddy turnstone/New Jersey/AI09-1211/2009')
 
 A/northern pintail/Interior Alaska/9BM8415R2/2009
-('A/northern pintail/Interior Alaska/8BM3582/2008', 'A/mallard/New Jersey/Sg-00943/2008')
+('A/northern pintail/Interior Alaska/8MP0262R2/2008', 'A/northern pintail/Interior Alaska/8BM3658/2008')
 
-A/mallard/Ohio/2043/2009
-('A/northern shoveler/California/8536/2008', 'A/ruddy turnstone/Delaware/AI09-666/2009')
-('A/ruddy turnstone/Delaware/AI09-666/2009', 'A/gadwall/California/8708/2008')
-('A/gadwall/California/8504/2008', 'A/ruddy turnstone/Delaware/AI09-666/2009')
-('A/northern pintail/California/8105/2008', 'A/ruddy turnstone/Delaware/AI09-666/2009')
-('A/northern shoveler/California/8629/2008', 'A/ruddy turnstone/Delaware/AI09-666/2009')
-('A/ruddy turnstone/Delaware/AI09-666/2009', 'A/northern shoveler/California/8528/2008')
+A/mallard/Wisconsin/11OS4362/2011
+('A/mallard/Illinois/10OS4179/2010', 'A/ring-billed gull/Quebec/G018/2010')
 
 A/mallard/Alberta/551/2009
-('A/mallard/Alberta/507/2008', 'A/mallard/Alberta/35/2009')
+('A/mallard/Minnesota/Sg-01047/2008', 'A/mallard/Alberta/507/2008')
 
 A/northern pintail/Interior Alaska/9BM11757R0/2009
-('A/northern pintail/Interior Alaska/9BM6902R0/2009', 'A/mallard/Ohio/1695/2009')
 
 A/mallard/Minnesota/AI09-3228/2009
-('A/American green-winged teal/Wisconsin/08OS2291/2008', 'A/blue-winged Teal/North Dakota/AI09-3642/2009')
+('A/mallard/Minnesota/Sg-00620/2008', 'A/mallard/Minnesota/AI09-4022/2009')
 
 A/lesser scaup/Illinois/4115/2009
-('A/mallard/Illinois/08OS2711/2008', 'A/mallard/Minnesota/AI09-3770/2009')
-('A/American green-winged teal/Illinois/08OS2713/2008', 'A/mallard/Minnesota/AI09-3770/2009')
-('A/mallard/Illinois/08OS2710/2008', 'A/mallard/Minnesota/AI09-3770/2009')
+('A/blue-winged teal/Minnesota/Sg-01026/2008', 'A/mallard/California/10126/2008')
 
 A/mallard/Alberta/590/2010
-('A/northern shoveler/Mississippi/09OS643/2009', 'A/American wigeon/Interior Alaska/9BM2501R1/2009')
+('A/northern shoveler/Mississippi/09OS643/2009', 'A/mallard/Minnesota/Sg-00616/2008')
 
 A/shorebird/Delaware Bay/604/2008
 
 A/ruddy turnstone/New Jersey/AI09-372/2009
 ('A/ruddy turnstone/New Jersey/AI09-194/2009', 'A/ruddy turnstone/New Jersey/AI09-377/2009')
 
-A/blue-winged teal/North Dakota/Sg-00706/2008
-('A/mallard/Minnesota/Sg-00697/2008', 'A/mallard/North Dakota/Sg-00703/2008')
+A/northern pintail/Interior Alaska/10BM02549R0/2010
+('A/northern shoveler/Interior Alaska/10BM02593R0/2010', 'A/mallard/Wisconsin/2576/2009')
 
 A/red-necked grebe/Minnesota/AI10-2528/2010
 ('A/American green-winged teal/Interior Alaska/10BM08422R0/2010', 'A/northern pintail/Interior Alaska/9BM11719R1/2009')
@@ -142,71 +125,67 @@ A/mallard/California/9704/2008
 ('A/ruddy turnstone/New Jersey/Sg-00526/2008', 'A/mallard/Minnesota/Sg-00868/2008')
 
 A/northern shoveler/California/9680/2008
-('A/mallard/California/11100/2008', 'A/mallard/California/8462/2008')
-('A/mallard/California/11100/2008', 'A/gadwall/California/8340/2008')
+('A/mallard/California/11100/2008', 'A/green-winged teal/California/6990/2008')
 
 A/American wigeon/Minnesota/Sg-01067/2008
-('A/mallard/Minnesota/Sg-00930/2008', 'A/mallard/Interior Alaska/8BM3614/2008')
+('A/blue-winged teal/North Dakota/Sg-00719/2008', 'A/ring-necked duck/Minnesota/Sg-01066/2008')
 
 A/mallard/North Dakota/Sg-00737/2008
 ('A/shorebird/Delaware Bay/604/2008', 'A/blue-winged teal/Minnesota/Sg-00787/2008')
 
 A/mallard/Minnesota/AI09-2434/2009
-('A/blue-winged teal/Minnesota/Sg-00799/2008', 'A/green-winged teal/Minnesota/Sg-00991/2008')
+('A/mallard/Interior Alaska/8BM2102/2008', 'A/green-winged teal/Minnesota/Sg-00991/2008')
 
 A/mallard/North Dakota/Sg-00703/2008
-('A/mallard/Minnesota/Sg-00682/2008', 'A/mallard/Interior Alaska/8BM2967/2008')
 
 A/mallard/Wisconsin/11OS3407/2011
-('A/mallard/Ohio/2031/2009', 'A/mallard/Wisconsin/11OS4104/2011')
-('A/mallard/Wisconsin/11OS4104/2011', 'A/mallard/Ohio/2033/2009')
+('A/mallard/Ohio/2033/2009', 'A/American green-winged teal/Wisconsin/11OS3432/2011')
+('A/American green-winged teal/Wisconsin/11OS3432/2011', 'A/mallard/Ohio/2031/2009')
 
 A/mallard/New Jersey/AI09-5121/2009
-('A/mallard/Minnesota/AI09-2434/2009', 'A/mallard/New Jersey/AI09-5086/2009')
+('A/mallard/Minnesota/AI09-2434/2009', 'A/blue-winged teal/New Brunswick/03756/2009')
 
 A/American black duck/New Brunswick/03451/2009
 ('A/American black duck/New Brunswick/03395/2009', 'A/ruddy turnstone/New Jersey/Sg-00564/2008')
 
-A/laughing gull/New Jersey/Sg-00485/2008
-
 A/mallard/Ohio/10OS1354/2010
-('A/green-winged teal/Minnesota/Sg-01065/2008', 'A/mallard/Wisconsin/2756/2009')
-
-A/mallard/Minnesota/Sg-01034/2008
-('A/mallard/Minnesota/Sg-00616/2008', 'A/ruddy turnstone/New Jersey/Sg-00567/2008')
+('A/mallard/Minnesota/Sg-01042/2008', 'A/mallard/Wisconsin/2756/2009')
+('A/mallard/Wisconsin/2755/2009', 'A/mallard/Minnesota/Sg-01042/2008')
 
 A/blue-winged teal/Alberta/405/2008
 ('A/mallard/Minnesota/Sg-00630/2008', 'A/mallard/Minnesota/Sg-00616/2008')
 
-A/American wigeon/Interior Alaska/9BM2501R1/2009
-('A/northern pintail/Interior Alaska/8BM3731/2008', 'A/northern shoveler/Interior Alaska/9BM2943R1/2009')
-
 A/mallard/Wisconsin/11OS3577/2011
-('A/mallard/Interior Alaska/9BM1852/2009', 'A/American green-winged teal/Wisconsin/10OS2767/2010')
+('A/blue-winged teal/Nova Scotia/01003/2010', 'A/mallard/Interior Alaska/9BM1852/2009')
 
-A/American wigeon/California/6610/2008
-('A/mallard/Minnesota/Sg-00847/2008', 'A/northern pintail/Interior Alaska/8BM3736/2008')
+A/green-winged teal/Minnesota/Sg-00820/2008
+('A/mallard/Minnesota/Sg-00767/2008', 'A/ruddy turnstone/New Jersey/Sg-00500/2008')
+('A/mallard/Minnesota/Sg-00767/2008', 'A/ruddy turnstone/New Jersey/Sg-00493/2008')
 
 A/American green-winged teal/Wisconsin/11OS3425/2011
-('A/blue-winged teal/North Dakota/Sg-00733/2008', 'A/blue-winged teal/Missouri/11OS2563/2011')
+('A/blue-winged teal/Missouri/11OS2563/2011', 'A/northern pintail/Interior Alaska/8BM3736/2008')
 
-A/mallard/Minnesota/AI09-4022/2009
-('A/American green-winged teal/Wisconsin/08OS2291/2008', 'A/mallard/Minnesota/Sg-00949/2008')
+A/mallard/Minnesota/Sg-00768/2008
+('A/shorebird/Delaware Bay/604/2008', 'A/ruddy turnstone/New Jersey/Sg-00514/2008')
+('A/shorebird/Delaware Bay/604/2008', 'A/shorebird/Delaware Bay/495/2008')
+('A/shorebird/Delaware Bay/604/2008', 'A/shorebird/Delaware Bay/369/2008')
+('A/shorebird/Delaware Bay/604/2008', 'A/ruddy turnstone/New Jersey/Sg-00535/2008')
 
 A/mallard/Ohio/11OS2095/2011
-('A/mallard/Ohio/11OS1998/2011', 'A/mallard/Wisconsin/10OS3169/2010')
+('A/mallard/Ohio/11OS1998/2011', 'A/mallard/Iowa/10OS2692/2010')
 
 A/American green-winged teal/Interior Alaska/10BM04207R0/2010
-('A/northern pintail/Interior Alaska/9BM6902R0/2009', 'A/northern shoveler/Interior Alaska/10BM02593R0/2010')
+('A/mallard/Interior Alaska/9BM12326R0/2009', 'A/northern shoveler/Interior Alaska/10BM02593R0/2010')
+('A/northern pintail/Interior Alaska/9BM11757R0/2009', 'A/northern shoveler/Interior Alaska/10BM02593R0/2010')
 
 A/mallard/Nova Scotia/00375/2010
-('A/green-winged teal/New Brunswick/00335/2010', 'A/mallard/Mississippi/329/2010')
+('A/green-winged teal/New Brunswick/00335/2010', 'A/ruddy turnstone/New Jersey/Sg-00490/2008')
 
 A/blue-winged teal/North Dakota/Sg-00730/2008
-('A/blue-winged teal/North Dakota/Sg-00750/2008', 'A/mallard/Minnesota/Sg-00630/2008')
+('A/ruddy turnstone/New Jersey/Sg-00542/2008', 'A/ruddy turnstone/New Jersey/Sg-00491/2008')
 
 A/mallard/Alberta/289/2009
-('A/mallard/Alberta/155/2009', 'A/mallard/Alberta/319/2009')
+('A/mallard/Minnesota/Sg-00930/2008', 'A/mallard/Alberta/319/2009')
 
 A/mallard/California/11100/2008
 ('A/northern shoveler/California/9680/2008', 'A/mallard/Minnesota/Sg-00944/2008')
@@ -218,21 +197,20 @@ A/mallard/Wisconsin/10OS3171/2010
 ('A/mallard/Wisconsin/10OS2900/2010', 'A/northern pintail/Interior Alaska/8MP0262R2/2008')
 
 A/shorebird/Delaware Bay/318/2009
-('A/shorebird/Delaware Bay/338/2009', 'A/ruddy turnstone/New Jersey/AI09-626/2009')
-('A/shorebird/Delaware Bay/340/2009', 'A/ruddy turnstone/New Jersey/AI09-626/2009')
-('A/shorebird/Delaware Bay/342/2009', 'A/ruddy turnstone/New Jersey/AI09-626/2009')
+('A/ruddy turnstone/New Jersey/AI09-626/2009', 'A/shorebird/Delaware Bay/338/2009')
+('A/ruddy turnstone/New Jersey/AI09-626/2009', 'A/shorebird/Delaware Bay/342/2009')
+('A/ruddy turnstone/New Jersey/AI09-626/2009', 'A/shorebird/Delaware Bay/340/2009')
 
 A/mallard/Arkansas/AI09-6032/2009
 ('A/mallard/Ohio/1686/2009', 'A/ruddy turnstone/New Jersey/AI09-944/2009')
 
 A/mallard/Minnesota/AI10-2762/2010
-('A/mallard/Wisconsin/4203/2009', 'A/northern shoveler/Mississippi/236/2010')
+('A/mallard/Wisconsin/4203/2009', 'A/green-winged teal/Minnesota/Sg-01073/2008')
 
 A/blue-winged teal/Wisconsin/2509/2009
-('A/green-winged teal/California/8326/2008', 'A/northern pintail/Interior Alaska/9BM7258R0/2009')
 
 A/northern pintail/Interior Alaska/8BM3700/2008
-('A/mallard/Minnesota/Sg-00782/2008', 'A/mallard/Alberta/507/2008')
+('A/ruddy turnstone/New Jersey/Sg-00525/2008', 'A/mallard/Minnesota/Sg-00944/2008')
 
 A/duck/SK/4612/2010
 ('A/ring-billed gull/Quebec/G018/2010', 'A/duck/SK/4628/2010')
@@ -246,307 +224,196 @@ A/ruddy turnstone/New Jersey/Sg-00532/2008
 ('A/ruddy turnstone/New Jersey/Sg-00516/2008', 'A/ruddy turnstone/New Jersey/Sg-00544/2008')
 
 A/northern pintail/Interior Alaska/9BM8109R0/2009
-('A/northern pintail/Interior Alaska/9BM6510R0/2009', 'A/northern shoveler/Interior Alaska/9BM2943R1/2009')
-('A/northern pintail/Interior Alaska/9BM6510R0/2009', 'A/northern pintail/Interior Alaska/9BM4637R0/2009')
-('A/northern pintail/Interior Alaska/9BM6510R0/2009', 'A/northern pintail/Interior Alaska/9BM4410R1/2009')
-('A/northern pintail/Interior Alaska/9BM6510R0/2009', 'A/northern pintail/Interior Alaska/9BM6164R0/2009')
-('A/northern pintail/Interior Alaska/9BM6510R0/2009', 'A/northern pintail/Interior Alaska/9BM5375R0/2009')
-('A/northern pintail/Interior Alaska/9BM6510R0/2009', 'A/northern pintail/Interior Alaska/9BM4666R0/2009')
-('A/northern pintail/Interior Alaska/9BM6510R0/2009', 'A/northern pintail/Interior Alaska/9BM6165R0/2009')
-('A/northern pintail/Interior Alaska/9BM6510R0/2009', 'A/northern pintail/Interior Alaska/9BM5554R0/2009')
-('A/northern pintail/Interior Alaska/9BM6510R0/2009', 'A/northern pintail/Interior Alaska/9BM6229R0/2009')
-('A/northern pintail/Interior Alaska/9BM6510R0/2009', 'A/northern pintail/Interior Alaska/9BM9005R0/2009')
-('A/northern pintail/Interior Alaska/9BM6510R0/2009', 'A/northern pintail/Interior Alaska/9BM8803R0/2009')
-('A/northern pintail/Interior Alaska/9BM6510R0/2009', 'A/American green-winged teal/Interior Alaska/9BM6702R0/2009')
-('A/northern pintail/Interior Alaska/9BM6510R0/2009', 'A/American green-winged teal/Interior Alaska/9BM6223R0/2009')
-('A/northern pintail/Interior Alaska/9BM6510R0/2009', 'A/northern pintail/Interior Alaska/9BM5941R0/2009')
-('A/northern pintail/Interior Alaska/9BM6510R0/2009', 'A/American green-winged teal/Interior Alaska/9BM6222R0/2009')
-('A/northern pintail/Interior Alaska/9BM6510R0/2009', 'A/northern pintail/Interior Alaska/9BM8084R0/2009')
-('A/northern pintail/Interior Alaska/9BM6510R0/2009', 'A/northern pintail/Interior Alaska/9BM7696R0/2009')
-('A/northern pintail/Interior Alaska/9BM6510R0/2009', 'A/northern pintail/Interior Alaska/9BM5053R0/2009')
-('A/northern pintail/Interior Alaska/9BM6510R0/2009', 'A/northern pintail/Interior Alaska/9BM5376R0/2009')
-('A/northern pintail/Interior Alaska/9BM6510R0/2009', 'A/northern pintail/Interior Alaska/9BM8273R0/2009')
-('A/northern pintail/Interior Alaska/9BM6510R0/2009', 'A/American green-winged teal/Interior Alaska/9BM6225R0/2009')
-('A/northern pintail/Interior Alaska/9BM6510R0/2009', 'A/northern shoveler/Interior Alaska/9BM4905R0/2009')
+('A/northern pintail/Interior Alaska/9BM6510R0/2009', 'A/northern pintail/Interior Alaska/8BM2974/2008')
 
 A/mallard/Wisconsin/10OS3144/2010
-('A/mallard/California/8293/2008', 'A/northern shoveler/Mississippi/09OS643/2009')
+('A/gadwall/California/8708/2008', 'A/northern shoveler/Illinois/10OS3619/2010')
 
 A/American green-winged teal/Wisconsin/08OS2270/2008
-('A/mallard/Minnesota/Sg-00949/2008', 'A/blue-winged teal/North Dakota/Sg-00719/2008')
+('A/mallard/Minnesota/Sg-01035/2008', 'A/mallard/Minnesota/Sg-00949/2008')
 
 A/American green-winged teal/Illinois/3443/2009
-('A/mallard/California/8834/2008', 'A/mallard/New Jersey/AI09-6426/2009')
+('A/mallard/California/8834/2008', 'A/blue-winged teal/New Brunswick/03756/2009')
 
 A/mallard/Wisconsin/3165/2009
-('A/mallard/Wisconsin/2756/2009', 'A/mallard/Minnesota/SG-00932/2008')
+('A/mallard/California/5351/2009', 'A/blue-winged teal/North Dakota/Sg-00719/2008')
 
 A/mallard/California/2552V/2011
-('A/mallard/California/2563V/2011', 'A/mallard/California/2561P/2011')
-('A/mallard/California/2563V/2011', 'A/mallard/California/2549V/2011')
-('A/mallard/California/2521P/2011', 'A/mallard/California/2563V/2011')
-('A/mallard/California/2563V/2011', 'A/mallard/California/2540V/2011')
-('A/mallard/California/2563V/2011', 'A/mallard/California/2576V/2011')
-('A/mallard/California/2563V/2011', 'A/mallard/California/2569P/2011')
-('A/mallard/California/2563V/2011', 'A/mallard/California/2521V/2011')
-('A/mallard/California/2569V/2011', 'A/mallard/California/2563V/2011')
+('A/mallard/California/2559P/2011', 'A/mallard/California/2563V/2011')
 
 A/American green-winged teal/Mississippi/11OS90/2011
-('A/green-winged teal/Minnesota/Sg-01000/2008', 'A/northern shoveler/Illinois/10OS3619/2010')
+('A/mallard/Wisconsin/10OS4193/2010', 'A/American green-winged teal/Illinois/10OS3329/2010')
 
-A/shorebird/Delaware Bay/181/2009
-('A/ruddy turnstone/New Jersey/AI09-937/2009', 'A/black scoter/New Brunswick/00002/2009')
+A/mallard/California/6768/2009
+('A/mallard/Ohio/4809-9/2008', 'A/mallard/Wisconsin/2576/2009')
 
 A/blue-winged Teal/Texas/AI09-3464/2009
-('A/blue-winged teal/North Dakota/Sg-00750/2008', 'A/northern pintail/Louisiana/Sg-01033/2008')
+('A/northern pintail/Louisiana/Sg-01033/2008', 'A/gadwall/Wisconsin/08OS2296/2008')
 
 A/northern pintail/California/2548/2010
 ('A/mallard/California/11100/2008', 'A/mallard/Arkansas/AI09-5649/2009')
 
-A/northern pintail/Missouri/319/2009
-('A/mallard/Wisconsin/1534/2009', 'A/northern shoveler/Illinois/3767/2009')
+A/blue-winged teal/New Brunswick/00288/2010
+('A/American green-winged teal/Illinois/3443/2009', 'A/green-winged teal/Minnesota/Sg-01065/2008')
 
 A/green-winged teal/California/8326/2008
-('A/mallard/Minnesota/Sg-01040/2008', 'A/mallard/Alberta/496/2008')
+('A/mallard/Minnesota/Sg-01040/2008', 'A/blue-winged teal/North Dakota/Sg-00733/2008')
 
-A/common goldeneye/Wisconsin/10OS4202/2010
+A/mallard/Minnesota/AI09-1870/2009
+('A/mallard/Minnesota/AI09-1829/2009', 'A/mallard/Wisconsin/08OS2844/2008')
 
 A/ruddy turnstone/New Jersey/AI09-937/2009
-('A/shorebird/Delaware Bay/181/2009', 'A/ruddy turnstone/New Jersey/AI09-827/2009')
+('A/ruddy turnstone/New Jersey/AI09-827/2009', 'A/shorebird/Delaware Bay/181/2009')
 
 A/mallard/California/6957/2008
 ('A/mallard/Illinois/08OS2710/2008', 'A/blue-winged teal/North Dakota/Sg-00730/2008')
 ('A/American green-winged teal/Illinois/08OS2713/2008', 'A/blue-winged teal/North Dakota/Sg-00730/2008')
 
 A/mallard/California/5351/2009
-('A/mallard/Minnesota/SG-00932/2008', 'A/mallard/Alberta/569/2008')
+('A/mallard/Alberta/569/2008', 'A/mallard/Minnesota/SG-00932/2008')
 
 A/blue-winged teal/Missouri/11OS2563/2011
 ('A/mallard/North Dakota/Sg-00703/2008', 'A/mallard/Interior Alaska/9BM10393R0/2009')
 
-A/glaucous-winged gull/Southeastern Alaska/10JR01856R0/2010
+A/blue-winged teal/North Dakota/Sg-00706/2008
+('A/mallard/Minnesota/Sg-00697/2008', 'A/mallard/North Dakota/Sg-00737/2008')
 
 A/mallard/California/8028/2008
-('A/American green-winged teal/Wisconsin/08OS2291/2008', 'A/mallard/Minnesota/Sg-00944/2008')
-('A/mallard/Minnesota/Sg-00944/2008', 'A/gadwall/Wisconsin/08OS2293/2008')
 
 A/American green-winged teal/Texas/AI09-4396/2009
-('A/mallard/Minnesota/Sg-00831/2008', 'A/mallard/Minnesota/AI09-3770/2009')
+('A/American green-winged teal/Interior Alaska/9BM6410R0/2009', 'A/mallard/Minnesota/AI09-3770/2009')
 
 A/mallard/Wisconsin/08OS2261/2008
 ('A/ruddy turnstone/Delaware/Sg-00541/2008', 'A/mallard/Illinois/08OS2315/2008')
 
 A/mallard/Ohio/11OS2216/2011
-('A/northern pintail/Wisconsin/10OS2857/2010', 'A/shorebird/Delaware Bay/380/2010')
+('A/blue-winged teal/New Brunswick/00288/2010', 'A/blue-winged teal/North Dakota/Sg-00735/2008')
 
 A/northern shoveler/California/3046/2010
-('A/northern shoveler/Mississippi/397/2010', 'A/mallard/Wisconsin/10OS3169/2010')
+('A/northern shoveler/Missouri/196/2009', 'A/blue-winged teal/Wisconsin/2753/2009')
 
 A/northern pintail/Interior Alaska/8BM3736/2008
-('A/ruddy turnstone/New Jersey/Sg-0505/2008', 'A/northern pintail/Interior Alaska/8BM3731/2008')
-('A/ruddy turnstone/New Jersey/Sg-00476/2008', 'A/northern pintail/Interior Alaska/8BM3731/2008')
+('A/northern pintail/Interior Alaska/8BM3658/2008', 'A/mallard/Interior Alaska/8BM2967/2008')
 
 A/long-tailed duck/Wisconsin/11OS4520/2011
-('A/mallard/Wisconsin/11OS4362/2011', 'A/northern pintail/Illinois/11OS4764/2011')
+('A/blue-winged teal/Texas/AI09-6182/2009', 'A/mallard/New Brunswick/00879/2010')
+('A/blue-winged teal/Texas/AI09-6182/2009', 'A/American black duck/New Brunswick/00886/2010')
 
 A/northern pintail/Illinois/11OS4796/2011
-('A/American green-winged teal/Illinois/10OS1551/2010', 'A/duck/SK/4628/2010')
+('A/northern shoveler/Missouri/196/2009', 'A/mallard/Wisconsin/10OS1604/2010')
 
 A/mallard/Ohio/1686/2009
-('A/mallard/Ohio/1690/2009', 'A/mallard/Ohio/2031/2009')
+('A/American black duck/New Brunswick/03451/2009', 'A/mallard/Ohio/1690/2009')
 
 A/northern shoveler/California/3628/2011
-('A/northern shoveler/California/HKWF2031/2008', 'A/mallard/Illinois/08OS2710/2008')
+('A/mallard/Illinois/08OS2710/2008', 'A/northern shoveler/California/HKWF2031/2008')
 ('A/northern shoveler/California/HKWF2031/2008', 'A/American green-winged teal/Illinois/08OS2713/2008')
 
 A/northern pintail/Minnesota/AI09-3254/2009
-('A/mallard/Minnesota/AI09-3819/2009', 'A/northern pintail/Interior Alaska/8MP0689/2008')
+('A/blue-winged Teal/North Dakota/AI09-2912/2009', 'A/mallard/Minnesota/Sg-01034/2008')
 
 A/American black duck/New Brunswick/00867/2010
-('A/blue-winged teal/New Brunswick/00288/2010', 'A/blue-winged teal/Texas/AI09-4463/2009')
+('A/American black duck/Illinois/08OS2688/2008', 'A/mallard/Minnesota/AI09-1714/2009')
 
 A/mallard/Wisconsin/4218/2009
-('A/blue-winged teal/Wisconsin/2572/2009', 'A/mallard/Minnesota/AI09-3066/2009')
+('A/mallard/Minnesota/AI09-3066/2009', 'A/mallard/Minnesota/Sg-0617/2008')
 
 A/mallard/Missouri/10MO084/2010
-('A/blue-winged teal/Guatemala/CIP049-09/2010', 'A/mallard/Minnesota/Sg-00930/2008')
+('A/mallard/Minnesota/Sg-00930/2008', 'A/blue-winged teal/Guatemala/CIP049-09/2010')
 
-A/mallard/Minnesota/AI09-3066/2009
-('A/mallard/Interior Alaska/9BM1799/2009', 'A/mallard/Minnesota/Sg-00804/2008')
-('A/mallard/Minnesota/Sg-00804/2008', 'A/mallard/Interior Alaska/9BM1585R1/2009')
+A/mallard/California/6744/2009
+('A/blue-winged Teal/North Dakota/AI09-2912/2009', 'A/northern shoveler/Minnesota/Sg-00648/2008')
 
 A/northern pintail/Illinois/10OS3959/2010
 ('A/mallard/Alberta/35/2009', 'A/mallard/Alberta/167/2010')
 
 A/northern pintail/California/3466/2010
-('A/mallard/Alberta/569/2008', 'A/mallard/Alberta/319/2009')
+('A/American green-winged teal/Wisconsin/2743/2009', 'A/northern pintail/Illinois/10OS3959/2010')
+
+A/mallard/Wisconsin/10OS3066/2010
+('A/blue-winged teal/Texas/AI09-6182/2009', 'A/blue-winged teal/Wisconsin/3061/2009')
 
 A/mallard/Mississippi/442/2010
-('A/mallard/Minnesota/AI09-1678/2009', 'A/blue-winged teal/New Brunswick/03757/2009')
+('A/northern shoveler/Mississippi/252/2010', 'A/mallard/Minnesota/Sg-0617/2008')
 
-A/mallard/Wisconsin/11OS3422/2011
-('A/American green-winged teal/Illinois/3443/2009', 'A/mallard/Wisconsin/11OS4115/2011')
+A/mallard/Illinois/11OS5564/2011
+('A/mallard/Ohio/11OS2224/2011', 'A/American black duck/Wisconsin/10OS3949/2010')
 
 A/shorebird/Delaware Bay/329/2008
-('A/ruddy turnstone/New Jersey/Sg-00502/2008', 'A/ruddy turnstone/New Jersey/Sg-00535/2008')
-('A/ruddy turnstone/New Jersey/Sg-00502/2008', 'A/ruddy turnstone/New Jersey/Sg-00514/2008')
-('A/ruddy turnstone/New Jersey/Sg-00502/2008', 'A/sanderling/New Jersey/Sg-00486/2008')
-('A/ruddy turnstone/New Jersey/Sg-00502/2008', 'A/ruddy turnstone/New Jersey/Sg-00504/2008')
+('A/sanderling/New Jersey/Sg-00486/2008', 'A/shorebird/Delaware Bay/296/2008')
+('A/ruddy turnstone/New Jersey/Sg-00504/2008', 'A/shorebird/Delaware Bay/296/2008')
+('A/shorebird/Delaware Bay/296/2008', 'A/ruddy turnstone/New Jersey/Sg-00535/2008')
+('A/shorebird/Delaware Bay/296/2008', 'A/ruddy turnstone/New Jersey/Sg-00514/2008')
 
 A/long-tailed duck/Wisconsin/11OS4248/2011
-('A/long-tailed duck/Wisconsin/10OS3915/2010', 'A/green-winged teal/Minnesota/Sg-00991/2008')
+('A/mallard/Minnesota/Sg-00672/2008', 'A/long-tailed duck/Wisconsin/10OS3915/2010')
 
 A/mallard/Interior Alaska/10BM02980R0/2010
-('A/northern pintail/Interior Alaska/9BM6494R0/2009', 'A/mallard/Arkansas/AI09-5649/2009')
+('A/northern shoveler/Interior Alaska/8BM3470/2008', 'A/mallard/California/5386/2009')
 
 A/ruddy turnstone/New Jersey/Sg-00552/2008
 
 A/ruddy turnstone/New Jersey/AI09-1144/2009
-('A/ruddy turnstone/New Jersey/AI09-474/2009', 'A/ruddy turnstone/New Jersey/AI09-1008/2009')
+('A/ruddy turnstone/New Jersey/AI09-1008/2009', 'A/ruddy turnstone/New Jersey/AI09-474/2009')
 
-A/mallard/Illinois/11OS5582/2011
-('A/American green-winged teal/Mississippi/11OS256/2011', 'A/American green-winged teal/Illinois/10OS4014/2010')
+A/mallard/Illinois/10OS3599/2010
+('A/blue-winged teal/Missouri/10MO013/2010', 'A/American green-winged teal/Wisconsin/2530/2009')
 
-A/mallard/Alberta/35/2009
-('A/mallard/Alberta/551/2009', 'A/mallard/Wisconsin/08OS2844/2008')
+A/mallard/New Jersey/Sg-00884/2008
+('A/ruddy turnstone/New Jersey/Sg-00557/2008', 'A/mallard/Minnesota/AI08-3881/2008')
 
 A/northern shoveler/Missouri/196/2009
-('A/mallard/California/8462/2008', 'A/lesser scaup/Wisconsin/3964/2009')
+('A/shorebird/Delaware Bay/379/2008', 'A/northern pintail/Interior Alaska/8MP0262R2/2008')
 
 A/northern pintail/Interior Alaska/9BM11911R0/2009
-('A/northern pintail/Interior Alaska/9BM6960R0/2009', 'A/northern pintail/Interior Alaska/9BM7240R0/2009')
-('A/northern pintail/Interior Alaska/9BM9153R0/2009', 'A/northern pintail/Interior Alaska/9BM7240R0/2009')
+('A/mallard/Interior Alaska/9BM7162R0/2009', 'A/northern pintail/Interior Alaska/9BM9153R0/2009')
+('A/mallard/Interior Alaska/9BM7162R0/2009', 'A/northern pintail/Interior Alaska/9BM6960R0/2009')
 
 A/blue-winged teal/North Dakota/Sg-00719/2008
-('A/mallard/Alberta/507/2008', 'A/mallard/Minnesota/Sg-01035/2008')
+('A/mallard/Alberta/507/2008', 'A/northern pintail/Interior Alaska/8BM2528R1/2008')
 
 A/ruddy turnstone/New Jersey/AI09-841/2009
 ('A/ruddy turnstone/New Jersey/AI09-256/2009', 'A/ruddy turnstone/New Jersey/AI09-620/2009')
 
 A/blue-winged teal/Wisconsin/2649/2009
-('A/American green-winged teal/Minnesota/AI09-3589/2009', 'A/northern pintail/Alberta/8/2009')
+('A/American green-winged teal/Minnesota/AI09-3589/2009', 'A/American black duck/Wisconsin/2542/2009')
 
 A/ruddy turnstone/New Jersey/AI09-1292/2009
-('A/ruddy turnstone/New Jersey/AI09-846/2009', 'A/northern shoveler/Minnesota/Sg-00612/2008')
 
-A/mallard/Wisconsin/10OS2667/2010
-('A/mallard/Wisconsin/4197/2009', 'A/mallard/Minnesota/Sg-00930/2008')
+A/mallard/Wisconsin/10OS1604/2010
+('A/blue-winged teal/New Brunswick/00288/2010', 'A/mallard/Illinois/4162/2009')
 
 A/blue-winged teal/Prince Edward Island/00849/2010
-('A/mallard/California/6695/2009', 'A/greater scaup/Wisconsin/4234/2009')
+('A/green-winged teal/New Brunswick/03483/2009', 'A/green-winged teal/California/6990/2008')
 
 A/ring-necked duck/New Brunswick/03449/2009
-('A/mallard/New Jersey/Sg-00884/2008', 'A/mallard/Ohio/2031/2009')
+('A/mallard/Ohio/2031/2009', 'A/mallard/California/8028/2008')
 
-A/shorebird/Delaware Bay/379/2008
-('A/ruddy turnstone/New Jersey/Sg-00490/2008', 'A/ruddy turnstone/New Jersey/Sg-00471/2008')
+A/mallard/Wisconsin/2719/2009
+('A/mallard/Wisconsin/1538/2009', 'A/mallard/Wisconsin/2575/2009')
 
 A/mallard/Minnesota/AI09-2749/2009
 
 A/northern pintail/Interior Alaska/9BM11787R0/2009
-('A/northern pintail/Interior Alaska/9BM11151R0/2009', 'A/northern pintail/Interior Alaska/9BM9611R0/2009')
-('A/northern pintail/Interior Alaska/9BM10969R0/2009', 'A/northern pintail/Interior Alaska/9BM10218R0/2009')
-('A/northern pintail/Interior Alaska/9BM11779R0/2009', 'A/northern pintail/Interior Alaska/9BM10969R0/2009')
-('A/mallard/Interior Alaska/9BM3016R0/2009', 'A/northern pintail/Interior Alaska/9BM10969R0/2009')
-('A/northern pintail/Interior Alaska/9BM11179R0/2009', 'A/northern pintail/Interior Alaska/9BM9611R0/2009')
-('A/mallard/Interior Alaska/9BM3361R0/2009', 'A/northern pintail/Interior Alaska/9BM9611R0/2009')
-('A/northern pintail/Interior Alaska/9BM7840R0/2009', 'A/northern pintail/Interior Alaska/9BM10969R0/2009')
-('A/northern pintail/Interior Alaska/9BM11583R0/2009', 'A/northern pintail/Interior Alaska/9BM9611R0/2009')
-('A/northern pintail/Interior Alaska/9BM10969R0/2009', 'A/northern pintail/Interior Alaska/9BM10244R0/2009')
-('A/northern pintail/Interior Alaska/9BM7861R0/2009', 'A/northern pintail/Interior Alaska/9BM10969R0/2009')
-('A/American green-winged teal/Interior Alaska/9BM4407R0/2009', 'A/northern pintail/Interior Alaska/9BM10969R0/2009')
-('A/mallard/Interior Alaska/9BM9201R0/2009', 'A/northern pintail/Interior Alaska/9BM9611R0/2009')
-('A/mallard/Interior Alaska/9BM9201R0/2009', 'A/northern pintail/Interior Alaska/9BM10969R0/2009')
-('A/mallard/Interior Alaska/9BM11065R0/2009', 'A/northern pintail/Interior Alaska/9BM9611R0/2009')
-('A/northern pintail/Interior Alaska/9BM7861R0/2009', 'A/northern pintail/Interior Alaska/9BM9611R0/2009')
-('A/northern pintail/Interior Alaska/9BM10969R0/2009', 'A/northern pintail/Interior Alaska/9BM4989R0/2009')
-('A/mallard/Interior Alaska/9BM3355R0/2009', 'A/northern pintail/Interior Alaska/9BM9611R0/2009')
-('A/mallard/Interior Alaska/9BM8921R0/2009', 'A/northern pintail/Interior Alaska/9BM10969R0/2009')
-('A/northern pintail/Interior Alaska/9BM10969R0/2009', 'A/northern pintail/Interior Alaska/9BM11179R0/2009')
-('A/northern pintail/Interior Alaska/9BM10238R0/2009', 'A/northern pintail/Interior Alaska/9BM10969R0/2009')
-('A/northern pintail/Interior Alaska/9BM10969R0/2009', 'A/northern pintail/Interior Alaska/9BM11358R1/2009')
-('A/mallard/Interior Alaska/9BM3075R2/2009', 'A/northern pintail/Interior Alaska/9BM9611R0/2009')
-('A/mallard/Interior Alaska/9BM3355R0/2009', 'A/northern pintail/Interior Alaska/9BM10969R0/2009')
-('A/northern pintail/Interior Alaska/9BM10969R0/2009', 'A/northern pintail/Interior Alaska/9BM7799R0/2009')
-('A/northern pintail/Interior Alaska/9BM7846R0/2009', 'A/northern pintail/Interior Alaska/9BM9611R0/2009')
-('A/northern pintail/Interior Alaska/9BM11783R0/2009', 'A/northern pintail/Interior Alaska/9BM10969R0/2009')
-('A/northern pintail/Interior Alaska/9BM4991R0/2009', 'A/northern pintail/Interior Alaska/9BM9611R0/2009')
-('A/northern pintail/Interior Alaska/9BM10222R0/2009', 'A/northern pintail/Interior Alaska/9BM9611R0/2009')
-('A/northern pintail/Interior Alaska/9BM9383R0/2009', 'A/northern pintail/Interior Alaska/9BM9611R0/2009')
-('A/northern pintail/Interior Alaska/9BM3859R1/2009', 'A/northern pintail/Interior Alaska/9BM9611R0/2009')
-('A/mallard/Interior Alaska/9BM3379R0/2009', 'A/northern pintail/Interior Alaska/9BM9611R0/2009')
-('A/mallard/Interior Alaska/9BM11065R0/2009', 'A/northern pintail/Interior Alaska/9BM10969R0/2009')
-('A/northern pintail/Interior Alaska/9BM12094R0/2009', 'A/northern pintail/Interior Alaska/9BM9611R0/2009')
-('A/northern pintail/Interior Alaska/9BM10287R0/2009', 'A/northern pintail/Interior Alaska/9BM9611R0/2009')
-('A/mallard/Interior Alaska/9BM3078R0/2009', 'A/northern pintail/Interior Alaska/9BM10969R0/2009')
-('A/northern pintail/Interior Alaska/9BM11779R0/2009', 'A/northern pintail/Interior Alaska/9BM9611R0/2009')
-('A/northern pintail/Interior Alaska/9BM11317R0/2009', 'A/northern pintail/Interior Alaska/9BM9611R0/2009')
-('A/northern pintail/Interior Alaska/9BM10287R0/2009', 'A/northern pintail/Interior Alaska/9BM10969R0/2009')
-('A/northern pintail/Interior Alaska/9BM7840R0/2009', 'A/northern pintail/Interior Alaska/9BM9611R0/2009')
-('A/mallard/Interior Alaska/9BM9335R0/2009', 'A/northern pintail/Interior Alaska/9BM10969R0/2009')
-('A/northern pintail/Interior Alaska/9BM11387R0/2009', 'A/northern pintail/Interior Alaska/9BM10969R0/2009')
-('A/northern pintail/Interior Alaska/9BM10218R0/2009', 'A/northern pintail/Interior Alaska/9BM9611R0/2009')
-('A/mallard/Interior Alaska/9BM3357R0/2009', 'A/northern pintail/Interior Alaska/9BM9611R0/2009')
-('A/northern pintail/Interior Alaska/9BM9129R0/2009', 'A/northern pintail/Interior Alaska/9BM9611R0/2009')
-('A/mallard/Interior Alaska/9BM3075R2/2009', 'A/northern pintail/Interior Alaska/9BM10969R0/2009')
-('A/mallard/Interior Alaska/9BM11351R0/2009', 'A/northern pintail/Interior Alaska/9BM9611R0/2009')
-('A/mallard/Interior Alaska/9BM3076R0/2009', 'A/northern pintail/Interior Alaska/9BM10969R0/2009')
-('A/northern pintail/Interior Alaska/9BM4989R0/2009', 'A/northern pintail/Interior Alaska/9BM9611R0/2009')
-('A/northern pintail/Interior Alaska/9BM10969R0/2009', 'A/northern pintail/Interior Alaska/9BM11151R0/2009')
-('A/American green-winged teal/Interior Alaska/9BM3595R1/2009', 'A/northern pintail/Interior Alaska/9BM10969R0/2009')
-('A/northern pintail/Interior Alaska/9BM10969R0/2009', 'A/northern pintail/Interior Alaska/9BM10210R0/2009')
-('A/northern pintail/Interior Alaska/9BM10969R0/2009', 'A/northern pintail/Interior Alaska/9BM11583R0/2009')
-('A/northern pintail/Interior Alaska/9BM10244R0/2009', 'A/northern pintail/Interior Alaska/9BM9611R0/2009')
-('A/northern pintail/Interior Alaska/9BM3859R1/2009', 'A/northern pintail/Interior Alaska/9BM10969R0/2009')
-('A/northern pintail/Interior Alaska/9BM7799R0/2009', 'A/northern pintail/Interior Alaska/9BM9611R0/2009')
-('A/mallard/Interior Alaska/9BM2783R0/2009', 'A/northern pintail/Interior Alaska/9BM9611R0/2009')
-('A/mallard/Interior Alaska/9BM8921R0/2009', 'A/northern pintail/Interior Alaska/9BM9611R0/2009')
-('A/mallard/Interior Alaska/9BM8935R0/2009', 'A/northern pintail/Interior Alaska/9BM10969R0/2009')
-('A/mallard/Interior Alaska/9BM8935R0/2009', 'A/northern pintail/Interior Alaska/9BM9611R0/2009')
-('A/mallard/Interior Alaska/9BM9335R0/2009', 'A/northern pintail/Interior Alaska/9BM9611R0/2009')
-('A/northern pintail/Interior Alaska/9BM10234R0/2009', 'A/northern pintail/Interior Alaska/9BM9611R0/2009')
-('A/northern pintail/Interior Alaska/9BM9065R0/2009', 'A/northern pintail/Interior Alaska/9BM9611R0/2009')
-('A/northern pintail/Interior Alaska/9BM9129R0/2009', 'A/northern pintail/Interior Alaska/9BM10969R0/2009')
-('A/northern pintail/Interior Alaska/9BM10969R0/2009', 'A/mallard/Interior Alaska/9BM3379R0/2009')
-('A/mallard/Interior Alaska/9BM11351R0/2009', 'A/northern pintail/Interior Alaska/9BM10969R0/2009')
-('A/northern pintail/Interior Alaska/9BM10224R0/2009', 'A/northern pintail/Interior Alaska/9BM9611R0/2009')
-('A/mallard/Interior Alaska/9BM3361R0/2009', 'A/northern pintail/Interior Alaska/9BM10969R0/2009')
-('A/northern pintail/Interior Alaska/9BM11317R0/2009', 'A/northern pintail/Interior Alaska/9BM10969R0/2009')
-('A/northern pintail/Interior Alaska/9BM9065R0/2009', 'A/northern pintail/Interior Alaska/9BM10969R0/2009')
-('A/mallard/Interior Alaska/9BM2750R0/2009', 'A/northern pintail/Interior Alaska/9BM9611R0/2009')
-('A/mallard/Interior Alaska/9BM3357R0/2009', 'A/northern pintail/Interior Alaska/9BM10969R0/2009')
-('A/northern pintail/Interior Alaska/9BM4991R0/2009', 'A/northern pintail/Interior Alaska/9BM10969R0/2009')
-('A/mallard/Interior Alaska/9BM3016R0/2009', 'A/northern pintail/Interior Alaska/9BM9611R0/2009')
-('A/northern pintail/Interior Alaska/9BM11387R0/2009', 'A/northern pintail/Interior Alaska/9BM9611R0/2009')
-('A/northern pintail/Interior Alaska/9BM10969R0/2009', 'A/mallard/Interior Alaska/9BM2783R0/2009')
-('A/northern pintail/Interior Alaska/9BM12094R0/2009', 'A/northern pintail/Interior Alaska/9BM10969R0/2009')
-('A/northern pintail/Interior Alaska/9BM10236R0/2009', 'A/northern pintail/Interior Alaska/9BM9611R0/2009')
-('A/mallard/Interior Alaska/9BM2751R0/2009', 'A/northern pintail/Interior Alaska/9BM9611R0/2009')
-('A/northern pintail/Interior Alaska/9BM11783R0/2009', 'A/northern pintail/Interior Alaska/9BM9611R0/2009')
-('A/northern pintail/Interior Alaska/9BM10969R0/2009', 'A/mallard/Interior Alaska/9BM3205R0/2009')
-('A/mallard/Interior Alaska/9BM3205R0/2009', 'A/northern pintail/Interior Alaska/9BM9611R0/2009')
-('A/mallard/Interior Alaska/9BM2750R0/2009', 'A/northern pintail/Interior Alaska/9BM10969R0/2009')
-('A/mallard/Interior Alaska/9BM2751R0/2009', 'A/northern pintail/Interior Alaska/9BM10969R0/2009')
-('A/northern pintail/Interior Alaska/9BM10210R0/2009', 'A/northern pintail/Interior Alaska/9BM9611R0/2009')
-('A/northern pintail/Interior Alaska/9BM11358R1/2009', 'A/northern pintail/Interior Alaska/9BM9611R0/2009')
-('A/American green-winged teal/Interior Alaska/9BM4407R0/2009', 'A/northern pintail/Interior Alaska/9BM9611R0/2009')
-('A/northern pintail/Interior Alaska/9BM10236R0/2009', 'A/northern pintail/Interior Alaska/9BM10969R0/2009')
-('A/northern pintail/Interior Alaska/9BM10969R0/2009', 'A/northern pintail/Interior Alaska/9BM10222R0/2009')
-('A/northern pintail/Interior Alaska/9BM7846R0/2009', 'A/northern pintail/Interior Alaska/9BM10969R0/2009')
-('A/American green-winged teal/Interior Alaska/9BM3595R1/2009', 'A/northern pintail/Interior Alaska/9BM9611R0/2009')
-('A/northern pintail/Interior Alaska/9BM10969R0/2009', 'A/northern pintail/Interior Alaska/9BM10224R0/2009')
-('A/mallard/Interior Alaska/9BM3078R0/2009', 'A/northern pintail/Interior Alaska/9BM9611R0/2009')
-('A/northern pintail/Interior Alaska/9BM10238R0/2009', 'A/northern pintail/Interior Alaska/9BM9611R0/2009')
-('A/mallard/Interior Alaska/9BM3076R0/2009', 'A/northern pintail/Interior Alaska/9BM9611R0/2009')
-('A/northern pintail/Interior Alaska/9BM10234R0/2009', 'A/northern pintail/Interior Alaska/9BM10969R0/2009')
-('A/northern pintail/Interior Alaska/9BM9383R0/2009', 'A/northern pintail/Interior Alaska/9BM10969R0/2009')
+('A/mallard/Interior Alaska/9BM10043R0/2009', 'A/northern pintail/Interior Alaska/9BM9611R0/2009')
+('A/mallard/Interior Alaska/9BM10369R0/2009', 'A/northern pintail/Interior Alaska/9BM9611R0/2009')
+('A/mallard/Interior Alaska/9BM8287R0/2009', 'A/northern pintail/Interior Alaska/9BM10969R0/2009')
+('A/mallard/Interior Alaska/9BM8287R0/2009', 'A/northern pintail/Interior Alaska/9BM9611R0/2009')
+('A/northern pintail/Interior Alaska/9BM6205R0/2009', 'A/northern pintail/Interior Alaska/9BM9611R0/2009')
+('A/mallard/Interior Alaska/9BM10369R0/2009', 'A/northern pintail/Interior Alaska/9BM10969R0/2009')
+('A/mallard/Interior Alaska/9BM10370R0/2009', 'A/northern pintail/Interior Alaska/9BM9611R0/2009')
+('A/northern pintail/Interior Alaska/9BM6205R0/2009', 'A/northern pintail/Interior Alaska/9BM10969R0/2009')
+('A/American green-winged teal/Interior Alaska/9BM6428R0/2009', 'A/northern pintail/Interior Alaska/9BM9611R0/2009')
+('A/mallard/Interior Alaska/9BM6888R0/2009', 'A/northern pintail/Interior Alaska/9BM9611R0/2009')
+('A/American green-winged teal/Interior Alaska/9BM6428R0/2009', 'A/northern pintail/Interior Alaska/9BM10969R0/2009')
+('A/mallard/Interior Alaska/9BM10370R0/2009', 'A/northern pintail/Interior Alaska/9BM10969R0/2009')
+('A/mallard/Interior Alaska/9BM6888R0/2009', 'A/northern pintail/Interior Alaska/9BM10969R0/2009')
+('A/mallard/Interior Alaska/9BM10043R0/2009', 'A/northern pintail/Interior Alaska/9BM10969R0/2009')
 
 A/mallard/Minnesota/Sg-00692/2008
-('A/mallard/Minnesota/Sg-00782/2008', 'A/northern pintail/Interior Alaska/8MP0213R2/2008')
 
 A/mallard/California/8843/2008
-('A/northern pintail/Interior Alaska/8BM3731/2008', 'A/mallard/Minnesota/Sg-0617/2008')
-('A/northern pintail/Interior Alaska/8BM3731/2008', 'A/mallard/Minnesota/Sg-00620/2008')
+('A/green-winged teal/Minnesota/Sg-00820/2008', 'A/mallard/Minnesota/Sg-00620/2008')
 
 A/swan/BC/2045/2008
 
@@ -554,105 +421,96 @@ A/mallard/Minnesota/Sg-01047/2008
 ('A/mallard/Minnesota/SG-00932/2008', 'A/mallard/Alberta/569/2008')
 
 A/ruddy turnstone/New Jersey/Sg-00522/2008
-('A/ruddy turnstone/New Jersey/Sg-00520/2008', 'A/ruddy turnstone/New Jersey/Sg-00517/2008')
-('A/ruddy turnstone/New Jersey/Sg-00520/2008', 'A/ruddy turnstone/New Jersey/Sg-00535/2008')
 ('A/ruddy turnstone/New Jersey/Sg-00504/2008', 'A/ruddy turnstone/New Jersey/Sg-00520/2008')
-('A/ruddy turnstone/New Jersey/Sg-00554/2008', 'A/ruddy turnstone/New Jersey/Sg-00520/2008')
-('A/ruddy turnstone/New Jersey/Sg-00520/2008', 'A/shorebird/Delaware Bay/495/2008')
+('A/ruddy turnstone/Delaware/Sg-00472/2008', 'A/ruddy turnstone/New Jersey/Sg-00520/2008')
+('A/ruddy turnstone/New Jersey/Sg-00517/2008', 'A/ruddy turnstone/New Jersey/Sg-00520/2008')
+('A/shorebird/Delaware Bay/495/2008', 'A/ruddy turnstone/New Jersey/Sg-00520/2008')
 ('A/ruddy turnstone/New Jersey/Sg-00487/2008', 'A/ruddy turnstone/New Jersey/Sg-00520/2008')
-('A/ruddy turnstone/New Jersey/Sg-00520/2008', 'A/ruddy turnstone/New Jersey/Sg-00498/2008')
-('A/ruddy turnstone/New Jersey/Sg-00520/2008', 'A/ruddy turnstone/Delaware/Sg-00468/2008')
-('A/ruddy turnstone/New Jersey/Sg-00520/2008', 'A/ruddy turnstone/Delaware/Sg-00472/2008')
+('A/ruddy turnstone/New Jersey/Sg-00498/2008', 'A/ruddy turnstone/New Jersey/Sg-00520/2008')
+('A/ruddy turnstone/New Jersey/Sg-00535/2008', 'A/ruddy turnstone/New Jersey/Sg-00520/2008')
+('A/ruddy turnstone/New Jersey/Sg-00554/2008', 'A/ruddy turnstone/New Jersey/Sg-00520/2008')
 ('A/shorebird/Delaware Bay/586/2008', 'A/ruddy turnstone/New Jersey/Sg-00520/2008')
 ('A/ruddy turnstone/New Jersey/Sg-00528/2008', 'A/ruddy turnstone/New Jersey/Sg-00520/2008')
+('A/ruddy turnstone/Delaware/Sg-00468/2008', 'A/ruddy turnstone/New Jersey/Sg-00520/2008')
 
-A/mallard/Minnesota/AI09-1829/2009
-('A/northern shoveler/Illinois/08OS3331/2008', 'A/mallard/California/5255/2009')
+A/northern pintail/Interior Alaska/8BM3658/2008
+('A/mallard/Interior Alaska/8BM3614/2008', 'A/mallard/Interior Alaska/8BM3627R1/2008')
 
-A/mallard/California/8035/2008
+A/mallard/California/11353/2008
 
-A/northern shoveler/Mississippi/09OS168/2009
-('A/mallard/Minnesota/Sg-00697/2008', 'A/mallard/Minnesota/Sg-00630/2008')
+A/ruddy turnstone/New Jersey/AI09-119/2009
+('A/ruddy turnstone/New Jersey/AI09-256/2009', 'A/ruddy turnstone/New Jersey/AI09-710/2009')
+('A/ruddy turnstone/New Jersey/AI09-874/2009', 'A/ruddy turnstone/New Jersey/AI09-256/2009')
 
 A/blue-winged teal/Wisconsin/2720/2009
 ('A/mallard/Wisconsin/2549/2009', 'A/mallard/New Jersey/AI09-6434/2009')
 
 A/northern shoveler/Missouri/10MO0294/2010
-('A/mallard/Wisconsin/10OS2889/2010', 'A/red-necked grebe/Minnesota/AI10-1948/2010')
+('A/American black duck/New Brunswick/00867/2010', 'A/mallard/Arkansas/AI09-5663/2009')
 
 A/American green-winged teal/Wisconsin/10OS2847/2010
-('A/American green-winged teal/Illinois/3054/2009', 'A/mallard/Alberta/496/2008')
+('A/mallard/Ohio/4809-9/2008', 'A/American green-winged teal/Illinois/3054/2009')
 
 A/mallard/California/2559P/2011
 ('A/mallard/California/2552V/2011', 'A/mallard/California/2536P/2011')
 ('A/mallard/California/2535V/2011', 'A/mallard/California/2552V/2011')
 
 A/northern shoveler/California/6535/2009
-('A/mallard/California/11100/2008', 'A/northern shoveler/Interior Alaska/8BM3470/2008')
 
-A/mallard/California/6490/2008
-('A/mallard/Alberta/527/2008', 'A/American wigeon/California/6610/2008')
-
-A/mallard/Illinois/10OS4179/2010
-('A/mallard/California/1390/2010', 'A/mallard/Illinois/3048/2009')
+A/duck/SK/4628/2010
+('A/duck/SK/4612/2010', 'A/blue-winged teal/North Dakota/Sg-00706/2008')
 
 A/mallard/Wisconsin/11OS4081/2011
-('A/blue-winged teal/Texas/AI09-4405/2009', 'A/northern pintail/Interior Alaska/10BM06704R0/2010')
+('A/American black duck/New Brunswick/03495/2009', 'A/mallard/Wisconsin/11OS3009/2011')
 
 A/northern pintail/Interior Alaska/8BM3582/2008
 ('A/mallard/North Dakota/Sg-00703/2008', 'A/mallard/Interior Alaska/8BM3614/2008')
 
 A/mallard/Wisconsin/11OS4104/2011
-('A/mallard/Ohio/10OS1470/2010', 'A/mallard/Ohio/11OS2120/2011')
-('A/mallard/Ohio/11OS2120/2011', 'A/mallard/Ohio/10OS1469/2010')
+('A/mallard/Ohio/10OS1469/2010', 'A/mallard/Ohio/11OS2120/2011')
 
 A/blue-winged teal/Missouri/10MO013/2010
-('A/mallard/Wisconsin/2756/2009', 'A/northern pintail/Alberta/8/2009')
+('A/green-winged teal/New Brunswick/00331/2010', 'A/blue-winged Teal/North Dakota/AI09-3881/2009')
 
 A/mallard/Alberta/507/2008
-('A/ruddy turnstone/New Jersey/Sg-00543/2008', 'A/mallard/Minnesota/Sg-00674/2008')
+('A/mallard/Alberta/496/2008', 'A/northern pintail/Interior Alaska/8BM2528R1/2008')
 
 A/bufflehead/Wisconsin/11OS3570/2011
-('A/common goldeneye/Wisconsin/10OS4202/2010', 'A/blue-winged teal/Missouri/11OS2641/2011')
 
 A/shorebird/Delaware Bay/321/2009
-('A/shorebird/Delaware/274/2009', 'A/ruddy turnstone/New Jersey/AI09-626/2009')
+('A/ruddy turnstone/New Jersey/AI09-626/2009', 'A/shorebird/Delaware Bay/55/2009')
+('A/ruddy turnstone/New Jersey/AI09-626/2009', 'A/shorebird/Delaware Bay/107/2009')
+('A/shorebird/Delaware Bay/281/2009', 'A/ruddy turnstone/New Jersey/AI09-626/2009')
+('A/ruddy turnstone/New Jersey/AI09-626/2009', 'A/shorebird/Delaware Bay/250/2009')
+('A/ruddy turnstone/New Jersey/AI09-626/2009', 'A/shorebird/Delaware Bay/139/2009')
 
 A/ruddy turnstone/Delaware/Sg-00541/2008
-('A/ruddy turnstone/New Jersey/Sg-00507/2008', 'A/ruddy turnstone/New Jersey/Sg-00514/2008')
 ('A/shorebird/Delaware Bay/497/2008', 'A/shorebird/Delaware Bay/495/2008')
-('A/ruddy turnstone/New Jersey/Sg-00534/2008', 'A/shorebird/Delaware Bay/495/2008')
-('A/ruddy turnstone/New Jersey/Sg-00514/2008', 'A/shorebird/Delaware Bay/497/2008')
 ('A/shorebird/Delaware Bay/486/2008', 'A/shorebird/Delaware Bay/495/2008')
-('A/ruddy turnstone/New Jersey/Sg-00534/2008', 'A/ruddy turnstone/New Jersey/Sg-00514/2008')
+('A/ruddy turnstone/New Jersey/Sg-00534/2008', 'A/shorebird/Delaware Bay/495/2008')
 ('A/shorebird/Delaware Bay/486/2008', 'A/ruddy turnstone/New Jersey/Sg-00514/2008')
-('A/ruddy turnstone/New Jersey/Sg-00507/2008', 'A/shorebird/Delaware Bay/495/2008')
+('A/ruddy turnstone/New Jersey/Sg-00514/2008', 'A/shorebird/Delaware Bay/497/2008')
+('A/ruddy turnstone/New Jersey/Sg-00534/2008', 'A/ruddy turnstone/New Jersey/Sg-00514/2008')
 
 A/mallard/Wisconsin/1534/2009
 ('A/shorebird/Delaware Bay/181/2009', 'A/mallard/Interior Alaska/8MP0457R1/2008')
 
 A/mallard/Iowa/10OS2692/2010
-('A/mallard/Illinois/10OS2677/2010', 'A/American green-winged teal/Illinois/10OS1551/2010')
+('A/mallard/Illinois/10OS2677/2010', 'A/blue-winged teal/Missouri/10MO030/2010')
 
 A/mallard/Wisconsin/2560/2009
-('A/blue-winged teal/Wisconsin/2572/2009', 'A/American black duck/Wisconsin/2542/2009')
+('A/mallard/Wisconsin/08OS2841/2008', 'A/mallard/Ohio/1686/2009')
 
 A/thick-billed murre/Canada/1871/2011
-('A/American black duck/Nova Scotia/00083/2010', 'A/blue-winged teal/Guatemala/CIP049-05/2010')
-
-A/mallard/Ohio/11OS2073/2011
-('A/mallard/Ohio/11OS2119/2011', 'A/mallard/Ohio/11OS2001/2011')
+('A/northern shoveler/Missouri/10MO0294/2010', 'A/American black duck/Nova Scotia/00083/2010')
 
 A/northern pintail/Interior Alaska/8BM2974/2008
-('A/northern pintail/Interior Alaska/8BM3041/2008', 'A/mallard/Interior Alaska/8BM2967/2008')
-('A/northern pintail/Interior Alaska/8BM3088/2008', 'A/mallard/Interior Alaska/8BM2967/2008')
-('A/northern pintail/Interior Alaska/8BM2987/2008', 'A/mallard/Interior Alaska/8BM2967/2008')
 
-A/mallard/Minnesota/Sg-00847/2008
-('A/blue-winged teal/North Dakota/Sg-00740/2008', 'A/mallard/Minnesota/Sg-00768/2008')
+A/ruddy turnstone/New Jersey/Sg-00557/2008
+('A/ruddy turnstone/New Jersey/Sg-00567/2008', 'A/ruddy turnstone/New Jersey/Sg-00488/2008')
 
 A/mallard/Ohio/11OS1961/2011
-('A/mallard/Wisconsin/10OS1604/2010', 'A/mallard/Minnesota/Sg-00868/2008')
+('A/mallard/Wisconsin/3165/2009', 'A/blue-winged teal/New Brunswick/00288/2010')
 
 A/blue-winged teal/Minnesota/Sg-00899/2008
 ('A/ruddy turnstone/New Jersey/Sg-00556/2008', 'A/mallard/Minnesota/Sg-00630/2008')
@@ -660,14 +518,14 @@ A/blue-winged teal/Minnesota/Sg-00899/2008
 A/northern pintail/Interior Alaska/9BM8119R0/2009
 ('A/mallard/Interior Alaska/9BM10095R0/2009', 'A/northern pintail/Interior Alaska/9BM6494R0/2009')
 
-A/mallard/Illinois/10OS3599/2010
-('A/mallard/Arkansas/AI09-5944/2009', 'A/mallard/Illinois/3747/2009')
+A/mallard/Illinois/11OS5582/2011
+('A/American green-winged teal/Illinois/10OS4014/2010', 'A/American green-winged teal/Mississippi/11OS256/2011')
 
 A/northern shoveler/California/10024/2008
-('A/mallard/North Dakota/Sg-00703/2008', 'A/northern shoveler/California/9267/2008')
+('A/mallard/Interior Alaska/8MP0547/2008', 'A/northern shoveler/California/9267/2008')
 
 A/mallard/Wisconsin/10OS2889/2010
-('A/blue-winged teal/Texas/AI09-4463/2009', 'A/mallard/Wisconsin/4203/2009')
+('A/mallard/Wisconsin/4203/2009', 'A/mallard/Wisconsin/10OS2945/2010')
 
 A/mallard/Illinois/3051/2009
 ('A/mallard/Minnesota/Sg-00930/2008', 'A/American green-winged teal/Illinois/2479/2009')
@@ -676,240 +534,226 @@ A/American black duck/Illinois/08OS2688/2008
 ('A/swan/BC/2045/2008', 'A/mallard/Minnesota/Sg-00768/2008')
 
 A/mallard/Wisconsin/1538/2009
-('A/mallard/Ohio/2031/2009', 'A/northern shoveler/Mississippi/09OS168/2009')
-('A/mallard/Ohio/2033/2009', 'A/northern shoveler/Mississippi/09OS168/2009')
+('A/ruddy turnstone/New Jersey/Sg-00552/2008', 'A/mallard/Alberta/569/2008')
 
 A/ruddy turnstone/Delaware/Sg-00538/2008
 ('A/blue-winged teal/Guatemala/CIP049-02/2008', 'A/ruddy turnstone/New Jersey/Sg-00544/2008')
 ('A/blue-winged teal/Guatemala/CIP049-01/2008', 'A/ruddy turnstone/New Jersey/Sg-00544/2008')
 
 A/northern shoveler/Wisconsin/10OS3226/2010
-('A/mallard/Wisconsin/10OS3171/2010', 'A/American black duck/New Brunswick/00485/2010')
+('A/mallard/Wisconsin/10OS3171/2010', 'A/green-winged teal/Minnesota/Sg-01073/2008')
 
-A/mallard/New Jersey/Sg-00884/2008
-('A/mallard/Minnesota/AI08-3881/2008', 'A/ruddy turnstone/New Jersey/Sg-00557/2008')
+A/mallard/Alberta/35/2009
 
 A/blue-winged teal/Texas/AI09-6182/2009
 ('A/mallard/Minnesota/AI09-2749/2009', 'A/green-winged teal/California/11285/2008')
 
 A/ruddy turnstone/New Jersey/AI09-846/2009
 ('A/ruddy turnstone/New Jersey/AI09-727/2009', 'A/gull/Delaware/AI09-453/2009')
+('A/shorebird/Delaware Bay/321/2009', 'A/ruddy turnstone/New Jersey/AI09-727/2009')
 ('A/ruddy turnstone/New Jersey/AI09-727/2009', 'A/ruddy turnstone/New Jersey/AI09-775/2009')
-('A/ruddy turnstone/New Jersey/AI09-727/2009', 'A/gull/Delaware/AI09-438/2009')
 ('A/ruddy turnstone/New Jersey/AI09-727/2009', 'A/shorebird/Delaware Bay/170/2009')
 ('A/ruddy turnstone/New Jersey/AI09-727/2009', 'A/shorebird/Delaware Bay/318/2009')
-('A/ruddy turnstone/New Jersey/AI09-727/2009', 'A/shorebird/Delaware Bay/321/2009')
+('A/gull/Delaware/AI09-438/2009', 'A/ruddy turnstone/New Jersey/AI09-727/2009')
 ('A/ruddy turnstone/New Jersey/AI09-727/2009', 'A/ruddy turnstone/New Jersey/AI09-841/2009')
 
 A/mallard/Interior Alaska/10BM05970R0/2010
-('A/mallard/Interior Alaska/10BM05968R0/2010', 'A/northern shoveler/Interior Alaska/10BM05408R0/2010')
-('A/American green-winged teal/Interior Alaska/10BM04207R0/2010', 'A/mallard/Interior Alaska/10BM05968R0/2010')
+('A/northern shoveler/Interior Alaska/9BM12298R0/2009', 'A/mallard/Interior Alaska/10BM05968R0/2010')
+('A/northern pintail/Interior Alaska/9BM10819R0/2009', 'A/mallard/Interior Alaska/10BM05968R0/2010')
+('A/northern pintail/Interior Alaska/9BM7836R0/2009', 'A/mallard/Interior Alaska/10BM05968R0/2010')
 
 A/northern pintail/Interior Alaska/9BM6902R0/2009
-('A/northern pintail/Interior Alaska/9BM6290R0/2009', 'A/mallard/Wisconsin/08OS2844/2008')
+('A/northern pintail/Interior Alaska/9BM6290R0/2009', 'A/mallard/Ohio/2031/2009')
+('A/northern pintail/Interior Alaska/9BM6290R0/2009', 'A/mallard/Ohio/2033/2009')
+('A/northern pintail/Interior Alaska/9BM6290R0/2009', 'A/green-winged teal/Minnesota/Sg-01073/2008')
 
 A/ruddy turnstone/New Jersey/AI09-294/2009
-('A/laughing gull/New Jersey/Sg-00485/2008', 'A/green-winged teal/Minnesota/Sg-01000/2008')
-('A/laughing gull/New Jersey/Sg-00485/2008', 'A/mallard/New Jersey/Sg-00966/2008')
 
 A/mallard/Ohio/1690/2009
-('A/mallard/Ohio/1686/2009', 'A/mallard/Ohio/2043/2009')
+('A/mallard/Ohio/1686/2009', 'A/green-winged teal/California/6990/2008')
 
 A/gull/Delaware/428/2009
-('A/shorebird/Delaware/324/2009', 'A/shorebird/Delaware Bay/167/2009')
+('A/shorebird/Delaware Bay/167/2009', 'A/shorebird/Delaware/324/2009')
 
 A/ruddy turnstone/New Jersey/AI09-837/2009
-('A/shorebird/Delaware Bay/655/2009', 'A/ruddy turnstone/New Jersey/AI09-1164/2009')
+('A/ruddy turnstone/New Jersey/AI09-1164/2009', 'A/shorebird/Delaware Bay/655/2009')
 
 A/northern shoveler/Interior Alaska/9BM4787R0/2009
-('A/mallard/Interior Alaska/9BM1799/2009', 'A/northern shoveler/Interior Alaska/9BM2925R0/2009')
-('A/northern shoveler/Interior Alaska/9BM2925R0/2009', 'A/mallard/Interior Alaska/9BM1585R1/2009')
+('A/mallard/Interior Alaska/9BM1799/2009', 'A/mallard/Minnesota/Sg-00701/2008')
+('A/mallard/Interior Alaska/9BM1585R1/2009', 'A/mallard/Minnesota/Sg-00701/2008')
 
 A/northern pintail/Interior Alaska/9BM12153R0/2009
-('A/northern pintail/Interior Alaska/8BM3700/2008', 'A/northern pintail/Interior Alaska/9BM6094R0/2009')
-('A/northern pintail/Interior Alaska/8BM3700/2008', 'A/northern pintail/Interior Alaska/9BM6095R0/2009')
-('A/American green-winged teal/Interior Alaska/9BM6258R0/2009', 'A/northern pintail/Interior Alaska/8BM3700/2008')
+('A/northern pintail/Interior Alaska/8BM3700/2008', 'A/northern shoveler/Interior Alaska/9BM2943R1/2009')
 
 A/mallard/Wisconsin/11OS3468/2011
-('A/mallard/Ohio/11OS2149/2011', 'A/American green-winged teal/Wisconsin/11OS3425/2011')
+('A/mallard/Ohio/11OS2149/2011', 'A/mallard/California/3569/2010')
 
 A/northern pintail/Wisconsin/10OS2857/2010
-('A/mallard/Wisconsin/10OS2524/2010', 'A/mallard/Wisconsin/10OS1604/2010')
-
-A/turkey/Ontario/FAV-3/2011
+('A/mallard/Wisconsin/10OS1604/2010', 'A/mallard/Mississippi/413/2010')
 
 A/mallard/Missouri/10MO0253/2010
-('A/mallard/Alberta/569/2008', 'A/blue-winged teal/Wisconsin/3060/2009')
+('A/mallard/Wisconsin/2575/2009', 'A/mallard/Mississippi/413/2010')
 
 A/ruddy turnstone/New Jersey/Sg-00544/2008
-('A/ruddy turnstone/New Jersey/Sg-00488/2008', 'A/ruddy turnstone/New Jersey/Sg-00532/2008')
+('A/ruddy turnstone/New Jersey/Sg-00532/2008', 'A/ruddy turnstone/New Jersey/Sg-00488/2008')
 
 A/mallard/New Brunswick/00913/2010
-('A/mallard/Minnesota/SG-00929/2008', 'A/American black duck/New Brunswick/00924/2010')
+('A/blue-winged teal/Iowa/10OS2649/2010', 'A/American black duck/New Brunswick/00924/2010')
 
 A/mallard/California/6420/2008
-('A/green-winged teal/California/7972/2008', 'A/northern pintail/Interior Alaska/8BM2046R1/2008')
+('A/mallard/California/6469/2008', 'A/green-winged teal/California/8326/2008')
 
 A/mallard/Wisconsin/10OS3051/2010
-('A/mallard/Wisconsin/10OS3067/2010', 'A/ruddy turnstone/New Jersey/AI09-937/2009')
+('A/ruddy turnstone/New Jersey/AI09-937/2009', 'A/mallard/Wisconsin/10OS3067/2010')
 
 A/American green-winged teal/Interior Alaska/9BM12318R0/2009
-('A/mallard/Interior Alaska/9BM11382R0/2009', 'A/northern pintail/Interior Alaska/9BM7258R0/2009')
+('A/northern pintail/Interior Alaska/9BM12153R0/2009', 'A/mallard/Alberta/527/2008')
 
 A/American green-winged teal/Interior Alaska/9BM5277R0/2009
 ('A/mallard/Interior Alaska/8BM3627R1/2008', 'A/mallard/Interior Alaska/8BM3614/2008')
 
 A/northern shoveler/Interior Alaska/9BM2943R1/2009
-('A/northern pintail/Interior Alaska/8BM2974/2008', 'A/mallard/California/9573/2008')
+('A/mallard/Wisconsin/08OS2261/2008', 'A/ruddy turnstone/New Jersey/AI09-1292/2009')
 
 A/mallard/California/6517/2008
 ('A/mallard/Interior Alaska/8MP0547/2008', 'A/mallard/Minnesota/Sg-00944/2008')
 
 A/ruddy turnstone/New Jersey/AI09-1164/2009
-('A/ruddy turnstone/New Jersey/AI09-837/2009', 'A/ruddy turnstone/New Jersey/AI09-1008/2009')
+('A/ruddy turnstone/New Jersey/AI09-1008/2009', 'A/ruddy turnstone/New Jersey/AI09-837/2009')
 
 A/mallard/California/1492/2010
-('A/northern pintail/Interior Alaska/10BM12413R0/2010', 'A/green-winged teal/California/6990/2008')
-
-A/mallard/Ohio/11OS2240/2011
-('A/northern shoveler/Mississippi/10OS4526/2010', 'A/mallard/Ohio/11OS2078/2011')
+('A/blue-winged teal/Guatemala/CIP049-12/2010', 'A/mallard/Minnesota/Sg-01018/2008')
 
 A/mallard/Ohio/11OS2149/2011
 ('A/mallard/Wisconsin/08OS2841/2008', 'A/mallard/Mississippi/11OS34/2011')
 
 A/mallard/Wisconsin/4194/2009
-('A/mallard/Wisconsin/3165/2009', 'A/ruddy turnstone/New Jersey/Sg-00521/2008')
+('A/mallard/Minnesota/Sg-0617/2008', 'A/mallard/Ohio/1688/2009')
+('A/mallard/Minnesota/Sg-00620/2008', 'A/mallard/Ohio/1688/2009')
 
 A/northern pintail/Interior Alaska/10BM02561R0/2010
 
 A/mallard/Minnesota/Sg-01040/2008
-('A/mallard/Minnesota/Sg-00847/2008', 'A/mallard/Minnesota/SG-00932/2008')
+('A/green-winged teal/Minnesota/Sg-00820/2008', 'A/mallard/Minnesota/Sg-00847/2008')
 
 A/northern shoveler/Minnesota/Sg-00612/2008
-('A/mallard/Minnesota/Sg-00674/2008', 'A/shorebird/Delaware Bay/495/2008')
 ('A/ruddy turnstone/New Jersey/Sg-00491/2008', 'A/mallard/Minnesota/Sg-00674/2008')
+('A/mallard/Minnesota/Sg-00674/2008', 'A/shorebird/Delaware Bay/495/2008')
 
 A/ruddy turnstone/New Jersey/AI09-256/2009
-('A/shorebird/Delaware Bay/170/2009', 'A/ruddy turnstone/New Jersey/AI09-119/2009')
+('A/ruddy turnstone/New Jersey/AI09-119/2009', 'A/shorebird/Delaware Bay/170/2009')
 
 A/blue-winged teal/Minnesota/Sg-00799/2008
 ('A/mallard/Minnesota/Sg-00697/2008', 'A/ruddy turnstone/Delaware/Sg-00540/2008')
 
 A/northern shoveler/California/2696/2011
-('A/American wigeon/California/3180/2010', 'A/long-tailed duck/Wisconsin/10OS4225/2010')
 
 A/mallard/Missouri/11OS4987/2011
-('A/mallard/Wisconsin/10OS3144/2010', 'A/turkey/MB/FAV10/2010')
+('A/mallard/Wisconsin/10OS3144/2010', 'A/blue-winged teal/New Brunswick/00288/2010')
+
+A/northern shoveler/California/3483/2010
+('A/northern shoveler/Mississippi/09OS025/2009', 'A/mallard/Minnesota/SG-00932/2008')
 
 A/northern shoveler/Illinois/08OS3331/2008
 ('A/mallard/Minnesota/Sg-00804/2008', 'A/mallard/Minnesota/Sg-01039/2008')
 
-A/mallard/Wisconsin/10OS1604/2010
-('A/blue-winged teal/New Brunswick/00288/2010', 'A/mallard/New Jersey/AI09-6434/2009')
+A/mallard/Ohio/11OS2240/2011
+('A/northern shoveler/Mississippi/10OS4526/2010', 'A/mallard/Ohio/11OS2078/2011')
 
 A/American black duck/Wisconsin/2542/2009
-('A/mallard/Ohio/2033/2009', 'A/mallard/Minnesota/Sg-00949/2008')
-('A/mallard/Ohio/2031/2009', 'A/mallard/Minnesota/Sg-00949/2008')
+('A/northern shoveler/Wisconsin/2508/2009', 'A/mallard/Wisconsin/2560/2009')
 
 A/mallard/Mississippi/11OS34/2011
-('A/mallard/Illinois/2956/2009', 'A/mallard/Mississippi/413/2010')
+('A/blue-winged Teal/North Dakota/AI09-3760/2009', 'A/mallard/Mississippi/10OS4593/2010')
+('A/mallard/Mississippi/10OS4593/2010', 'A/blue-winged teal/North Dakota/AI09-3760/2009')
 
 A/ruddy turnstone/Delaware/Sg-00540/2008
 
 A/American green-winged teal/Wisconsin/10OS2767/2010
+('A/blue-winged teal/New Brunswick/00289/2010', 'A/mallard/Illinois/3747/2009')
+('A/blue-winged teal/New Brunswick/00291/2010', 'A/mallard/Illinois/3747/2009')
 ('A/mallard/Illinois/3747/2009', 'A/blue-winged teal/New Brunswick/00285/2010')
-('A/mallard/Illinois/3747/2009', 'A/blue-winged teal/New Brunswick/00289/2010')
-('A/mallard/Illinois/3747/2009', 'A/blue-winged teal/New Brunswick/00291/2010')
 
 A/ruddy turnstone/New Jersey/AI09-1299/2009
 ('A/ruddy turnstone/New Jersey/AI09-151/2009', 'A/ruddy turnstone/New Jersey/AI09-846/2009')
 ('A/ruddy turnstone/New Jersey/AI09-727/2009', 'A/ruddy turnstone/New Jersey/AI09-151/2009')
 
-A/mallard/Wisconsin/11OS3338/2011
-('A/mallard/Minnesota/AI10-2762/2010', 'A/northern shoveler/Illinois/10OS3619/2010')
+A/northern pintail/Interior Alaska/10BM05034R0/2010
+('A/mallard/Interior Alaska/9BM12326R0/2009', 'A/northern pintail/Interior Alaska/10BM02549R0/2010')
 
 A/mallard/Missouri/10MO053/2010
-('A/northern shoveler/Wisconsin/10OS3226/2010', 'A/blue-winged teal/Guatemala/CIP049-14/2010')
+('A/mallard/North Dakota/Sg-00703/2008', 'A/northern shoveler/Wisconsin/10OS3226/2010')
 
 A/mallard/Minnesota/AI08-3881/2008
 ('A/swan/BC/2045/2008', 'A/mallard/Minnesota/Sg-00692/2008')
 
 A/American black duck/New Brunswick/00998/2010
-('A/mallard/New Brunswick/00854/2010', 'A/mallard/Wisconsin/4218/2009')
+('A/mallard/Wisconsin/4218/2009', 'A/mallard/New Brunswick/00854/2010')
 
 A/ruddy turnstone/New Jersey/AI09-573/2009
-('A/shorebird/Delaware Bay/170/2009', 'A/ruddy turnstone/New Jersey/AI09-620/2009')
-('A/ruddy turnstone/New Jersey/AI09-620/2009', 'A/gull/Delaware/AI09-438/2009')
-('A/ruddy turnstone/New Jersey/AI09-620/2009', 'A/ruddy turnstone/Delaware/AI09-1221/2009')
+('A/gull/Delaware/AI09-438/2009', 'A/ruddy turnstone/New Jersey/AI09-620/2009')
+('A/ruddy turnstone/New Jersey/AI09-620/2009', 'A/shorebird/Delaware Bay/170/2009')
+('A/ruddy turnstone/Delaware/AI09-1221/2009', 'A/ruddy turnstone/New Jersey/AI09-620/2009')
 ('A/shorebird/Delaware Bay/324/2009', 'A/ruddy turnstone/New Jersey/AI09-620/2009')
 
 A/northern shoveler/Illinois/3767/2009
-('A/northern shoveler/Mississippi/09OS025/2009', 'A/mallard/Minnesota/AI09-3066/2009')
+('A/northern shoveler/Mississippi/09OS025/2009', 'A/mallard/Illinois/3747/2009')
 
-A/northern pintail/California/2789/2011
-('A/mallard/Interior Alaska/10BM02980R0/2010', 'A/mallard/Mississippi/10OS4593/2010')
+A/northern shoveler/Missouri/10OS4632/2010
+('A/American green-winged teal/Illinois/10OS3368/2010', 'A/mallard/Minnesota/AI10-2217/2010')
 
-A/mallard/Wisconsin/2719/2009
-('A/blue-winged Teal/North Dakota/AI09-3881/2009', 'A/mallard/Wisconsin/2575/2009')
-
-A/glaucous-winged gull/Southeastern Alaska/9JR0822R0/2009
+A/shorebird/Delaware Bay/379/2008
 
 A/mallard/Missouri/10MO0551/2010
-('A/northern shoveler/California/9267/2008', 'A/American green-winged teal/Illinois/10OS3368/2010')
+('A/mallard/Minnesota/Sg-00768/2008', 'A/northern shoveler/Mississippi/09OS643/2009')
 
 A/mallard/California/10064/2008
-('A/ruddy turnstone/New Jersey/Sg-00515/2008', 'A/mallard/California/6634/2008')
+('A/mallard/California/6634/2008', 'A/ruddy turnstone/New Jersey/Sg-00515/2008')
 
 A/mallard/Missouri/10OS4670/2010
-('A/mallard/Arkansas/AI09-5649/2009', 'A/mallard/Wisconsin/2530/2009')
+('A/mallard/Arkansas/AI09-5649/2009', 'A/blue-winged teal/Iowa/10OS2639/2010')
 
 A/mallard/Interior Alaska/9BM1852/2009
-('A/blue-winged teal/North Dakota/Sg-00730/2008', 'A/American wigeon/California/6610/2008')
+('A/American wigeon/California/6610/2008', 'A/green-winged teal/California/11285/2008')
 
 A/ruddy turnstone/New Jersey/Sg-00561/2008
+
+A/ruddy turnstone/Delaware/Sg-00539/2008
+('A/ruddy turnstone/Delaware/Sg-00470/2008', 'A/ruddy turnstone/Delaware/Sg-00540/2008')
 
 A/mallard/Ohio/11OS2078/2011
 ('A/mallard/Ohio/11OS1993/2011', 'A/ruddy turnstone/New Jersey/Sg-00564/2008')
 
 A/American green-winged teal/Interior Alaska/10BM08222R0/2010
-('A/American green-winged teal/Interior Alaska/9BM12714R1/2009', 'A/northern pintail/Interior Alaska/10BM07242R0/2010')
+('A/American green-winged teal/Interior Alaska/9BM12714R1/2009', 'A/mallard/California/8035/2008')
 
 A/northern shoveler/Mississippi/252/2010
 ('A/mallard/Wisconsin/2653/2009', 'A/mallard/Mississippi/329/2010')
 
 A/mallard/Alberta/496/2008
-('A/mallard/Interior Alaska/8MP0457R1/2008', 'A/mallard/Alberta/569/2008')
+('A/mallard/Alberta/569/2008', 'A/mallard/Alberta/507/2008')
 
 A/northern pintail/Interior Alaska/10BM14807R2/2010
-('A/ruddy turnstone/New Jersey/Sg-00531/2008', 'A/mallard/Interior Alaska/10BM02980R0/2010')
+('A/American green-winged teal/Wisconsin/08OS2291/2008', 'A/mallard/Interior Alaska/10BM02980R0/2010')
 
 A/mallard/Alberta/569/2008
 
 A/American green-winged teal/Interior Alaska/10BM05440R0/2010
-('A/mallard/Interior Alaska/10BM05968R0/2010', 'A/mallard/Interior Alaska/9BM3361R0/2009')
-('A/mallard/Interior Alaska/10BM05968R0/2010', 'A/mallard/Interior Alaska/9BM3357R0/2009')
-('A/mallard/Interior Alaska/10BM05968R0/2010', 'A/mallard/Interior Alaska/9BM3379R0/2009')
-('A/mallard/Interior Alaska/10BM05968R0/2010', 'A/mallard/Interior Alaska/9BM2750R0/2009')
-('A/mallard/Interior Alaska/10BM05968R0/2010', 'A/American green-winged teal/Interior Alaska/9BM3595R1/2009')
-('A/mallard/Interior Alaska/10BM05968R0/2010', 'A/mallard/Interior Alaska/9BM3355R0/2009')
-('A/mallard/Interior Alaska/10BM05968R0/2010', 'A/mallard/Interior Alaska/9BM3076R0/2009')
-('A/mallard/Interior Alaska/10BM05968R0/2010', 'A/mallard/Interior Alaska/9BM3078R0/2009')
-('A/mallard/Interior Alaska/10BM05968R0/2010', 'A/mallard/Interior Alaska/9BM3016R0/2009')
-('A/mallard/Interior Alaska/10BM05968R0/2010', 'A/northern pintail/Interior Alaska/9BM11787R0/2009')
+('A/northern pintail/Interior Alaska/9BM11787R0/2009', 'A/mallard/Interior Alaska/10BM05968R0/2010')
 
 A/mallard/Interior Alaska/10BM04564R1/2010
 ('A/northern shoveler/Mississippi/09OS643/2009', 'A/American green-winged teal/Illinois/2479/2009')
 
 A/mallard/Mississippi/10OS4593/2010
-('A/mallard/Ohio/10OS1319/2010', 'A/mallard/Missouri/10MO0253/2010')
+('A/green-winged teal/California/8326/2008', 'A/mallard/Ohio/10OS1319/2010')
 
-A/northern shoveler/Arkansas/AI09-6012/2009
-('A/blue-winged teal/Alberta/405/2008', 'A/mallard/Illinois/2956/2009')
+A/blue-winged teal/North Dakota/Sg-00733/2008
+('A/mallard/Minnesota/Sg-0617/2008', 'A/ruddy turnstone/New Jersey/Sg-00532/2008')
 
 A/mallard/Minnesota/Sg-00616/2008
 
 A/blue-winged teal/Canada/3231/2011
-('A/American black duck/New Brunswick/00485/2010', 'A/bufflehead/Illinois/4016/2009')
+('A/American black duck/New Brunswick/00485/2010', 'A/mallard/California/6772/2008')
 
 A/mallard/Arkansas/AI09-5649/2009
 ('A/northern shoveler/California/6535/2009', 'A/mallard/California/8843/2008')
@@ -919,79 +763,80 @@ A/mallard/Interior Alaska/8BM3614/2008
 A/northern pintail/Interior Alaska/10BM12603R0/2010
 
 A/mallard/Wisconsin/10OS2900/2010
-('A/blue-winged teal/New Brunswick/00288/2010', 'A/American green-winged teal/Wisconsin/08OS2270/2008')
+('A/blue-winged teal/New Brunswick/00288/2010', 'A/mallard/Iowa/10OS2426/2010')
 
-A/mallard/Iowa/10OS2426/2010
-('A/mallard/Interior Alaska/9BM12567R0/2009', 'A/blue-winged teal/Iowa/10OS2649/2010')
-('A/northern shoveler/Interior Alaska/9BM12298R0/2009', 'A/blue-winged teal/Iowa/10OS2649/2010')
-('A/blue-winged teal/Iowa/10OS2649/2010', 'A/northern pintail/Interior Alaska/9BM10819R0/2009')
-('A/northern pintail/Interior Alaska/9BM12647R0/2009', 'A/blue-winged teal/Iowa/10OS2649/2010')
-('A/northern pintail/Interior Alaska/9BM11487R0/2009', 'A/blue-winged teal/Iowa/10OS2649/2010')
+A/mallard/Wisconsin/11OS3467/2011
+('A/blue-winged teal/Wisconsin/11OS3027/2011', 'A/mallard/Ohio/11OS2073/2011')
 
 A/mallard/Wisconsin/10OS3084/2010
-('A/mallard/Minnesota/Sg-01035/2008', 'A/green-winged teal/Minnesota/Sg-00991/2008')
+('A/American green-winged teal/Wisconsin/2690/2009', 'A/mallard/California/1523/2010')
 
 A/mallard/California/2531V/2011
-('A/mallard/California/2536P/2011', 'A/mallard/California/2584V/2011')
+('A/mallard/California/2589P/2011', 'A/blue-winged teal/Guatemala/CIP049-09/2010')
 
 A/northern pintail/Interior Alaska/9BM11409R0/2009
 ('A/mallard/Interior Alaska/9BM1799/2009', 'A/northern shoveler/Interior Alaska/9BM1447R2/2009')
 ('A/northern shoveler/Interior Alaska/9BM1447R2/2009', 'A/mallard/Interior Alaska/9BM1585R1/2009')
 
 A/blue-winged teal/Wisconsin/3060/2009
-('A/northern shoveler/California/9187/2008', 'A/mallard/Minnesota/Sg-00831/2008')
+('A/mallard/Minnesota/Sg-00831/2008', 'A/northern shoveler/California/9187/2008')
 
 A/American wigeon/California/8352/2008
 ('A/northern pintail/Interior Alaska/8BM3582/2008', 'A/northern pintail/Interior Alaska/8BM3736/2008')
 
-A/mallard/Wisconsin/11OS3467/2011
-('A/mallard/Ohio/11OS1961/2011', 'A/blue-winged teal/Wisconsin/11OS3027/2011')
+A/lesser scaup/Wisconsin/3964/2009
+('A/blue-winged Teal/North Dakota/AI09-3760/2009', 'A/mallard/Minnesota/AI09-1851/2009')
+('A/blue-winged teal/North Dakota/AI09-3760/2009', 'A/mallard/Minnesota/AI09-1851/2009')
+
+A/northern shoveler/Wisconsin/2508/2009
+('A/mallard/Minnesota/AI09-4022/2009', 'A/mallard/New Jersey/Sg-00939/2008')
 
 A/northern shoveler/Mississippi/11OS202/2011
-('A/mallard/Wisconsin/10OS2889/2010', 'A/American green-winged teal/Mississippi/11OS255/2011')
+('A/blue-winged Teal/North Dakota/AI09-4039/2009', 'A/American green-winged teal/Mississippi/11OS255/2011')
 
 A/ruddy turnstone/New Jersey/Sg-00515/2008
 ('A/ruddy turnstone/New Jersey/Sg-00544/2008', 'A/shorebird/Delaware Bay/329/2008')
 
-A/mallard/Wisconsin/11OS4362/2011
-('A/mallard/Wisconsin/11OS4292/2011', 'A/mallard/Minnesota/Sg-00782/2008')
+A/mallard/Ohio/2043/2009
+('A/mallard/California/8432/2008', 'A/green-winged teal/Minnesota/Sg-01073/2008')
 
 A/blue-winged teal/Illinois/10OS1546/2010
-('A/blue-winged teal/Illinois/10OS1563/2010', 'A/mallard/Minnesota/Sg-00868/2008')
-('A/blue-winged teal/Illinois/10OS1561/2010', 'A/mallard/Minnesota/Sg-00868/2008')
+('A/blue-winged teal/Guatemala/CIP049-05/2010', 'A/northern pintail/Interior Alaska/9BM11719R1/2009')
 
 A/mallard/Minnesota/AI09-3821/2009
 ('A/blue-winged teal/Minnesota/Sg-00799/2008', 'A/gadwall duck/Minnesota/Sg-00575/2008')
 
-A/green-winged teal/Minnesota/Sg-00820/2008
-('A/mallard/Minnesota/Sg-00767/2008', 'A/ruddy turnstone/New Jersey/Sg-00500/2008')
-('A/mallard/Minnesota/Sg-00767/2008', 'A/ruddy turnstone/New Jersey/Sg-00493/2008')
+A/mallard/Minnesota/Sg-00837/2008
 
-A/American black duck/Nova Scotia/00083/2010
-('A/green-winged teal/New Brunswick/00333/2010', 'A/American green-winged teal/Wisconsin/08OS2291/2008')
+A/American wigeon/California/6610/2008
+('A/mallard/California/6524/2008', 'A/mallard/Minnesota/Sg-00847/2008')
+
+A/mallard/Wisconsin/10OS2667/2010
+('A/mallard/Wisconsin/4203/2009', 'A/mallard/Illinois/4162/2009')
+
+A/American green-winged teal/Mississippi/11OS256/2011
+('A/mallard/Mississippi/10OS4593/2010', 'A/mallard/Wisconsin/2756/2009')
 
 A/northern shoveler/California/9781/2008
-('A/mallard/Alberta/569/2008', 'A/green-winged teal/California/11275/2008')
+('A/green-winged teal/California/11275/2008', 'A/green-winged teal/California/8326/2008')
 
 A/mallard/Interior Alaska/8BM2102/2008
-('A/ruddy turnstone/Delaware/Sg-00540/2008', 'A/mallard/Alberta/496/2008')
 
 A/blue-winged teal/New Brunswick/03756/2009
-('A/mallard/New Jersey/Sg-00884/2008', 'A/mallard/Wisconsin/1538/2009')
+('A/mallard/Wisconsin/1538/2009', 'A/American green-winged teal/Wisconsin/08OS2291/2008')
 
 A/American green-winged teal/Wisconsin/11OS3053/2011
-('A/mallard/Mississippi/442/2010', 'A/mallard/Wisconsin/10OS3066/2010')
+('A/mallard/Wisconsin/10OS3066/2010', 'A/mallard/Mississippi/442/2010')
 
-A/northern pintail/Wisconsin/11OS4111/2011
-('A/mallard/Wisconsin/11OS3468/2011', 'A/American green-winged teal/Illinois/10OS3589/2010')
+A/gull/Delaware/AI09-435/2009
 
 A/mallard/Minnesota/Sg-01042/2008
-('A/mallard/Minnesota/Sg-01035/2008', 'A/mallard/Minnesota/SG-00932/2008')
+('A/mallard/Minnesota/Sg-00868/2008', 'A/mallard/Minnesota/Sg-00768/2008')
 
 A/ruddy turnstone/New Jersey/Sg-00510/2008
-('A/ruddy turnstone/New Jersey/Sg-00531/2008', 'A/ruddy turnstone/New Jersey/Sg-00488/2008')
+('A/ruddy turnstone/New Jersey/Sg-00488/2008', 'A/ruddy turnstone/New Jersey/Sg-00531/2008')
 
-A/mallard/California/11353/2008
+A/mallard/California/8035/2008
 
 A/blue-winged Teal/North Dakota/AI09-4039/2009
 ('A/American green-winged teal/Wisconsin/08OS2270/2008', 'A/mallard/Minnesota/AI09-2519/2009')
@@ -999,104 +844,91 @@ A/blue-winged Teal/North Dakota/AI09-4039/2009
 A/blue-winged teal/Guatemala/CIP049-01/2008
 
 A/green-winged teal/California/11285/2008
-('A/mallard/California/11353/2008', 'A/northern pintail/California/6495/2008')
+('A/blue-winged teal/Minnesota/Sg-00899/2008', 'A/mallard/California/11100/2008')
 
 A/ruddy turnstone/New Jersey/Sg-00543/2008
-('A/ruddy turnstone/New Jersey/Sg-00522/2008', 'A/ruddy turnstone/New Jersey/Sg-00490/2008')
 
 A/mallard/California/8834/2008
-('A/mallard/California/8035/2008', 'A/green winged teal/California/AKS1305/2008')
 
 A/black scoter/New Brunswick/00003/2009
-('A/northern shoveler/California/HKWF2031/2008', 'A/shorebird/Delaware Bay/296/2008')
+('A/ruddy turnstone/New Jersey/Sg-00542/2008', 'A/northern shoveler/California/HKWF2031/2008')
 
 A/thick-billed murre/Canada/1813/2011
-('A/green-winged teal/New Brunswick/00331/2010', 'A/northern pintail/Missouri/319/2009')
+('A/green-winged teal/New Brunswick/00331/2010', 'A/mallard/California/6524/2008')
 
 A/mallard/Wisconsin/10OS2909/2010
 ('A/mallard/Iowa/10OS2492/2010', 'A/blue-winged teal/Iowa/10OS2639/2010')
 
-A/northern shoveler/California/4020/2011
-('A/mallard/Arkansas/AI09-5944/2009', 'A/northern shoveler/California/3046/2010')
-
 A/American black duck/New Brunswick/00612/2010
-('A/American black duck/New Brunswick/00471/2010', 'A/northern shoveler/Mississippi/09OS643/2009')
+('A/American black duck/New Brunswick/00481/2010', 'A/mallard/Mississippi/329/2010')
 
 A/green-winged teal/Minnesota/Sg-00991/2008
-('A/blue-winged teal/North Dakota/Sg-00750/2008', 'A/mallard/Minnesota/Sg-01035/2008')
+('A/northern pintail/Interior Alaska/8BM3582/2008', 'A/shorebird/Delaware Bay/379/2008')
 
 A/mallard/Wisconsin/11OS4368/2011
-('A/mallard/Wisconsin/11OS4292/2011', 'A/mallard/Alberta/551/2009')
+('A/mallard/Alberta/551/2009', 'A/mallard/Wisconsin/11OS4292/2011')
 
 A/mallard/California/2566P/2011
-('A/mallard/California/2552V/2011', 'A/mallard/California/2578P/2011')
+('A/mallard/California/2578P/2011', 'A/mallard/California/2589V/2011')
 
 A/northern pintail/Illinois/10OS3257/2010
-('A/mallard/Wisconsin/10OS2889/2010', 'A/blue-winged teal/Wisconsin/2720/2009')
+('A/northern pintail/Interior Alaska/8BM3736/2008', 'A/mallard/Illinois/4162/2009')
 
 A/mallard/Illinois/10OS4078/2010
-('A/northern pintail/Illinois/10OS3257/2010', 'A/mallard/Illinois/08OS2710/2008')
-('A/northern pintail/Illinois/10OS3257/2010', 'A/American green-winged teal/Illinois/08OS2713/2008')
+('A/mallard/Interior Alaska/9BM8287R0/2009', 'A/ruddy turnstone/New Jersey/Sg-00543/2008')
 
 A/ruddy turnstone/New Jersey/AI09-027/2009
 ('A/ruddy turnstone/New Jersey/AI09-151/2009', 'A/herring gull/New Jersey/AI09-335/2009')
-
-A/northern pintail/Interior Alaska/10BM05034R0/2010
-('A/northern pintail/Interior Alaska/10BM02549R0/2010', 'A/mallard/Interior Alaska/10BM05968R0/2010')
 
 A/mallard/Wisconsin/10OS4194/2010
 ('A/blue-winged teal/Missouri/10MO0011/2010', 'A/northern shoveler/Missouri/10MO0294/2010')
 
 A/mallard/Illinois/10OS3676/2010
-('A/mallard/Wisconsin/2719/2009', 'A/American green-winged teal/Texas/AI09-6046/2009')
+('A/mallard/Alberta/155/2009', 'A/northern pintail/Alberta/8/2009')
 
-A/ruddy turnstone/New Jersey/AI09-464/2009
-('A/ruddy turnstone/New Jersey/AI09-573/2009', 'A/shorebird/Delaware Bay/226/2009')
+A/mallard/Minnesota/AI09-3770/2009
+('A/mallard/Alberta/155/2009', 'A/northern pintail/Interior Alaska/8MP0262R2/2008')
 
 A/mallard/Iowa/10OS2721/2010
-('A/American black duck/New Brunswick/00867/2010', 'A/American wigeon/Iowa/10OS2748/2010')
+('A/mallard/Minnesota/AI09-2518/2009', 'A/mallard/New Jersey/AI09-5405/2009')
 
 A/mallard/Interior Alaska/9BM8389R0/2009
-('A/mallard/Interior Alaska/9BM7162R0/2009', 'A/northern pintail/Interior Alaska/9BM7152R2/2009')
+('A/mallard/Interior Alaska/9BM7162R0/2009', 'A/mallard/Alberta/496/2008')
 
 A/mallard/Mississippi/10OS4494/2010
-('A/mallard/Minnesota/AI09-1854/2009', 'A/mallard/Mississippi/413/2010')
+('A/mallard/Illinois/10OS3676/2010', 'A/mallard/Mississippi/413/2010')
 
 A/mallard/Minnesota/AI09-2518/2009
-('A/mallard/Minnesota/AI09-3353/2009', 'A/mallard/Minnesota/AI09-3100/2009')
+('A/mallard/Wisconsin/08OS2841/2008', 'A/mallard/Minnesota/AI09-3100/2009')
 
 A/shorebird/Delaware Bay/446/2008
-('A/ruddy turnstone/New Jersey/Sg-00526/2008', 'A/shorebird/Delaware Bay/315/2008')
+('A/shorebird/Delaware Bay/315/2008', 'A/ruddy turnstone/New Jersey/Sg-00526/2008')
 
 A/northern shoveler/California/2810/2011
 ('A/northern shoveler/California/3183/2010', 'A/mallard/California/3569/2010')
 
 A/mallard/Missouri/132/2009
-('A/northern pintail/Interior Alaska/8BM2528R1/2008', 'A/American green-winged teal/Illinois/2479/2009')
 
 A/ruddy turnstone/New Jersey/Sg-00551/2008
-('A/ruddy turnstone/New Jersey/Sg-00471/2008', 'A/shorebird/Delaware Bay/312/2008')
-('A/shorebird/Delaware Bay/438/2008', 'A/ruddy turnstone/New Jersey/Sg-00471/2008')
-('A/ruddy turnstone/New Jersey/Sg-00471/2008', 'A/shorebird/Delaware Bay/497/2008')
 
 A/blue-winged teal/Texas/AI09-4405/2009
 ('A/blue-winged teal/Minnesota/Sg-00799/2008', 'A/mallard/Minnesota/Sg-00868/2008')
 
 A/mallard/Ohio/11OS2208/2011
-('A/mallard/Ohio/11OS2092/2011', 'A/mallard/Ohio/11OS2096/2011')
-('A/mallard/Ohio/11OS2206/2011', 'A/mallard/Ohio/11OS2096/2011')
+('A/mallard/Interior Alaska/9BM6888R0/2009', 'A/mallard/Ohio/11OS2096/2011')
+('A/northern pintail/Interior Alaska/9BM6205R0/2009', 'A/mallard/Ohio/11OS2096/2011')
 
 A/shorebird/Delaware Bay/167/2009
-('A/ruddy turnstone/New Jersey/AI09-377/2009', 'A/ruddy turnstone/New Jersey/AI09-846/2009')
+('A/ruddy turnstone/New Jersey/AI09-846/2009', 'A/ruddy turnstone/New Jersey/AI09-377/2009')
 
 A/northern shoveler/California/9140/2008
-('A/mallard/California/8834/2008', 'A/mallard/California/8843/2008')
+('A/mallard/Interior Alaska/8BM2102/2008', 'A/mallard/California/8834/2008')
 
 A/mallard/California/3188/2010
 ('A/mallard/North Dakota/Sg-00737/2008', 'A/blue-winged teal/Texas/AI09-4463/2009')
 
 A/blue-winged teal/Iowa/10OS2649/2010
-('A/blue-winged teal/Missouri/10MO0011/2010', 'A/mallard/Iowa/10OS2426/2010')
+('A/blue-winged Teal/North Dakota/AI09-4039/2009', 'A/blue-winged teal/Missouri/10MO030/2010')
 
 A/American green-winged teal/Mississippi/11OS257/2011
 ('A/bufflehead/Illinois/4016/2009', 'A/northern shoveler/Illinois/10OS3619/2010')
@@ -1105,164 +937,170 @@ A/mallard/Wisconsin/4230/2009
 ('A/blue-winged teal/North Dakota/Sg-00730/2008', 'A/mallard/Minnesota/Sg-0617/2008')
 
 A/green-winged teal/Minnesota/Sg-01073/2008
-('A/mallard/California/8834/2008', 'A/gadwall/Wisconsin/08OS2296/2008')
+('A/green-winged teal/Minnesota/Sg-00991/2008', 'A/green-winged teal/California/7972/2008')
 
 A/northern pintail/Interior Alaska/8MP0262R2/2008
-('A/mallard/Interior Alaska/8BM2312/2008', 'A/green winged teal/California/AKS1370/2008')
 
 A/mallard/Wisconsin/10OS2945/2010
-('A/mallard/Wisconsin/10OS2889/2010', 'A/blue-winged teal/Missouri/10MO030/2010')
+('A/mallard/Wisconsin/10OS2889/2010', 'A/American green-winged teal/Illinois/10OS1551/2010')
 
 A/northern shoveler/Missouri/10OS4718/2010
-('A/mallard/Illinois/10OS3786/2010', 'A/mallard/Illinois/10OS4130/2010')
+('A/American green-winged teal/Wisconsin/2743/2009', 'A/mallard/Illinois/10OS3786/2010')
 
-A/turkey/Ontario/FAV-9/2011
+A/herring gull/New Jersey/AI09-335/2009
+('A/shorebird/Delaware Bay/230/2009', 'A/shorebird/Delaware Bay/257/2009')
+('A/shorebird/Delaware Bay/231/2009', 'A/shorebird/Delaware Bay/257/2009')
 
-A/American black duck/New Brunswick/00487/2010
-('A/American black duck/New Brunswick/00470/2010', 'A/American black duck/New Brunswick/00485/2010')
+A/mallard/California/6490/2008
+('A/mallard/Alberta/527/2008', 'A/American wigeon/California/6610/2008')
 
 A/mallard/Wisconsin/11OS3079/2011
-('A/mallard/Wisconsin/11OS3106/2011', 'A/mallard/Minnesota/AI09-1829/2009')
+('A/mallard/Minnesota/AI09-1829/2009', 'A/American green-winged teal/Wisconsin/10OS2955/2010')
 
 A/mallard/California/2590V/2011
-('A/mallard/California/2563P/2011', 'A/mallard/California/2584V/2011')
+('A/mallard/California/2532V/2011', 'A/mallard/California/2584V/2011')
 
 A/mallard/Illinois/3048/2009
-('A/green-winged teal/Minnesota/Sg-01065/2008', 'A/mallard/Illinois/3051/2009')
+('A/mallard/Minnesota/AI09-3819/2009', 'A/ring-necked duck/New Brunswick/03449/2009')
 
 A/ruddy turnstone/New Jersey/AI11-1678/2011
 ('A/shorebird/Delaware Bay/792/2009', 'A/ruddy turnstone/New Jersey/AI11-2098/2011')
 
 A/northern shoveler/Missouri/298/2009
-('A/American green-winged teal/Wisconsin/2530/2009', 'A/northern shoveler/Interior Alaska/8BM3470/2008')
+('A/northern shoveler/California/6535/2009', 'A/American black duck/Wisconsin/2542/2009')
 
 A/mallard/Alberta/319/2009
 ('A/mallard/Minnesota/AI08-5469/2008', 'A/mallard/Alberta/289/2009')
 
 A/mallard/Minnesota/AI09-3302/2009
-('A/ring-necked duck/New Brunswick/03449/2009', 'A/mallard/Minnesota/AI09-3353/2009')
+('A/mallard/Minnesota/AI09-3353/2009', 'A/ring-necked duck/New Brunswick/03449/2009')
 
 A/lesser scaup/Louisiana/AI09-5204/2009
-('A/mallard/North Dakota/Sg-00737/2008', 'A/American wigeon/Louisiana/Sg-01031/2008')
+('A/American wigeon/Interior Alaska/9BM2501R1/2009', 'A/green-winged teal/Minnesota/Sg-01065/2008')
 
 A/mallard/Wisconsin/10OS2659/2010
-('A/American black duck/Wisconsin/2542/2009', 'A/blue-winged teal/Wisconsin/2572/2009')
+('A/blue-winged teal/Minnesota/Sg-00899/2008', 'A/American black duck/Wisconsin/2542/2009')
 
-A/northern pintail/Illinois/11OS4764/2011
-('A/ring-necked duck/New Brunswick/03449/2009', 'A/northern pintail/Wisconsin/11OS4111/2011')
+A/ruddy turnstone/New Jersey/Sg-00548/2008
+('A/shorebird/Delaware Bay/586/2008', 'A/ruddy turnstone/New Jersey/Sg-00520/2008')
 
 A/mallard/Wisconsin/10OS2672/2010
-('A/American black duck/New Brunswick/00867/2010', 'A/mallard/Minnesota/SG-00932/2008')
+('A/mallard/Wisconsin/4230/2009', 'A/American green-winged teal/Wisconsin/10OS2955/2010')
 
 A/American green-winged teal/Wisconsin/10OS3127/2010
-('A/blue-winged teal/Guatemala/CIP049-12/2010', 'A/northern pintail/Interior Alaska/10BM14807R2/2010')
+('A/northern shoveler/Missouri/196/2009', 'A/mallard/California/5386/2009')
 
 A/mallard/Minnesota/Sg-01005/2008
-('A/mallard/Minnesota/Sg-00630/2008', 'A/mallard/Minnesota/Sg-00868/2008')
+('A/mallard/Minnesota/Sg-00868/2008', 'A/mallard/Minnesota/Sg-00630/2008')
 
 A/mallard/Minnesota/AI09-3100/2009
-('A/green-winged teal/Minnesota/Sg-01065/2008', 'A/mallard/Minnesota/AI09-2518/2009')
+('A/mallard/Minnesota/Sg-01042/2008', 'A/mallard/Minnesota/AI09-2518/2009')
 
 A/mallard/Wisconsin/11OS3009/2011
-('A/mallard/Ohio/11OS2149/2011', 'A/northern shoveler/Missouri/10MO0294/2010')
+('A/northern shoveler/Missouri/10MO0294/2010', 'A/mallard/Ohio/11OS2149/2011')
 
 A/bufflehead/Illinois/4016/2009
-('A/northern pintail/Interior Alaska/8BM2528R1/2008', 'A/mallard/California/6772/2008')
+('A/blue-winged teal/Louisiana/AI09-5291/2009', 'A/northern pintail/Interior Alaska/8BM2528R1/2008')
 
 A/shorebird/Delaware Bay/236/2009
 ('A/laughing gull/New Jersey/AI09-218/2009', 'A/ruddy turnstone/New Jersey/AI09-194/2009')
 
 A/blue-winged teal/Wisconsin/2572/2009
-('A/mallard/Minnesota/AI09-2434/2009', 'A/mallard/Wisconsin/2560/2009')
+('A/northern pintail/Interior Alaska/8MP0262R2/2008', 'A/mallard/Minnesota/AI09-3353/2009')
 
 A/blue-winged teal/Wisconsin/11OS3052/2011
-('A/mallard/Wisconsin/11OS3106/2011', 'A/northern shoverl/Mississippi/11OS145/2011')
+('A/mallard/Wisconsin/10OS2773/2010', 'A/mallard/Wisconsin/11OS3106/2011')
+('A/wood duck/Wisconsin/10OS2778/2010', 'A/mallard/Wisconsin/11OS3106/2011')
 
 A/mallard/Wisconsin/10OS2538/2010
 ('A/blue-winged teal/Guatemala/CIP049-10/2009', 'A/mallard/California/6471/2008')
 
-A/northern pintail/Interior Alaska/8BM3658/2008
-('A/mallard/Interior Alaska/8BM3627R1/2008', 'A/mallard/Interior Alaska/8BM3614/2008')
+A/mallard/Minnesota/AI09-1829/2009
+('A/northern shoveler/Illinois/08OS3331/2008', 'A/mallard/California/5255/2009')
 
 A/mallard/Minnesota/AI09-2519/2009
-('A/northern shoveler/Mississippi/09OS643/2009', 'A/blue-winged teal/North Dakota/Sg-00759/2008')
+('A/northern shoveler/California/9267/2008', 'A/northern pintail/Minnesota/AI09-4322/2009')
 
 A/mallard/Wisconsin/08OS2844/2008
-('A/mallard/Minnesota/Sg-00692/2008', 'A/mallard/Minnesota/Sg-01005/2008')
+('A/mallard/Minnesota/Sg-01005/2008', 'A/mallard/Minnesota/Sg-00692/2008')
 
 A/bufflehead/Wisconsin/10OS3204/2010
-('A/blue-winged teal/New Brunswick/00288/2010', 'A/mallard/Minnesota/AI09-3066/2009')
+('A/northern shoveler/Illinois/3767/2009', 'A/ring-necked duck/Minnesota/Sg-01066/2008')
 
 A/mallard/Wisconsin/2575/2009
-('A/mallard/Minnesota/AI09-2434/2009', 'A/mallard/Minnesota/AI09-4022/2009')
+('A/northern pintail/Interior Alaska/9BM7836R0/2009', 'A/mallard/Minnesota/AI09-3819/2009')
 
 A/mallard/Wisconsin/10OS3845/2010
-('A/American black duck/New Brunswick/00867/2010', 'A/American wigeon/Iowa/10OS2748/2010')
+('A/American black duck/New Brunswick/00867/2010', 'A/American black duck/Wisconsin/2542/2009')
 
 A/northern pintail/California/3452/2010
-('A/mallard/California/5255/2009', 'A/mallard/Minnesota/AI09-1678/2009')
+('A/mallard/Missouri/10MO0253/2010', 'A/mallard/Minnesota/AI09-1678/2009')
 
 A/northern shoveler/Mississippi/09OS025/2009
-('A/American wigeon/California/6610/2008', 'A/green-winged teal/Minnesota/Sg-01073/2008')
+('A/northern pintail/Interior Alaska/8BM3696/2008', 'A/northern pintail/Interior Alaska/8BM3736/2008')
 
 A/blue-winged teal/North Dakota/Sg-00735/2008
 
-A/mallard/California/6744/2009
-('A/blue-winged Teal/North Dakota/AI09-2912/2009', 'A/northern shoveler/Minnesota/Sg-00648/2008')
+A/mallard/Minnesota/AI09-3066/2009
+('A/mallard/Interior Alaska/9BM1799/2009', 'A/mallard/Minnesota/Sg-00804/2008')
+('A/mallard/Minnesota/Sg-00804/2008', 'A/mallard/Interior Alaska/9BM1585R1/2009')
 
-A/mallard/Illinois/11OS5564/2011
-('A/mallard/Ohio/11OS2224/2011', 'A/red-necked grebe/Minnesota/AI10-2528/2010')
+A/mallard/Wisconsin/11OS3422/2011
+('A/American green-winged teal/Illinois/3443/2009', 'A/mallard/Wisconsin/11OS4115/2011')
 
 A/mallard/Interior Alaska/9BM10393R0/2009
-('A/northern pintail/Interior Alaska/8BM3736/2008', 'A/northern pintail/Interior Alaska/9BM7254R0/2009')
-('A/northern pintail/Interior Alaska/8BM3736/2008', 'A/northern pintail/Interior Alaska/9BM7252R0/2009')
+('A/northern pintail/Interior Alaska/9BM7252R0/2009', 'A/northern pintail/Interior Alaska/8BM3736/2008')
+('A/northern pintail/Interior Alaska/9BM7254R0/2009', 'A/northern pintail/Interior Alaska/8BM3736/2008')
 
 A/ruddy turnstone/New Jersey/Sg-00521/2008
-('A/ruddy turnstone/New Jersey/Sg-00535/2008', 'A/ruddy turnstone/New Jersey/Sg-00476/2008')
+('A/ruddy turnstone/New Jersey/Sg-00476/2008', 'A/ruddy turnstone/New Jersey/Sg-00535/2008')
 
 A/northern shoveler/Illinois/10OS3619/2010
-('A/mallard/Wisconsin/10OS2667/2010', 'A/northern shoveler/Mississippi/09OS643/2009')
+('A/blue-winged teal/Guatemala/CIP049-05/2010', 'A/mallard/Wisconsin/10OS2667/2010')
 
 A/gadwall/Illinois/10OS3342/2010
-('A/green-winged teal/California/8612/2008', 'A/American green-winged teal/Wisconsin/08OS2291/2008')
+('A/American green-winged teal/Wisconsin/08OS2291/2008', 'A/green-winged teal/California/8612/2008')
 
 A/mallard/Minnesota/SG-00932/2008
-('A/mallard/Interior Alaska/8MP0547/2008', 'A/mallard/Minnesota/SG-00927/2008')
-('A/northern pintail/Interior Alaska/8BM2046R1/2008', 'A/mallard/Minnesota/SG-00927/2008')
 
 A/mallard/Illinois/4179/2009
-('A/mallard/Iowa/3193/2009', 'A/northern shoveler/California/9187/2008')
+('A/blue-winged teal/North Dakota/Sg-00750/2008', 'A/mallard/Minnesota/AI09-3302/2009')
 
-A/ruddy turnstone/New Jersey/Sg-00557/2008
-('A/ruddy turnstone/New Jersey/Sg-00488/2008', 'A/ruddy turnstone/New Jersey/Sg-00567/2008')
+A/mallard/Minnesota/Sg-00847/2008
+('A/blue-winged teal/North Dakota/Sg-00740/2008', 'A/mallard/Minnesota/Sg-00768/2008')
 
 A/ruddy turnstone/New Jersey/AI09-474/2009
 ('A/gull/Delaware/AI09-453/2009', 'A/ruddy turnstone/New Jersey/AI09-1352/2009')
 ('A/gull/Delaware/AI09-438/2009', 'A/ruddy turnstone/New Jersey/AI09-1352/2009')
-('A/shorebird/Delaware Bay/170/2009', 'A/ruddy turnstone/New Jersey/AI09-1352/2009')
-('A/ruddy turnstone/New Jersey/AI09-1352/2009', 'A/ruddy turnstone/Delaware/AI09-1221/2009')
+('A/ruddy turnstone/New Jersey/AI09-1352/2009', 'A/shorebird/Delaware Bay/170/2009')
 ('A/shorebird/Delaware Bay/318/2009', 'A/ruddy turnstone/New Jersey/AI09-1352/2009')
-('A/ruddy turnstone/New Jersey/AI09-841/2009', 'A/ruddy turnstone/New Jersey/AI09-1352/2009')
+('A/ruddy turnstone/New Jersey/AI09-1352/2009', 'A/ruddy turnstone/New Jersey/AI09-841/2009')
 ('A/shorebird/Delaware Bay/321/2009', 'A/ruddy turnstone/New Jersey/AI09-1352/2009')
+('A/ruddy turnstone/Delaware/AI09-1221/2009', 'A/ruddy turnstone/New Jersey/AI09-1352/2009')
 ('A/ruddy turnstone/New Jersey/AI09-775/2009', 'A/ruddy turnstone/New Jersey/AI09-1352/2009')
 
 A/blue-winged teal/North Dakota/Sg-00750/2008
-('A/mallard/Interior Alaska/8BM3627R1/2008', 'A/blue-winged teal/North Dakota/Sg-00730/2008')
+('A/mallard/Minnesota/SG-00932/2008', 'A/mallard/Interior Alaska/8BM3627R1/2008')
 
 A/ruddy turnstone/New Jersey/AI09-827/2009
 ('A/ruddy turnstone/New Jersey/AI09-305/2009', 'A/ruddy turnstone/New Jersey/AI09-937/2009')
 
 A/green-winged teal/Minnesota/Sg-01065/2008
-('A/mallard/Minnesota/Sg-01047/2008', 'A/mallard/Minnesota/Sg-00768/2008')
 
 A/mallard/Interior Alaska/10BM07575R0/2010
-('A/mallard/California/1289/2010', 'A/mallard/Interior Alaska/10BM04564R1/2010')
+('A/mallard/Minnesota/SG-00929/2008', 'A/mallard/Interior Alaska/10BM05860R0/2010')
+('A/mallard/Interior Alaska/10BM05347R0/2010', 'A/mallard/Minnesota/SG-00929/2008')
 
 A/mallard/Wisconsin/2785/2009
 ('A/blue-winged teal/Wisconsin/2572/2009', 'A/blue-winged teal/North Dakota/Sg-00735/2008')
 
+A/mallard/New Jersey/AI09-5137/2009
+('A/mallard/New Jersey/AI09-5086/2009', 'A/mallard/New Jersey/AI09-5122/2009')
+('A/mallard/New Jersey/AI09-5086/2009', 'A/mallard/New Jersey/AI09-5361/2009')
+('A/mallard/New Jersey/AI09-5086/2009', 'A/mallard/New Jersey/AI09-6426/2009')
+
 A/American wigeon/Louisiana/Sg-01032/2008
-('A/mallard/Minnesota/Sg-00768/2008', 'A/blue-winged teal/North Dakota/Sg-00759/2008')
+('A/green-winged teal/Minnesota/Sg-01073/2008', 'A/blue-winged teal/North Dakota/Sg-00759/2008')
 
 A/American green-winged teal/Illinois/10OS4014/2010
 ('A/mallard/Iowa/10OS2420/2010', 'A/green-winged teal/California/11275/2008')
@@ -1273,23 +1111,23 @@ A/northern pintail/Interior Alaska/9BM11564R0/2009
 ('A/mallard/Interior Alaska/9BM7218R0/2009', 'A/mallard/Interior Alaska/9BM11023R0/2009')
 ('A/mallard/Interior Alaska/9BM7218R0/2009', 'A/northern pintail/Interior Alaska/9BM8237R0/2009')
 
-A/northern shoveler/Missouri/10OS4632/2010
-('A/American green-winged teal/Illinois/10OS3368/2010', 'A/mallard/Minnesota/AI10-2217/2010')
+A/northern pintail/California/2789/2011
+('A/mallard/Interior Alaska/10BM02980R0/2010', 'A/mallard/Ohio/11OS2239/2011')
 
 A/mallard/Wisconsin/2530/2009
-('A/green-winged teal/Minnesota/Sg-01065/2008', 'A/blue-winged Teal/North Dakota/AI09-3881/2009')
+('A/mallard/Minnesota/AI08-3881/2008', 'A/blue-winged Teal/North Dakota/AI09-3881/2009')
 
 A/mallard/Minnesota/AI09-1714/2009
 ('A/northern shoveler/Mississippi/09OS643/2009', 'A/mallard/Minnesota/Sg-00620/2008')
 ('A/northern shoveler/Mississippi/09OS643/2009', 'A/mallard/Minnesota/Sg-0617/2008')
 
 A/mallard/Ohio/11OS2049/2011
-('A/mallard/Ohio/11OS2153/2011', 'A/mallard/Michigan/10OS1491/2010')
+('A/mallard/Michigan/10OS1491/2010', 'A/mallard/Ohio/11OS2153/2011')
 
 A/mallard/California/1390/2010
 
 A/mallard/Ohio/11OS2150/2011
-('A/mallard/Ohio/11OS2142/2011', 'A/mallard/Ohio/11OS2096/2011')
+('A/mallard/Ohio/11OS2141/2011', 'A/mallard/Ohio/11OS2216/2011')
 
 A/mallard/California/6471/2008
 ('A/mallard/Minnesota/Sg-00804/2008', 'A/mallard/Minnesota/Sg-00868/2008')
@@ -1297,127 +1135,112 @@ A/mallard/California/6471/2008
 A/mallard/Alberta/527/2008
 
 A/ruddy turnstone/Delaware/AI09-1268/2009
+('A/shorebird/Delaware Bay/338/2009', 'A/ruddy turnstone/New Jersey/AI09-1326/2009')
 ('A/ruddy turnstone/New Jersey/AI09-1326/2009', 'A/shorebird/Delaware Bay/340/2009')
-('A/ruddy turnstone/New Jersey/AI09-1326/2009', 'A/shorebird/Delaware Bay/338/2009')
 ('A/ruddy turnstone/New Jersey/AI09-1326/2009', 'A/shorebird/Delaware Bay/342/2009')
 
-A/American green-winged teal/Mississippi/11OS256/2011
-('A/mallard/Wisconsin/2756/2009', 'A/mallard/Mississippi/10OS4593/2010')
+A/American black duck/Nova Scotia/00083/2010
+('A/ruddy turnstone/New Jersey/AI09-573/2009', 'A/green-winged teal/New Brunswick/00333/2010')
 
 A/ruddy turnstone/New Jersey/AI09-1008/2009
+('A/ruddy turnstone/New Jersey/AI09-1164/2009', 'A/ruddy turnstone/New Jersey/AI09-775/2009')
 ('A/ruddy turnstone/New Jersey/AI09-1164/2009', 'A/ruddy turnstone/New Jersey/AI09-464/2009')
-('A/ruddy turnstone/New Jersey/AI09-775/2009', 'A/ruddy turnstone/New Jersey/AI09-1164/2009')
 
 A/mallard/Ohio/11OS2083/2011
 ('A/mallard/Ohio/11OS2072/2011', 'A/mallard/Ohio/11OS2049/2011')
 
 A/shorebird/Delaware Bay/707/2009
-('A/ruddy turnstone/New Jersey/AI09-1008/2009', 'A/mallard/Minnesota/Sg-01018/2008')
+('A/mallard/Minnesota/Sg-00768/2008', 'A/mallard/Minnesota/Sg-00868/2008')
 
 A/green-winged teal/Minnesota/Sg-01000/2008
-('A/mallard/Minnesota/Sg-00930/2008', 'A/blue-winged teal/North Dakota/Sg-00759/2008')
+('A/mallard/Minnesota/Sg-00697/2008', 'A/northern shoveler/Minnesota/Sg-00645/2008')
 
 A/American wigeon/California/3179/2010
-('A/American wigeon/California/2423/2010', 'A/mallard/California/3188/2010')
+('A/American wigeon/California/2423/2010', 'A/northern shoveler/California/9140/2008')
+('A/American wigeon/California/2423/2010', 'A/mallard/California/8834/2008')
 
 A/northern pintail/Interior Alaska/8MP0689/2008
-('A/northern pintail/Interior Alaska/8BM2621R1/2008', 'A/northern pintail/Interior Alaska/8MP0262R2/2008')
 
 A/mallard/California/6524/2008
-('A/blue-winged teal/Minnesota/Sg-00799/2008', 'A/northern pintail/Interior Alaska/8BM3736/2008')
+('A/green-winged teal/Minnesota/Sg-00820/2008', 'A/American wigeon/California/6610/2008')
 
 A/northern pintail/Wisconsin/11OS3295/2011
-('A/mallard/Wisconsin/11OS3158/2011', 'A/red-necked grebe/Minnesota/AI10-2528/2010')
-('A/red-necked grebe/Minnesota/AI10-2528/2010', 'A/mallard/Wisconsin/11OS3157/2011')
+('A/mallard/Wisconsin/11OS3157/2011', 'A/mallard/Minnesota/Sg-00616/2008')
+('A/mallard/Wisconsin/11OS3158/2011', 'A/mallard/Minnesota/Sg-00616/2008')
 
 A/blue-winged teal/Missouri/10MO021/2010
-('A/blue-winged teal/Iowa/10OS2411/2010', 'A/blue-winged teal/Illinois/10OS2988/2010')
+('A/blue-winged teal/Iowa/10OS2411/2010', 'A/mallard/New Jersey/Sg-00884/2008')
 
 A/mallard/Wisconsin/4197/2009
-('A/mallard/Wisconsin/3165/2009', 'A/mallard/Wisconsin/1534/2009')
+('A/mallard/Wisconsin/3165/2009', 'A/ruddy turnstone/New Jersey/Sg-00552/2008')
 
 A/ruddy turnstone/New Jersey/Sg-00533/2008
-('A/ruddy turnstone/Delaware/Sg-00469/2008', 'A/shorebird/Delaware Bay/329/2008')
+('A/shorebird/Delaware Bay/329/2008', 'A/ruddy turnstone/Delaware/Sg-00469/2008')
 
 A/northern shoveler/Missouri/10OS4750/2010
 ('A/blue-winged teal/Wisconsin/2720/2009', 'A/American green-winged teal/Illinois/10OS4014/2010')
 
 A/blue-winged teal/Guatemala/CIP049-04/2010
-('A/American green-winged teal/Mississippi/09OS046/2009', 'A/blue-winged teal/Guatemala/CIP049-15/2010')
+('A/blue-winged teal/Guatemala/CIP049-15/2010', 'A/northern shoveler/Mississippi/09OS643/2009')
 
 A/mallard/Wisconsin/11OS3098/2011
-('A/American black duck/Wisconsin/11OS3191/2011', 'A/mallard/California/6695/2009')
+('A/blue-winged teal/Nova Scotia/01003/2010', 'A/mallard/Wisconsin/10OS2524/2010')
 
 A/American green-winged teal/Illinois/2479/2009
 ('A/mallard/Minnesota/Sg-00692/2008', 'A/mallard/Illinois/3051/2009')
 
-A/herring gull/New Jersey/AI09-335/2009
-('A/shorebird/Delaware Bay/257/2009', 'A/shorebird/Delaware Bay/231/2009')
-('A/shorebird/Delaware Bay/257/2009', 'A/shorebird/Delaware Bay/230/2009')
-
-A/northern pintail/Wisconsin/11OS3299/2011
-('A/mallard/Illinois/08OS2315/2008', 'A/mallard/Wisconsin/10OS2909/2010')
+A/northern pintail/Interior Alaska/10CH00003R0/2010
+('A/mallard/Interior Alaska/10CH00021R0/2010', 'A/mallard/Minnesota/Sg-00931/2008')
 
 A/American green-winged teal/Illinois/11OS4814/2011
 
-A/northern shoveler/Interior Alaska/9BM12519R0/2009
-('A/northern pintail/Interior Alaska/9BM7052R0/2009', 'A/mallard/Interior Alaska/9BM8829R0/2009')
+A/American wigeon/Louisiana/Sg-01031/2008
+('A/mallard/Interior Alaska/8BM2102/2008', 'A/blue-winged teal/North Dakota/Sg-00750/2008')
 
 A/northern shoveler/California/3183/2010
-('A/blue-winged teal/Louisiana/AI09-5234/2009', 'A/blue-winged teal/Wisconsin/2720/2009')
+('A/northern pintail/California/2548/2010', 'A/shorebird/Delaware Bay/380/2010')
+('A/northern pintail/California/2548/2010', 'A/Canada goose/Delaware Bay/34/2010')
 
 A/ruddy turnstone/New Jersey/AI09-549/2009
 ('A/ruddy turnstone/New Jersey/AI09-1164/2009', 'A/ruddy turnstone/New Jersey/AI09-1352/2009')
 
 A/blue-winged teal/Iowa/44555-551/2011
-('A/mallard/Ohio/11OS2145/2011', 'A/blue-winged teal/Wisconsin/3060/2009')
-
-A/mallard/California/8212/2008
-('A/mallard/Interior Alaska/8BM2102/2008', 'A/mallard/California/8457/2008')
+('A/blue-winged teal/Wisconsin/3060/2009', 'A/mallard/Mississippi/329/2010')
 
 A/mallard/Ohio/11OS2141/2011
-('A/mallard/Ohio/11OS1961/2011', 'A/mallard/Ohio/11OS2142/2011')
+('A/mallard/Ohio/11OS2239/2011', 'A/mallard/Ohio/11OS2150/2011')
 
-A/American wigeon/Louisiana/Sg-01031/2008
-('A/mallard/Interior Alaska/8BM2102/2008', 'A/mallard/Alberta/270/2008')
-('A/mallard/Interior Alaska/8BM2102/2008', 'A/mallard/Alberta/121/2008')
+A/northern shoveler/Interior Alaska/9BM12519R0/2009
+('A/mallard/Interior Alaska/9BM8829R0/2009', 'A/northern pintail/Interior Alaska/9BM7052R0/2009')
 
 A/shorebird/Delaware Bay/478/2009
-('A/ruddy turnstone/New Jersey/AI09-710/2009', 'A/shorebird/Delaware Bay/230/2009')
+('A/shorebird/Delaware Bay/230/2009', 'A/ruddy turnstone/New Jersey/AI09-710/2009')
 
-A/northern shoveler/California/3483/2010
-('A/northern shoveler/Illinois/10OS3619/2010', 'A/ruddy turnstone/New Jersey/Sg-00500/2008')
-('A/ruddy turnstone/New Jersey/Sg-00493/2008', 'A/northern shoveler/Illinois/10OS3619/2010')
+A/mallard/California/8212/2008
 
 A/mallard/Minnesota/Sg-01018/2008
 ('A/green-winged teal/Minnesota/Sg-01000/2008', 'A/mallard/Minnesota/Sg-00768/2008')
 
-A/turkey/Ontario/FAV114-17/2009
-
 A/mallard/Wisconsin/2576/2009
-('A/blue-winged Teal/North Dakota/AI09-2912/2009', 'A/mallard/California/5222/2009')
+('A/swan/BC/2045/2008', 'A/green-winged teal/California/6990/2008')
 
 A/northern pintail/Wisconsin/2737/2009
-('A/mallard/Minnesota/AI09-4022/2009', 'A/mallard/Alberta/496/2008')
+('A/American green-winged teal/Illinois/2479/2009', 'A/mallard/Minnesota/AI09-4022/2009')
 
 A/northern pintail/Interior Alaska/10BM11380R0/2010
 ('A/lesser scaup/Wisconsin/3964/2009', 'A/American black duck/New Brunswick/03553/2009')
 ('A/American black duck/New Brunswick/03511/2009', 'A/lesser scaup/Wisconsin/3964/2009')
-('A/lesser scaup/Wisconsin/3964/2009', 'A/American black duck/New Brunswick/03552/2009')
-('A/lesser scaup/Wisconsin/3964/2009', 'A/American black duck/New Brunswick/03556/2009')
+('A/American black duck/New Brunswick/03552/2009', 'A/lesser scaup/Wisconsin/3964/2009')
+('A/American black duck/New Brunswick/03556/2009', 'A/lesser scaup/Wisconsin/3964/2009')
 
 A/mallard/Minnesota/Sg-01035/2008
 ('A/mallard/New Jersey/Sg-00892/2008', 'A/mallard/Minnesota/Sg-00616/2008')
 
 A/ring-necked duck/Minnesota/Sg-01066/2008
-('A/American wigeon/Minnesota/Sg-01067/2008', 'A/mallard/North Dakota/Sg-00703/2008')
+('A/mallard/North Dakota/Sg-00703/2008', 'A/American wigeon/Minnesota/Sg-01067/2008')
 
-A/blue-winged teal/Guatemala/CIP049-08/2010
-('A/blue-winged teal/Guatemala/CIP049-10/2009', 'A/blue-winged teal/Guatemala/CIP049-09/2010')
-('A/blue-winged teal/Guatemala/CIP049-03/2009', 'A/blue-winged teal/Guatemala/CIP049-09/2010')
-('A/blue-winged teal/Guatemala/CIP049-11/2009', 'A/blue-winged teal/Guatemala/CIP049-09/2010')
-
-A/American coot/Mississippi/09OS615/2009
+A/American black duck/New Brunswick/00487/2010
+('A/American black duck/New Brunswick/00470/2010', 'A/American black duck/New Brunswick/00485/2010')
 
 A/northern pintail/Interior Alaska/8BM1995R1/2008
 
@@ -1425,20 +1248,19 @@ A/mallard/Wisconsin/08OS2271/2008
 ('A/mallard/Ohio/08OS1270/2008', 'A/mallard/Minnesota/Sg-00944/2008')
 
 A/northern pintail/Alberta/8/2009
-('A/mallard/California/5351/2009', 'A/northern pintail/Interior Alaska/9BM8907R0/2009')
+('A/northern pintail/Interior Alaska/9BM8907R0/2009', 'A/mallard/California/5351/2009')
 
-A/mallard/Mississippi/413/2010
-('A/mallard/California/6768/2009', 'A/mallard/Minnesota/AI09-1684/2009')
-('A/mallard/California/6768/2009', 'A/mallard/Minnesota/AI09-1678/2009')
+A/ruddy turnstone/Delaware/AI09-960/2009
+('A/ruddy turnstone/New Jersey/AI09-525/2009', 'A/ruddy turnstone/New Jersey/AI09-587/2009')
 
 A/American green-winged teal/Wisconsin/11OS3580/2011
 ('A/mallard/Wisconsin/11OS4104/2011', 'A/American black duck/New Brunswick/00998/2010')
 
-A/mallard/California/6695/2009
-('A/mallard/California/8293/2008', 'A/mallard/Alberta/319/2009')
+A/blue-winged teal/New Brunswick/03757/2009
+('A/mallard/New Jersey/Sg-00893/2008', 'A/mallard/Alberta/121/2008')
 
 A/white-rumped sandpiper/Canada/2541/2011
-('A/mallard/Wisconsin/08OS2844/2008', 'A/mallard/Wisconsin/4218/2009')
+('A/mallard/Wisconsin/4218/2009', 'A/mallard/Wisconsin/08OS2844/2008')
 
 A/green-winged teal/California/11275/2008
 ('A/green winged teal/California/AKS1370/2008', 'A/northern shoveler/California/9781/2008')
@@ -1447,58 +1269,59 @@ A/gadwall/Illinois/3860/2009
 ('A/mallard/California/6695/2009', 'A/blue-winged teal/North Dakota/Sg-00735/2008')
 
 A/blue-winged Teal/Minnesota/AI09-3786/2009
-('A/blue-winged Teal/Minnesota/AI09-3575/2009', 'A/northern shoveler/Mississippi/09OS168/2009')
+('A/northern shoveler/Mississippi/09OS168/2009', 'A/blue-winged Teal/Minnesota/AI09-3575/2009')
 
 A/American green-winged teal/Wisconsin/11OS3432/2011
-('A/mallard/Ohio/11OS1961/2011', 'A/blue-winged teal/Missouri/10MO021/2010')
+('A/mallard/Wisconsin/11OS3407/2011', 'A/mallard/Ohio/11OS1961/2011')
 
 A/white-fronted goose/Texas/AI09-6225/2009
-('A/northern pintail/Minnesota/AI09-3254/2009', 'A/gadwall/Illinois/3860/2009')
+('A/blue-winged teal/Minnesota/Sg-01026/2008', 'A/mallard/California/6744/2009')
 
 A/ruddy turnstone/New Jersey/Sg-00567/2008
 ('A/ruddy turnstone/New Jersey/Sg-00519/2008', 'A/ruddy turnstone/New Jersey/Sg-00557/2008')
 
-A/American black duck/New Brunswick/00971/2010
-('A/American black duck/New Brunswick/00991/2010', 'A/American black duck/New Brunswick/00924/2010')
-('A/American black duck/New Brunswick/00986/2010', 'A/American black duck/New Brunswick/00924/2010')
+A/mallard/Ohio/11OS2073/2011
+('A/mallard/Iowa/10OS2721/2010', 'A/mallard/Ohio/11OS1991/2011')
+
+A/blue-winged teal/Guatemala/CIP049-08/2010
+('A/blue-winged teal/Guatemala/CIP049-03/2009', 'A/blue-winged teal/Guatemala/CIP049-09/2010')
+('A/blue-winged teal/Guatemala/CIP049-10/2009', 'A/blue-winged teal/Guatemala/CIP049-09/2010')
+('A/blue-winged teal/Guatemala/CIP049-11/2009', 'A/blue-winged teal/Guatemala/CIP049-09/2010')
 
 A/American green-winged teal/Mississippi/300/2010
-('A/mallard/Iowa/3193/2009', 'A/northern shoveler/Arkansas/AI09-6012/2009')
 
 A/mallard/Illinois/11OS5576/2011
-('A/mallard/California/1390/2010', 'A/northern pintail/Illinois/11OS4796/2011')
+('A/northern pintail/Illinois/11OS4796/2011', 'A/mallard/Wisconsin/11OS4115/2011')
 
 A/northern shoveler/Interior Alaska/8BM3470/2008
 
 A/mallard/Wisconsin/10OS3067/2010
-('A/mallard/Wisconsin/10OS3051/2010', 'A/blue-winged teal/North Dakota/Sg-00759/2008')
+('A/mallard/Wisconsin/10OS3051/2010', 'A/American green-winged teal/Minnesota/AI09-3589/2009')
 
 A/American green-winged teal/Illinois/10OS3343/2010
-('A/mallard/Arkansas/AI09-5761/2009', 'A/mallard/Wisconsin/10OS2667/2010')
+('A/mallard/Illinois/4162/2009', 'A/blue-winged teal/Wisconsin/2572/2009')
 
 A/northern pintail/Interior Alaska/9BM11719R1/2009
-('A/mallard/Interior Alaska/9BM6886R0/2009', 'A/mallard/California/8843/2008')
+('A/American green-winged teal/Interior Alaska/9BM8129R0/2009', 'A/northern pintail/Interior Alaska/8BM2528R1/2008')
 
 A/mallard/California/6634/2008
-('A/green winged teal/California/AKS1305/2008', 'A/ruddy turnstone/New Jersey/Sg-00496/2008')
 ('A/ruddy turnstone/New Jersey/Sg-00494/2008', 'A/green winged teal/California/AKS1305/2008')
-('A/ruddy turnstone/New Jersey/Sg-00565/2008', 'A/green winged teal/California/AKS1305/2008')
+('A/ruddy turnstone/New Jersey/Sg-00496/2008', 'A/green winged teal/California/AKS1305/2008')
+('A/green winged teal/California/AKS1305/2008', 'A/ruddy turnstone/New Jersey/Sg-00565/2008')
 
 A/mallard/California/1156/2010
-('A/mallard/California/1188/2010', 'A/blue-winged teal/Wisconsin/2572/2009')
 ('A/mallard/Wisconsin/4203/2009', 'A/mallard/California/1188/2010')
-('A/mallard/California/1188/2010', 'A/blue-winged teal/New Brunswick/03756/2009')
-('A/mallard/Wisconsin/2560/2009', 'A/mallard/California/1188/2010')
+('A/blue-winged teal/Wisconsin/2572/2009', 'A/mallard/California/1188/2010')
+('A/blue-winged teal/New Brunswick/03756/2009', 'A/mallard/California/1188/2010')
 
-A/mallard/Minnesota/Sg-00768/2008
-('A/ruddy turnstone/New Jersey/Sg-00529/2008', 'A/mallard/Minnesota/Sg-00837/2008')
+A/mallard/Minnesota/AI09-4022/2009
+('A/green-winged teal/Minnesota/Sg-00820/2008', 'A/mallard/Minnesota/Sg-00949/2008')
 
-A/American wigeon/Iowa/10OS2748/2010
-('A/green-winged teal/Minnesota/Sg-01073/2008', 'A/mallard/Iowa/10OS2721/2010')
+A/mallard/New Brunswick/00992/2010
+('A/American black duck/New Brunswick/00949/2010', 'A/mallard/New Jersey/AI09-5137/2009')
 
 A/northern shoveler/Interior Alaska/9BM1447R2/2009
-('A/mallard/Interior Alaska/8MP0547/2008', 'A/northern pintail/Interior Alaska/8MP0213R2/2008')
-('A/northern pintail/Interior Alaska/8BM2046R1/2008', 'A/northern pintail/Interior Alaska/8MP0213R2/2008')
+('A/mallard/California/10064/2008', 'A/northern pintail/Interior Alaska/8BM2046R1/2008')
 
 A/American green-winged teal/Missouri/10OS4622/2010
 ('A/blue-winged teal/Guatemala/CIP049-07/2010', 'A/mallard/Minnesota/AI10-2217/2010')
@@ -1507,7 +1330,7 @@ A/northern shoveler/California/9187/2008
 ('A/northern shoveler/California/9228/2008', 'A/mallard/California/6420/2008')
 
 A/mallard/Missouri/10MO0550/2010
-('A/northern shoveler/Arkansas/AI09-6012/2009', 'A/northern shoveler/Illinois/10OS3619/2010')
+('A/northern shoveler/Missouri/196/2009', 'A/northern shoveler/Illinois/10OS3619/2010')
 
 A/ruddy turnstone/New Jersey/Sg-00529/2008
 ('A/ruddy turnstone/New Jersey/Sg-00522/2008', 'A/ruddy turnstone/Delaware/Sg-00469/2008')
@@ -1516,87 +1339,87 @@ A/green-winged teal/California/7972/2008
 ('A/mallard/California/8035/2008', 'A/mallard/Minnesota/SG-00927/2008')
 
 A/gadwall/Missouri/10MO0280/2010
-('A/mallard/Ohio/1690/2009', 'A/American green-winged teal/Wisconsin/10OS3127/2010')
+('A/American black duck/Illinois/08OS2688/2008', 'A/mallard/Ohio/10OS1470/2010')
+('A/American black duck/Illinois/08OS2688/2008', 'A/mallard/Ohio/10OS1469/2010')
 
 A/mallard/Ohio/08OS1270/2008
-('A/ruddy turnstone/New Jersey/Sg-00542/2008', 'A/ruddy turnstone/Delaware/Sg-00539/2008')
+('A/ruddy turnstone/New Jersey/Sg-00542/2008', 'A/ruddy turnstone/Delaware/Sg-00540/2008')
 
 A/blue-winged teal/Guatemala/CIP049-09/2010
 ('A/blue-winged teal/Texas/AI09-4463/2009', 'A/blue-winged teal/Guatemala/CIP049-08/2010')
 
-A/ruddy turnstone/New Jersey/AI09-119/2009
-('A/ruddy turnstone/New Jersey/AI09-256/2009', 'A/ruddy turnstone/New Jersey/AI09-710/2009')
-('A/ruddy turnstone/New Jersey/AI09-256/2009', 'A/ruddy turnstone/New Jersey/AI09-874/2009')
+A/northern shoveler/Mississippi/09OS168/2009
+('A/mallard/Minnesota/Sg-00630/2008', 'A/mallard/Minnesota/Sg-00697/2008')
 
 A/mallard/Ohio/11OS1991/2011
 ('A/mallard/Ohio/11OS1966/2011', 'A/mallard/Ohio/11OS1993/2011')
 
-A/duck/SK/4628/2010
-('A/ring-necked duck/Minnesota/Sg-01066/2008', 'A/duck/SK/4612/2010')
+A/mallard/Illinois/10OS4179/2010
+('A/mallard/Illinois/10OS4130/2010', 'A/mallard/California/1390/2010')
 
 A/mallard/Interior Alaska/9BM1870/2009
 
-A/mallard/Minnesota/AI09-2509/2009
-('A/blue-winged Teal/North Dakota/AI09-2912/2009', 'A/mallard/Minnesota/AI08-5469/2008')
+A/northern shoveler/California/4020/2011
+('A/northern shoveler/California/3046/2010', 'A/blue-winged teal/Guatemala/CIP049-05/2010')
 
 A/ruddy turnstone/New Jersey/Sg-00525/2008
 
 A/blue-winged teal/Canada/3296/2011
-('A/mallard/New Jersey/Sg-00884/2008', 'A/mallard/New Brunswick/00341/2010')
-
-A/blue-winged teal/New Brunswick/03757/2009
-('A/mallard/New Jersey/Sg-00893/2008', 'A/mallard/Alberta/121/2008')
+('A/mallard/New Jersey/Sg-00884/2008', 'A/American black duck/New Brunswick/00322/2010')
 
 A/American green-winged teal/Illinois/3054/2009
 ('A/American green-winged teal/Wisconsin/2743/2009', 'A/northern pintail/Wisconsin/2737/2009')
 
+A/mallard/Wisconsin/11OS3338/2011
+('A/mallard/Minnesota/AI10-2762/2010', 'A/northern shoveler/Illinois/10OS3619/2010')
+
 A/American green-winged teal/Wisconsin/11OS3431/2011
-('A/mallard/Wisconsin/11OS3545/2011', 'A/mallard/Ohio/11OS2156/2011')
+('A/mallard/Ohio/11OS2156/2011', 'A/mallard/Wisconsin/11OS3545/2011')
 
 A/mallard/Missouri/10MO0391/2010
-('A/mallard/Illinois/10OS3786/2010', 'A/northern pintail/Minnesota/AI09-4322/2009')
+('A/mallard/Illinois/10OS4111/2010', 'A/northern pintail/Minnesota/AI09-4322/2009')
 
 A/mallard/Illinois/11OS4121/2011
 ('A/mallard/Missouri/10MO084/2010', 'A/mallard/California/6420/2008')
 
 A/mallard/California/9573/2008
-('A/northern pintail/Interior Alaska/8BM3658/2008', 'A/mallard/Minnesota/Sg-00944/2008')
+('A/mallard/California/7766/2008', 'A/northern shoveler/Minnesota/Sg-00648/2008')
 
 A/mallard/Wisconsin/11OS3408/2011
-('A/blue-winged teal/Wisconsin/11OS2657/2011', 'A/mallard/Wisconsin/11OS3157/2011')
+('A/mallard/Wisconsin/11OS3157/2011', 'A/blue-winged teal/Wisconsin/11OS2657/2011')
 
 A/blue-winged teal/North Dakota/Sg-00759/2008
-('A/blue-winged teal/North Dakota/Sg-00750/2008', 'A/mallard/Minnesota/Sg-00804/2008')
+('A/mallard/Interior Alaska/8BM2312/2008', 'A/blue-winged teal/North Dakota/Sg-00750/2008')
 
 A/green-winged teal/California/1841/2009
-('A/mallard/Alberta/527/2008', 'A/green-winged teal/California/11275/2008')
+('A/green winged teal/California/AKS1370/2008', 'A/blue-winged teal/North Dakota/Sg-00706/2008')
 
 A/blue-winged Teal/North Dakota/AI09-3642/2009
 ('A/mallard/Minnesota/AI09-3228/2009', 'A/northern pintail/Louisiana/Sg-01033/2008')
 
 A/mallard/California/5192/2009
-('A/mallard/California/5255/2009', 'A/mallard/California/5495/2009')
+('A/green-winged teal/Minnesota/Sg-00991/2008', 'A/mallard/California/5495/2009')
 
 A/green-winged teal/California/6990/2008
-('A/mallard/Minnesota/Sg-00837/2008', 'A/mallard/California/6420/2008')
+('A/mallard/California/6420/2008', 'A/mallard/California/8843/2008')
 
 A/American black duck/Wisconsin/10OS3949/2010
-('A/mallard/Iowa/10OS2426/2010', 'A/mallard/Minnesota/AI09-1714/2009')
+('A/mallard/Minnesota/AI08-5469/2008', 'A/mallard/Minnesota/Sg-00804/2008')
 
 A/mallard/Wisconsin/11OS3491/2011
 ('A/mallard/Wisconsin/11OS3482/2011', 'A/mallard/Wisconsin/10OS3067/2010')
 
 A/mallard/Minnesota/Sg-01030/2008
-('A/mallard/Minnesota/Sg-01018/2008', 'A/ruddy turnstone/New Jersey/Sg-00498/2008')
+('A/mallard/Minnesota/Sg-00697/2008', 'A/ruddy turnstone/New Jersey/Sg-00498/2008')
 
-A/blue-winged teal/North Dakota/Sg-00733/2008
-('A/mallard/Minnesota/Sg-0617/2008', 'A/ruddy turnstone/New Jersey/Sg-00532/2008')
+A/northern shoveler/Arkansas/AI09-6012/2009
+('A/ruddy turnstone/New Jersey/AI09-1071/2009', 'A/mallard/Illinois/2956/2009')
 
 A/mallard/Minnesota/Sg-00804/2008
 ('A/mallard/Alberta/527/2008', 'A/mallard/Minnesota/Sg-00697/2008')
 
-A/gull/Delaware/AI09-435/2009
-('A/ruddy turnstone/New Jersey/AI09-294/2009', 'A/ruddy turnstone/New Jersey/Sg-00564/2008')
+A/northern pintail/Wisconsin/11OS4111/2011
+('A/American green-winged teal/Illinois/10OS3589/2010', 'A/mallard/Alberta/569/2008')
 
 A/mallard/Wisconsin/10OS2524/2010
 ('A/mallard/New Jersey/Sg-00884/2008', 'A/northern pintail/Wisconsin/2737/2009')
@@ -1605,45 +1428,46 @@ A/mallard/California/8457/2008
 ('A/mallard/California/8212/2008', 'A/American black duck/Illinois/08OS2688/2008')
 
 A/American green-winged teal/Wisconsin/10OS2955/2010
-('A/blue-winged teal/Louisiana/AI09-5234/2009', 'A/mallard/Wisconsin/10OS2672/2010')
+('A/green-winged teal/California/8326/2008', 'A/mallard/Wisconsin/10OS2672/2010')
 
-A/mallard/Minnesota/AI09-3770/2009
-('A/mallard/Minnesota/Sg-00930/2008', 'A/northern pintail/Interior Alaska/8MP0262R2/2008')
+A/ruddy turnstone/New Jersey/AI09-464/2009
+('A/ruddy turnstone/New Jersey/AI09-573/2009', 'A/shorebird/Delaware Bay/226/2009')
 
 A/American green-winged teal/Mississippi/11OS255/2011
-('A/mallard/Missouri/10MO0550/2010', 'A/northern shoveler/Missouri/10OS4632/2010')
+('A/blue-winged Teal/Minnesota/AI09-3575/2009', 'A/northern shoveler/Missouri/10OS4632/2010')
 
 A/mallard/California/5495/2009
-('A/mallard/California/5192/2009', 'A/mallard/California/5250/2009')
+('A/mallard/California/5250/2009', 'A/mallard/California/5192/2009')
 
 A/mallard/Minnesota/AI09-3353/2009
-('A/mallard/Minnesota/AI09-2518/2009', 'A/mallard/Minnesota/AI09-3302/2009')
 
 A/mallard/Iowa/10OS2492/2010
 ('A/mallard/Iowa/10OS2420/2010', 'A/American green-winged teal/Wisconsin/08OS2270/2008')
 
 A/ruddy turnstone/Canada/02937/2011
-('A/white-rumped sandpiper/Canada/2541/2011', 'A/green-winged teal/Minnesota/Sg-00991/2008')
+('A/mallard/New Brunswick/00495/2010', 'A/white-rumped sandpiper/Canada/2541/2011')
 
 A/mallard/Ohio/1688/2009
 ('A/mallard/Interior Alaska/9BM1799/2009', 'A/mallard/Minnesota/Sg-00949/2008')
 ('A/mallard/Interior Alaska/9BM1585R1/2009', 'A/mallard/Minnesota/Sg-00949/2008')
 
-A/ruddy turnstone/New Jersey/Sg-00548/2008
-('A/shorebird/Delaware Bay/586/2008', 'A/ruddy turnstone/New Jersey/Sg-00520/2008')
+A/northern pintail/Illinois/11OS4764/2011
+('A/ring-necked duck/New Brunswick/03449/2009', 'A/northern pintail/Wisconsin/11OS4111/2011')
 
-A/lesser scaup/Wisconsin/3964/2009
-('A/blue-winged Teal/North Dakota/AI09-3760/2009', 'A/mallard/Minnesota/AI09-1851/2009')
-('A/mallard/Minnesota/AI09-1851/2009', 'A/blue-winged teal/North Dakota/AI09-3760/2009')
+A/mallard/California/6695/2009
+('A/mallard/Interior Alaska/9BM10370R0/2009', 'A/mallard/California/8293/2008')
+('A/northern pintail/Interior Alaska/9BM6205R0/2009', 'A/mallard/California/8293/2008')
+('A/mallard/Interior Alaska/9BM10369R0/2009', 'A/mallard/California/8293/2008')
+('A/American green-winged teal/Interior Alaska/9BM6428R0/2009', 'A/mallard/California/8293/2008')
 
-A/mallard/Minnesota/Sg-00837/2008
-('A/mallard/Interior Alaska/8BM2102/2008', 'A/mallard/North Dakota/Sg-00737/2008')
+A/mallard/Minnesota/Sg-01034/2008
+('A/mallard/Minnesota/Sg-00616/2008', 'A/ruddy turnstone/New Jersey/Sg-00567/2008')
+
+A/American black duck/New Brunswick/00971/2010
+('A/American black duck/New Brunswick/00949/2010', 'A/American black duck/New Brunswick/00924/2010')
 
 A/mallard/Minnesota/Sg-00630/2008
-('A/ruddy turnstone/New Jersey/Sg-00490/2008', 'A/northern shoveler/Minnesota/Sg-00648/2008')
-
-A/northern shoveler/Interior Alaska/9BM12350R0/2009
-('A/northern pintail/Interior Alaska/8BM3731/2008', 'A/northern pintail/Interior Alaska/9BM8109R0/2009')
+('A/ruddy turnstone/New Jersey/Sg-00526/2008', 'A/mallard/Minnesota/Sg-00620/2008')
 
 A/northern pintail/Interior Alaska/10BM06704R0/2010
 ('A/American green-winged teal/Interior Alaska/10BM07573R0/2010', 'A/northern pintail/Interior Alaska/10BM04668R0/2010')
@@ -1652,140 +1476,135 @@ A/ruddy turnstone/New Jersey/AI09-1352/2009
 ('A/ruddy turnstone/New Jersey/AI09-342/2009', 'A/ruddy turnstone/New Jersey/AI09-474/2009')
 
 A/mallard/Illinois/3747/2009
-('A/mallard/Alberta/496/2008', 'A/mallard/California/8212/2008')
+('A/mallard/Minnesota/AI09-1678/2009', 'A/green-winged teal/California/7972/2008')
 
 A/blue-winged teal/Iowa/10OS2639/2010
-('A/blue-winged teal/Missouri/10MO021/2010', 'A/blue-winged teal/Missouri/10MO0011/2010')
+('A/blue-winged teal/Missouri/10MO0011/2010', 'A/blue-winged teal/Missouri/10MO021/2010')
 
 A/ruddy turnstone/New Jersey/Sg-00564/2008
 ('A/ruddy turnstone/New Jersey/Sg-00500/2008', 'A/ruddy turnstone/New Jersey/Sg-00561/2008')
 ('A/ruddy turnstone/New Jersey/Sg-00484/2008', 'A/ruddy turnstone/New Jersey/Sg-00561/2008')
 
 A/mallard/Wisconsin/11OS3192/2011
-('A/mallard/Iowa/10OS2721/2010', 'A/mallard/Ohio/11OS1992/2011')
+('A/mallard/Ohio/11OS1992/2011', 'A/mallard/Iowa/10OS2721/2010')
 
-A/American green-winged teal/Mississippi/11OS98/2011
-('A/mallard/Minnesota/Sg-01035/2008', 'A/American green-winged teal/Wisconsin/10OS3127/2010')
+A/mallard/Iowa/10OS2426/2010
+('A/mallard/Wisconsin/3165/2009', 'A/blue-winged teal/Louisiana/AI09-5159/2009')
 
-A/mallard/Minnesota/Sg-00949/2008
-('A/mallard/Minnesota/Sg-00768/2008', 'A/mallard/Minnesota/Sg-00868/2008')
-
-A/northern pintail/Interior Alaska/10CH00003R0/2010
-('A/mallard/Minnesota/Sg-00931/2008', 'A/mallard/Interior Alaska/10CH00021R0/2010')
+A/northern pintail/Wisconsin/11OS3299/2011
+('A/mallard/Illinois/08OS2315/2008', 'A/mallard/Wisconsin/10OS2909/2010')
 
 A/gadwall/Wisconsin/08OS2296/2008
-('A/green-winged teal/California/7972/2008', 'A/blue-winged teal/Minnesota/Sg-00787/2008')
+('A/mallard/North Dakota/Sg-00737/2008', 'A/mallard/New Jersey/Sg-00884/2008')
 
 A/mallard/Minnesota/Sg-00944/2008
 ('A/green-winged teal/Minnesota/Sg-01000/2008', 'A/green winged teal/California/AKS1305/2008')
 
 A/northern shoveler/Minnesota/Sg-00648/2008
 
-A/ruddy turnstone/Delaware/AI09-960/2009
-('A/ruddy turnstone/New Jersey/AI09-525/2009', 'A/ruddy turnstone/New Jersey/AI09-587/2009')
+A/mallard/Mississippi/413/2010
+('A/mallard/Minnesota/AI09-1678/2009', 'A/northern pintail/California/6495/2008')
+('A/mallard/Minnesota/AI09-1684/2009', 'A/northern pintail/California/6495/2008')
 
 A/mallard/Interior Alaska/10BM06458R0/2010
 ('A/mallard/Interior Alaska/9BM8474R0/2009', 'A/mallard/Interior Alaska/10BM06461R0/2010')
+('A/mallard/Interior Alaska/10BM07777R0/2010', 'A/northern pintail/Interior Alaska/9BM8464R0/2009')
+('A/mallard/Interior Alaska/10BM06456R0/2010', 'A/northern pintail/Interior Alaska/9BM10146R0/2009')
 ('A/northern pintail/Interior Alaska/9BM9973R0/2009', 'A/mallard/Interior Alaska/10BM06454R0/2010')
 ('A/mallard/Interior Alaska/9BM9755R0/2009', 'A/mallard/Interior Alaska/10BM07777R0/2010')
 ('A/mallard/Interior Alaska/9BM8474R0/2009', 'A/mallard/Interior Alaska/10BM06452R0/2010')
-('A/mallard/Interior Alaska/10BM06461R0/2010', 'A/mallard/Interior Alaska/9BM8465R0/2009')
-('A/northern pintail/Interior Alaska/9BM10146R0/2009', 'A/mallard/Interior Alaska/10BM06450R0/2010')
-('A/mallard/Interior Alaska/10BM06448R0/2010', 'A/northern pintail/Interior Alaska/9BM8448R0/2009')
-('A/northern pintail/Interior Alaska/9BM8448R0/2009', 'A/mallard/Interior Alaska/10BM06452R0/2010')
-('A/mallard/Interior Alaska/9BM9755R0/2009', 'A/mallard/Interior Alaska/10BM06448R0/2010')
-('A/northern pintail/Interior Alaska/9BM9973R0/2009', 'A/mallard/Interior Alaska/10BM06452R0/2010')
-('A/northern pintail/Interior Alaska/9BM10525R2/2009', 'A/mallard/Interior Alaska/10BM06450R0/2010')
-('A/mallard/Interior Alaska/9BM9755R0/2009', 'A/mallard/Interior Alaska/10BM06456R0/2010')
-('A/mallard/Interior Alaska/10BM07777R0/2010', 'A/mallard/Interior Alaska/9BM8465R0/2009')
-('A/mallard/Interior Alaska/9BM8474R0/2009', 'A/mallard/Interior Alaska/10BM07777R0/2010')
-('A/mallard/Interior Alaska/10BM06461R0/2010', 'A/northern pintail/Interior Alaska/9BM8502R0/2009')
-('A/mallard/Interior Alaska/9BM9755R0/2009', 'A/mallard/Interior Alaska/10BM06461R0/2010')
-('A/northern pintail/Interior Alaska/9BM9973R0/2009', 'A/mallard/Interior Alaska/10BM07777R0/2010')
-('A/northern pintail/Interior Alaska/9BM10525R2/2009', 'A/mallard/Interior Alaska/10BM06452R0/2010')
-('A/northern pintail/Interior Alaska/9BM10146R0/2009', 'A/mallard/Interior Alaska/10BM06461R0/2010')
-('A/mallard/Interior Alaska/10BM06448R0/2010', 'A/northern pintail/Interior Alaska/9BM8459R0/2009')
-('A/mallard/Interior Alaska/10BM06454R0/2010', 'A/northern pintail/Interior Alaska/9BM8502R0/2009')
-('A/mallard/Interior Alaska/10BM06456R0/2010', 'A/northern pintail/Interior Alaska/9BM10146R0/2009')
-('A/northern pintail/Interior Alaska/9BM10146R0/2009', 'A/mallard/Interior Alaska/10BM07777R0/2010')
-('A/northern pintail/Interior Alaska/9BM11325R0/2009', 'A/mallard/Interior Alaska/10BM06450R0/2010')
-('A/mallard/Interior Alaska/10BM06456R0/2010', 'A/northern pintail/Interior Alaska/9BM10525R2/2009')
-('A/northern pintail/Interior Alaska/9BM8464R0/2009', 'A/mallard/Interior Alaska/10BM06461R0/2010')
-('A/northern pintail/Interior Alaska/9BM11325R0/2009', 'A/mallard/Interior Alaska/10BM07777R0/2010')
-('A/mallard/Interior Alaska/9BM9755R0/2009', 'A/mallard/Interior Alaska/10BM06450R0/2010')
-('A/mallard/Interior Alaska/10BM06448R0/2010', 'A/northern pintail/Interior Alaska/9BM10525R2/2009')
-('A/mallard/Interior Alaska/10BM06448R0/2010', 'A/northern pintail/Interior Alaska/9BM10146R0/2009')
-('A/northern pintail/Interior Alaska/9BM8459R0/2009', 'A/mallard/Interior Alaska/10BM06452R0/2010')
-('A/northern pintail/Interior Alaska/9BM10525R2/2009', 'A/mallard/Interior Alaska/10BM06454R0/2010')
-('A/mallard/Interior Alaska/10BM06452R0/2010', 'A/northern pintail/Interior Alaska/9BM8502R0/2009')
-('A/mallard/Interior Alaska/10BM06456R0/2010', 'A/northern pintail/Interior Alaska/9BM8502R0/2009')
-('A/northern pintail/Interior Alaska/9BM10525R2/2009', 'A/mallard/Interior Alaska/10BM07777R0/2010')
-('A/mallard/Interior Alaska/10BM06448R0/2010', 'A/mallard/Interior Alaska/9BM8465R0/2009')
-('A/mallard/Interior Alaska/10BM06448R0/2010', 'A/northern pintail/Interior Alaska/9BM8464R0/2009')
-('A/northern pintail/Interior Alaska/9BM8448R0/2009', 'A/mallard/Interior Alaska/10BM06454R0/2010')
-('A/northern pintail/Interior Alaska/9BM8459R0/2009', 'A/mallard/Interior Alaska/10BM07777R0/2010')
-('A/northern pintail/Interior Alaska/9BM8448R0/2009', 'A/mallard/Interior Alaska/10BM07777R0/2010')
-('A/northern pintail/Interior Alaska/9BM9973R0/2009', 'A/mallard/Interior Alaska/10BM06450R0/2010')
-('A/mallard/Interior Alaska/9BM8474R0/2009', 'A/mallard/Interior Alaska/10BM06448R0/2010')
+('A/mallard/Interior Alaska/9BM8474R0/2009', 'A/mallard/Interior Alaska/10BM06450R0/2010')
 ('A/mallard/Interior Alaska/10BM06454R0/2010', 'A/mallard/Interior Alaska/9BM8465R0/2009')
-('A/northern pintail/Interior Alaska/9BM8464R0/2009', 'A/mallard/Interior Alaska/10BM06450R0/2010')
+('A/northern pintail/Interior Alaska/9BM10146R0/2009', 'A/mallard/Interior Alaska/10BM07777R0/2010')
+('A/northern pintail/Interior Alaska/9BM10146R0/2009', 'A/mallard/Interior Alaska/10BM06450R0/2010')
+('A/mallard/Interior Alaska/10BM06461R0/2010', 'A/northern pintail/Interior Alaska/9BM8464R0/2009')
+('A/mallard/Interior Alaska/10BM06456R0/2010', 'A/northern pintail/Interior Alaska/9BM8464R0/2009')
 ('A/mallard/Interior Alaska/9BM9755R0/2009', 'A/mallard/Interior Alaska/10BM06452R0/2010')
+('A/northern pintail/Interior Alaska/9BM11325R0/2009', 'A/mallard/Interior Alaska/10BM06450R0/2010')
+('A/northern pintail/Interior Alaska/9BM9973R0/2009', 'A/mallard/Interior Alaska/10BM06448R0/2010')
+('A/mallard/Interior Alaska/10BM06456R0/2010', 'A/northern pintail/Interior Alaska/9BM10525R2/2009')
+('A/mallard/Interior Alaska/10BM06452R0/2010', 'A/northern pintail/Interior Alaska/9BM8464R0/2009')
+('A/northern pintail/Interior Alaska/9BM10525R2/2009', 'A/mallard/Interior Alaska/10BM07777R0/2010')
 ('A/mallard/Interior Alaska/10BM06450R0/2010', 'A/northern pintail/Interior Alaska/9BM8502R0/2009')
 ('A/northern pintail/Interior Alaska/9BM10146R0/2009', 'A/mallard/Interior Alaska/10BM06452R0/2010')
-('A/mallard/Interior Alaska/10BM06448R0/2010', 'A/northern pintail/Interior Alaska/9BM9973R0/2009')
-('A/mallard/Interior Alaska/10BM06450R0/2010', 'A/mallard/Interior Alaska/9BM8465R0/2009')
-('A/mallard/Interior Alaska/10BM06448R0/2010', 'A/northern pintail/Interior Alaska/9BM8502R0/2009')
-('A/mallard/Interior Alaska/10BM06456R0/2010', 'A/mallard/Interior Alaska/9BM8465R0/2009')
-('A/mallard/Interior Alaska/10BM07777R0/2010', 'A/northern pintail/Interior Alaska/9BM8502R0/2009')
-('A/northern pintail/Interior Alaska/9BM9973R0/2009', 'A/mallard/Interior Alaska/10BM06461R0/2010')
-('A/northern pintail/Interior Alaska/9BM11325R0/2009', 'A/mallard/Interior Alaska/10BM06452R0/2010')
-('A/mallard/Interior Alaska/10BM06452R0/2010', 'A/mallard/Interior Alaska/9BM8465R0/2009')
-('A/mallard/Interior Alaska/9BM9755R0/2009', 'A/mallard/Interior Alaska/10BM06454R0/2010')
-('A/northern pintail/Interior Alaska/9BM10525R2/2009', 'A/mallard/Interior Alaska/10BM06461R0/2010')
-('A/northern pintail/Interior Alaska/9BM8448R0/2009', 'A/mallard/Interior Alaska/10BM06450R0/2010')
-('A/mallard/Interior Alaska/9BM8474R0/2009', 'A/mallard/Interior Alaska/10BM06450R0/2010')
-('A/northern pintail/Interior Alaska/9BM10146R0/2009', 'A/mallard/Interior Alaska/10BM06454R0/2010')
-('A/mallard/Interior Alaska/10BM06456R0/2010', 'A/northern pintail/Interior Alaska/9BM8464R0/2009')
+('A/mallard/Interior Alaska/9BM9755R0/2009', 'A/mallard/Interior Alaska/10BM06448R0/2010')
+('A/northern pintail/Interior Alaska/9BM11325R0/2009', 'A/mallard/Interior Alaska/10BM07777R0/2010')
 ('A/northern pintail/Interior Alaska/9BM11325R0/2009', 'A/mallard/Interior Alaska/10BM06461R0/2010')
+('A/mallard/Interior Alaska/9BM9755R0/2009', 'A/mallard/Interior Alaska/10BM06450R0/2010')
+('A/northern pintail/Interior Alaska/9BM8448R0/2009', 'A/mallard/Interior Alaska/10BM06454R0/2010')
+('A/northern pintail/Interior Alaska/9BM8459R0/2009', 'A/mallard/Interior Alaska/10BM06452R0/2010')
+('A/northern pintail/Interior Alaska/9BM10525R2/2009', 'A/mallard/Interior Alaska/10BM06454R0/2010')
+('A/northern pintail/Interior Alaska/9BM9973R0/2009', 'A/mallard/Interior Alaska/10BM06452R0/2010')
 ('A/northern pintail/Interior Alaska/9BM11325R0/2009', 'A/mallard/Interior Alaska/10BM06456R0/2010')
+('A/mallard/Interior Alaska/9BM9755R0/2009', 'A/mallard/Interior Alaska/10BM06456R0/2010')
 ('A/northern pintail/Interior Alaska/9BM8459R0/2009', 'A/mallard/Interior Alaska/10BM06461R0/2010')
 ('A/northern pintail/Interior Alaska/9BM11325R0/2009', 'A/mallard/Interior Alaska/10BM06454R0/2010')
-('A/northern pintail/Interior Alaska/9BM8464R0/2009', 'A/mallard/Interior Alaska/10BM06452R0/2010')
-('A/mallard/Interior Alaska/10BM06448R0/2010', 'A/northern pintail/Interior Alaska/9BM11325R0/2009')
+('A/mallard/Interior Alaska/10BM06456R0/2010', 'A/mallard/Interior Alaska/9BM8465R0/2009')
+('A/northern pintail/Interior Alaska/9BM10146R0/2009', 'A/mallard/Interior Alaska/10BM06454R0/2010')
+('A/mallard/Interior Alaska/10BM06454R0/2010', 'A/northern pintail/Interior Alaska/9BM8464R0/2009')
+('A/northern pintail/Interior Alaska/9BM8502R0/2009', 'A/mallard/Interior Alaska/10BM06448R0/2010')
+('A/mallard/Interior Alaska/10BM06456R0/2010', 'A/northern pintail/Interior Alaska/9BM8502R0/2009')
+('A/mallard/Interior Alaska/10BM07777R0/2010', 'A/northern pintail/Interior Alaska/9BM8502R0/2009')
+('A/mallard/Interior Alaska/9BM8474R0/2009', 'A/mallard/Interior Alaska/10BM07777R0/2010')
 ('A/northern pintail/Interior Alaska/9BM8448R0/2009', 'A/mallard/Interior Alaska/10BM06461R0/2010')
 ('A/mallard/Interior Alaska/9BM8474R0/2009', 'A/mallard/Interior Alaska/10BM06456R0/2010')
+('A/mallard/Interior Alaska/10BM06461R0/2010', 'A/northern pintail/Interior Alaska/9BM8502R0/2009')
 ('A/northern pintail/Interior Alaska/9BM8459R0/2009', 'A/mallard/Interior Alaska/10BM06454R0/2010')
+('A/mallard/Interior Alaska/10BM06448R0/2010', 'A/mallard/Interior Alaska/9BM8465R0/2009')
+('A/mallard/Interior Alaska/10BM06450R0/2010', 'A/northern pintail/Interior Alaska/9BM8464R0/2009')
+('A/mallard/Interior Alaska/10BM06448R0/2010', 'A/northern pintail/Interior Alaska/9BM8464R0/2009')
+('A/mallard/Interior Alaska/9BM9755R0/2009', 'A/mallard/Interior Alaska/10BM06461R0/2010')
+('A/mallard/Interior Alaska/10BM07777R0/2010', 'A/mallard/Interior Alaska/9BM8465R0/2009')
+('A/northern pintail/Interior Alaska/9BM8448R0/2009', 'A/mallard/Interior Alaska/10BM06452R0/2010')
+('A/northern pintail/Interior Alaska/9BM11325R0/2009', 'A/mallard/Interior Alaska/10BM06448R0/2010')
+('A/mallard/Interior Alaska/10BM06450R0/2010', 'A/mallard/Interior Alaska/9BM8465R0/2009')
+('A/northern pintail/Interior Alaska/9BM10525R2/2009', 'A/mallard/Interior Alaska/10BM06450R0/2010')
 ('A/northern pintail/Interior Alaska/9BM9973R0/2009', 'A/mallard/Interior Alaska/10BM06456R0/2010')
+('A/northern pintail/Interior Alaska/9BM8448R0/2009', 'A/mallard/Interior Alaska/10BM06450R0/2010')
+('A/northern pintail/Interior Alaska/9BM10146R0/2009', 'A/mallard/Interior Alaska/10BM06448R0/2010')
+('A/northern pintail/Interior Alaska/9BM9973R0/2009', 'A/mallard/Interior Alaska/10BM06461R0/2010')
+('A/northern pintail/Interior Alaska/9BM8459R0/2009', 'A/mallard/Interior Alaska/10BM07777R0/2010')
+('A/northern pintail/Interior Alaska/9BM9973R0/2009', 'A/mallard/Interior Alaska/10BM07777R0/2010')
 ('A/mallard/Interior Alaska/9BM8474R0/2009', 'A/mallard/Interior Alaska/10BM06454R0/2010')
+('A/northern pintail/Interior Alaska/9BM10525R2/2009', 'A/mallard/Interior Alaska/10BM06452R0/2010')
+('A/northern pintail/Interior Alaska/9BM11325R0/2009', 'A/mallard/Interior Alaska/10BM06452R0/2010')
+('A/northern pintail/Interior Alaska/9BM10146R0/2009', 'A/mallard/Interior Alaska/10BM06461R0/2010')
+('A/mallard/Interior Alaska/10BM06461R0/2010', 'A/mallard/Interior Alaska/9BM8465R0/2009')
+('A/northern pintail/Interior Alaska/9BM8448R0/2009', 'A/mallard/Interior Alaska/10BM07777R0/2010')
+('A/mallard/Interior Alaska/10BM06452R0/2010', 'A/mallard/Interior Alaska/9BM8465R0/2009')
+('A/mallard/Interior Alaska/9BM9755R0/2009', 'A/mallard/Interior Alaska/10BM06454R0/2010')
+('A/northern pintail/Interior Alaska/9BM8459R0/2009', 'A/mallard/Interior Alaska/10BM06448R0/2010')
 ('A/mallard/Interior Alaska/10BM06456R0/2010', 'A/northern pintail/Interior Alaska/9BM8448R0/2009')
-('A/northern pintail/Interior Alaska/9BM8464R0/2009', 'A/mallard/Interior Alaska/10BM06454R0/2010')
+('A/northern pintail/Interior Alaska/9BM8448R0/2009', 'A/mallard/Interior Alaska/10BM06448R0/2010')
+('A/northern pintail/Interior Alaska/9BM9973R0/2009', 'A/mallard/Interior Alaska/10BM06450R0/2010')
+('A/mallard/Interior Alaska/10BM06454R0/2010', 'A/northern pintail/Interior Alaska/9BM8502R0/2009')
+('A/mallard/Interior Alaska/10BM06452R0/2010', 'A/northern pintail/Interior Alaska/9BM8502R0/2009')
+('A/northern pintail/Interior Alaska/9BM10525R2/2009', 'A/mallard/Interior Alaska/10BM06461R0/2010')
+('A/mallard/Interior Alaska/9BM8474R0/2009', 'A/mallard/Interior Alaska/10BM06448R0/2010')
 ('A/northern pintail/Interior Alaska/9BM8459R0/2009', 'A/mallard/Interior Alaska/10BM06450R0/2010')
-('A/northern pintail/Interior Alaska/9BM8464R0/2009', 'A/mallard/Interior Alaska/10BM07777R0/2010')
 ('A/northern pintail/Interior Alaska/9BM8459R0/2009', 'A/mallard/Interior Alaska/10BM06456R0/2010')
+('A/northern pintail/Interior Alaska/9BM10525R2/2009', 'A/mallard/Interior Alaska/10BM06448R0/2010')
 
 A/ruddy turnstone/Delaware/Sg-00473/2008
-('A/shorebird/Delaware Bay/483/2008', 'A/shorebird/Delaware Bay/497/2008')
-('A/ruddy turnstone/New Jersey/Sg-00507/2008', 'A/shorebird/Delaware Bay/483/2008')
-('A/ruddy turnstone/New Jersey/Sg-00471/2008', 'A/shorebird/Delaware Bay/497/2008')
-('A/ruddy turnstone/New Jersey/Sg-00507/2008', 'A/ruddy turnstone/New Jersey/Sg-00471/2008')
+('A/ruddy turnstone/New Jersey/Sg-00507/2008', 'A/ruddy turnstone/New Jersey/Sg-00551/2008')
+('A/ruddy turnstone/New Jersey/Sg-00551/2008', 'A/shorebird/Delaware Bay/497/2008')
 
-A/mallard/New Brunswick/00992/2010
-('A/mallard/New Jersey/AI09-5137/2009', 'A/American black duck/New Brunswick/00991/2010')
+A/American wigeon/Iowa/10OS2748/2010
+('A/blue-winged teal/Louisiana/AI09-5234/2009', 'A/mallard/Missouri/132/2009')
 
-A/ruddy turnstone/Delaware/Sg-00539/2008
-('A/shorebird/Delaware Bay/446/2008', 'A/ruddy turnstone/Delaware/Sg-00540/2008')
+A/mallard/Minnesota/Sg-00868/2008
+('A/mallard/Minnesota/Sg-00804/2008', 'A/mallard/Minnesota/Sg-00616/2008')
 
 A/blue-winged teal/Illinois/10OS2988/2010
-('A/green-winged teal/Minnesota/Sg-00820/2008', 'A/blue-winged teal/Illinois/10OS1561/2010')
-('A/green-winged teal/Minnesota/Sg-00820/2008', 'A/blue-winged teal/Illinois/10OS1563/2010')
+('A/blue-winged teal/Illinois/10OS1546/2010', 'A/northern pintail/Interior Alaska/8BM3658/2008')
 
 A/ruddy turnstone/Delaware/AI09-666/2009
-('A/ruddy turnstone/New Jersey/AI09-377/2009', 'A/ruddy turnstone/New Jersey/AI09-1292/2009')
+('A/shorebird/Delaware Bay/329/2008', 'A/shorebird/Delaware Bay/230/2009')
 
 A/shorebird/Delaware/274/2009
 ('A/shorebird/Delaware/318/2009', 'A/shorebird/Delaware Bay/107/2009')
+('A/shorebird/Delaware Bay/281/2009', 'A/shorebird/Delaware/318/2009')
 ('A/shorebird/Delaware/318/2009', 'A/shorebird/Delaware Bay/343/2009')
-('A/shorebird/Delaware/318/2009', 'A/shorebird/Delaware Bay/281/2009')
 
 A/mallard/Illinois/10OS3659/2010
 ('A/American green-winged teal/Illinois/10OS3662/2010', 'A/mallard/Iowa/10OS2721/2010')
@@ -1796,26 +1615,22 @@ A/northern pintail/Louisiana/Sg-01033/2008
 A/long-tailed duck/Wisconsin/10OS4225/2010
 
 A/northern pintail/Interior Alaska/8BM2528R1/2008
-('A/northern shoveler/Minnesota/Sg-00645/2008', 'A/mallard/Interior Alaska/8BM2967/2008')
-('A/northern shoveler/Minnesota/Sg-00645/2008', 'A/northern pintail/Interior Alaska/8BM1995R1/2008')
 
 A/northern pintail/Interior Alaska/10BM02539R0/2010
-('A/northern shoveler/California/HKWF2031/2008', 'A/mallard/Ohio/2031/2009')
+('A/northern pintail/Interior Alaska/8MP0262R2/2008', 'A/mallard/Wisconsin/2575/2009')
 
-A/mallard/New Jersey/AI09-5137/2009
-('A/mallard/New Jersey/AI09-5086/2009', 'A/mallard/New Jersey/AI09-6426/2009')
-('A/mallard/New Jersey/AI09-5086/2009', 'A/mallard/New Jersey/AI09-5122/2009')
-('A/mallard/New Jersey/AI09-5086/2009', 'A/mallard/New Jersey/AI09-5361/2009')
+A/mallard/Minnesota/Sg-00949/2008
+('A/mallard/Minnesota/Sg-00868/2008', 'A/mallard/Minnesota/Sg-00768/2008')
 
-A/mallard/Wisconsin/10OS3066/2010
-('A/American green-winged teal/Wisconsin/10OS2767/2010', 'A/American green-winged teal/Wisconsin/10OS2955/2010')
+A/American green-winged teal/Mississippi/11OS98/2011
+('A/northern shoveler/Wisconsin/2508/2009', 'A/American green-winged teal/Wisconsin/10OS2955/2010')
 
-A/northern pintail/Interior Alaska/10BM02549R0/2010
-('A/northern shoveler/Interior Alaska/10BM02593R0/2010', 'A/mallard/Wisconsin/2576/2009')
+A/northern shoveler/Interior Alaska/9BM12350R0/2009
+('A/mallard/Interior Alaska/9BM8389R0/2009', 'A/northern pintail/Interior Alaska/8BM2528R1/2008')
 
 A/mallard/California/7766/2008
-('A/northern pintail/Interior Alaska/8BM3608/2008', 'A/mallard/Minnesota/Sg-00949/2008')
+('A/mallard/Minnesota/Sg-00949/2008', 'A/mallard/Minnesota/Sg-00931/2008')
 
-A/northern shoveler/Wisconsin/2508/2009
-('A/mallard/Minnesota/AI09-4022/2009', 'A/mallard/New Jersey/Sg-00939/2008')
+A/American wigeon/Interior Alaska/9BM2501R1/2009
+('A/northern pintail/Interior Alaska/8BM3731/2008', 'A/mallard/Alberta/569/2008')
 

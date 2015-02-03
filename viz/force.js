@@ -1,6 +1,6 @@
 
 var w = 1380,
-    h = 1800,
+    h = 1000,
     padding = 40,
     fill = d3.scale.category20();
 
@@ -203,8 +203,8 @@ d3.json("force2.json", function(json) {
 
   // Create force layout
   var force = d3.layout.force()
-      .charge(-50)
-      .linkDistance(30)
+      .charge(-10)
+      .linkDistance(5)
       .nodes(json.nodes)
       .links(json.links)
       .size([w, h])
@@ -224,7 +224,7 @@ d3.json("force2.json", function(json) {
       .enter().append("svg:line")
       .style("stroke", linkcolortype)
       .attr("class", "link")
-      .style("stroke-width", 2) /**{ 
+      .style("stroke-width", 1) /**{ 
         var lowEnd = 1;
         var highEnd = 8;
         var segments = [];
@@ -254,7 +254,7 @@ d3.json("force2.json", function(json) {
       .attr("class", "node")
       .attr("cx", function(d) { return d.x; })
       .attr("cy", function(d) { return d.y; })
-      .attr("r", 7)
+      .attr("r", 3)
       .style("fill", nodecolorstates)
       .style("opacity", '1.0')
       .call(force.drag);
